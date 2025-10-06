@@ -184,36 +184,66 @@ CRITICAL ANALYSIS ORDER:
 
 STEP 1 - HAIR COLOR IDENTIFICATION (MOST IMPORTANT):
 -----------------------------------------------------
-⚠️ CRITICAL: Be VERY careful with color identification. Indoor lighting can make colors appear different than they are.
+You are a professional hair colorist. Carefully examine the hair and classify its color.
 
-COLOR FAMILIES TO IDENTIFY:
-- BLONDE SHADES: TRUE GOLDEN BLONDE, honey blonde, platinum, champagne, beach blonde
-  → Match to codes: 22F16S8, FS26/31, SS14/88, RL14/22SS, etc.
+⚠️ CRITICAL ROOTED HAIR RULES:
+1. Look at the MID-LENGTHS and ENDS to determine the primary color family - do NOT rely solely on roots
+2. Rooted blonde = STILL classify as "blonde" (darker roots are intentional styling)
+3. If 60% or more of the mid-to-end area is light/blonde → classify as "blonde"
+   If 60% or more is brown → classify as "brunette"
+4. Common rooted blonde patterns to recognize:
+   - Dark brown or medium brown roots with blonde lengths
+   - Shadow roots with light ends
+   - Dimensional blonde with lowlights
+
+⚠️ DIMENSIONAL COLORING TECHNIQUES:
+- Rooted: darker color at roots but classify by the ends
+- Highlights: lighter streaks throughout
+- Lowlights: darker strands for depth
+- Balayage: hand-painted lighter pieces
+- Ombre: gradual dark-to-light transition
+
+COLOR FAMILIES & SPECIFIC WIG COLOR EXAMPLES:
+
+🌟 BLONDE SHADES (Match to these codes):
+  Codes: 22F16S8, FS26/31, SS14/88, RL14/22SS, Venice Blonde, Platinum, Champagne
   → MUST be clearly YELLOW/GOLDEN tones, not brown or gray
+  Examples:
+  - Venice Blonde with shadow roots → "blonde" PRIMARY
+  - Platinum with dark roots → "blonde" PRIMARY
+  - Coconut (off-white, very light platinum) → "blonde" or "white" PRIMARY
 
-- BRUNETTE/BROWN SHADES: Light brown, medium brown, dark brown, chestnut, chocolate, ash brown
-  → Match to codes: R6/10, R8/29S, R6/30H, 6F27, 8/25R, R10, GL10-12, etc.
+🌰 BRUNETTE/BROWN SHADES (Match to these codes):
+  Codes: R6/10, R8/29S, R6/30H, 6F27, 8/25R, R10, GL10-12
   → Includes ASH BROWN and GRAY-BROWN tones
   → If you see ANY brown, gray, or ashy tones → This is BRUNETTE, NOT BLONDE
+  Examples:
+  - Almond Rocka (dark golden brown base with strawberry-blonde and copper highlights) → "brunette" PRIMARY
+  - Almond Spice-R (medium brown root with honey and platinum highlights) → "brunette" PRIMARY
+  - Brown Sable (dark brown with golden-brown highlights) → "brunette" PRIMARY
+  - Brown Blonde (brown hair with blonde highlights) → "brunette" PRIMARY (brown is dominant)
 
-- GRAY/SILVER SHADES: Silver, gray, white, salt-and-pepper, gray-brown mix
-  → Match to codes: R56/60, R51/59, etc.
-  → Many older adults have brown hair mixed with gray → Match to GRAY or ASH BROWN
+🔴 RED/AUBURN SHADES (Match to auburn/copper codes):
+  Examples:
+  - Burgundy (dark auburn roots with wine highlights) → "red" PRIMARY
+  - Burnt Sienna-R (medium brown roots with copper-red ends) → "red" PRIMARY (rooted)
+  - Autumn Sunrise (rich red with medium brown roots and golden copper highlights) → "red" PRIMARY
 
-- RED/AUBURN SHADES: Copper, auburn, ginger, mahogany, red-brown
-  → Match to codes with auburn/copper descriptors
+⚪ GRAY/SILVER SHADES (Match to codes: R56/60, R51/59):
+  Examples:
+  - Canyon Stone (dark brown and grey blend, salt-and-pepper) → "gray" PRIMARY
+  - Iced Silver (light grey with dark-grey lowlights) → "gray" PRIMARY
+  → Many older adults have brown mixed with gray → Match to GRAY or ASH BROWN
 
-- BLACK/DARK SHADES: Jet black, off-black, darkest brown
-  → Match to codes: R2/6, 1B, 1, 2, etc.
+⚫ BLACK/DARK SHADES (Match to codes: R2/6, 1B, 1, 2):
+  → Jet black, off-black, darkest brown
 
-COLOR ANALYSIS RULES:
-1. ⚠️ MOST IMPORTANT: If the hair has ANY brown, gray, ashy, or dark tones → It is BRUNETTE or GRAY, NEVER blonde
-2. BLONDE hair must be clearly GOLDEN/YELLOW tones - not brown, not gray, not ashy
-3. Indoor/fluorescent lighting can make brown hair appear lighter → Still brown, not blonde
-4. Gray hair mixed with brown → Match to GRAY or ASH BROWN categories
-5. Look at the hair roots AND ends to determine natural color
-6. For older adults with graying hair → Match to GRAY or GRAY-BROWN shades
-7. Focus on the TRUE color, not what lighting makes it appear to be
+🎯 CRITICAL COLOR ANALYSIS RULES:
+1. ⚠️ ROOTED BLONDE RULE: Dark roots + 60%+ blonde ends = "blonde" PRIMARY
+2. ⚠️ HIGHLIGHTED RULE: Brown base + blonde highlights = "brunette" PRIMARY (base color wins)
+3. Indoor/fluorescent lighting can make brown appear lighter → Still brown, not blonde
+4. Focus on the MID-LENGTHS and ENDS, not just the roots
+5. Identify dimensional techniques (balayage, ombre, highlights) but classify by dominant end color
 
 STEP 2 - HAIR LENGTH MEASUREMENT:
 ----------------------------------
