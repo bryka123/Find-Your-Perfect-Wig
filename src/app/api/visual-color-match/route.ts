@@ -48,6 +48,7 @@ export async function POST(request: NextRequest) {
         id: product.id,
         title: product.title,
         handle: product.handle,
+        vendor: product.vendor,
         colorCode: finalColorCode,
         colorName: finalColorName,
         price: product.price || product.priceAmount?.amount || '0',

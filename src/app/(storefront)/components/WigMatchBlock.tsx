@@ -274,7 +274,7 @@ export default function WigMatchBlock({
                       value: (match.colorName || match.colorCode || 'Unknown').toUpperCase()
                     }
                   ],
-                  vendor: match.vendor || 'CHIQUEL',
+                  vendor: (match.vendor || 'Chiquel').toUpperCase(),
                   wigAttributes: {
                     length: 'dynamic',
                     texture: 'dynamic',
