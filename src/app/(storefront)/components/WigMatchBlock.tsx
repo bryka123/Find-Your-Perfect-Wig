@@ -259,10 +259,11 @@ export default function WigMatchBlock({
                 variant: {
                   id: match.id,
                   productId: match.id,
-                  title: match.title,
+                  title: match.title.toUpperCase(), // Convert to uppercase
                   price: match.price,
                   compareAtPrice: undefined,
                   availableForSale: true,
+                  productUrl: match.handle ? `https://chiquel.com/products/${match.handle}` : null,
                   image: match.image ? {
                     url: match.image.url,
                     altText: match.image.altText || match.title
@@ -287,7 +288,7 @@ export default function WigMatchBlock({
                 score: match.matchScore,
                 reasons: match.reasons
               };
-            });
+            }).filter((match: any) => !match.variant.title.includes('(') && !match.variant.title.includes(')')); // Filter out products with brackets
             
             setMatches(convertedMatches);
             
@@ -740,6 +741,9 @@ export default function WigMatchBlock({
           transition: all 0.3s ease;
           position: relative;
           border: 2px solid transparent;
+          display: block;
+          text-decoration: none;
+          color: inherit;
         }
 
         .dark .result-card {
@@ -747,9 +751,10 @@ export default function WigMatchBlock({
         }
 
         .result-card:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-          border-color: rgba(233, 30, 99, 0.3);
+          transform: translateY(-4px) scale(1.02);
+          box-shadow: 0 12px 32px rgba(233, 30, 99, 0.25);
+          border-color: rgba(233, 30, 99, 0.5);
+          cursor: pointer;
         }
 
         .result-badge {
@@ -1351,19 +1356,18 @@ export default function WigMatchBlock({
                 const badgeText = badgeType ? getBadgeText(badgeType) : null;
                 const badgeColor = badgeType ? getBadgeColor(badgeType) : null;
                 
+                const productUrl = match.variant.productUrl || `https://chiquel.com/products/${match.variant.title.toLowerCase().replace(/\s+/g, '-')}`;
+
                 return (
-                  <div 
-                    key={match.variant.id} 
+                  <a
+                    key={match.variant.id}
+                    href={productUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="result-card"
                     role="article"
                     aria-labelledby={`result-title-${index}`}
-                    tabIndex={0}
-                    onKeyDown={(e) => {
-                      if (e.key === 'Enter' || e.key === ' ') {
-                        // Could open product details or add to cart
-                        console.log('Selected product:', match.variant.title);
-                      }
-                    }}
+                    style={{ textDecoration: 'none', color: 'inherit', cursor: 'pointer' }}
                   >
                     {badgeText && (
                       <div 
@@ -1585,7 +1589,7 @@ export default function WigMatchBlock({
                         </div>
                       )}
                     </div>
-                  </div>
+                  </a>
                 );
               })}
             </div>
