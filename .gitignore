@@ -39,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Development and archive files
+.archive/
+*.log
+dev.log
+*.csv
+*.backup.json
+*.png
+*_analysis.json
+check-openai-vector-api.js
+SorrentoSurprise*
+
+# Unused legacy directories
+assets/
+blocks/
+extensions/
+tests/
