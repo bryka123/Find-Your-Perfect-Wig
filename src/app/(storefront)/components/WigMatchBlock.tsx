@@ -271,9 +271,10 @@ export default function WigMatchBlock({
                   selectedOptions: [
                     {
                       name: 'Color',
-                      value: match.colorName || match.colorCode || 'Unknown'
+                      value: (match.colorName || match.colorCode || 'Unknown').toUpperCase()
                     }
                   ],
+                  vendor: match.vendor || 'CHIQUEL',
                   wigAttributes: {
                     length: 'dynamic',
                     texture: 'dynamic',
@@ -1476,7 +1477,21 @@ export default function WigMatchBlock({
                       <h3 id={`result-title-${index}`} className="result-title">
                         {match.variant.title}
                       </h3>
-                      
+
+                      {/* Vendor Name */}
+                      {match.variant.vendor && (
+                        <div style={{
+                          fontSize: '11px',
+                          fontWeight: '600',
+                          color: '#666',
+                          marginTop: '-0.25rem',
+                          marginBottom: '0.5rem',
+                          letterSpacing: '0.5px'
+                        }}>
+                          {match.variant.vendor}
+                        </div>
+                      )}
+
                       {/* Color Chip */}
                       <div style={{ 
                         display: 'flex', 
