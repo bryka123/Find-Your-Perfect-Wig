@@ -1,0 +1,418 @@
+
+> whatsmystyle@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.3
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.182:3000
+   - Environments: .env.local
+   - Experiments (use with caution):
+     · serverActions
+
+ ✓ Starting...
+ ✓ Ready in 1416ms
+ ○ Compiling /storefront/wig-matcher ...
+
+[2m[415.44ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[  0.03ms][22m  [2m ↳ [22mQuick bail check
+[2m[  7.23ms][22m  [2m ↳ [22mSetup compiler
+[2m[  0.41ms][22m    [2m ↳ [22mPostCSS AST -> Tailwind CSS AST
+[2m[  6.79ms][22m    [2m ↳ [22mCreate compiler
+[2m[  0.03ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[  6.03ms][22m  [2m ↳ [22mSetup scanner
+[2m[347.35ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 12.27ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 33.37ms][22m  [2m ↳ [22mBuild utilities
+[2m[  7.19ms][22m  [2m ↳ [22mTransform Tailwind CSS AST into PostCSS AST
+[2m[  1.24ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ⨯ ./src/app/(storefront)/components/WigMatchBlock.tsx
+Error:   [31mx[0m Expected ';', got ')'
+     ,-[[36;1;4m/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/src/app/(storefront)/components/WigMatchBlock.tsx[0m:289:1]
+ [2m286[0m |               },
+ [2m287[0m |               score: match.matchScore,
+ [2m288[0m |               reasons: match.reasons
+ [2m289[0m |             }));
+     : [35;1m             ^[0m
+ [2m290[0m |             
+ [2m291[0m |             setMatches(convertedMatches);
+ [2m292[0m |             
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/(storefront)/components/WigMatchBlock.tsx
+./src/app/storefront/wig-matcher/page.tsx
+
+[2m[15.09ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[ 0.01ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.11ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 7.79ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 3.82ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 1.82ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 1.14ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ⨯ ./src/app/(storefront)/components/WigMatchBlock.tsx
+Error:   [31mx[0m Expected ';', got ')'
+     ,-[[36;1;4m/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/src/app/(storefront)/components/WigMatchBlock.tsx[0m:289:1]
+ [2m286[0m |               },
+ [2m287[0m |               score: match.matchScore,
+ [2m288[0m |               reasons: match.reasons
+ [2m289[0m |             }));
+     : [35;1m             ^[0m
+ [2m290[0m |             
+ [2m291[0m |             setMatches(convertedMatches);
+ [2m292[0m |             
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/(storefront)/components/WigMatchBlock.tsx
+./src/app/storefront/wig-matcher/page.tsx
+ ⨯ ./src/app/(storefront)/components/WigMatchBlock.tsx
+Error:   [31mx[0m Expected ';', got ')'
+     ,-[[36;1;4m/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/src/app/(storefront)/components/WigMatchBlock.tsx[0m:289:1]
+ [2m286[0m |               },
+ [2m287[0m |               score: match.matchScore,
+ [2m288[0m |               reasons: match.reasons
+ [2m289[0m |             }));
+     : [35;1m             ^[0m
+ [2m290[0m |             
+ [2m291[0m |             setMatches(convertedMatches);
+ [2m292[0m |             
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/(storefront)/components/WigMatchBlock.tsx
+./src/app/storefront/wig-matcher/page.tsx
+ GET /storefront/wig-matcher 500 in 5852ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+
+[2m[17.53ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[ 0.07ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.15ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 9.60ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 3.76ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 1.98ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 1.58ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /_error in 854ms (944 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /storefront/wig-matcher 404 in 1112ms
+ GET /storefront/wig-matcher 200 in 103ms
+ ○ Compiling /api/visual-color-match ...
+ ✓ Compiled /api/visual-color-match in 641ms (1071 modules)
+🎨 Visual Color Swatch Matching API called... [v3.0 - STYLE-ONLY RANKING]
+📸 Image data length: 118223
+🔍 RANKING: Products ranked by STYLE match only (color determines variant, not rank)
+🚀 Starting Visual Color Swatch Matching...
+📊 Loaded 393 unique color swatches for matching
+🎨 Comparing user image with actual color swatches...
+🚀 Attempting GPT-5 with new responses.create API...
+⚠️ GPT-5 new API not available: 400 Invalid value: 'text'. Supported values are: 'code_interpreter_call', 'computer_call', 'computer_call_output', 'file_search_call', 'function_call', 'function_call_output', 'image_generation_call', 'item_reference', 'local_shell_call', 'local_shell_call_output', 'message', 'reasoning', and 'web_search_call'.
+🔄 Falling back to chat.completions API...
+⚠️ gpt-5 not available, trying gpt-5-turbo...
+⚠️ gpt-5-turbo not available, falling back to gpt-4o
+✅ Using model: gpt-4o (chat.completions API)
+📋 GPT RAW RESPONSE: {
+  "hairStyle": {
+    "length": "shoulder",
+    "texture": "wavy",
+    "style": "layered with side-swept bangs"
+  },
+  "colorMatches": [
+    {
+      "colorCode": "R6/30H",
+      "visualSimilarity": 0.95,
+      "reasoning": "Rich chocolate copper with warm undertones, closely matches the overall brunette shade"
+    },
+    {
+      "colorCode": "R830",
+      "visualSimilarity": 0.92,
+      "reasoning": "Ginger brown with subtle warmth, complements the natural highlights"
+    },
+    {
+      "colorCode": "R6/10",
+      "visualSimilarity": 0.90,
+      "reasoning": "Medium brown base with a balanced tone, suitable for the dominant color"
+    },
+    {
+      "colorCode": "R4/6",
+      "visualSimilarity": 0.88,
+      "reasoning": "Dark brown and chestnut blend, matches the depth of the hair color"
+    },
+    {
+      "colorCode": "R14",
+      "visualSimilarity": 0.85,
+      "reasoning": "Golden brown with dark blonde highlights, adds dimension to the color"
+    }
+  ]
+}
+👩 DETECTED HAIR STYLE: {
+  "length": "shoulder",
+  "texture": "wavy",
+  "style": "layered with side-swept bangs"
+}
+   - Length: shoulder
+   - Texture: wavy
+   - Style: layered with side-swept bangs
+  Evaluating match: R6/30H - similarity: 0.95
+  Evaluating match: R830 - similarity: 0.92
+  Evaluating match: R6/10 - similarity: 0.9
+  Evaluating match: R4/6 - similarity: 0.88
+  Evaluating match: R14 - similarity: 0.85
+✅ Color swatch matching complete:
+   1. R6/30H - R6/30H chocolate copper (95%)
+   2. R830 - R830 ginger brown (92%)
+   3. R6/10 - r6/10 medium brown (90%)
+✅ Best color match: R6/30H - R6/30H chocolate copper (95%)
+🎯 All matches: R6/30H (95%), R830 (92%), R6/10 (90%), R4/6 (88%), R14 (85%)
+🔍 Loading product catalog from: /Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/valid_image_catalog.json
+👩 Using detected hair style: {
+  length: 'shoulder',
+  texture: 'wavy',
+  style: 'layered with side-swept bangs'
+}
+📊 Loaded 2048 total products from catalog
+🎨 User hair colors detected: R6/30H (R6/30H chocolate copper), R830 (R830 ginger brown), R6/10 (r6/10 medium brown), R4/6 (R4/6 dark brown and chestnut brown blend), R14 (r14-8h golden brown dark blonde highlights on top)
+🔥 NEW APPROACH: Filter by COLOR FIRST (most critical), THEN rank by LENGTH + STYLE
+📊 Loaded 1916 enhanced + 24 basic analyses
+🎯 Using Vision-Based Analysis for 1940 products
+
+✅ STEP 1: 66 products available in exact user colors
+
+🔍 SCORING: "12 Coily Cinched Pony" - Product colorName: "R14/16T buttered toast"
+   ✅ MATCHED to: "R14" (r14-8h golden brown dark blonde highlights on top)
+   📷 VISION DATA: short curly ponytail
+   👤 USER PROFILE: shoulder wavy
+   🎯 Vision Score: 3.0%
+   Style score: 0.03
+   Color: R14 (already filtered)
+   ✨ FINAL STYLE SCORE: 0.03
+
+🔍 SCORING: "12 stretch pony heat synthetic" - Product colorName: "R14/25 HONEY GINGER"
+   ✅ MATCHED to: "R14" (r14-8h golden brown dark blonde highlights on top)
+   📷 VISION DATA: medium wavy ponytail
+   👤 USER PROFILE: shoulder wavy
+   🎯 Vision Score: 3.0%
+   Style score: 0.03
+   Color: R14 (already filtered)
+   ✨ FINAL STYLE SCORE: 0.03
+
+🔍 SCORING: "16 100% REMY HUMAN HAIR CLIP IN HAIR EXTENSIONS" - Product colorName: "R14/16T buttered toast"
+   ✅ MATCHED to: "R14" (r14-8h golden brown dark blonde highlights on top)
+   📷 VISION DATA: long straight extension
+   👤 USER PROFILE: shoulder wavy
+   🎯 Vision Score: 3.0%
+   Style score: 0.03
+   Color: R14 (already filtered)
+   ✨ FINAL STYLE SCORE: 0.03
+
+🔍 SCORING: "16 Coily Cinched Pony" - Product colorName: "R14/16T buttered toast"
+   ✅ MATCHED to: "R14" (r14-8h golden brown dark blonde highlights on top)
+   📷 VISION DATA: medium curly ponytail
+   👤 USER PROFILE: shoulder wavy
+   🎯 Vision Score: 3.0%
+   Style score: 0.03
+   Color: R14 (already filtered)
+   ✨ FINAL STYLE SCORE: 0.03
+
+🔍 SCORING: "16 CURL BACK HAIR EXTENSION HD" - Product colorName: "R830 ginger brown"
+   ✅ MATCHED to: "R830" (R830 ginger brown)
+   📷 VISION DATA: long wavy extension
+   👤 USER PROFILE: shoulder wavy
+   🎯 Vision Score: 3.0%
+   Style score: 0.03
+   Color: R830 (already filtered)
+   ✨ FINAL STYLE SCORE: 0.03
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="long"(6) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="long"(6) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="long"(6) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+
+🔍 DEBUGGING TANGO:
+   User: shoulder wavy
+   Product: short wavy full-wig
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="extra-long"(7) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="bob"(3) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="medium"(5) = diff 1
+   ➡️ LENGTH SCORE: 5.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="pixie"(1) = diff 3
+   ➡️ LENGTH SCORE: 1.0%
+   🔢 LENGTH CALC: User="shoulder"(4) vs Product="short"(2) = diff 2
+   ➡️ LENGTH SCORE: 2.0%
+
+📊 TOP PRODUCTS BY STYLE/LENGTH MATCH (already color-filtered):
+   1. Aeri - Style: 23%, Color: R4/6
+   2. Ahead of the Curve - Style: 23%, Color: R14
+   3. alexis hh - Style: 23%, Color: R14
+   4. Arlo - Style: 23%, Color: R4/6
+   5. Beguile - Style: 23%, Color: R14
+   6. Brighton - Style: 23%, Color: R6/10
+   7. Haven - Style: 23%, Color: R4/6
+   8. human hair bang - Style: 23%, Color: R14
+   9. James - Style: 23%, Color: R6/10
+   10. Jamison - Style: 23%, Color: R6/10
+
+✅ Found 66 unique products matching user's color
+📦 FINAL TOP PRODUCTS (Color → Length → Style):
+   1. Aeri - Style: 23%, Color: R4/6
+   2. Ahead of the Curve - Style: 23%, Color: R14
+   3. alexis hh - Style: 23%, Color: R14
+   4. Arlo - Style: 23%, Color: R4/6
+   5. Beguile - Style: 23%, Color: R14
+   6. Brighton - Style: 23%, Color: R6/10
+   7. Haven - Style: 23%, Color: R4/6
+   8. human hair bang - Style: 23%, Color: R14
+   9. James - Style: 23%, Color: R6/10
+   10. Jamison - Style: 23%, Color: R6/10
+📦 Found 66 matching products
+ POST /api/visual-color-match 200 in 10921ms
+ GET /storefront/wig-matcher 404 in 435ms
+ GET /storefront/wig-matcher 404 in 427ms
+ GET /storefront/wig-matcher 404 in 431ms
+ GET /storefront/wig-matcher 404 in 423ms
+ GET /storefront/wig-matcher 404 in 421ms
+ GET /storefront/wig-matcher 404 in 420ms
+ GET /storefront/wig-matcher 404 in 426ms
+ GET /storefront/wig-matcher 404 in 422ms
+ GET /storefront/wig-matcher 404 in 418ms
+ GET /storefront/wig-matcher 404 in 422ms
+[Error: ENOENT: no such file or directory, stat '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, stat '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, stat '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, stat '/Users/bryanlipovetsky/Local Sites/Chiquel/whatsmystyle/.next/cache/webpack/client-development/1.pack.gz'
+
+[2m[19.77ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[ 0.08ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.06ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 9.17ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 3.93ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 5.30ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.96ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ✓ Compiled in 326ms (954 modules)
+
+[2m[18.96ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[ 0.08ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.11ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 9.48ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 3.92ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 4.29ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.74ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ✓ Compiled in 114ms (412 modules)
+
+[2m[14.56ms][22m [@tailwindcss/postcss] src/app/globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.03ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 8.64ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 3.64ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 1.52ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.65ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+ ✓ Compiled in 71ms (412 modules)

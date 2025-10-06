@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 50,
+    "filename": "blonde_medium_classic_basic.json",
+    "generated_at": "2025-09-24T16:23:14.932Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679490797803",
+      "title": "FRENCH BRAID BAND - R14/16T buttered toast",
+      "descriptor": "medium, classic, blonde, R14/16T buttered toast",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "10.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/16T buttered toast"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-French-Braid-Band-Model-Front-1-scaled.jpg?v=1744661135",
+          "altText": "FRENCH BRAID BAND - Position 1 Front View"
+        }
+      },
+      "content": "FRENCH BRAID BAND - R14/16T buttered toast\n\nDescription: medium, classic, blonde, R14/16T buttered toast\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-French-Braid-Band-Model-Front-1-scaled.jpg?v=1744661135",
+        "altText": "FRENCH BRAID BAND - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679492403435",
+      "title": "Sassy Curl - r8/29s glazed hazelnut",
+      "descriptor": "medium, classic, curly, blonde, r8/29s glazed hazelnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r8/29s glazed hazelnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Sassy-Curl-Front.jpg?v=1709121934",
+          "altText": "Sassy Curl - Position 1 Front View"
+        }
+      },
+      "content": "Sassy Curl - r8/29s glazed hazelnut\n\nDescription: medium, classic, curly, blonde, r8/29s glazed hazelnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Sassy-Curl-Front.jpg?v=1709121934",
+        "altText": "Sassy Curl - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679498072299",
+      "title": "allure - SS25 ginger blonde rooted",
+      "descriptor": "medium, classic, wavy, blonde, SS25 ginger blonde rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS25 ginger blonde rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Allure-Model-Front3_d1d10161-fd97-4940-b240-63f7f4ec9122.jpg?v=1709121937",
+          "altText": "allure - Position 1 Front View"
+        }
+      },
+      "content": "allure - SS25 ginger blonde rooted\n\nDescription: medium, classic, wavy, blonde, SS25 ginger blonde rooted\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Allure-Model-Front3_d1d10161-fd97-4940-b240-63f7f4ec9122.jpg?v=1709121937",
+        "altText": "allure - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679500726507",
+      "title": "Perla - bernstein multi shad",
+      "descriptor": "medium, classic, curly, blonde, bernstein multi shad",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "250.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein multi shad"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at8.14.32pm.png?v=1709121939",
+          "altText": "Perla - Position 1 Front View"
+        }
+      },
+      "content": "Perla - bernstein multi shad\n\nDescription: medium, classic, curly, blonde, bernstein multi shad\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at8.14.32pm.png?v=1709121939",
+        "altText": "Perla - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46502587531499",
+      "title": "tonic - bernstein mix",
+      "descriptor": "medium, classic, blonde, bernstein mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "51.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_powerpieces_tonic_1.jpg?v=1709121948",
+          "altText": "tonic - Position 1 Front View"
+        }
+      },
+      "content": "tonic - bernstein mix\n\nDescription: medium, classic, blonde, bernstein mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_powerpieces_tonic_1.jpg?v=1709121948",
+        "altText": "tonic - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679528546539",
+      "title": "Vista - light champagne rooted",
+      "descriptor": "medium, classic, blonde, light champagne rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "258.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "light champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/vista_1_1.jpg?v=1709121984",
+          "altText": "Vista - Position 1 Front View"
+        }
+      },
+      "content": "Vista - light champagne rooted\n\nDescription: medium, classic, blonde, light champagne rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/vista_1_1.jpg?v=1709121984",
+        "altText": "Vista - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679553548523",
+      "title": "Jolie - Almond Breeze",
+      "descriptor": "medium, classic, blonde, Almond Breeze",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Jolie_20LBL_20LS.webp?v=1709122031",
+          "altText": "Jolie - Position 1 Front View"
+        }
+      },
+      "content": "Jolie - Almond Breeze\n\nDescription: medium, classic, blonde, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Jolie_20LBL_20LS.webp?v=1709122031",
+        "altText": "Jolie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679558463723",
+      "title": "change - hot chocolate mix",
+      "descriptor": "medium, classic, blonde, hot chocolate mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "250.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "hot chocolate mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/change_2.jpg?v=1744379872",
+          "altText": "change - Position 1 Front View"
+        }
+      },
+      "content": "change - hot chocolate mix\n\nDescription: medium, classic, blonde, hot chocolate mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/change_2.jpg?v=1744379872",
+        "altText": "change - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679575699691",
+      "title": "Positivity - black",
+      "descriptor": "medium, classic, wavy, blonde, black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "135.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Positivity-Model-Front-2-copy.jpg?v=1709122075",
+          "altText": "Positivity - Position 1 Front View"
+        }
+      },
+      "content": "Positivity - black\n\nDescription: medium, classic, wavy, blonde, black\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Positivity-Model-Front-2-copy.jpg?v=1709122075",
+        "altText": "Positivity - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679594377451",
+      "title": "Cheer Dance Curls - R14/88H golden wheat",
+      "descriptor": "medium, classic, curly, blonde, R14/88H golden wheat",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "40.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/88H golden wheat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/POP-Cheer-Dance-Curls-Model-How-To-3-scaled.jpg?v=1709122116",
+          "altText": "Cheer Dance Curls - Position 1 Front View"
+        }
+      },
+      "content": "Cheer Dance Curls - R14/88H golden wheat\n\nDescription: medium, classic, curly, blonde, R14/88H golden wheat\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/POP-Cheer-Dance-Curls-Model-How-To-3-scaled.jpg?v=1709122116",
+        "altText": "Cheer Dance Curls - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679625867499",
+      "title": "Courtside Waves - SS25 ginger blonde rooted",
+      "descriptor": "medium, classic, wavy, blonde, SS25 ginger blonde rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS25 ginger blonde rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-CourtsideWaves-Model-Front1.jpg?v=1709122179",
+          "altText": "Courtside Waves - Position 1 Front View"
+        }
+      },
+      "content": "Courtside Waves - SS25 ginger blonde rooted\n\nDescription: medium, classic, wavy, blonde, SS25 ginger blonde rooted\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-CourtsideWaves-Model-Front1.jpg?v=1709122179",
+        "altText": "Courtside Waves - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679658569963",
+      "title": "Halo ROP - creamy toffee",
+      "descriptor": "medium, classic, blonde, creamy toffee",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "137.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy toffee"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ROPHalo-Mochaccino2.jpg?v=1714429354",
+          "altText": "Halo ROP - Position 1 Front View"
+        }
+      },
+      "content": "Halo ROP - creamy toffee\n\nDescription: medium, classic, blonde, creamy toffee\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ROPHalo-Mochaccino2.jpg?v=1714429354",
+        "altText": "Halo ROP - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679661584619",
+      "title": "Sensation - G11 mocha mist",
+      "descriptor": "medium, classic, blonde, G11 mocha mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "151.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G11 mocha mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sens.jpg?v=1709122236",
+          "altText": "Sensation - Position 1 Front View"
+        }
+      },
+      "content": "Sensation - G11 mocha mist\n\nDescription: medium, classic, blonde, G11 mocha mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sens.jpg?v=1709122236",
+        "altText": "Sensation - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679664042219",
+      "title": "ZIZI - DARK SAND MIX",
+      "descriptor": "medium, classic, blonde, DARK SAND MIX",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "248.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "DARK SAND MIX"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/zizi_4.jpg?v=1709122241",
+          "altText": "ZIZI - Position 1 Front View"
+        }
+      },
+      "content": "ZIZI - DARK SAND MIX\n\nDescription: medium, classic, blonde, DARK SAND MIX\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/zizi_4.jpg?v=1709122241",
+        "altText": "ZIZI - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679716471019",
+      "title": "bombshell bob - R10 chestnut",
+      "descriptor": "medium, classic, wavy, blonde, R10 chestnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R10 chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0001s_0003_HD-BombshellBob-Model-Front2_525x700_8e5f82d2-59b7-4cf2-9c62-e67692765f75.jpg?v=1709122341",
+          "altText": "bombshell bob - Position 1 Front View"
+        }
+      },
+      "content": "bombshell bob - R10 chestnut\n\nDescription: medium, classic, wavy, blonde, R10 chestnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0001s_0003_HD-BombshellBob-Model-Front2_525x700_8e5f82d2-59b7-4cf2-9c62-e67692765f75.jpg?v=1709122341",
+        "altText": "bombshell bob - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679738392811",
+      "title": "Debbie - hot chocolate mix",
+      "descriptor": "medium, classic, blonde, hot chocolate mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "220.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "hot chocolate mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/debbie_2_2.jpg?v=1709122377",
+          "altText": "Debbie - Position 1 Front View"
+        }
+      },
+      "content": "Debbie - hot chocolate mix\n\nDescription: medium, classic, blonde, hot chocolate mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/debbie_2_2.jpg?v=1709122377",
+        "altText": "Debbie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679370146027",
+      "title": "Top Class - R6 dark chocolate",
+      "descriptor": "medium, classic, blonde, R6 dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "50.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R6 dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD_Top_Class_Side2.jpg?v=1709121853",
+          "altText": "Top Class - Position 1 Front View"
+        }
+      },
+      "content": "Top Class - R6 dark chocolate\n\nDescription: medium, classic, blonde, R6 dark chocolate\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD_Top_Class_Side2.jpg?v=1709121853",
+        "altText": "Top Class - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679371423979",
+      "title": "Top Tier - GL15-26 buttered toast",
+      "descriptor": "medium, classic, blonde, GL15-26 buttered toast",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "86.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL15-26 buttered toast"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egtoptie_02_lg_525x700_b1b8cb41-728e-45e7-8527-12be58bd82dc.jpg?v=1709121854",
+          "altText": "Top Tier - Position 1 Front View"
+        }
+      },
+      "content": "Top Tier - GL15-26 buttered toast\n\nDescription: medium, classic, blonde, GL15-26 buttered toast\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egtoptie_02_lg_525x700_b1b8cb41-728e-45e7-8527-12be58bd82dc.jpg?v=1709121854",
+        "altText": "Top Tier - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679383515371",
+      "title": "Fishtail Braid Headband - R14/16T buttered toast",
+      "descriptor": "medium, classic, blonde, R14/16T buttered toast",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "12.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/16T buttered toast"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/POP-Fishtail-Braid-Headband-Model-Front.jpg?v=1709121864",
+          "altText": "Fishtail Braid Headband - Position 1 Front View"
+        }
+      },
+      "content": "Fishtail Braid Headband - R14/16T buttered toast\n\nDescription: medium, classic, blonde, R14/16T buttered toast\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/POP-Fishtail-Braid-Headband-Model-Front.jpg?v=1709121864",
+        "altText": "Fishtail Braid Headband - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679392035051",
+      "title": "Ouzo - black",
+      "descriptor": "medium, classic, blonde, black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "30.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0016s_0000_ew_powerpieces_Ouzo_2.jpg?v=1709121869",
+          "altText": "Ouzo - Position 1 Front View"
+        }
+      },
+      "content": "Ouzo - black\n\nDescription: medium, classic, blonde, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0016s_0000_ew_powerpieces_Ouzo_2.jpg?v=1709121869",
+        "altText": "Ouzo - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679389511915",
+      "title": "Jessica - 27t613f toasted marshmallow",
+      "descriptor": "medium, classic, blonde, 27t613f toasted marshmallow",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "170.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27t613f toasted marshmallow"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jessica_22F16S8_Main_af54f3f5-f82e-404c-8929-fc1f9f7a729a.jpg?v=1709121868",
+          "altText": "Jessica - Position 1 Front View"
+        }
+      },
+      "content": "Jessica - 27t613f toasted marshmallow\n\nDescription: medium, classic, blonde, 27t613f toasted marshmallow\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jessica_22F16S8_Main_af54f3f5-f82e-404c-8929-fc1f9f7a729a.jpg?v=1709121868",
+        "altText": "Jessica - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679406747883",
+      "title": "storm - auburn sugar rooted",
+      "descriptor": "medium, classic, blonde, auburn sugar rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "192.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Cover-Storm-Nutmeg-F2359-scaled.jpg?v=1744966559",
+          "altText": "storm - Position 1 Front View"
+        }
+      },
+      "content": "storm - auburn sugar rooted\n\nDescription: medium, classic, blonde, auburn sugar rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Cover-Storm-Nutmeg-F2359-scaled.jpg?v=1744966559",
+        "altText": "storm - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679412220139",
+      "title": "MARIAH - 14/26 Pralines N' Cream",
+      "descriptor": "medium, classic, blonde, 14/26 Pralines N' Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "210.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/26 Pralines N' Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mariah_12FS12_Alt.jpg?v=1709121888",
+          "altText": "MARIAH - Position 1 Front View"
+        }
+      },
+      "content": "MARIAH - 14/26 Pralines N' Cream\n\nDescription: medium, classic, blonde, 14/26 Pralines N' Cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mariah_12FS12_Alt.jpg?v=1709121888",
+        "altText": "MARIAH - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679432995051",
+      "title": "hat magic 10 - 22mb poppy seed",
+      "descriptor": "medium, classic, blonde, 22mb poppy seed",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "90.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "22mb poppy seed"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/10_HatMagic_12FS8Alt.png?v=1709121902",
+          "altText": "hat magic 10 - Position 1 Front View"
+        }
+      },
+      "content": "hat magic 10 - 22mb poppy seed\n\nDescription: medium, classic, blonde, 22mb poppy seed\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/10_HatMagic_12FS8Alt.png?v=1709121902",
+        "altText": "hat magic 10 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679442825451",
+      "title": "Sassy - cafe ole",
+      "descriptor": "medium, classic, blonde, cafe ole",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "112.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "cafe ole"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/411_Sassy_Creamy-Velvet_1-scaled.jpg?v=1744190469",
+          "altText": "Sassy - Position 1 Front View"
+        }
+      },
+      "content": "Sassy - cafe ole\n\nDescription: medium, classic, blonde, cafe ole\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/411_Sassy_Creamy-Velvet_1-scaled.jpg?v=1744190469",
+        "altText": "Sassy - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679484113131",
+      "title": "Ambitious - brown blonde",
+      "descriptor": "medium, classic, wavy, blonde, brown blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "135.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "brown blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Essentials---Ambitious---Model---Front-2_1500x_4649edf0-2977-40d0-85d8-d984171cfea0.jpg?v=1709121929",
+          "altText": "Ambitious - Position 1 Front View"
+        }
+      },
+      "content": "Ambitious - brown blonde\n\nDescription: medium, classic, wavy, blonde, brown blonde\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Essentials---Ambitious---Model---Front-2_1500x_4649edf0-2977-40d0-85d8-d984171cfea0.jpg?v=1709121929",
+        "altText": "Ambitious - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679485489387",
+      "title": "double braid headband - R6 Dark Chocolate",
+      "descriptor": "medium, classic, blonde, R6 Dark Chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "12.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R6 Dark Chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/POP-Double-Braid-Headband-Model-Front-4-scaled.jpg?v=1744662750",
+          "altText": "double braid headband - Position 1 Front View"
+        }
+      },
+      "content": "double braid headband - R6 Dark Chocolate\n\nDescription: medium, classic, blonde, R6 Dark Chocolate\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/POP-Double-Braid-Headband-Model-Front-4-scaled.jpg?v=1744662750",
+        "altText": "double braid headband - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679756349675",
+      "title": "Vintage Volume - R2 ebony",
+      "descriptor": "medium, classic, blonde, R2 ebony",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R2 ebony"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-Vintage-Volume-Model-Front-4-scaled.jpg?v=1744656583",
+          "altText": "Vintage Volume - Position 1 Front View"
+        }
+      },
+      "content": "Vintage Volume - R2 ebony\n\nDescription: medium, classic, blonde, R2 ebony\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-Vintage-Volume-Model-Front-4-scaled.jpg?v=1744656583",
+        "altText": "Vintage Volume - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679765917931",
+      "title": "blues - light bernstein rooted",
+      "descriptor": "medium, classic, blonde, light bernstein rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "276.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "light bernstein rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/blues_1.jpg?v=1744388237",
+          "altText": "blues - Position 1 Front View"
+        }
+      },
+      "content": "blues - light bernstein rooted\n\nDescription: medium, classic, blonde, light bernstein rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/blues_1.jpg?v=1744388237",
+        "altText": "blues - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679772963051",
+      "title": "Winner - SS9/24 iced cafe latte",
+      "descriptor": "medium, classic, blonde, SS9/24 iced cafe latte",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "170.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS9/24 iced cafe latte"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Winner-Model-1-Front-1-scaled_cabfe556-ff53-41a3-bd4c-3ea9eab88927.jpg?v=1744815662",
+          "altText": "Winner - Position 1 Front View"
+        }
+      },
+      "content": "Winner - SS9/24 iced cafe latte\n\nDescription: medium, classic, blonde, SS9/24 iced cafe latte\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Winner-Model-1-Front-1-scaled_cabfe556-ff53-41a3-bd4c-3ea9eab88927.jpg?v=1744815662",
+        "altText": "Winner - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679816610027",
+      "title": "TRESS - R14/25 honey ginger",
+      "descriptor": "medium, classic, blonde, R14/25 honey ginger",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "192.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/25 honey ginger"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Tress-Model-Front-1-scaled.jpg?v=1744822988",
+          "altText": "TRESS - Position 1 Front View"
+        }
+      },
+      "content": "TRESS - R14/25 honey ginger\n\nDescription: medium, classic, blonde, R14/25 honey ginger\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Tress-Model-Front-1-scaled.jpg?v=1744822988",
+        "altText": "TRESS - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679819821291",
+      "title": "CHAMELEON - R23s glazed vanilla",
+      "descriptor": "medium, classic, wavy, blonde, R23s glazed vanilla",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "166.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R23s glazed vanilla"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Chameleon-Model-Front-1-2-scaled.jpg?v=1744967585",
+          "altText": "CHAMELEON - Position 1 Front View"
+        }
+      },
+      "content": "CHAMELEON - R23s glazed vanilla\n\nDescription: medium, classic, wavy, blonde, R23s glazed vanilla\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Chameleon-Model-Front-1-2-scaled.jpg?v=1744967585",
+        "altText": "CHAMELEON - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679824113899",
+      "title": "harlow - auburn sugar rooted",
+      "descriptor": "medium, classic, blonde, auburn sugar rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "201.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Harlow-DkChoc3030.jpg?v=1709122505",
+          "altText": "harlow - Position 1 Front View"
+        }
+      },
+      "content": "harlow - auburn sugar rooted\n\nDescription: medium, classic, blonde, auburn sugar rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Harlow-DkChoc3030.jpg?v=1709122505",
+        "altText": "harlow - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679837483243",
+      "title": "angelique large - 24b22 creme brule",
+      "descriptor": "medium, classic, blonde, 24b22 creme brule",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24b22 creme brule"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5870_01_lg_b142e64c-f3ef-40b3-afe4-91ff20ae4f30.jpg?v=1709122523",
+          "altText": "angelique large - Position 1 Front View"
+        }
+      },
+      "content": "angelique large - 24b22 creme brule\n\nDescription: medium, classic, blonde, 24b22 creme brule\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5870_01_lg_b142e64c-f3ef-40b3-afe4-91ff20ae4f30.jpg?v=1709122523",
+        "altText": "angelique large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679849541867",
+      "title": "SONATA - r101 pearl platinum",
+      "descriptor": "medium, classic, blonde, r101 pearl platinum",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r101 pearl platinum"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/s_f6e8bc78-9284-46b3-921e-9e044f948093.jpg?v=1709122542",
+          "altText": "SONATA - Position 1 Front View"
+        }
+      },
+      "content": "SONATA - r101 pearl platinum\n\nDescription: medium, classic, blonde, r101 pearl platinum\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/s_f6e8bc78-9284-46b3-921e-9e044f948093.jpg?v=1709122542",
+        "altText": "SONATA - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679866810603",
+      "title": "EASICROWN HH 12 - 14/26s10 shaded pralines n' cream",
+      "descriptor": "medium, classic, blonde, 14/26s10 shaded pralines n' cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "714.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/26s10 shaded pralines n' cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr736_02_lg_ef845bb9-d57e-49b3-b630-e3f136264df6.jpg?v=1709122570",
+          "altText": "EASICROWN HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASICROWN HH 12 - 14/26s10 shaded pralines n' cream\n\nDescription: medium, classic, blonde, 14/26s10 shaded pralines n' cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr736_02_lg_ef845bb9-d57e-49b3-b630-e3f136264df6.jpg?v=1709122570",
+        "altText": "EASICROWN HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679864975595",
+      "title": "Crush - 10 luscious caramel",
+      "descriptor": "medium, classic, blonde, 10 luscious caramel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "41.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10 luscious caramel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr235_02_lg.jpg?v=1709122569",
+          "altText": "Crush - Position 1 Front View"
+        }
+      },
+      "content": "Crush - 10 luscious caramel\n\nDescription: medium, classic, blonde, 10 luscious caramel\n\nBrand: EasiHair\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr235_02_lg.jpg?v=1709122569",
+        "altText": "Crush - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679889584363",
+      "title": "TOP FULL 12 SYNTHETIC - FS2V/31V chocolate cherry",
+      "descriptor": "medium, classic, blonde, FS2V/31V chocolate cherry",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "406.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "FS2V/31V chocolate cherry"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/uLwneXeA.jpg?v=1709122600",
+          "altText": "TOP FULL 12 SYNTHETIC - Position 1 Front View"
+        }
+      },
+      "content": "TOP FULL 12 SYNTHETIC - FS2V/31V chocolate cherry\n\nDescription: medium, classic, blonde, FS2V/31V chocolate cherry\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/uLwneXeA.jpg?v=1709122600",
+        "altText": "TOP FULL 12 SYNTHETIC - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679905345771",
+      "title": "Alva - spring honey rooted",
+      "descriptor": "medium, classic, blonde, spring honey rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "211.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "spring honey rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alva_Moonstone49860-scaled.jpg?v=1744964155",
+          "altText": "Alva - Position 1 Front View"
+        }
+      },
+      "content": "Alva - spring honey rooted\n\nDescription: medium, classic, blonde, spring honey rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alva_Moonstone49860-scaled.jpg?v=1744964155",
+        "altText": "Alva - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679933493483",
+      "title": "ZOE - MOCHACCINO",
+      "descriptor": "medium, classic, blonde, MOCHACCINO",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "148.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "MOCHACCINO"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Zoe-CoffeeLatte4694copy_093c2c9b-db81-4d0c-a15e-a16b72ad335c.jpg?v=1709122662",
+          "altText": "ZOE - Position 1 Front View"
+        }
+      },
+      "content": "ZOE - MOCHACCINO\n\nDescription: medium, classic, blonde, MOCHACCINO\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Zoe-CoffeeLatte4694copy_093c2c9b-db81-4d0c-a15e-a16b72ad335c.jpg?v=1709122662",
+        "altText": "ZOE - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679944274155",
+      "title": "renae - r4/8 medium golden brown",
+      "descriptor": "medium, classic, blonde, r4/8 medium golden brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "158.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r4/8 medium golden brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Renae_M.jpg?v=1744654361",
+          "altText": "renae - Position 1 Front View"
+        }
+      },
+      "content": "renae - r4/8 medium golden brown\n\nDescription: medium, classic, blonde, r4/8 medium golden brown\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Renae_M.jpg?v=1744654361",
+        "altText": "renae - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679949451499",
+      "title": "Sky Large - CHESTNUT",
+      "descriptor": "medium, classic, blonde, CHESTNUT",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "220.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "CHESTNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sky-LG-Raisin-Glaze-H1937-scaled.jpg?v=1744750141",
+          "altText": "Sky Large - Position 1 Front View"
+        }
+      },
+      "content": "Sky Large - CHESTNUT\n\nDescription: medium, classic, blonde, CHESTNUT\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sky-LG-Raisin-Glaze-H1937-scaled.jpg?v=1744750141",
+        "altText": "Sky Large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679956529387",
+      "title": "Prosperity - dark blonde gabor",
+      "descriptor": "medium, classic, blonde, dark blonde gabor",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "135.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark blonde gabor"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/pros4_0b7746f9-6ab6-40ae-b68b-7a20de1ee595.jpg?v=1709122698",
+          "altText": "Prosperity - Position 1 Front View"
+        }
+      },
+      "content": "Prosperity - dark blonde gabor\n\nDescription: medium, classic, blonde, dark blonde gabor\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/pros4_0b7746f9-6ab6-40ae-b68b-7a20de1ee595.jpg?v=1709122698",
+        "altText": "Prosperity - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679971963115",
+      "title": "ella - coffee bean",
+      "descriptor": "medium, classic, wavy, blonde, coffee bean",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "178.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "coffee bean"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ella-CaffeeMacchiato20057.jpg?v=1709122726",
+          "altText": "ella - Position 1 Front View"
+        }
+      },
+      "content": "ella - coffee bean\n\nDescription: medium, classic, wavy, blonde, coffee bean\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ella-CaffeeMacchiato20057.jpg?v=1709122726",
+        "altText": "ella - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679985561835",
+      "title": "TOP CROWN - 56/51 oyster mushrooms",
+      "descriptor": "medium, classic, blonde, 56/51 oyster mushrooms",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "255.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "56/51 oyster mushrooms"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/top-crown_633_alt2.jpg?v=1709122749",
+          "altText": "TOP CROWN - Position 1 Front View"
+        }
+      },
+      "content": "TOP CROWN - 56/51 oyster mushrooms\n\nDescription: medium, classic, blonde, 56/51 oyster mushrooms\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/top-crown_633_alt2.jpg?v=1709122749",
+        "altText": "TOP CROWN - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680037269739",
+      "title": "Jan - Salt and Pepper",
+      "descriptor": "medium, classic, wavy, blonde, Salt and Pepper",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "130.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Salt and Pepper"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jan-CafeMacchiato-5.jpg?v=1709122828",
+          "altText": "Jan - Position 1 Front View"
+        }
+      },
+      "content": "Jan - Salt and Pepper\n\nDescription: medium, classic, wavy, blonde, Salt and Pepper\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jan-CafeMacchiato-5.jpg?v=1709122828",
+        "altText": "Jan - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680048050411",
+      "title": "Cayenne - bernstein mix",
+      "descriptor": "medium, classic, blonde, bernstein mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "71.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0069_eh_cayenne_1.jpg?v=1709122847",
+          "altText": "Cayenne - Position 1 Front View"
+        }
+      },
+      "content": "Cayenne - bernstein mix\n\nDescription: medium, classic, blonde, bernstein mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0069_eh_cayenne_1.jpg?v=1709122847",
+        "altText": "Cayenne - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680067743979",
+      "title": "Romantic Layers - R4 MIDNIGHT BROWN",
+      "descriptor": "medium, classic, blonde, R4 MIDNIGHT BROWN",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "124.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R4 MIDNIGHT BROWN"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Romantic-Layers.jpg?v=1709122883",
+          "altText": "Romantic Layers - Position 1 Front View"
+        }
+      },
+      "content": "Romantic Layers - R4 MIDNIGHT BROWN\n\nDescription: medium, classic, blonde, R4 MIDNIGHT BROWN\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Romantic-Layers.jpg?v=1709122883",
+        "altText": "Romantic Layers - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680071545067",
+      "title": "Frappe - black",
+      "descriptor": "medium, classic, wavy, blonde, black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "48.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0024s_0000_ew_powerpieces_Frappe_2.jpg?v=1709122890",
+          "altText": "Frappe - Position 1 Front View"
+        }
+      },
+      "content": "Frappe - black\n\nDescription: medium, classic, wavy, blonde, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0024s_0000_ew_powerpieces_Frappe_2.jpg?v=1709122890",
+        "altText": "Frappe - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680072069355",
+      "title": "EASIPART HD XL 12 - 101f48t martini",
+      "descriptor": "medium, classic, blonde, 101f48t martini",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "268.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "101f48t martini"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easipart-xl-hd-12inch_12fs8_main.jpg?v=1709122891",
+          "altText": "EASIPART HD XL 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASIPART HD XL 12 - 101f48t martini\n\nDescription: medium, classic, blonde, 101f48t martini\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easipart-xl-hd-12inch_12fs8_main.jpg?v=1709122891",
+        "altText": "EASIPART HD XL 12 - Position 1 Front View"
+      }
+    }
+  ]
+}

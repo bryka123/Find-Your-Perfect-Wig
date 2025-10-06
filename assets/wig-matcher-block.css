@@ -1,0 +1,109 @@
+.wig-matcher-block {
+  width: 100%;
+  margin: 2rem 0;
+  padding: 0;
+}
+
+.wig-matcher-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.wig-matcher-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.wig-matcher-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--accent-color, #e91e63);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.wig-matcher-description {
+  font-size: 1.125rem;
+  color: var(--text-color, #666);
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+
+#chiquel-wig-matcher {
+  background: var(--background-color, #ffffff);
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  min-height: 600px;
+}
+
+.loading-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  color: var(--text-color, #666);
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid var(--accent-color, #e91e63);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-placeholder p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .wig-matcher-container {
+    padding: 0 0.5rem;
+  }
+  
+  .wig-matcher-title {
+    font-size: 2rem;
+  }
+  
+  .wig-matcher-description {
+    font-size: 1rem;
+  }
+  
+  #chiquel-wig-matcher {
+    border-radius: 8px;
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 480px) {
+  .wig-matcher-block {
+    margin: 1rem 0;
+  }
+  
+  .wig-matcher-title {
+    font-size: 1.75rem;
+  }
+  
+  .wig-matcher-header {
+    margin-bottom: 1.5rem;
+  }
+}
+
+
+
+
+
+
+

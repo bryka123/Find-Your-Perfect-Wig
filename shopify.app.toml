@@ -1,0 +1,41 @@
+# This file stores configuration for your Shopify app
+
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "chiquel-wig-matcher"
+client_id = "" # This will be set when you create the app
+application_url = "https://your-app-domain.ngrok.io"
+embedded = true
+
+[access_scopes]
+# https://shopify.dev/docs/api/usage/access-scopes
+scopes = "read_products,write_products,read_product_listings,read_files,read_metaobjects,read_metafields"
+
+[auth]
+redirect_urls = [
+  "https://your-app-domain.ngrok.io/api/auth/callback",
+  "http://localhost:3000/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-10"
+
+[pos]
+embedded = false
+
+[[extensions]]
+name = "wig-matcher-block"
+type = "theme_app_extension"
+handle = "wig-matcher-block"
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = ""
+include_config_on_deploy = true
+
+
+
+
+
+
+

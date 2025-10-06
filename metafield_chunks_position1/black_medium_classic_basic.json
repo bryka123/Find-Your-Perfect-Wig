@@ -1,0 +1,654 @@
+{
+  "metadata": {
+    "color": "black",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 20,
+    "filename": "black_medium_classic_basic.json",
+    "generated_at": "2025-09-24T16:23:14.934Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679508558059",
+      "title": "The Softie - tcs Black",
+      "descriptor": "medium, classic, black, tcs Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/th2_ba8e062c-0d47-497c-a798-6dd0ae1754e2.jpg?v=1709121948",
+          "altText": "The Softie - Position 1 Front View"
+        }
+      },
+      "content": "The Softie - tcs Black\n\nDescription: medium, classic, black, tcs Black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/th2_ba8e062c-0d47-497c-a798-6dd0ae1754e2.jpg?v=1709121948",
+        "altText": "The Softie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679560429803",
+      "title": "Flip-Flip Hooray Topper - Black",
+      "descriptor": "medium, classic, wavy, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "186.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flip-Flop-Hooray-Medium-Blonde-OL.webp?v=1709122046",
+          "altText": "Flip-Flip Hooray Topper - Position 1 Front View"
+        }
+      },
+      "content": "Flip-Flip Hooray Topper - Black\n\nDescription: medium, classic, wavy, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flip-Flop-Hooray-Medium-Blonde-OL.webp?v=1709122046",
+        "altText": "Flip-Flip Hooray Topper - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679611646187",
+      "title": "cotton wig liner - black liner",
+      "descriptor": "medium, classic, black, black liner",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "8.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black liner"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrcwl_02_lg_7972c668-9044-4f0f-8f80-0897ac6056e7.jpg?v=1709122142",
+          "altText": "cotton wig liner - Position 1 Front View"
+        }
+      },
+      "content": "cotton wig liner - black liner\n\nDescription: medium, classic, black, black liner\n\nBrand: Chiquel\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrcwl_02_lg_7972c668-9044-4f0f-8f80-0897ac6056e7.jpg?v=1709122142",
+        "altText": "cotton wig liner - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679612236011",
+      "title": "Namida - nt black",
+      "descriptor": "medium, classic, black, nt black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "nt black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/muetze-namida-1_2.jpg?v=1744385814",
+          "altText": "Namida - Position 1 Front View"
+        }
+      },
+      "content": "Namida - nt black\n\nDescription: medium, classic, black, nt black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/muetze-namida-1_2.jpg?v=1744385814",
+        "altText": "Namida - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679794458859",
+      "title": "Playful Softie - black stripe",
+      "descriptor": "medium, classic, black, black stripe",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "25.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black stripe"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/playful-softie-plum-2.jpg?v=1709122469",
+          "altText": "Playful Softie - Position 1 Front View"
+        }
+      },
+      "content": "Playful Softie - black stripe\n\nDescription: medium, classic, black, black stripe\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/playful-softie-plum-2.jpg?v=1709122469",
+        "altText": "Playful Softie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679847117035",
+      "title": "Softie Wrap Solid - SW black",
+      "descriptor": "medium, classic, black, SW black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "38.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SW black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sbs_a530139c-fd47-498c-b5e7-1b3b7b97f139.jpg?v=1709122539",
+          "altText": "Softie Wrap Solid - Position 1 Front View"
+        }
+      },
+      "content": "Softie Wrap Solid - SW black\n\nDescription: medium, classic, black, SW black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sbs_a530139c-fd47-498c-b5e7-1b3b7b97f139.jpg?v=1709122539",
+        "altText": "Softie Wrap Solid - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680359313643",
+      "title": "EASIPART FRENCH XL 12 HH - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1421.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/reasipartxl.jpg?v=1709123377",
+          "altText": "EASIPART FRENCH XL 12 HH - Position 1 Front View"
+        }
+      },
+      "content": "EASIPART FRENCH XL 12 HH - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/reasipartxl.jpg?v=1709123377",
+        "altText": "EASIPART FRENCH XL 12 HH - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680401420523",
+      "title": "softie boho beanie - black-s",
+      "descriptor": "medium, classic, black, black-s",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black-s"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Softie-BohoBeanie_Caribbean_ce63280f-cd21-483c-82ea-7d3945c1ae3c.jpg?v=1709123453",
+          "altText": "softie boho beanie - Position 1 Front View"
+        }
+      },
+      "content": "softie boho beanie - black-s\n\nDescription: medium, classic, black, black-s\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Softie-BohoBeanie_Caribbean_ce63280f-cd21-483c-82ea-7d3945c1ae3c.jpg?v=1709123453",
+        "altText": "softie boho beanie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680543568107",
+      "title": "Casual Softie - TCS soft coral",
+      "descriptor": "medium, classic, black, TCS soft coral",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "TCS soft coral"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrtcs_02_lg.jpg?v=1709123714",
+          "altText": "Casual Softie - Position 1 Front View"
+        }
+      },
+      "content": "Casual Softie - TCS soft coral\n\nDescription: medium, classic, black, TCS soft coral\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrtcs_02_lg.jpg?v=1709123714",
+        "altText": "Casual Softie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680565260523",
+      "title": "SOFTIE CAP - sky",
+      "descriptor": "medium, classic, black, sky",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sky"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SoftieCap_Blooms_Main_3f0d3290-f807-44e6-9951-c809bcb984e2.jpg?v=1709123745",
+          "altText": "SOFTIE CAP - Position 1 Front View"
+        }
+      },
+      "content": "SOFTIE CAP - sky\n\nDescription: medium, classic, black, sky\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SoftieCap_Blooms_Main_3f0d3290-f807-44e6-9951-c809bcb984e2.jpg?v=1709123745",
+        "altText": "SOFTIE CAP - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680607727851",
+      "title": "TINSEL TOWN - Black Tinsel",
+      "descriptor": "medium, classic, black, Black Tinsel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "43.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black Tinsel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinseltown_silver_62402_6__62802.1578371520.jpg?v=1744977061",
+          "altText": "TINSEL TOWN - Position 1 Front View"
+        }
+      },
+      "content": "TINSEL TOWN - Black Tinsel\n\nDescription: medium, classic, black, Black Tinsel\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinseltown_silver_62402_6__62802.1578371520.jpg?v=1744977061",
+        "altText": "TINSEL TOWN - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680626274539",
+      "title": "Chitta Printed Headband - Black/Blue 440",
+      "descriptor": "medium, classic, black, Black/Blue 440",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "22.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black/Blue 440"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Chitta-Headband-Oriental-Flowers-scaled.jpg?v=1709123864",
+          "altText": "Chitta Printed Headband - Position 1 Front View"
+        }
+      },
+      "content": "Chitta Printed Headband - Black/Blue 440\n\nDescription: medium, classic, black, Black/Blue 440\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Chitta-Headband-Oriental-Flowers-scaled.jpg?v=1709123864",
+        "altText": "Chitta Printed Headband - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680628895979",
+      "title": "EASICROWN HD 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "224.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr380_01_lg.jpg?v=1709123873",
+          "altText": "EASICROWN HD 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASICROWN HD 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr380_01_lg.jpg?v=1709123873",
+        "altText": "EASICROWN HD 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680632598763",
+      "title": "Big Bangs Topper - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "159.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Big-Bang-Light-Brown-OL.webp?v=1709123875",
+          "altText": "Big Bangs Topper - Position 1 Front View"
+        }
+      },
+      "content": "Big Bangs Topper - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Big-Bang-Light-Brown-OL.webp?v=1709123875",
+        "altText": "Big Bangs Topper - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680837824747",
+      "title": "BLOSSOM SOFTIE - TCS black",
+      "descriptor": "medium, classic, black, TCS black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "33.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "TCS black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BlossomSoftie_BlueSage_Main.png?v=1709124197",
+          "altText": "BLOSSOM SOFTIE - Position 1 Front View"
+        }
+      },
+      "content": "BLOSSOM SOFTIE - TCS black\n\nDescription: medium, classic, black, TCS black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BlossomSoftie_BlueSage_Main.png?v=1709124197",
+        "altText": "BLOSSOM SOFTIE - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45894343753963",
+      "title": "Swirlz - Black",
+      "descriptor": "medium, classic, curly, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "16.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_354C3D419B50-1.webp?v=1757285527",
+          "altText": "Swirlz - Position 1 Front View"
+        }
+      },
+      "content": "Swirlz - Black\n\nDescription: medium, classic, curly, blonde, Black\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_354C3D419B50-1.webp?v=1757285527",
+        "altText": "Swirlz - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45894559400171",
+      "title": "Big Twist - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "26.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_65767A85328A-1.jpg?v=1758330796",
+          "altText": "Big Twist - Position 1 Front View"
+        }
+      },
+      "content": "Big Twist - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_65767A85328A-1.jpg?v=1758330796",
+        "altText": "Big Twist - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45894587121899",
+      "title": "Twist - Black",
+      "descriptor": "medium, classic, curly, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "21.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_0D4080D25D18-1.jpg?v=1754702002",
+          "altText": "Twist - Position 1 Front View"
+        }
+      },
+      "content": "Twist - Black\n\nDescription: medium, classic, curly, blonde, Black\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/IMG_0D4080D25D18-1.jpg?v=1754702002",
+        "altText": "Twist - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45373318922475",
+      "title": "Fancy Chic - Black",
+      "descriptor": "medium, classic, wavy, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "125.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/fancy-chic-566096_720x.progressive_4dc73856-cd12-4d53-a7c8-126ae6469929.webp?v=1758097068",
+          "altText": "Fancy Chic - Position 1 Front View"
+        }
+      },
+      "content": "Fancy Chic - Black\n\nDescription: medium, classic, wavy, blonde, Black\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/fancy-chic-566096_720x.progressive_4dc73856-cd12-4d53-a7c8-126ae6469929.webp?v=1758097068",
+        "altText": "Fancy Chic - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46509421363435",
+      "title": "Fancy Chic (Live) - Black",
+      "descriptor": "medium, classic, wavy, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "125.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/fancy-chic-566096_720x.progressive_155bdc34-a781-42e3-99ac-5eea74a59b76.webp?v=1749227745",
+          "altText": "Fancy Chic (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Fancy Chic (Live) - Black\n\nDescription: medium, classic, wavy, blonde, Black\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/fancy-chic-566096_720x.progressive_155bdc34-a781-42e3-99ac-5eea74a59b76.webp?v=1749227745",
+        "altText": "Fancy Chic (Live) - Position 1 Front View"
+      }
+    }
+  ]
+}

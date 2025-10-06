@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "monofilament",
+    "totalVariants": 50,
+    "filename": "blonde_medium_classic_monofilament.json",
+    "generated_at": "2025-09-24T16:23:14.934Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679514357995",
+      "title": "Top Flex HH 12 - 14/24 Creme Soda",
+      "descriptor": "medium, classic, blonde, monofilament, 14/24 Creme Soda",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/24 Creme Soda"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_12FS8_Main__27358.1686955496.png?v=1745232499",
+          "altText": "Top Flex HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "Top Flex HH 12 - 14/24 Creme Soda\n\nDescription: medium, classic, blonde, monofilament, 14/24 Creme Soda\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_12FS8_Main__27358.1686955496.png?v=1745232499",
+        "altText": "Top Flex HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679573602539",
+      "title": "disc - black",
+      "descriptor": "medium, classic, blonde, monofilament, black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "331.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/disc_mono_part_1_11.jpg?v=1744353434",
+          "altText": "disc - Position 1 Front View"
+        }
+      },
+      "content": "disc - black\n\nDescription: medium, classic, blonde, monofilament, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/disc_mono_part_1_11.jpg?v=1744353434",
+        "altText": "disc - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679671415019",
+      "title": "loop - auburn rooted",
+      "descriptor": "medium, classic, curly, blonde, monofilament, auburn rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "305.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-loop-1_4.jpg?v=1744371162",
+          "altText": "loop - Position 1 Front View"
+        }
+      },
+      "content": "loop - auburn rooted\n\nDescription: medium, classic, curly, blonde, monofilament, auburn rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-loop-1_4.jpg?v=1744371162",
+        "altText": "loop - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679710474475",
+      "title": "Top Notch HD - fs17/101s18 palm springs blonde",
+      "descriptor": "medium, classic, blonde, monofilament, fs17/101s18 palm springs blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "264.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs17/101s18 palm springs blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jon-Renau-Wigs-Top-Notch-HD-FS6-30-27-Side.png?v=1709122333",
+          "altText": "Top Notch HD - Position 1 Front View"
+        }
+      },
+      "content": "Top Notch HD - fs17/101s18 palm springs blonde\n\nDescription: medium, classic, blonde, monofilament, fs17/101s18 palm springs blonde\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jon-Renau-Wigs-Top-Notch-HD-FS6-30-27-Side.png?v=1709122333",
+        "altText": "Top Notch HD - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679722926315",
+      "title": "Grace - Almond Breeze",
+      "descriptor": "medium, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Grace.jpg?v=1744621978",
+          "altText": "Grace - Position 1 Front View"
+        }
+      },
+      "content": "Grace - Almond Breeze\n\nDescription: medium, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Grace.jpg?v=1744621978",
+        "altText": "Grace - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679736885483",
+      "title": "Kenzie - marble brown",
+      "descriptor": "medium, classic, blonde, monofilament, marble brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "446.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marble brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kenzie-Chocolate-Swirl3-scaled.jpg?v=1744748436",
+          "altText": "Kenzie - Position 1 Front View"
+        }
+      },
+      "content": "Kenzie - marble brown\n\nDescription: medium, classic, blonde, monofilament, marble brown\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kenzie-Chocolate-Swirl3-scaled.jpg?v=1744748436",
+        "altText": "Kenzie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679738065131",
+      "title": "SUE mono - DARK SAND ROOTED",
+      "descriptor": "medium, classic, blonde, monofilament, DARK SAND ROOTED",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "DARK SAND ROOTED"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sue_mono_3.jpg?v=1744347456",
+          "altText": "SUE mono - Position 1 Front View"
+        }
+      },
+      "content": "SUE mono - DARK SAND ROOTED\n\nDescription: medium, classic, blonde, monofilament, DARK SAND ROOTED\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sue_mono_3.jpg?v=1744347456",
+        "altText": "SUE mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679740588267",
+      "title": "diamond topper - starlight blonde",
+      "descriptor": "medium, classic, blonde, monofilament, starlight blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "867.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "starlight blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/diamondtopper2_9269afad-4c25-4253-93f6-6acbbaa0a97c.jpg?v=1709122382",
+          "altText": "diamond topper - Position 1 Front View"
+        }
+      },
+      "content": "diamond topper - starlight blonde\n\nDescription: medium, classic, blonde, monofilament, starlight blonde\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/diamondtopper2_9269afad-4c25-4253-93f6-6acbbaa0a97c.jpg?v=1709122382",
+        "altText": "diamond topper - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679375356139",
+      "title": "FILL IN - dark chocolate mix hh",
+      "descriptor": "medium, classic, blonde, monofilament, dark chocolate mix hh",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1082.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate mix hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/EWFILLIN_fillin_02.jpg?v=1744303616",
+          "altText": "FILL IN - Position 1 Front View"
+        }
+      },
+      "content": "FILL IN - dark chocolate mix hh\n\nDescription: medium, classic, blonde, monofilament, dark chocolate mix hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/EWFILLIN_fillin_02.jpg?v=1744303616",
+        "altText": "FILL IN - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679391379691",
+      "title": "Top Comfort HH 12 - 14/24 Creme Soda",
+      "descriptor": "medium, classic, blonde, monofilament, 14/24 Creme Soda",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1491.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/24 Creme Soda"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Comfort_12in_12FS8_Main__70789.1685575268.png?v=1745232812",
+          "altText": "Top Comfort HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "Top Comfort HH 12 - 14/24 Creme Soda\n\nDescription: medium, classic, blonde, monofilament, 14/24 Creme Soda\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Comfort_12in_12FS8_Main__70789.1685575268.png?v=1745232812",
+        "altText": "Top Comfort HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679755006187",
+      "title": "Charmed Life 12 - R1HH black",
+      "descriptor": "medium, classic, blonde, monofilament, R1HH black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "578.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R1HH black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-CharmedLife-Model-Front2.jpg?v=1709122403",
+          "altText": "Charmed Life 12 - Position 1 Front View"
+        }
+      },
+      "content": "Charmed Life 12 - R1HH black\n\nDescription: medium, classic, blonde, monofilament, R1HH black\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-CharmedLife-Model-Front2.jpg?v=1709122403",
+        "altText": "Charmed Life 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679791116523",
+      "title": "TATUM - harvest gold",
+      "descriptor": "medium, classic, blonde, monofilament, harvest gold",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "346.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "harvest gold"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Tatum-Sugar-Cane-scaled.jpg?v=1744042960",
+          "altText": "TATUM - Position 1 Front View"
+        }
+      },
+      "content": "TATUM - harvest gold\n\nDescription: medium, classic, blonde, monofilament, harvest gold\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Tatum-Sugar-Cane-scaled.jpg?v=1744042960",
+        "altText": "TATUM - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679791247595",
+      "title": "TOP STYLE 12 HUMAN HAIR - 2 chocolate souffle",
+      "descriptor": "medium, classic, blonde, monofilament, 2 chocolate souffle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1643.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "2 chocolate souffle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/topstyle1222HH.jpg?v=1709122465",
+          "altText": "TOP STYLE 12 HUMAN HAIR - Position 1 Front View"
+        }
+      },
+      "content": "TOP STYLE 12 HUMAN HAIR - 2 chocolate souffle\n\nDescription: medium, classic, blonde, monofilament, 2 chocolate souffle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/topstyle1222HH.jpg?v=1709122465",
+        "altText": "TOP STYLE 12 HUMAN HAIR - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679810253035",
+      "title": "TOP WAVE 18 - fs27 strawberry syrup",
+      "descriptor": "medium, classic, blonde, monofilament, fs27 strawberry syrup",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "321.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs27 strawberry syrup"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top-wave-12fs8-main_2__54128.1722388602.jpg?v=1745233915",
+          "altText": "TOP WAVE 18 - Position 1 Front View"
+        }
+      },
+      "content": "TOP WAVE 18 - fs27 strawberry syrup\n\nDescription: medium, classic, blonde, monofilament, fs27 strawberry syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top-wave-12fs8-main_2__54128.1722388602.jpg?v=1745233915",
+        "altText": "TOP WAVE 18 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679838335211",
+      "title": "easiPart Medium HH 12 - 10H24B English Toffee",
+      "descriptor": "medium, classic, blonde, monofilament, 10H24B English Toffee",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1196.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10H24B English Toffee"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jt6A9yMV.jpg?v=1709122524",
+          "altText": "easiPart Medium HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "easiPart Medium HH 12 - 10H24B English Toffee\n\nDescription: medium, classic, blonde, monofilament, 10H24B English Toffee\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jt6A9yMV.jpg?v=1709122524",
+        "altText": "easiPart Medium HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679839121643",
+      "title": "TOP WAVE 12 - fs27 strawberry syrup",
+      "descriptor": "medium, classic, wavy, blonde, monofilament, fs27 strawberry syrup",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "277.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs27 strawberry syrup"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/top_4787953b-bd03-4cfc-9473-c7fad04fe4d4.jpg?v=1709122524",
+          "altText": "TOP WAVE 12 - Position 1 Front View"
+        }
+      },
+      "content": "TOP WAVE 12 - fs27 strawberry syrup\n\nDescription: medium, classic, wavy, blonde, monofilament, fs27 strawberry syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/top_4787953b-bd03-4cfc-9473-c7fad04fe4d4.jpg?v=1709122524",
+        "altText": "TOP WAVE 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679846265067",
+      "title": "Lia Mono Part - auburn rooted",
+      "descriptor": "medium, classic, blonde, monofilament, auburn rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "373.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at10.27.35pm.png?v=1709122537",
+          "altText": "Lia Mono Part - Position 1 Front View"
+        }
+      },
+      "content": "Lia Mono Part - auburn rooted\n\nDescription: medium, classic, blonde, monofilament, auburn rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at10.27.35pm.png?v=1709122537",
+        "altText": "Lia Mono Part - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679869595883",
+      "title": "GILDED 12 - R3025S glazed cinnamon hh",
+      "descriptor": "medium, classic, blonde, monofilament, R3025S glazed cinnamon hh",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "892.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R3025S glazed cinnamon hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Gilded12_-Model-Front1.jpg?v=1709122575",
+          "altText": "GILDED 12 - Position 1 Front View"
+        }
+      },
+      "content": "GILDED 12 - R3025S glazed cinnamon hh\n\nDescription: medium, classic, blonde, monofilament, R3025S glazed cinnamon hh\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Gilded12_-Model-Front1.jpg?v=1709122575",
+        "altText": "GILDED 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679886864619",
+      "title": "MEDIUM TOP PIECE MONO - ginger brown",
+      "descriptor": "medium, classic, blonde, monofilament, ginger brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "244.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ginger brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/751-MediumTPMono-MarbleBrown2.jpg?v=1709122597",
+          "altText": "MEDIUM TOP PIECE MONO - Position 1 Front View"
+        }
+      },
+      "content": "MEDIUM TOP PIECE MONO - ginger brown\n\nDescription: medium, classic, blonde, monofilament, ginger brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/751-MediumTPMono-MarbleBrown2.jpg?v=1709122597",
+        "altText": "MEDIUM TOP PIECE MONO - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679888797931",
+      "title": "STEPPING OUT LARGE - GL8-10 DARK CHESTNUT",
+      "descriptor": "medium, classic, blonde, monofilament, GL8-10 DARK CHESTNUT",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL8-10 DARK CHESTNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egstouta_07_lg_a5697928-3bb7-43a0-8caf-bc235b22080d.jpg?v=1709122599",
+          "altText": "STEPPING OUT LARGE - Position 1 Front View"
+        }
+      },
+      "content": "STEPPING OUT LARGE - GL8-10 DARK CHESTNUT\n\nDescription: medium, classic, blonde, monofilament, GL8-10 DARK CHESTNUT\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egstouta_07_lg_a5697928-3bb7-43a0-8caf-bc235b22080d.jpg?v=1709122599",
+        "altText": "STEPPING OUT LARGE - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679902691563",
+      "title": "Beguile - R14/25 honey ginger hh",
+      "descriptor": "medium, classic, blonde, monofilament, R14/25 honey ginger hh",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/25 honey ginger hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Beguile-Model-Front1_2270e855-1b87-4be7-8257-25a36bbe7ff3.jpg?v=1709122617",
+          "altText": "Beguile - Position 1 Front View"
+        }
+      },
+      "content": "Beguile - R14/25 honey ginger hh\n\nDescription: medium, classic, blonde, monofilament, R14/25 honey ginger hh\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Beguile-Model-Front1_2270e855-1b87-4be7-8257-25a36bbe7ff3.jpg?v=1709122617",
+        "altText": "Beguile - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679912947947",
+      "title": "ON THE GO 10 - RL30/27 rusty auburn",
+      "descriptor": "medium, classic, curly, blonde, monofilament, RL30/27 rusty auburn",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "317.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL30/27 rusty auburn"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-OnTheGo10_-Model-Front1.jpg?v=1709122635",
+          "altText": "ON THE GO 10 - Position 1 Front View"
+        }
+      },
+      "content": "ON THE GO 10 - RL30/27 rusty auburn\n\nDescription: medium, classic, curly, blonde, monofilament, RL30/27 rusty auburn\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-OnTheGo10_-Model-Front1.jpg?v=1709122635",
+        "altText": "ON THE GO 10 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679918321899",
+      "title": "samantha - toasted brown",
+      "descriptor": "medium, classic, blonde, monofilament, toasted brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "308.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "toasted brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Samantha-Creamy-Blond6884-scaled.jpg?v=1744041638",
+          "altText": "samantha - Position 1 Front View"
+        }
+      },
+      "content": "samantha - toasted brown\n\nDescription: medium, classic, blonde, monofilament, toasted brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Samantha-Creamy-Blond6884-scaled.jpg?v=1744041638",
+        "altText": "samantha - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679931756779",
+      "title": "classic cut - RL30/27 rusty auburn",
+      "descriptor": "medium, classic, blonde, monofilament, RL30/27 rusty auburn",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "259.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL30/27 rusty auburn"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Classic-Cut-Model-Front-1-scaled.jpg?v=1744977205",
+          "altText": "classic cut - Position 1 Front View"
+        }
+      },
+      "content": "classic cut - RL30/27 rusty auburn\n\nDescription: medium, classic, blonde, monofilament, RL30/27 rusty auburn\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Classic-Cut-Model-Front-1-scaled.jpg?v=1744977205",
+        "altText": "classic cut - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679942340843",
+      "title": "Heaven - r8-32h golden brown w dark auburn highlights",
+      "descriptor": "medium, classic, blonde, monofilament, r8-32h golden brown w dark auburn highlights",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1804.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r8-32h golden brown w dark auburn highlights"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Heaven_M_4d14b441-d7df-4016-adfc-788aae5f4d42.jpg?v=1744653521",
+          "altText": "Heaven - Position 1 Front View"
+        }
+      },
+      "content": "Heaven - r8-32h golden brown w dark auburn highlights\n\nDescription: medium, classic, blonde, monofilament, r8-32h golden brown w dark auburn highlights\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Heaven_M_4d14b441-d7df-4016-adfc-788aae5f4d42.jpg?v=1744653521",
+        "altText": "Heaven - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679979565291",
+      "title": "ocean - bernstein rooted",
+      "descriptor": "medium, classic, blonde, monofilament, bernstein rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "305.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ocean_mono_part_3.jpg?v=1744295099",
+          "altText": "ocean - Position 1 Front View"
+        }
+      },
+      "content": "ocean - bernstein rooted\n\nDescription: medium, classic, blonde, monofilament, bernstein rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ocean_mono_part_3.jpg?v=1744295099",
+        "altText": "ocean - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680001880299",
+      "title": "Carley - Almond Breeze",
+      "descriptor": "medium, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Carley-Silky-Beige-4302.webp?v=1744396011",
+          "altText": "Carley - Position 1 Front View"
+        }
+      },
+      "content": "Carley - Almond Breeze\n\nDescription: medium, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Carley-Silky-Beige-4302.webp?v=1744396011",
+        "altText": "Carley - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680035041515",
+      "title": "Mono Wiglet 413-MP - r14-8h golden brown dark blonde highlights on top",
+      "descriptor": "medium, classic, blonde, monofilament, r14-8h golden brown dark blonde highlights on top",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "187.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r14-8h golden brown dark blonde highlights on top"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/mono413_1.jpg?v=1709122825",
+          "altText": "Mono Wiglet 413-MP - Position 1 Front View"
+        }
+      },
+      "content": "Mono Wiglet 413-MP - r14-8h golden brown dark blonde highlights on top\n\nDescription: medium, classic, blonde, monofilament, r14-8h golden brown dark blonde highlights on top\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/mono413_1.jpg?v=1709122825",
+        "altText": "Mono Wiglet 413-MP - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680053653739",
+      "title": "pretty in fabulous - R14/88H golden wheat",
+      "descriptor": "medium, classic, blonde, monofilament, R14/88H golden wheat",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "157.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/88H golden wheat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/KIDZ-PrettyInFabulous-Model-Front3.jpg?v=1709122856",
+          "altText": "pretty in fabulous - Position 1 Front View"
+        }
+      },
+      "content": "pretty in fabulous - R14/88H golden wheat\n\nDescription: medium, classic, blonde, monofilament, R14/88H golden wheat\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/KIDZ-PrettyInFabulous-Model-Front3.jpg?v=1709122856",
+        "altText": "pretty in fabulous - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680295776491",
+      "title": "lucy - creamy blonde",
+      "descriptor": "medium, classic, wavy, blonde, monofilament, creamy blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "418.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1022_Lucy_Marble-Brown-R_1-scaled_11b0c613-d5b1-40fd-a6bd-52ddd072927d.jpg?v=1744137668",
+          "altText": "lucy - Position 1 Front View"
+        }
+      },
+      "content": "lucy - creamy blonde\n\nDescription: medium, classic, wavy, blonde, monofilament, creamy blonde\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1022_Lucy_Marble-Brown-R_1-scaled_11b0c613-d5b1-40fd-a6bd-52ddd072927d.jpg?v=1744137668",
+        "altText": "lucy - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680317567211",
+      "title": "EASIPART T HD 12 - 101f48t martini",
+      "descriptor": "medium, classic, blonde, monofilament, 101f48t martini",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "353.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "101f48t martini"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easiPartT12in_12FS8_Main.jpg?v=1709123305",
+          "altText": "EASIPART T HD 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASIPART T HD 12 - 101f48t martini\n\nDescription: medium, classic, blonde, monofilament, 101f48t martini\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easiPartT12in_12FS8_Main.jpg?v=1709123305",
+        "altText": "EASIPART T HD 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680325005547",
+      "title": "Jasmine - Almond Breeze",
+      "descriptor": "medium, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Jasmine-Almond-Breeze-7990.jpg?v=1744638882",
+          "altText": "Jasmine - Position 1 Front View"
+        }
+      },
+      "content": "Jasmine - Almond Breeze\n\nDescription: medium, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Jasmine-Almond-Breeze-7990.jpg?v=1744638882",
+        "altText": "Jasmine - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680340439275",
+      "title": "Jones - caramel kiss",
+      "descriptor": "medium, classic, wavy, blonde, monofilament, caramel kiss",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "209.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "caramel kiss"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jones_M_126e2467-6387-49cf-b720-33294c3314a2.jpg?v=1744726302",
+          "altText": "Jones - Position 1 Front View"
+        }
+      },
+      "content": "Jones - caramel kiss\n\nDescription: medium, classic, wavy, blonde, monofilament, caramel kiss\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jones_M_126e2467-6387-49cf-b720-33294c3314a2.jpg?v=1744726302",
+        "altText": "Jones - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680525512939",
+      "title": "Gigi - Almond Breeze",
+      "descriptor": "medium, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "243.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Gigi.jpg?v=1744643429",
+          "altText": "Gigi - Position 1 Front View"
+        }
+      },
+      "content": "Gigi - Almond Breeze\n\nDescription: medium, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Gigi.jpg?v=1744643429",
+        "altText": "Gigi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680527282411",
+      "title": "STOP TRAFFIC - R16/21S GLAZED SAND",
+      "descriptor": "medium, classic, wavy, blonde, monofilament, R16/21S GLAZED SAND",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "259.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R16/21S GLAZED SAND"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Stop-Traffic-Model-Front-1-2-scaled.jpg?v=1744974994",
+          "altText": "STOP TRAFFIC - Position 1 Front View"
+        }
+      },
+      "content": "STOP TRAFFIC - R16/21S GLAZED SAND\n\nDescription: medium, classic, wavy, blonde, monofilament, R16/21S GLAZED SAND\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Stop-Traffic-Model-Front-1-2-scaled.jpg?v=1744974994",
+        "altText": "STOP TRAFFIC - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680548810987",
+      "title": "sandra - 10/26tt fortune cookie",
+      "descriptor": "medium, classic, blonde, monofilament, 10/26tt fortune cookie",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "501.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10/26tt fortune cookie"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/sandra-12fs8-alt__44806.1670355508.jpg?v=1745233526",
+          "altText": "sandra - Position 1 Front View"
+        }
+      },
+      "content": "sandra - 10/26tt fortune cookie\n\nDescription: medium, classic, blonde, monofilament, 10/26tt fortune cookie\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/sandra-12fs8-alt__44806.1670355508.jpg?v=1745233526",
+        "altText": "sandra - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680585412843",
+      "title": "Dream - chocolate rooted",
+      "descriptor": "medium, classic, blonde, monofilament, chocolate rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "441.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "chocolate rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at4.52.16pm.jpg?v=1709123784",
+          "altText": "Dream - Position 1 Front View"
+        }
+      },
+      "content": "Dream - chocolate rooted\n\nDescription: medium, classic, blonde, monofilament, chocolate rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at4.52.16pm.jpg?v=1709123784",
+        "altText": "Dream - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680617984235",
+      "title": "easiPart T HH 12 - 12fs8 shaded praline",
+      "descriptor": "medium, classic, blonde, monofilament, 12fs8 shaded praline",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1740.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12fs8 shaded praline"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/EasiPart_T_12in_12FS8_Main__37008.1685576679.png?v=1745228200",
+          "altText": "easiPart T HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "easiPart T HH 12 - 12fs8 shaded praline\n\nDescription: medium, classic, blonde, monofilament, 12fs8 shaded praline\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/EasiPart_T_12in_12FS8_Main__37008.1685576679.png?v=1745228200",
+        "altText": "easiPart T HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680623259883",
+      "title": "TOP NOTCH - 27b peach tart",
+      "descriptor": "medium, classic, blonde, monofilament, 27b peach tart",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "265.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27b peach tart"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top_notch_12fs8_alt__94523.1700182733.jpg?v=1744911924",
+          "altText": "TOP NOTCH - Position 1 Front View"
+        }
+      },
+      "content": "TOP NOTCH - 27b peach tart\n\nDescription: medium, classic, blonde, monofilament, 27b peach tart\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top_notch_12fs8_alt__94523.1700182733.jpg?v=1744911924",
+        "altText": "TOP NOTCH - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680706359531",
+      "title": "Top Blend HH 12 - 10H24B English Toffee",
+      "descriptor": "medium, classic, blonde, monofilament, 10H24B English Toffee",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10H24B English Toffee"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/7_hGcFhk.jpg?v=1709123993",
+          "altText": "Top Blend HH 12 - Position 1 Front View"
+        }
+      },
+      "content": "Top Blend HH 12 - 10H24B English Toffee\n\nDescription: medium, classic, blonde, monofilament, 10H24B English Toffee\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/7_hGcFhk.jpg?v=1709123993",
+        "altText": "Top Blend HH 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680763408619",
+      "title": "EASIPART MEDIUM HD 12 - 101F48T soft white front light brown w/ 75% grey w/ soft white tips",
+      "descriptor": "medium, classic, blonde, monofilament, 101F48T soft white front light brown w/ 75% grey w/ soft white tips",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "268.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "101F48T soft white front light brown w/ 75% grey w/ soft white tips"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easiPartMedium12in_6_Alt.jpg?v=1709124078",
+          "altText": "EASIPART MEDIUM HD 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASIPART MEDIUM HD 12 - 101F48T soft white front light brown w/ 75% grey w/ soft white tips\n\nDescription: medium, classic, blonde, monofilament, 101F48T soft white front light brown w/ 75% grey w/ soft white tips\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easiPartMedium12in_6_Alt.jpg?v=1709124078",
+        "altText": "EASIPART MEDIUM HD 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680765800683",
+      "title": "Affluence - G8 chestnut mist",
+      "descriptor": "medium, classic, curly, blonde, monofilament, G8 chestnut mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "323.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G8 chestnut mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/affluence-1.jpg?v=1709124080",
+          "altText": "Affluence - Position 1 Front View"
+        }
+      },
+      "content": "Affluence - G8 chestnut mist\n\nDescription: medium, classic, curly, blonde, monofilament, G8 chestnut mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/affluence-1.jpg?v=1709124080",
+        "altText": "Affluence - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680817377515",
+      "title": "STEPPING OUT - GL23-101 SUNKISSED BEIGE",
+      "descriptor": "medium, classic, blonde, monofilament, GL23-101 SUNKISSED BEIGE",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL23-101 SUNKISSED BEIGE"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-SteppingOut-Model-Front1.jpg?v=1709124158",
+          "altText": "STEPPING OUT - Position 1 Front View"
+        }
+      },
+      "content": "STEPPING OUT - GL23-101 SUNKISSED BEIGE\n\nDescription: medium, classic, blonde, monofilament, GL23-101 SUNKISSED BEIGE\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-SteppingOut-Model-Front1.jpg?v=1709124158",
+        "altText": "STEPPING OUT - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680834810091",
+      "title": "Illuminate Mono - r1b off black",
+      "descriptor": "medium, classic, blonde, monofilament, r1b off black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1811.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r1b off black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_ed9ba090-bb17-4247-886f-354beed49eab.jpg?v=1709124193",
+          "altText": "Illuminate Mono - Position 1 Front View"
+        }
+      },
+      "content": "Illuminate Mono - r1b off black\n\nDescription: medium, classic, blonde, monofilament, r1b off black\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_ed9ba090-bb17-4247-886f-354beed49eab.jpg?v=1709124193",
+        "altText": "Illuminate Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680835039467",
+      "title": "EASIPART HD 12 - 8 cocoa",
+      "descriptor": "medium, classic, blonde, monofilament, 8 cocoa",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "229.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8 cocoa"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ywb2DXcg.jpg?v=1709124195",
+          "altText": "EASIPART HD 12 - Position 1 Front View"
+        }
+      },
+      "content": "EASIPART HD 12 - 8 cocoa\n\nDescription: medium, classic, blonde, monofilament, 8 cocoa\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ywb2DXcg.jpg?v=1709124195",
+        "altText": "EASIPART HD 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680838938859",
+      "title": "faux fringe - R3025S glazed cinnamon hh",
+      "descriptor": "medium, classic, blonde, monofilament, R3025S glazed cinnamon hh",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "177.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R3025S glazed cinnamon hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Faux-Fringe-Model-Front-1-2-scaled.jpg?v=1744820854",
+          "altText": "faux fringe - Position 1 Front View"
+        }
+      },
+      "content": "faux fringe - R3025S glazed cinnamon hh\n\nDescription: medium, classic, blonde, monofilament, R3025S glazed cinnamon hh\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Faux-Fringe-Model-Front-1-2-scaled.jpg?v=1744820854",
+        "altText": "faux fringe - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45559641080043",
+      "title": "Barbara - 01B Off Black",
+      "descriptor": "medium, classic, blonde, monofilament, 01B Off Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1258.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "01B Off Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/WP123_Barbara_6..30T_04_1024x1024_2x_768eb352-efe3-4fb9-81ce-633fe8e49200.jpg?v=1745248030",
+          "altText": "Barbara - Position 1 Front View"
+        }
+      },
+      "content": "Barbara - 01B Off Black\n\nDescription: medium, classic, blonde, monofilament, 01B Off Black\n\nBrand: Wig Pro\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/WP123_Barbara_6..30T_04_1024x1024_2x_768eb352-efe3-4fb9-81ce-633fe8e49200.jpg?v=1745248030",
+        "altText": "Barbara - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45562798178539",
+      "title": "Mono Top-H - 1 Jet Black",
+      "descriptor": "medium, classic, blonde, monofilament, 1 Jet Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "946.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/WP50002_302_Mono_Top_pine_cone_12_2048x_61073b9e-9089-4663-9d3d-28a523185ec4.jpg?v=1753670076",
+          "altText": "Mono Top-H - Position 1 Front View"
+        }
+      },
+      "content": "Mono Top-H - 1 Jet Black\n\nDescription: medium, classic, blonde, monofilament, 1 Jet Black\n\nBrand: Wig Pro\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/WP50002_302_Mono_Top_pine_cone_12_2048x_61073b9e-9089-4663-9d3d-28a523185ec4.jpg?v=1753670076",
+        "altText": "Mono Top-H - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45564404662507",
+      "title": "Adelle (HT) - 01B Off Black",
+      "descriptor": "medium, classic, blonde, monofilament, 01B Off Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2488.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "01B Off Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Adelle2-1_1COPY03102020_1024x1024_2x_c587799d-0097-4fec-b6b9-ef1efd8b8377.jpg?v=1741890941",
+          "altText": "Adelle (HT) - Position 1 Front View"
+        }
+      },
+      "content": "Adelle (HT) - 01B Off Black\n\nDescription: medium, classic, blonde, monofilament, 01B Off Black\n\nBrand: Wig Pro\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Adelle2-1_1COPY03102020_1024x1024_2x_c587799d-0097-4fec-b6b9-ef1efd8b8377.jpg?v=1741890941",
+        "altText": "Adelle (HT) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46404928831723",
+      "title": "ON THE GO 10 (Facebook) - RL30/27 rusty auburn",
+      "descriptor": "medium, classic, curly, blonde, monofilament, RL30/27 rusty auburn",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "317.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL30/27 rusty auburn"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-OnTheGo10_-Model-Front1_50bcd0ea-0d5e-4fe3-8c0d-5de13b67d850.jpg?v=1756193673",
+          "altText": "ON THE GO 10 (Facebook) - Position 1 Front View"
+        }
+      },
+      "content": "ON THE GO 10 (Facebook) - RL30/27 rusty auburn\n\nDescription: medium, classic, curly, blonde, monofilament, RL30/27 rusty auburn\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-OnTheGo10_-Model-Front1_50bcd0ea-0d5e-4fe3-8c0d-5de13b67d850.jpg?v=1756193673",
+        "altText": "ON THE GO 10 (Facebook) - Position 1 Front View"
+      }
+    }
+  ]
+}

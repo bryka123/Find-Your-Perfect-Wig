@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "color": "black",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 5,
+    "filename": "black_medium_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:23:14.938Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44680217460971",
+      "title": "Making Waves Topper - Black",
+      "descriptor": "medium, classic, wavy, black, lace front, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "294.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Making-Waves-Light-Grey-OL.webp?v=1709123124",
+          "altText": "Making Waves Topper - Position 1 Front View"
+        }
+      },
+      "content": "Making Waves Topper - Black\n\nDescription: medium, classic, wavy, blonde, lace front, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Making-Waves-Light-Grey-OL.webp?v=1709123124",
+        "altText": "Making Waves Topper - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680295350507",
+      "title": "Ashley Black - Black",
+      "descriptor": "medium, classic, curly, black, lace front, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "300.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ashley.jpg?v=1709123261",
+          "altText": "Ashley Black - Position 1 Front View"
+        }
+      },
+      "content": "Ashley Black - Black\n\nDescription: medium, classic, curly, blonde, lace front, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ashley.jpg?v=1709123261",
+        "altText": "Ashley Black - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44706555003115",
+      "title": "Taylor - Black",
+      "descriptor": "medium, classic, black, lace front, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "319.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Taylor.jpg?v=1756105362",
+          "altText": "Taylor - Position 1 Front View"
+        }
+      },
+      "content": "Taylor - Black\n\nDescription: medium, classic, blonde, lace front, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Taylor.jpg?v=1756105362",
+        "altText": "Taylor - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46384420094187",
+      "title": "Top Trend Lace HD Straight 14 - 1b hot fudge",
+      "descriptor": "medium, classic, black, lace front, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "265.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-Trend-Lace-Straight-14in_6_TOPHD_25_Main__63558.1744737115.jpg?v=1758103968",
+          "altText": "Top Trend Lace HD Straight 14 - Position 1 Front View"
+        }
+      },
+      "content": "Top Trend Lace HD Straight 14 - 1b hot fudge\n\nDescription: medium, classic, blonde, lace front, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-Trend-Lace-Straight-14in_6_TOPHD_25_Main__63558.1744737115.jpg?v=1758103968",
+        "altText": "Top Trend Lace HD Straight 14 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46384481632491",
+      "title": "Top Trend Lace HD Wavy 14 - 1b hot fudge",
+      "descriptor": "medium, classic, wavy, black, lace front, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "265.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-Trend-Lace-Wavy-14in_6_TOPHD_25_Main__89402.1745005645.jpg?v=1758104038",
+          "altText": "Top Trend Lace HD Wavy 14 - Position 1 Front View"
+        }
+      },
+      "content": "Top Trend Lace HD Wavy 14 - 1b hot fudge\n\nDescription: medium, classic, wavy, blonde, lace front, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-Trend-Lace-Wavy-14in_6_TOPHD_25_Main__89402.1745005645.jpg?v=1758104038",
+        "altText": "Top Trend Lace HD Wavy 14 - Position 1 Front View"
+      }
+    }
+  ]
+}

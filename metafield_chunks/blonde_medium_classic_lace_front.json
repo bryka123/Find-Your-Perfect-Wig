@@ -1,0 +1,1366 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 50,
+    "filename": "blonde_medium_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:06:49.999Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679488962795",
+      "title": "Julia - 24b22 creme brule",
+      "descriptor": "medium, classic, blonde, lace front, 24b22 creme brule",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24b22 creme brule"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j6-2.jpg?v=1709121933",
+          "altText": "Julia - 24b22 creme brule"
+        }
+      },
+      "content": "Julia - 24b22 creme brule\n\nDescription: medium, classic, blonde, lace front, 24b22 creme brule\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j6-2.jpg?v=1709121933",
+        "altText": "Julia - 24b22 creme brule"
+      }
+    },
+    {
+      "id": "44679489028331",
+      "title": "Julia - 24bt18s8 shaded mocha",
+      "descriptor": "medium, classic, blonde, lace front, 24bt18s8 shaded mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24bt18s8 shaded mocha"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j4-3.jpg?v=1709121933",
+          "altText": "Julia - 24bt18s8 shaded mocha"
+        }
+      },
+      "content": "Julia - 24bt18s8 shaded mocha\n\nDescription: medium, classic, blonde, lace front, 24bt18s8 shaded mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j4-3.jpg?v=1709121933",
+        "altText": "Julia - 24bt18s8 shaded mocha"
+      }
+    },
+    {
+      "id": "44679489192171",
+      "title": "Julia - 8rh14 mousse cake",
+      "descriptor": "medium, classic, blonde, lace front, 8rh14 mousse cake",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8rh14 mousse cake"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j1-2.jpg?v=1709121933",
+          "altText": "Julia - 8rh14 mousse cake"
+        }
+      },
+      "content": "Julia - 8rh14 mousse cake\n\nDescription: medium, classic, blonde, lace front, 8rh14 mousse cake\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j1-2.jpg?v=1709121933",
+        "altText": "Julia - 8rh14 mousse cake"
+      }
+    },
+    {
+      "id": "44679489454315",
+      "title": "Julia - fs26/31 caramel syrup",
+      "descriptor": "medium, classic, blonde, lace front, fs26/31 caramel syrup",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs26/31 caramel syrup"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/LFMONOWEFT_158c9c98-7250-427d-8850-6e3229c5c950.jpg?v=1709121933",
+          "altText": "Julia - fs26/31 caramel syrup"
+        }
+      },
+      "content": "Julia - fs26/31 caramel syrup\n\nDescription: medium, classic, blonde, lace front, fs26/31 caramel syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/LFMONOWEFT_158c9c98-7250-427d-8850-6e3229c5c950.jpg?v=1709121933",
+        "altText": "Julia - fs26/31 caramel syrup"
+      }
+    },
+    {
+      "id": "44679489519851",
+      "title": "Julia - 130/31 cherry cobbler",
+      "descriptor": "medium, classic, blonde, lace front, 130/31 cherry cobbler",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "130/31 cherry cobbler"
+          }
+        ]
+      },
+      "content": "Julia - 130/31 cherry cobbler\n\nDescription: medium, classic, blonde, lace front, 130/31 cherry cobbler\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489618155",
+      "title": "Julia - 12fs8 shaded praline",
+      "descriptor": "medium, classic, blonde, lace front, 12fs8 shaded praline",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12fs8 shaded praline"
+          }
+        ]
+      },
+      "content": "Julia - 12fs8 shaded praline\n\nDescription: medium, classic, blonde, lace front, 12fs8 shaded praline\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489683691",
+      "title": "Julia - 101f48t martini",
+      "descriptor": "medium, classic, blonde, lace front, 101f48t martini",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "101f48t martini"
+          }
+        ]
+      },
+      "content": "Julia - 101f48t martini\n\nDescription: medium, classic, blonde, lace front, 101f48t martini\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489847531",
+      "title": "Julia - fs27 strawberry syrup",
+      "descriptor": "medium, classic, blonde, lace front, fs27 strawberry syrup",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs27 strawberry syrup"
+          }
+        ]
+      },
+      "content": "Julia - fs27 strawberry syrup\n\nDescription: medium, classic, blonde, lace front, fs27 strawberry syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489913067",
+      "title": "Julia - 10rh16 caffe mocha",
+      "descriptor": "medium, classic, blonde, lace front, 10rh16 caffe mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10rh16 caffe mocha"
+          }
+        ]
+      },
+      "content": "Julia - 10rh16 caffe mocha\n\nDescription: medium, classic, blonde, lace front, 10rh16 caffe mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490011371",
+      "title": "Julia - 60 winter sun",
+      "descriptor": "medium, classic, blonde, lace front, 60 winter sun",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "60 winter sun"
+          }
+        ]
+      },
+      "content": "Julia - 60 winter sun\n\nDescription: medium, classic, blonde, lace front, 60 winter sun\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490109675",
+      "title": "Julia - 8/32 cocoa bean",
+      "descriptor": "medium, classic, blonde, lace front, 8/32 cocoa bean",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8/32 cocoa bean"
+          }
+        ]
+      },
+      "content": "Julia - 8/32 cocoa bean\n\nDescription: medium, classic, blonde, lace front, 8/32 cocoa bean\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490207979",
+      "title": "Julia - 24bt18 eclair",
+      "descriptor": "medium, classic, blonde, lace front, 24bt18 eclair",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24bt18 eclair"
+          }
+        ]
+      },
+      "content": "Julia - 24bt18 eclair\n\nDescription: medium, classic, blonde, lace front, 24bt18 eclair\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490339051",
+      "title": "Julia - fs12/24b cinnamon syrup",
+      "descriptor": "medium, classic, blonde, lace front, fs12/24b cinnamon syrup",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs12/24b cinnamon syrup"
+          }
+        ]
+      },
+      "content": "Julia - fs12/24b cinnamon syrup\n\nDescription: medium, classic, blonde, lace front, fs12/24b cinnamon syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490404587",
+      "title": "Julia - 56f51 oyster",
+      "descriptor": "medium, classic, blonde, lace front, 56f51 oyster",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "56f51 oyster"
+          }
+        ]
+      },
+      "content": "Julia - 56f51 oyster\n\nDescription: medium, classic, blonde, lace front, 56f51 oyster\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490535659",
+      "title": "Julia - 14/26s10 shaded pralines n' cream",
+      "descriptor": "medium, classic, blonde, lace front, 14/26s10 shaded pralines n' cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/26s10 shaded pralines n' cream"
+          }
+        ]
+      },
+      "content": "Julia - 14/26s10 shaded pralines n' cream\n\nDescription: medium, classic, blonde, lace front, 14/26s10 shaded pralines n' cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488110827",
+      "title": "Destiny - Amaretto & Cream",
+      "descriptor": "medium, classic, blonde, lace front, Amaretto & Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Amaretto & Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Destiny_20RS.webp?v=1744646051",
+          "altText": "Destiny - Amaretto & Cream"
+        }
+      },
+      "content": "Destiny - Amaretto & Cream\n\nDescription: medium, classic, blonde, lace front, Amaretto & Cream\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Destiny_20RS.webp?v=1744646051",
+        "altText": "Destiny - Amaretto & Cream"
+      }
+    },
+    {
+      "id": "44679488176363",
+      "title": "Destiny - Chocolate Caramel",
+      "descriptor": "medium, classic, blonde, lace front, Chocolate Caramel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chocolate Caramel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Destiny_20Back.webp?v=1744646091",
+          "altText": "Destiny - Chocolate Caramel"
+        }
+      },
+      "content": "Destiny - Chocolate Caramel\n\nDescription: medium, classic, blonde, lace front, Chocolate Caramel\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Destiny_20Back.webp?v=1744646091",
+        "altText": "Destiny - Chocolate Caramel"
+      }
+    },
+    {
+      "id": "44679488209131",
+      "title": "Destiny - Chocolate Cherry",
+      "descriptor": "medium, classic, blonde, lace front, Chocolate Cherry",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chocolate Cherry"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Destiny_20CC.webp?v=1709121933",
+          "altText": "Destiny - Chocolate Cherry"
+        }
+      },
+      "content": "Destiny - Chocolate Cherry\n\nDescription: medium, classic, blonde, lace front, Chocolate Cherry\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Destiny_20CC.webp?v=1709121933",
+        "altText": "Destiny - Chocolate Cherry"
+      }
+    },
+    {
+      "id": "44679488241899",
+      "title": "Destiny - Creamed Coffee",
+      "descriptor": "medium, classic, blonde, lace front, Creamed Coffee",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Creamed Coffee"
+          }
+        ]
+      },
+      "content": "Destiny - Creamed Coffee\n\nDescription: medium, classic, blonde, lace front, Creamed Coffee\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488307435",
+      "title": "Destiny - Dark Blonde",
+      "descriptor": "medium, classic, blonde, lace front, Dark Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Blonde"
+          }
+        ]
+      },
+      "content": "Destiny - Dark Blonde\n\nDescription: medium, classic, blonde, lace front, Dark Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488372971",
+      "title": "Destiny - Dark Red",
+      "descriptor": "medium, classic, blonde, lace front, Dark Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Red"
+          }
+        ]
+      },
+      "content": "Destiny - Dark Red\n\nDescription: medium, classic, blonde, lace front, Dark Red\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488405739",
+      "title": "Destiny - Frosted",
+      "descriptor": "medium, classic, blonde, lace front, Frosted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Frosted"
+          }
+        ]
+      },
+      "content": "Destiny - Frosted\n\nDescription: medium, classic, blonde, lace front, Frosted\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488438507",
+      "title": "Destiny - Ginger Cream",
+      "descriptor": "medium, classic, blonde, lace front, Ginger Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger Cream"
+          }
+        ]
+      },
+      "content": "Destiny - Ginger Cream\n\nDescription: medium, classic, blonde, lace front, Ginger Cream\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488471275",
+      "title": "Destiny - Golden Nutmeg",
+      "descriptor": "medium, classic, blonde, lace front, Golden Nutmeg",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Golden Nutmeg"
+          }
+        ]
+      },
+      "content": "Destiny - Golden Nutmeg\n\nDescription: medium, classic, blonde, lace front, Golden Nutmeg\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488504043",
+      "title": "Destiny - Light Blonde",
+      "descriptor": "medium, classic, blonde, lace front, Light Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Blonde"
+          }
+        ]
+      },
+      "content": "Destiny - Light Blonde\n\nDescription: medium, classic, blonde, lace front, Light Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488536811",
+      "title": "Destiny - Light Brown",
+      "descriptor": "medium, classic, blonde, lace front, Light Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Brown"
+          }
+        ]
+      },
+      "content": "Destiny - Light Brown\n\nDescription: medium, classic, blonde, lace front, Light Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488569579",
+      "title": "Destiny - Lighter Red",
+      "descriptor": "medium, classic, blonde, lace front, Lighter Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Lighter Red"
+          }
+        ]
+      },
+      "content": "Destiny - Lighter Red\n\nDescription: medium, classic, blonde, lace front, Lighter Red\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488602347",
+      "title": "Destiny - Medium Blonde",
+      "descriptor": "medium, classic, blonde, lace front, Medium Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Blonde"
+          }
+        ]
+      },
+      "content": "Destiny - Medium Blonde\n\nDescription: medium, classic, blonde, lace front, Medium Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488700651",
+      "title": "Destiny - Sparkling Champagne",
+      "descriptor": "medium, classic, blonde, lace front, Sparkling Champagne",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sparkling Champagne"
+          }
+        ]
+      },
+      "content": "Destiny - Sparkling Champagne\n\nDescription: medium, classic, blonde, lace front, Sparkling Champagne\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488733419",
+      "title": "Destiny - Toasted Sesame",
+      "descriptor": "medium, classic, blonde, lace front, Toasted Sesame",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Toasted Sesame"
+          }
+        ]
+      },
+      "content": "Destiny - Toasted Sesame\n\nDescription: medium, classic, blonde, lace front, Toasted Sesame\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488766187",
+      "title": "Destiny - Vanilla Butter",
+      "descriptor": "medium, classic, blonde, lace front, Vanilla Butter",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Vanilla Butter"
+          }
+        ]
+      },
+      "content": "Destiny - Vanilla Butter\n\nDescription: medium, classic, blonde, lace front, Vanilla Butter\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488798955",
+      "title": "Destiny - Dark Grey",
+      "descriptor": "medium, classic, blonde, lace front, Dark Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Grey"
+          }
+        ]
+      },
+      "content": "Destiny - Dark Grey\n\nDescription: medium, classic, blonde, lace front, Dark Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488864491",
+      "title": "Destiny - Medium Grey",
+      "descriptor": "medium, classic, blonde, lace front, Medium Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Grey"
+          }
+        ]
+      },
+      "content": "Destiny - Medium Grey\n\nDescription: medium, classic, blonde, lace front, Medium Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679492567275",
+      "title": "Gala - silver mix",
+      "descriptor": "medium, classic, blonde, lace front, silver mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "509.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "silver mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_gala_2.jpg?v=1709121934",
+          "altText": "Gala - silver mix"
+        }
+      },
+      "content": "Gala - silver mix\n\nDescription: medium, classic, blonde, lace front, silver mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_gala_2.jpg?v=1709121934",
+        "altText": "Gala - silver mix"
+      }
+    },
+    {
+      "id": "44679492731115",
+      "title": "Gala - chocolate rooted",
+      "descriptor": "medium, classic, blonde, lace front, chocolate rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "509.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "chocolate rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-gala-3_1.jpg?v=1744312344",
+          "altText": "Gala - chocolate rooted"
+        }
+      },
+      "content": "Gala - chocolate rooted\n\nDescription: medium, classic, blonde, lace front, chocolate rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-gala-3_1.jpg?v=1744312344",
+        "altText": "Gala - chocolate rooted"
+      }
+    },
+    {
+      "id": "44679492927723",
+      "title": "Gala - sandy blonde rooted",
+      "descriptor": "medium, classic, blonde, lace front, sandy blonde rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "509.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sandy blonde rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_gala_3.jpg?v=1744312344",
+          "altText": "Gala - sandy blonde rooted"
+        }
+      },
+      "content": "Gala - sandy blonde rooted\n\nDescription: medium, classic, blonde, lace front, sandy blonde rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_gala_3.jpg?v=1744312344",
+        "altText": "Gala - sandy blonde rooted"
+      }
+    },
+    {
+      "id": "44679490601195",
+      "title": "elle - 1 jet",
+      "descriptor": "medium, classic, blonde, lace front, 1 jet",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 jet"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Main.png?v=1709121933",
+          "altText": "elle - 1 jet"
+        }
+      },
+      "content": "elle - 1 jet\n\nDescription: medium, classic, blonde, lace front, 1 jet\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Main.png?v=1709121933",
+        "altText": "elle - 1 jet"
+      }
+    },
+    {
+      "id": "44679490633963",
+      "title": "elle - 101f48t martini",
+      "descriptor": "medium, classic, blonde, lace front, 101f48t martini",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "101f48t martini"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Side.png?v=1709121933",
+          "altText": "elle - 101f48t martini"
+        }
+      },
+      "content": "elle - 101f48t martini\n\nDescription: medium, classic, blonde, lace front, 101f48t martini\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Side.png?v=1709121933",
+        "altText": "elle - 101f48t martini"
+      }
+    },
+    {
+      "id": "44679490666731",
+      "title": "elle - 10rh16 caffe mocha",
+      "descriptor": "medium, classic, blonde, lace front, 10rh16 caffe mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10rh16 caffe mocha"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_093A1725.jpg?v=1709121933",
+          "altText": "elle - 10rh16 caffe mocha"
+        }
+      },
+      "content": "elle - 10rh16 caffe mocha\n\nDescription: medium, classic, blonde, lace front, 10rh16 caffe mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_093A1725.jpg?v=1709121933",
+        "altText": "elle - 10rh16 caffe mocha"
+      }
+    },
+    {
+      "id": "44679490699499",
+      "title": "elle - 12/30bt rootbeer float",
+      "descriptor": "medium, classic, blonde, lace front, 12/30bt rootbeer float",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12/30bt rootbeer float"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_01_lg.jpg?v=1709121933",
+          "altText": "elle - 12/30bt rootbeer float"
+        }
+      },
+      "content": "elle - 12/30bt rootbeer float\n\nDescription: medium, classic, blonde, lace front, 12/30bt rootbeer float\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_01_lg.jpg?v=1709121933",
+        "altText": "elle - 12/30bt rootbeer float"
+      }
+    },
+    {
+      "id": "44679490732267",
+      "title": "elle - 12fs8 shaded praline",
+      "descriptor": "medium, classic, blonde, lace front, 12fs8 shaded praline",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12fs8 shaded praline"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_02_lg.jpg?v=1709121933",
+          "altText": "elle - 12fs8 shaded praline"
+        }
+      },
+      "content": "elle - 12fs8 shaded praline\n\nDescription: medium, classic, blonde, lace front, 12fs8 shaded praline\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_02_lg.jpg?v=1709121933",
+        "altText": "elle - 12fs8 shaded praline"
+      }
+    },
+    {
+      "id": "44679490765035",
+      "title": "elle - 14/26 Pralines n' Cream",
+      "descriptor": "medium, classic, blonde, lace front, 14/26 Pralines n' Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/26 Pralines n' Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_03_lg.jpg?v=1709121933",
+          "altText": "elle - 14/26 Pralines n' Cream"
+        }
+      },
+      "content": "elle - 14/26 Pralines n' Cream\n\nDescription: medium, classic, blonde, lace front, 14/26 Pralines n' Cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_03_lg.jpg?v=1709121933",
+        "altText": "elle - 14/26 Pralines n' Cream"
+      }
+    },
+    {
+      "id": "44679490830571",
+      "title": "elle - 14/26s10 shaded pralines n' cream",
+      "descriptor": "medium, classic, blonde, lace front, 14/26s10 shaded pralines n' cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/26s10 shaded pralines n' cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_06_lg.jpg?v=1709121933",
+          "altText": "elle - 14/26s10 shaded pralines n' cream"
+        }
+      },
+      "content": "elle - 14/26s10 shaded pralines n' cream\n\nDescription: medium, classic, blonde, lace front, 14/26s10 shaded pralines n' cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5382_06_lg.jpg?v=1709121933",
+        "altText": "elle - 14/26s10 shaded pralines n' cream"
+      }
+    },
+    {
+      "id": "44679490961643",
+      "title": "elle - 1brh30 dk chocolate cherry ganache",
+      "descriptor": "medium, classic, blonde, lace front, 1brh30 dk chocolate cherry ganache",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1brh30 dk chocolate cherry ganache"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lace-Front-Monofilament-Top-e1450412082953_8310a8ad-8985-4271-ade9-be1e3c4283bf.jpg?v=1709121933",
+          "altText": "elle - 1brh30 dk chocolate cherry ganache"
+        }
+      },
+      "content": "elle - 1brh30 dk chocolate cherry ganache\n\nDescription: medium, classic, blonde, lace front, 1brh30 dk chocolate cherry ganache\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lace-Front-Monofilament-Top-e1450412082953_8310a8ad-8985-4271-ade9-be1e3c4283bf.jpg?v=1709121933",
+        "altText": "elle - 1brh30 dk chocolate cherry ganache"
+      }
+    },
+    {
+      "id": "44679491027179",
+      "title": "elle - 22f16 pina colada",
+      "descriptor": "medium, classic, blonde, lace front, 22f16 pina colada",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "22f16 pina colada"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Marketing-Image.jpg?v=1709121933",
+          "altText": "elle - 22f16 pina colada"
+        }
+      },
+      "content": "elle - 22f16 pina colada\n\nDescription: medium, classic, blonde, lace front, 22f16 pina colada\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Elle_S2-103_18RO_Midnight_Marketing-Image.jpg?v=1709121933",
+        "altText": "elle - 22f16 pina colada"
+      }
+    },
+    {
+      "id": "44679491092715",
+      "title": "elle - 24b22 creme brule",
+      "descriptor": "medium, classic, blonde, lace front, 24b22 creme brule",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24b22 creme brule"
+          }
+        ]
+      },
+      "content": "elle - 24b22 creme brule\n\nDescription: medium, classic, blonde, lace front, 24b22 creme brule\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491191019",
+      "title": "elle - 24bt18 eclair",
+      "descriptor": "medium, classic, blonde, lace front, 24bt18 eclair",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24bt18 eclair"
+          }
+        ]
+      },
+      "content": "elle - 24bt18 eclair\n\nDescription: medium, classic, blonde, lace front, 24bt18 eclair\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491256555",
+      "title": "elle - 24bt18s8 shaded mocha",
+      "descriptor": "medium, classic, blonde, lace front, 24bt18s8 shaded mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24bt18s8 shaded mocha"
+          }
+        ]
+      },
+      "content": "elle - 24bt18s8 shaded mocha\n\nDescription: medium, classic, blonde, lace front, 24bt18s8 shaded mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491322091",
+      "title": "elle - 27mb strawberry shortcake",
+      "descriptor": "medium, classic, blonde, lace front, 27mb strawberry shortcake",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27mb strawberry shortcake"
+          }
+        ]
+      },
+      "content": "elle - 27mb strawberry shortcake\n\nDescription: medium, classic, blonde, lace front, 27mb strawberry shortcake\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491387627",
+      "title": "elle - 27t613s8 shaded sun",
+      "descriptor": "medium, classic, blonde, lace front, 27t613s8 shaded sun",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27t613s8 shaded sun"
+          }
+        ]
+      },
+      "content": "elle - 27t613s8 shaded sun\n\nDescription: medium, classic, blonde, lace front, 27t613s8 shaded sun\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    }
+  ]
+}

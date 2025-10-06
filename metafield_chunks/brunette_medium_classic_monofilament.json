@@ -1,0 +1,1350 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "monofilament",
+    "totalVariants": 50,
+    "filename": "brunette_medium_classic_monofilament.json",
+    "generated_at": "2025-09-24T16:06:50.004Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679489356011",
+      "title": "Kylie - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Kylie - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489487083",
+      "title": "Kylie - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Kylie - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490076907",
+      "title": "Kylie - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Kylie - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490175211",
+      "title": "Kylie - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Kylie - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504494827",
+      "title": "brandi - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14000_f503d745-276d-4d86-8078-666d70cfa116.jpg?v=1709121943",
+          "altText": "brandi - dark chocolate"
+        }
+      },
+      "content": "brandi - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14000_f503d745-276d-4d86-8078-666d70cfa116.jpg?v=1709121943",
+        "altText": "brandi - dark chocolate"
+      }
+    },
+    {
+      "id": "44679561511147",
+      "title": "Part The Crowd Topper - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Part-The-Crowd-Topper-CC.jpg?v=1709122049",
+          "altText": "Part The Crowd Topper - Cinnamon Raisin"
+        }
+      },
+      "content": "Part The Crowd Topper - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Part-The-Crowd-Topper-CC.jpg?v=1709122049",
+        "altText": "Part The Crowd Topper - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679561576683",
+      "title": "Part The Crowd Topper - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Part The Crowd Topper - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679561740523",
+      "title": "Part The Crowd Topper - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Part The Crowd Topper - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679561773291",
+      "title": "Part The Crowd Topper - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Part The Crowd Topper - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679562559723",
+      "title": "Aubrey - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Aubrey - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679562625259",
+      "title": "Aubrey - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Aubrey - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679563051243",
+      "title": "Aubrey - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Aubrey - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679563149547",
+      "title": "Aubrey - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Aubrey - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679612039403",
+      "title": "Malibu - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "435.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ]
+      },
+      "content": "Malibu - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679650836715",
+      "title": "angelica part mono - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "446.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ]
+      },
+      "content": "angelica part mono - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679694745835",
+      "title": "erin - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "322.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Amore-DoubleMono-side2_ffdec9d2-21dd-4cf8-8721-059f5d455b21.jpg?v=1744982556",
+          "altText": "erin - dark chocolate"
+        }
+      },
+      "content": "erin - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Amore-DoubleMono-side2_ffdec9d2-21dd-4cf8-8721-059f5d455b21.jpg?v=1744982556",
+        "altText": "erin - dark chocolate"
+      }
+    },
+    {
+      "id": "44679693435115",
+      "title": "Kris - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Kris - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679693500651",
+      "title": "Kris - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Kris - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679693893867",
+      "title": "Kris - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Kris - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679693926635",
+      "title": "Kris - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Kris - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679696613611",
+      "title": "Flame - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/flame_-sparkling-champagne-1272.webp?v=1744994557",
+          "altText": "Flame - Cinnamon Raisin"
+        }
+      },
+      "content": "Flame - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/flame_-sparkling-champagne-1272.webp?v=1744994557",
+        "altText": "Flame - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679696679147",
+      "title": "Flame - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/flame_-sparkling-champagne-1363.webp?v=1744994557",
+          "altText": "Flame - Dark Brown"
+        }
+      },
+      "content": "Flame - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/flame_-sparkling-champagne-1363.webp?v=1744994557",
+        "altText": "Flame - Dark Brown"
+      }
+    },
+    {
+      "id": "44679696974059",
+      "title": "Flame - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Flame - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679697006827",
+      "title": "Flame - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Flame - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679708410091",
+      "title": "Top Mono - espresso mix",
+      "descriptor": "medium, classic, brunette, monofilament, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "356.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ]
+      },
+      "content": "Top Mono - espresso mix\n\nDescription: medium, classic, blonde, monofilament, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679710605547",
+      "title": "Top Notch HD - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, monofilament, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "264.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/essentially_you_placement__33610.1578371560.1280.1280__45103_1_8039b6f3-161e-4e64-b888-8f208bc5a2e6.jpg?v=1709122333",
+          "altText": "Top Notch HD - 6/33 raspberry twist"
+        }
+      },
+      "content": "Top Notch HD - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, monofilament, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/essentially_you_placement__33610.1578371560.1280.1280__45103_1_8039b6f3-161e-4e64-b888-8f208bc5a2e6.jpg?v=1709122333",
+        "altText": "Top Notch HD - 6/33 raspberry twist"
+      }
+    },
+    {
+      "id": "44679723122923",
+      "title": "Grace - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/grace_-cinnamon-raisin-1078.webp?v=1744995181",
+          "altText": "Grace - Cinnamon Raisin"
+        }
+      },
+      "content": "Grace - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/grace_-cinnamon-raisin-1078.webp?v=1744995181",
+        "altText": "Grace - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679723188459",
+      "title": "Grace - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Grace_20CC.webp?v=1744995181",
+          "altText": "Grace - Dark Brown"
+        }
+      },
+      "content": "Grace - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Grace_20CC.webp?v=1744995181",
+        "altText": "Grace - Dark Brown"
+      }
+    },
+    {
+      "id": "44679723483371",
+      "title": "Grace - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Grace - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679723516139",
+      "title": "Grace - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Grace - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679737671915",
+      "title": "Kenzie - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "446.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ]
+      },
+      "content": "Kenzie - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679738360043",
+      "title": "SUE mono - espresso mix",
+      "descriptor": "medium, classic, brunette, monofilament, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ]
+      },
+      "content": "SUE mono - espresso mix\n\nDescription: medium, classic, blonde, monofilament, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679740784875",
+      "title": "diamond topper - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "867.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/diamondtopper3.jpg?v=1709122382",
+          "altText": "diamond topper - dark chocolate"
+        }
+      },
+      "content": "diamond topper - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/diamondtopper3.jpg?v=1709122382",
+        "altText": "diamond topper - dark chocolate"
+      }
+    },
+    {
+      "id": "44679376863467",
+      "title": "Tiffany Petite Mono - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20Back_325bfa67-ab2f-4ede-84ab-1a48f56d9dc5.webp?v=1709121858",
+          "altText": "Tiffany Petite Mono - Cinnamon Raisin"
+        }
+      },
+      "content": "Tiffany Petite Mono - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20Back_325bfa67-ab2f-4ede-84ab-1a48f56d9dc5.webp?v=1709121858",
+        "altText": "Tiffany Petite Mono - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679376929003",
+      "title": "Tiffany Petite Mono - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Tiffany Petite Mono - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679377223915",
+      "title": "Tiffany Petite Mono - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Tiffany Petite Mono - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679377256683",
+      "title": "Tiffany Petite Mono - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Tiffany Petite Mono - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679382466795",
+      "title": "Kris - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "704.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/k2-1.jpg?v=1744140493",
+          "altText": "Kris - dark chocolate"
+        }
+      },
+      "content": "Kris - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/k2-1.jpg?v=1744140493",
+        "altText": "Kris - dark chocolate"
+      }
+    },
+    {
+      "id": "44679387021547",
+      "title": "Keira Mono - espresso mix",
+      "descriptor": "medium, classic, brunette, monofilament, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/keira_mono_3.jpg?v=1709121867",
+          "altText": "Keira Mono - espresso mix"
+        }
+      },
+      "content": "Keira Mono - espresso mix\n\nDescription: medium, classic, blonde, monofilament, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/keira_mono_3.jpg?v=1709121867",
+        "altText": "Keira Mono - espresso mix"
+      }
+    },
+    {
+      "id": "44679385743595",
+      "title": "Kitana - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/kitana_-ginger-cream-3851.jpg?v=1744993181",
+          "altText": "Kitana - Cinnamon Raisin"
+        }
+      },
+      "content": "Kitana - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/kitana_-ginger-cream-3851.jpg?v=1744993181",
+        "altText": "Kitana - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679385874667",
+      "title": "Kitana - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/kitana_-ginger-cream-3933.jpg?v=1744993181",
+          "altText": "Kitana - Dark Brown"
+        }
+      },
+      "content": "Kitana - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/kitana_-ginger-cream-3933.jpg?v=1744993181",
+        "altText": "Kitana - Dark Brown"
+      }
+    },
+    {
+      "id": "44679386267883",
+      "title": "Kitana - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Kitana - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679386300651",
+      "title": "Kitana - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Kitana - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679422247147",
+      "title": "Nadia - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Nadia - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679422378219",
+      "title": "Nadia - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Nadia - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679422968043",
+      "title": "Nadia - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Nadia - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679423000811",
+      "title": "Nadia - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Nadia - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679471923435",
+      "title": "Fenja - espresso mix",
+      "descriptor": "medium, classic, brunette, monofilament, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "334.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_FenjaFenja-Small_2.jpg?v=1709121922",
+          "altText": "Fenja - espresso mix"
+        }
+      },
+      "content": "Fenja - espresso mix\n\nDescription: medium, classic, blonde, monofilament, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_FenjaFenja-Small_2.jpg?v=1709121922",
+        "altText": "Fenja - espresso mix"
+      }
+    },
+    {
+      "id": "44679756120299",
+      "title": "Taryn - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1201.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tayrn_20LS.webp?v=1744992416",
+          "altText": "Taryn - Cinnamon Raisin"
+        }
+      },
+      "content": "Taryn - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tayrn_20LS.webp?v=1744992416",
+        "altText": "Taryn - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679756185835",
+      "title": "Taryn - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1201.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Taryn.webp?v=1744992416",
+          "altText": "Taryn - Dark Brown"
+        }
+      },
+      "content": "Taryn - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/8_20Taryn.webp?v=1744992416",
+        "altText": "Taryn - Dark Brown"
+      }
+    }
+  ]
+}

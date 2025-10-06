@@ -1,0 +1,34 @@
+{
+  "style": {
+    "type": "Medium Layered Waves",
+    "length_category": "Medium",
+    "texture": "Wavy",
+    "parting": "Side Part"
+  },
+  "color": {
+    "family": "Blonde",
+    "shade": "Light Golden Blonde",
+    "undertone": "Warm",
+    "rooted": true,
+    "highlights": "None"
+  },
+  "palette_lab": [
+    {
+      "L": 85,
+      "a": 5,
+      "b": 30
+    },
+    {
+      "L": 75,
+      "a": 3,
+      "b": 25
+    },
+    {
+      "L": 65,
+      "a": 2,
+      "b": 20
+    }
+  ],
+  "overall_confidence": 0.95,
+  "notes": "The hair is styled in medium waves with a warm, light golden blonde color, darker at the roots."
+}

@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "type": "metafield_chunks_index",
+    "description": "Multi-dimensional chunks by color+length+style+construction",
+    "total_chunks": 20,
+    "total_variants": 2007,
+    "generated_at": "2025-09-24T16:23:14.938Z"
+  },
+  "chunks": [
+    {
+      "chunkKey": "blonde_long_classic_lace_front",
+      "color": "blonde",
+      "length": "long",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "blonde_long_classic_lace_front.json",
+      "variants": 50,
+      "sizeKB": 71.56,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_short_classic_lace_front",
+      "color": "blonde",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "blonde_short_classic_lace_front.json",
+      "variants": 50,
+      "sizeKB": 70.68,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_short_classic_monofilament",
+      "color": "blonde",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "monofilament",
+      "filename": "blonde_short_classic_monofilament.json",
+      "variants": 50,
+      "sizeKB": 70.32,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_medium_classic_lace_front",
+      "color": "blonde",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "blonde_medium_classic_lace_front.json",
+      "variants": 50,
+      "sizeKB": 71.4,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_medium_classic_basic",
+      "color": "blonde",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "blonde_medium_classic_basic.json",
+      "variants": 50,
+      "sizeKB": 69.76,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_short_classic_basic",
+      "color": "blonde",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "blonde_short_classic_basic.json",
+      "variants": 50,
+      "sizeKB": 69.79,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_short_classic_lace_front",
+      "color": "brunette",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "brunette_short_classic_lace_front.json",
+      "variants": 30,
+      "sizeKB": 43.2,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_long_classic_monofilament",
+      "color": "blonde",
+      "length": "long",
+      "style": "classic",
+      "capConstruction": "monofilament",
+      "filename": "blonde_long_classic_monofilament.json",
+      "variants": 49,
+      "sizeKB": 70.92,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "black_medium_classic_basic",
+      "color": "black",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "black_medium_classic_basic.json",
+      "variants": 20,
+      "sizeKB": 27.61,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_medium_classic_monofilament",
+      "color": "blonde",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "monofilament",
+      "filename": "blonde_medium_classic_monofilament.json",
+      "variants": 50,
+      "sizeKB": 72.56,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_long_classic_basic",
+      "color": "blonde",
+      "length": "long",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "blonde_long_classic_basic.json",
+      "variants": 50,
+      "sizeKB": 71.46,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_medium_classic_basic",
+      "color": "brunette",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "brunette_medium_classic_basic.json",
+      "variants": 50,
+      "sizeKB": 74.58,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_short_classic_basic",
+      "color": "brunette",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "brunette_short_classic_basic.json",
+      "variants": 18,
+      "sizeKB": 25.31,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_medium_classic_lace_front",
+      "color": "brunette",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "brunette_medium_classic_lace_front.json",
+      "variants": 32,
+      "sizeKB": 46.92,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_long_classic_lace_front",
+      "color": "brunette",
+      "length": "long",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "brunette_long_classic_lace_front.json",
+      "variants": 22,
+      "sizeKB": 32.97,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_long_classic_basic",
+      "color": "brunette",
+      "length": "long",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "brunette_long_classic_basic.json",
+      "variants": 10,
+      "sizeKB": 14.02,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "black_short_classic_basic",
+      "color": "black",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "basic",
+      "filename": "black_short_classic_basic.json",
+      "variants": 6,
+      "sizeKB": 8.55,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "brunette_medium_classic_monofilament",
+      "color": "brunette",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "monofilament",
+      "filename": "brunette_medium_classic_monofilament.json",
+      "variants": 6,
+      "sizeKB": 10.3,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "blonde_short_classic_hand_tied",
+      "color": "blonde",
+      "length": "short",
+      "style": "classic",
+      "capConstruction": "hand",
+      "filename": "blonde_short_classic_hand_tied.json",
+      "variants": 8,
+      "sizeKB": 11.4,
+      "includesReference": false
+    },
+    {
+      "chunkKey": "black_medium_classic_lace_front",
+      "color": "black",
+      "length": "medium",
+      "style": "classic",
+      "capConstruction": "lace",
+      "filename": "black_medium_classic_lace_front.json",
+      "variants": 5,
+      "sizeKB": 7.34,
+      "includesReference": false
+    }
+  ],
+  "search_strategy": {
+    "blonde_hair": "Search blonde_* chunks based on desired length/style",
+    "brunette_hair": "Search brunette_* chunks based on desired length/style",
+    "example": "blonde + long + classic + lace_front → blonde_long_classic_lace_front.json"
+  }
+}

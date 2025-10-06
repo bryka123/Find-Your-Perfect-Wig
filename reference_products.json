@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "description": "Known product images for exact matching",
+    "createdAt": "2025-09-24T18:51:02.914Z"
+  },
+  "products": [
+    {
+      "id": "46738149671147",
+      "title": "Sorrento Surprise (Live) - RH22/26SS SHADED FRENCH VANILLA",
+      "colorName": "RH22/26SS SHADED FRENCH VANILLA",
+      "colorFamily": "blonde",
+      "price": "1207.99",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SorrentoSurprise2.jpg?v=1700000000",
+        "altText": "Sorrento Surprise - RH22/26SS SHADED FRENCH VANILLA",
+        "position": 1,
+        "isExactProductImage": true
+      },
+      "attributes": {
+        "length": "medium",
+        "texture": "wavy",
+        "style": "classic",
+        "construction": "lace_front"
+      },
+      "source": "reference_product",
+      "metadata": {
+        "isReferenceProduct": true,
+        "productImageFingerprint": "sorrento_surprise_rh22_26ss",
+        "visualCharacteristics": {
+          "color": "light golden blonde with darker roots",
+          "style": "medium layered waves",
+          "texture": "smooth waves with movement"
+        }
+      },
+      "imageAnalysis": {
+        "description": "Light golden blonde wavy wig with darker roots, medium length with layers",
+        "keyFeatures": [
+          "Light golden blonde color",
+          "Darker roots creating dimension",
+          "Medium length hitting shoulders",
+          "Soft waves with movement",
+          "Side-swept styling",
+          "Natural-looking blend"
+        ]
+      }
+    }
+  ]
+}

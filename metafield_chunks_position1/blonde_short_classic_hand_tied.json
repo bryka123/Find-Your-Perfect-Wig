@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "short",
+    "style": "classic",
+    "capConstruction": "hand",
+    "totalVariants": 8,
+    "filename": "blonde_short_classic_hand_tied.json",
+    "generated_at": "2025-09-24T16:23:14.938Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44680108179691",
+      "title": "Jet - M3S dark brown",
+      "descriptor": "short, classic, blonde, hand tied, M3S dark brown",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "363.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "M3S dark brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_Jet_01_2.jpg?v=1709122956",
+          "altText": "Jet - Position 1 Front View"
+        }
+      },
+      "content": "Jet - M3S dark brown\n\nDescription: short, classic, blonde, hand tied, M3S dark brown\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_Jet_01_2.jpg?v=1709122956",
+        "altText": "Jet - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680356626667",
+      "title": "Made You Look - RL16/88 pale golden honey",
+      "descriptor": "short, classic, blonde, hand tied, RL16/88 pale golden honey",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "hand_tied",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "436.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL16/88 pale golden honey"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-MadeYouLook-Model-Front2.jpg?v=1709123372",
+          "altText": "Made You Look - Position 1 Front View"
+        }
+      },
+      "content": "Made You Look - RL16/88 pale golden honey\n\nDescription: short, classic, blonde, hand tied, RL16/88 pale golden honey\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-MadeYouLook-Model-Front2.jpg?v=1709123372",
+        "altText": "Made You Look - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680655110379",
+      "title": "Bellissima HAND TIED - British Milktea",
+      "descriptor": "short, classic, blonde, hand tied, British Milktea",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "520.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "British Milktea"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Hand-TiedBELLISSIMA_CREAMSODABLONDE3.jpg?v=1709123911",
+          "altText": "Bellissima HAND TIED - Position 1 Front View"
+        }
+      },
+      "content": "Bellissima HAND TIED - British Milktea\n\nDescription: short, classic, blonde, hand tied, British Milktea\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Hand-TiedBELLISSIMA_CREAMSODABLONDE3.jpg?v=1709123911",
+        "altText": "Bellissima HAND TIED - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680803090667",
+      "title": "Perma Class - PermaFit 1720",
+      "descriptor": "short, classic, blonde, hand tied, PermaFit 1720",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "363.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "PermaFit 1720"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_PermaClass_1.jpg?v=1709124137",
+          "altText": "Perma Class - Position 1 Front View"
+        }
+      },
+      "content": "Perma Class - PermaFit 1720\n\nDescription: short, classic, blonde, hand tied, PermaFit 1720\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_PermaClass_1.jpg?v=1709124137",
+        "altText": "Perma Class - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45833948365035",
+      "title": "HMB-LENI - 1 Jet Black",
+      "descriptor": "short, classic, blonde, hand tied, 1 Jet Black",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "83.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-LENI_P4-27-30_M.jpg?v=1758116085",
+          "altText": "HMB-LENI - Position 1 Front View"
+        }
+      },
+      "content": "HMB-LENI - 1 Jet Black\n\nDescription: short, classic, blonde, hand tied, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-LENI_P4-27-30_M.jpg?v=1758116085",
+        "altText": "HMB-LENI - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45833952788715",
+      "title": "HMB-CELIA - 1 Jet Black",
+      "descriptor": "short, classic, blonde, hand tied, 1 Jet Black",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "54.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-CELIA_FS1B-30_M.jpg?v=1758287522",
+          "altText": "HMB-CELIA - Position 1 Front View"
+        }
+      },
+      "content": "HMB-CELIA - 1 Jet Black\n\nDescription: short, classic, blonde, hand tied, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-CELIA_FS1B-30_M.jpg?v=1758287522",
+        "altText": "HMB-CELIA - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45941881340139",
+      "title": "Hand-Tied Topper Short - 01B Off Black",
+      "descriptor": "short, classic, blonde, hand tied, 01B Off Black",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "247.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "01B Off Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/S301-Hand_Tied_Topper_H829S_img662.jpg?v=1746587702",
+          "altText": "Hand-Tied Topper Short - Position 1 Front View"
+        }
+      },
+      "content": "Hand-Tied Topper Short - 01B Off Black\n\nDescription: short, classic, blonde, hand tied, 01B Off Black\n\nBrand: Wig Pro\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/S301-Hand_Tied_Topper_H829S_img662.jpg?v=1746587702",
+        "altText": "Hand-Tied Topper Short - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46089028894955",
+      "title": "HMB-ANNA - 1 Jet Black",
+      "descriptor": "short, classic, curly, blonde, hand tied, 1 Jet Black",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "87.95",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-ANNA_44_M.png?v=1758287523",
+          "altText": "HMB-ANNA - Position 1 Front View"
+        }
+      },
+      "content": "HMB-ANNA - 1 Jet Black\n\nDescription: short, classic, curly, blonde, hand tied, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HMB-ANNA_44_M.png?v=1758287523",
+        "altText": "HMB-ANNA - Position 1 Front View"
+      }
+    }
+  ]
+}

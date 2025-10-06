@@ -1,0 +1,1239 @@
+{
+  "metadata": {
+    "colorFamily": "red",
+    "totalVariants": 41,
+    "generated_at": "2025-09-24T15:53:32.184Z",
+    "source_file": "new_products_corrected.json",
+    "avg_price": 316.67,
+    "price_range": {
+      "min": 9.99,
+      "max": 637.99
+    }
+  },
+  "products": [
+    {
+      "id": "44679511638251",
+      "title": "opulence large - GL16-27 buttered biscuit",
+      "descriptor": "medium, classic, red, lace front, GL16-27 buttered biscuit",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL16-27 buttered biscuit"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opul_ad2216b5-2051-4dfb-80ef-995670bf43c9.jpg?v=1709121953",
+          "altText": "opulence large - GL16-27 buttered biscuit"
+        }
+      },
+      "content": "opulence large - GL16-27 buttered biscuit\n\nDescription: medium, classic, red, lace front, GL16-27 buttered biscuit\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opul_ad2216b5-2051-4dfb-80ef-995670bf43c9.jpg?v=1709121953",
+        "altText": "opulence large - GL16-27 buttered biscuit"
+      }
+    },
+    {
+      "id": "44679511671019",
+      "title": "opulence large - GL44/66ss sugared nickel",
+      "descriptor": "medium, classic, red, lace front, GL44/66ss sugared nickel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL44/66ss sugared nickel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencc_77def13f-8564-4752-a158-040dfc4c44e8.jpg?v=1709121953",
+          "altText": "opulence large - GL44/66ss sugared nickel"
+        }
+      },
+      "content": "opulence large - GL44/66ss sugared nickel\n\nDescription: medium, classic, red, lace front, GL44/66ss sugared nickel\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencc_77def13f-8564-4752-a158-040dfc4c44e8.jpg?v=1709121953",
+        "altText": "opulence large - GL44/66ss sugared nickel"
+      }
+    },
+    {
+      "id": "44679511998699",
+      "title": "opulence large - GL15-26SS buttered toast rooted",
+      "descriptor": "medium, classic, red, lace front, GL15-26SS buttered toast rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL15-26SS buttered toast rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0004_GB_-_Opulence_SS_-_Model_-_Side_2_525x700_bc219424-25a3-497c-81a4-7c85bfb248ea.jpg?v=1709121953",
+          "altText": "opulence large - GL15-26SS buttered toast rooted"
+        }
+      },
+      "content": "opulence large - GL15-26SS buttered toast rooted\n\nDescription: medium, classic, red, lace front, GL15-26SS buttered toast rooted\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0004_GB_-_Opulence_SS_-_Model_-_Side_2_525x700_bc219424-25a3-497c-81a4-7c85bfb248ea.jpg?v=1709121953",
+        "altText": "opulence large - GL15-26SS buttered toast rooted"
+      }
+    },
+    {
+      "id": "44679512260843",
+      "title": "opulence large - GL56-60 sugared silver",
+      "descriptor": "medium, classic, red, lace front, GL56-60 sugared silver",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL56-60 sugared silver"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egopulen_03_lg_1_80b1a8be-96c0-4b63-91b9-3e1407606b2a.jpg?v=1709121953",
+          "altText": "opulence large - GL56-60 sugared silver"
+        }
+      },
+      "content": "opulence large - GL56-60 sugared silver\n\nDescription: medium, classic, red, lace front, GL56-60 sugared silver\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egopulen_03_lg_1_80b1a8be-96c0-4b63-91b9-3e1407606b2a.jpg?v=1709121953",
+        "altText": "opulence large - GL56-60 sugared silver"
+      }
+    },
+    {
+      "id": "44679519469803",
+      "title": "Maxwella 18 - Discontinued Colours (Facebook) - Purple Rain",
+      "descriptor": "medium, classic, red, lace front, Purple Rain",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Purple Rain"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_5c888453-4a34-4fc5-9df4-6fb1c8348d01.jpg?v=1757954095",
+          "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Purple Rain"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colours (Facebook) - Purple Rain\n\nDescription: medium, classic, red, lace front, Purple Rain\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_5c888453-4a34-4fc5-9df4-6fb1c8348d01.jpg?v=1757954095",
+        "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Purple Rain"
+      }
+    },
+    {
+      "id": "44679519502571",
+      "title": "Maxwella 18 - Discontinued Colours (Facebook) - Sangria",
+      "descriptor": "medium, classic, red, lace front, Sangria",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sangria"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_aed93e81-2229-4613-a274-45175f0c9182.jpg?v=1757954095",
+          "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Sangria"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colours (Facebook) - Sangria\n\nDescription: medium, classic, red, lace front, Sangria\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_aed93e81-2229-4613-a274-45175f0c9182.jpg?v=1757954095",
+        "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Sangria"
+      }
+    },
+    {
+      "id": "44679519535339",
+      "title": "Maxwella 18 - Discontinued Colours (Facebook) - Stardust",
+      "descriptor": "medium, classic, red, lace front, Stardust",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Stardust"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_ecf1f6da-6514-4427-ad6b-d3f5f3ec305a.jpg?v=1757954095",
+          "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Stardust"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colours (Facebook) - Stardust\n\nDescription: medium, classic, red, lace front, Stardust\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_ecf1f6da-6514-4427-ad6b-d3f5f3ec305a.jpg?v=1757954095",
+        "altText": "Maxwella 18 - Discontinued Colours (Facebook) - Stardust"
+      }
+    },
+    {
+      "id": "44679444463851",
+      "title": "Mantra Long Scarf - Red 361",
+      "descriptor": "long, classic, red, Red 361",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Rose-Melange-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Red 361"
+        }
+      },
+      "content": "Mantra Long Scarf - Red 361\n\nDescription: long, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Rose-Melange-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Red 361"
+      }
+    },
+    {
+      "id": "44680132919531",
+      "title": "Lotus Turban - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "41.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lotus-Turban-Grey-Brown-scaled.jpg?v=1709122990",
+          "altText": "Lotus Turban - Red 361"
+        }
+      },
+      "content": "Lotus Turban - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lotus-Turban-Grey-Brown-scaled.jpg?v=1709122990",
+        "altText": "Lotus Turban - Red 361"
+      }
+    },
+    {
+      "id": "44680164114667",
+      "title": "Chitta Headband - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "22.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ]
+      },
+      "content": "Chitta Headband - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680173617387",
+      "title": "Sapphire Boho Printed Turban - Flowerpot Red 784",
+      "descriptor": "medium, classic, red, Flowerpot Red 784",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "46.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Flowerpot Red 784"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sapphire-Boho-Printed-Turban-Satin-Snake-1-scaled.jpg?v=1709123057",
+          "altText": "Sapphire Boho Printed Turban - Flowerpot Red 784"
+        }
+      },
+      "content": "Sapphire Boho Printed Turban - Flowerpot Red 784\n\nDescription: medium, classic, red, Flowerpot Red 784\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sapphire-Boho-Printed-Turban-Satin-Snake-1-scaled.jpg?v=1709123057",
+        "altText": "Sapphire Boho Printed Turban - Flowerpot Red 784"
+      }
+    },
+    {
+      "id": "44680274182379",
+      "title": "Yoga Turban - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "45.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Yoga-Turban-Fuchsia-scaled.jpg?v=1709123229",
+          "altText": "Yoga Turban - Red 361"
+        }
+      },
+      "content": "Yoga Turban - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Yoga-Turban-Fuchsia-scaled.jpg?v=1709123229",
+        "altText": "Yoga Turban - Red 361"
+      }
+    },
+    {
+      "id": "44680293023979",
+      "title": "SWEET TALK - GL44/66SS SUGARED NICKEL",
+      "descriptor": "medium, classic, red, lace front, GL44/66SS SUGARED NICKEL",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL44/66SS SUGARED NICKEL"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Side-4-3-scaled_75ef7ce8-77fb-4d87-8879-594e6e7f05b6.jpg?v=1744624339",
+          "altText": "SWEET TALK - GL44/66SS SUGARED NICKEL"
+        }
+      },
+      "content": "SWEET TALK - GL44/66SS SUGARED NICKEL\n\nDescription: medium, classic, red, lace front, GL44/66SS SUGARED NICKEL\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Side-4-3-scaled_75ef7ce8-77fb-4d87-8879-594e6e7f05b6.jpg?v=1744624339",
+        "altText": "SWEET TALK - GL44/66SS SUGARED NICKEL"
+      }
+    },
+    {
+      "id": "44680293122283",
+      "title": "SWEET TALK - GL15-26 BUTTERED TOAST",
+      "descriptor": "medium, classic, red, lace front, GL15-26 BUTTERED TOAST",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL15-26 BUTTERED TOAST"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-1-2-scaled_453aedae-2ad1-4b4f-89f6-9630941b9173.jpg?v=1744624339",
+          "altText": "SWEET TALK - GL15-26 BUTTERED TOAST"
+        }
+      },
+      "content": "SWEET TALK - GL15-26 BUTTERED TOAST\n\nDescription: medium, classic, red, lace front, GL15-26 BUTTERED TOAST\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-1-2-scaled_453aedae-2ad1-4b4f-89f6-9630941b9173.jpg?v=1744624339",
+        "altText": "SWEET TALK - GL15-26 BUTTERED TOAST"
+      }
+    },
+    {
+      "id": "44680293187819",
+      "title": "SWEET TALK - GL16-27 BUTTERED BISCUIT",
+      "descriptor": "medium, classic, red, lace front, GL16-27 BUTTERED BISCUIT",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL16-27 BUTTERED BISCUIT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Side-3-2-scaled_773185be-86b3-4956-9bd6-8884bb854303.jpg?v=1744624339",
+          "altText": "SWEET TALK - GL16-27 BUTTERED BISCUIT"
+        }
+      },
+      "content": "SWEET TALK - GL16-27 BUTTERED BISCUIT\n\nDescription: medium, classic, red, lace front, GL16-27 BUTTERED BISCUIT\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Side-3-2-scaled_773185be-86b3-4956-9bd6-8884bb854303.jpg?v=1744624339",
+        "altText": "SWEET TALK - GL16-27 BUTTERED BISCUIT"
+      }
+    },
+    {
+      "id": "44680293253355",
+      "title": "SWEET TALK - GL38-48 SUGARED SMOKE",
+      "descriptor": "medium, classic, red, lace front, GL38-48 SUGARED SMOKE",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL38-48 SUGARED SMOKE"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-3-scaled_62722f5f-f514-4441-8e39-aaa5dc7ddba1.jpg?v=1744624339",
+          "altText": "SWEET TALK - GL38-48 SUGARED SMOKE"
+        }
+      },
+      "content": "SWEET TALK - GL38-48 SUGARED SMOKE\n\nDescription: medium, classic, red, lace front, GL38-48 SUGARED SMOKE\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-3-scaled_62722f5f-f514-4441-8e39-aaa5dc7ddba1.jpg?v=1744624339",
+        "altText": "SWEET TALK - GL38-48 SUGARED SMOKE"
+      }
+    },
+    {
+      "id": "44680293318891",
+      "title": "SWEET TALK - GL15-26SS BUTTERED TOAST ROOTED",
+      "descriptor": "medium, classic, red, lace front, GL15-26SS BUTTERED TOAST ROOTED",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL15-26SS BUTTERED TOAST ROOTED"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sweet-talk.jpg?v=1744624390",
+          "altText": "SWEET TALK - GL15-26SS BUTTERED TOAST ROOTED"
+        }
+      },
+      "content": "SWEET TALK - GL15-26SS BUTTERED TOAST ROOTED\n\nDescription: medium, classic, red, lace front, GL15-26SS BUTTERED TOAST ROOTED\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sweet-talk.jpg?v=1744624390",
+        "altText": "SWEET TALK - GL15-26SS BUTTERED TOAST ROOTED"
+      }
+    },
+    {
+      "id": "44680293613803",
+      "title": "SWEET TALK - GL56-60 SUGARED SILVER",
+      "descriptor": "medium, classic, red, lace front, GL56-60 SUGARED SILVER",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL56-60 SUGARED SILVER"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sweet_Talk_01_lg.jpg?v=1744624504",
+          "altText": "SWEET TALK - GL56-60 SUGARED SILVER"
+        }
+      },
+      "content": "SWEET TALK - GL56-60 SUGARED SILVER\n\nDescription: medium, classic, red, lace front, GL56-60 SUGARED SILVER\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sweet_Talk_01_lg.jpg?v=1744624504",
+        "altText": "SWEET TALK - GL56-60 SUGARED SILVER"
+      }
+    },
+    {
+      "id": "44680293875947",
+      "title": "SWEET TALK - GL44/51 SUGARED CHARCOAL",
+      "descriptor": "medium, classic, red, lace front, GL44/51 SUGARED CHARCOAL",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL44/51 SUGARED CHARCOAL"
+          }
+        ]
+      },
+      "content": "SWEET TALK - GL44/51 SUGARED CHARCOAL\n\nDescription: medium, classic, red, lace front, GL44/51 SUGARED CHARCOAL\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680293974251",
+      "title": "SWEET TALK - GL51-56 SUGARED PEWTER",
+      "descriptor": "medium, classic, red, lace front, GL51-56 SUGARED PEWTER",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL51-56 SUGARED PEWTER"
+          }
+        ]
+      },
+      "content": "SWEET TALK - GL51-56 SUGARED PEWTER\n\nDescription: medium, classic, red, lace front, GL51-56 SUGARED PEWTER\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680607826155",
+      "title": "TINSEL TOWN - Red Tinsel",
+      "descriptor": "medium, classic, red, Red Tinsel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "43.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red Tinsel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinsel_town_red__5_5__26916.1578371520.jpg?v=1744977086",
+          "altText": "TINSEL TOWN - Red Tinsel"
+        }
+      },
+      "content": "TINSEL TOWN - Red Tinsel\n\nDescription: medium, classic, red, Red Tinsel\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinsel_town_red__5_5__26916.1578371520.jpg?v=1744977086",
+        "altText": "TINSEL TOWN - Red Tinsel"
+      }
+    },
+    {
+      "id": "44680647737579",
+      "title": "Anoki - ah dark red",
+      "descriptor": "medium, classic, red, ah dark red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "48.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ah dark red"
+          }
+        ]
+      },
+      "content": "Anoki - ah dark red\n\nDescription: medium, classic, red, ah dark red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45896271069419",
+      "title": "Tala Soft - tst red",
+      "descriptor": "medium, classic, red, tst red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "25.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tst red"
+          }
+        ]
+      },
+      "content": "Tala Soft - tst red\n\nDescription: medium, classic, red, tst red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45896418951403",
+      "title": "Easy Fit - eft red",
+      "descriptor": "medium, classic, red, eft red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "22.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "eft red"
+          }
+        ]
+      },
+      "content": "Easy Fit - eft red\n\nDescription: medium, classic, red, eft red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45071710978283",
+      "title": "Zita (Facebook) - 130/4 paprika",
+      "descriptor": "medium, classic, red, monofilament, 130/4 paprika",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "130/4 paprika"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/zita_side__89588.1578371597.jpg?v=1741724476",
+          "altText": "Zita (Facebook) - 130/4 paprika"
+        }
+      },
+      "content": "Zita (Facebook) - 130/4 paprika\n\nDescription: medium, classic, red, monofilament, 130/4 paprika\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/zita_side__89588.1578371597.jpg?v=1741724476",
+        "altText": "Zita (Facebook) - 130/4 paprika"
+      }
+    },
+    {
+      "id": "45071711043819",
+      "title": "Zita (Facebook) - 27mbf strawberry pie",
+      "descriptor": "medium, classic, red, monofilament, 27mbf strawberry pie",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27mbf strawberry pie"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/zita_back__46111.1578371597.jpg?v=1741724476",
+          "altText": "Zita (Facebook) - 27mbf strawberry pie"
+        }
+      },
+      "content": "Zita (Facebook) - 27mbf strawberry pie\n\nDescription: medium, classic, red, monofilament, 27mbf strawberry pie\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/zita_back__46111.1578371597.jpg?v=1741724476",
+        "altText": "Zita (Facebook) - 27mbf strawberry pie"
+      }
+    },
+    {
+      "id": "45071711109355",
+      "title": "Zita (Facebook) - 30a hot pepper",
+      "descriptor": "medium, classic, red, monofilament, 30a hot pepper",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "30a hot pepper"
+          }
+        ]
+      },
+      "content": "Zita (Facebook) - 30a hot pepper\n\nDescription: medium, classic, red, monofilament, 30a hot pepper\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45071711142123",
+      "title": "Zita (Facebook) - 33 boysenberry treat",
+      "descriptor": "medium, classic, red, monofilament, 33 boysenberry treat",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "33 boysenberry treat"
+          }
+        ]
+      },
+      "content": "Zita (Facebook) - 33 boysenberry treat\n\nDescription: medium, classic, red, monofilament, 33 boysenberry treat\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46033997529323",
+      "title": "Smitten (Facebook) - 27 Fire n Ice",
+      "descriptor": "medium, classic, red, 27 Fire n Ice",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "80.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27 Fire n Ice"
+          }
+        ]
+      },
+      "content": "Smitten (Facebook) - 27 Fire n Ice\n\nDescription: medium, classic, red, 27 Fire n Ice\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46033997562091",
+      "title": "Smitten (Facebook) - 27T33B Cinnamon Toast",
+      "descriptor": "medium, classic, red, 27T33B Cinnamon Toast",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "80.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27T33B Cinnamon Toast"
+          }
+        ]
+      },
+      "content": "Smitten (Facebook) - 27T33B Cinnamon Toast\n\nDescription: medium, classic, red, 27T33B Cinnamon Toast\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46036839235819",
+      "title": "easiPrints (Facebook) - Red",
+      "descriptor": "medium, classic, red, Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "9.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easiprints_alt_1__89481.1578371528.jpg?v=1742566465",
+          "altText": "easiPrints (Facebook) - Red"
+        }
+      },
+      "content": "easiPrints (Facebook) - Red\n\nDescription: medium, classic, red, Red\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easiprints_alt_1__89481.1578371528.jpg?v=1742566465",
+        "altText": "easiPrints (Facebook) - Red"
+      }
+    },
+    {
+      "id": "46036802797803",
+      "title": "easiTinsel (Facebook) - Red Tinsel",
+      "descriptor": "medium, classic, red, Red Tinsel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "9.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red Tinsel"
+          }
+        ]
+      },
+      "content": "easiTinsel (Facebook) - Red Tinsel\n\nDescription: medium, classic, red, Red Tinsel\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46045660807403",
+      "title": "Maxwella 18 - Discontinued Colors (Live) - Graphite",
+      "descriptor": "long, classic, red, lace front, Graphite",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Graphite"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_18_2.jpg?v=1744101744",
+          "altText": "Maxwella 18 - Discontinued Colors (Live) - Graphite"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colors (Live) - Graphite\n\nDescription: long, classic, red, lace front, Graphite\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_18_2.jpg?v=1744101744",
+        "altText": "Maxwella 18 - Discontinued Colors (Live) - Graphite"
+      }
+    },
+    {
+      "id": "46045660840171",
+      "title": "Maxwella 18 - Discontinued Colors (Live) - Purple Rain",
+      "descriptor": "medium, classic, red, lace front, Purple Rain",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Purple Rain"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_e14738ff-0bc8-4d64-b599-edaa0596a94b.jpg?v=1744101744",
+          "altText": "Maxwella 18 - Discontinued Colors (Live) - Purple Rain"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colors (Live) - Purple Rain\n\nDescription: medium, classic, red, lace front, Purple Rain\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_e14738ff-0bc8-4d64-b599-edaa0596a94b.jpg?v=1744101744",
+        "altText": "Maxwella 18 - Discontinued Colors (Live) - Purple Rain"
+      }
+    },
+    {
+      "id": "46045660872939",
+      "title": "Maxwella 18 - Discontinued Colors (Live) - Sangria",
+      "descriptor": "medium, classic, red, lace front, Sangria",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sangria"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_2ca64293-f853-4d60-8452-b6b3390d34dc.jpg?v=1744101744",
+          "altText": "Maxwella 18 - Discontinued Colors (Live) - Sangria"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colors (Live) - Sangria\n\nDescription: medium, classic, red, lace front, Sangria\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_2ca64293-f853-4d60-8452-b6b3390d34dc.jpg?v=1744101744",
+        "altText": "Maxwella 18 - Discontinued Colors (Live) - Sangria"
+      }
+    },
+    {
+      "id": "46045660905707",
+      "title": "Maxwella 18 - Discontinued Colors (Live) - Stardust",
+      "descriptor": "medium, classic, red, lace front, Stardust",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Stardust"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_1d3b7cec-ee05-4d52-aba1-0705ddf48c6d.jpg?v=1744101744",
+          "altText": "Maxwella 18 - Discontinued Colors (Live) - Stardust"
+        }
+      },
+      "content": "Maxwella 18 - Discontinued Colors (Live) - Stardust\n\nDescription: medium, classic, red, lace front, Stardust\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_1d3b7cec-ee05-4d52-aba1-0705ddf48c6d.jpg?v=1744101744",
+        "altText": "Maxwella 18 - Discontinued Colors (Live) - Stardust"
+      }
+    },
+    {
+      "id": "46063918448875",
+      "title": "Allure Petite (Facebook) - 132F2 Pinot",
+      "descriptor": "medium, classic, red, 132F2 Pinot",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "154.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "132F2 Pinot"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alllure_12FS12_Main__21952.1717985699.jpg?v=1744973705",
+          "altText": "Allure Petite (Facebook) - 132F2 Pinot"
+        }
+      },
+      "content": "Allure Petite (Facebook) - 132F2 Pinot\n\nDescription: medium, classic, red, 132F2 Pinot\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alllure_12FS12_Main__21952.1717985699.jpg?v=1744973705",
+        "altText": "Allure Petite (Facebook) - 132F2 Pinot"
+      }
+    },
+    {
+      "id": "46625997619435",
+      "title": "Maxwella 18 (Outlet) - Graphite",
+      "descriptor": "long, classic, red, lace front, Graphite",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Graphite"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_18_2_38872ff2-64a5-4509-bfa7-eeb4c3a4fdcc.jpg?v=1757954091",
+          "altText": "Maxwella 18 (Outlet) - Graphite"
+        }
+      },
+      "content": "Maxwella 18 (Outlet) - Graphite\n\nDescription: long, classic, red, lace front, Graphite\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_18_2_38872ff2-64a5-4509-bfa7-eeb4c3a4fdcc.jpg?v=1757954091",
+        "altText": "Maxwella 18 (Outlet) - Graphite"
+      }
+    },
+    {
+      "id": "46625997652203",
+      "title": "Maxwella 18 (Outlet) - Purple Rain",
+      "descriptor": "medium, classic, red, lace front, Purple Rain",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Purple Rain"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_437f3193-536d-4ab8-86a7-1fd27105dc2f.jpg?v=1757954091",
+          "altText": "Maxwella 18 (Outlet) - Purple Rain"
+        }
+      },
+      "content": "Maxwella 18 (Outlet) - Purple Rain\n\nDescription: medium, classic, red, lace front, Purple Rain\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-1-champagne-with-apple-pie_437f3193-536d-4ab8-86a7-1fd27105dc2f.jpg?v=1757954091",
+        "altText": "Maxwella 18 (Outlet) - Purple Rain"
+      }
+    },
+    {
+      "id": "46625997684971",
+      "title": "Maxwella 18 (Outlet) - Sangria",
+      "descriptor": "medium, classic, red, lace front, Sangria",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sangria"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_c632acf2-5946-4b7b-bf0b-a44ae947dd79.jpg?v=1757954091",
+          "altText": "Maxwella 18 (Outlet) - Sangria"
+        }
+      },
+      "content": "Maxwella 18 (Outlet) - Sangria\n\nDescription: medium, classic, red, lace front, Sangria\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-3-champagne-with-apple-pie_c632acf2-5946-4b7b-bf0b-a44ae947dd79.jpg?v=1757954091",
+        "altText": "Maxwella 18 (Outlet) - Sangria"
+      }
+    },
+    {
+      "id": "46625997717739",
+      "title": "Maxwella 18 (Outlet) - Stardust",
+      "descriptor": "medium, classic, red, lace front, Stardust",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Stardust"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_35721e92-c89e-4f6f-93df-c4e27f4dbd1d.jpg?v=1757954091",
+          "altText": "Maxwella 18 (Outlet) - Stardust"
+        }
+      },
+      "content": "Maxwella 18 (Outlet) - Stardust\n\nDescription: medium, classic, red, lace front, Stardust\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/maxwella-18-4-champagne-with-apple-pie_35721e92-c89e-4f6f-93df-c4e27f4dbd1d.jpg?v=1757954091",
+        "altText": "Maxwella 18 (Outlet) - Stardust"
+      }
+    }
+  ]
+}

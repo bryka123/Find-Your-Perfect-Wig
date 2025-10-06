@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "type": "micro_chunks_index",
+    "description": "Optimized chunks for OpenAI assistant fast processing",
+    "total_chunks": 1,
+    "generated_at": "2025-09-24T16:04:03.167Z"
+  },
+  "chunks": [
+    {
+      "color_family": "blonde",
+      "filename": "blonde_micro.json",
+      "variant_count": 24,
+      "size_kb": 27.29,
+      "includes_reference": false,
+      "optimization_level": "micro"
+    }
+  ]
+}

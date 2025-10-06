@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "long",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 50,
+    "filename": "blonde_long_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:23:14.928Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679488897259",
+      "title": "Julia - 32f cherry creme",
+      "descriptor": "long, classic, blonde, lace front, 32f cherry creme",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "32f cherry creme"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j2-3_9888af28-d5e5-4a8d-8a0d-5a96662a94e9.jpg?v=1709121933",
+          "altText": "Julia - Position 1 Front View"
+        }
+      },
+      "content": "Julia - 32f cherry creme\n\nDescription: long, classic, blonde, lace front, 32f cherry creme\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j2-3_9888af28-d5e5-4a8d-8a0d-5a96662a94e9.jpg?v=1709121933",
+        "altText": "Julia - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679516258539",
+      "title": "Emotion - hot chocolate mix hh",
+      "descriptor": "long, classic, blonde, lace front, hot chocolate mix hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3099.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "hot chocolate mix hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/emotion.jpg?v=1709121963",
+          "altText": "Emotion - Position 1 Front View"
+        }
+      },
+      "content": "Emotion - hot chocolate mix hh\n\nDescription: long, classic, blonde, lace front, hot chocolate mix hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/emotion.jpg?v=1709121963",
+        "altText": "Emotion - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679510065387",
+      "title": "Spotlight Large - RL10/12 SUNLIT CHESTNUT",
+      "descriptor": "long, classic, blonde, lace front, RL10/12 SUNLIT CHESTNUT",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "426.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL10/12 SUNLIT CHESTNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Spotlight-Model-Front-2-2-scaled_1383ba9f-abee-49ce-8783-98d44f01c36f.jpg?v=1744969402",
+          "altText": "Spotlight Large - Position 1 Front View"
+        }
+      },
+      "content": "Spotlight Large - RL10/12 SUNLIT CHESTNUT\n\nDescription: long, classic, blonde, lace front, RL10/12 SUNLIT CHESTNUT\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Spotlight-Model-Front-2-2-scaled_1383ba9f-abee-49ce-8783-98d44f01c36f.jpg?v=1744969402",
+        "altText": "Spotlight Large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679525695723",
+      "title": "Rylee - Almond Breeze",
+      "descriptor": "long, classic, wavy, blonde, lace front, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "309.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Rylee_c34db086-2fae-4bf5-b7ef-57c54d53f2f9.jpg?v=1709121982",
+          "altText": "Rylee - Position 1 Front View"
+        }
+      },
+      "content": "Rylee - Almond Breeze\n\nDescription: long, classic, wavy, blonde, lace front, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Rylee_c34db086-2fae-4bf5-b7ef-57c54d53f2f9.jpg?v=1709121982",
+        "altText": "Rylee - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679529791723",
+      "title": "Heidi - 10/26tt fortune cookie",
+      "descriptor": "long, classic, wavy, blonde, lace front, 10/26tt fortune cookie",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "429.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10/26tt fortune cookie"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Heidi_1__53977.1665788076.jpg?v=1745245518",
+          "altText": "Heidi - Position 1 Front View"
+        }
+      },
+      "content": "Heidi - 10/26tt fortune cookie\n\nDescription: long, classic, wavy, blonde, lace front, 10/26tt fortune cookie\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Heidi_1__53977.1665788076.jpg?v=1745245518",
+        "altText": "Heidi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679542669547",
+      "title": "Fontaine - Burnt Biscuit Blonde Rooted",
+      "descriptor": "long, classic, blonde, lace front, Burnt Biscuit Blonde Rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "633.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Burnt Biscuit Blonde Rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/FONTAINE_oyster1.jpg?v=1709122010",
+          "altText": "Fontaine - Position 1 Front View"
+        }
+      },
+      "content": "Fontaine - Burnt Biscuit Blonde Rooted\n\nDescription: long, classic, blonde, lace front, Burnt Biscuit Blonde Rooted\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/FONTAINE_oyster1.jpg?v=1709122010",
+        "altText": "Fontaine - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679565476075",
+      "title": "Heaven - sandy blonde rooted",
+      "descriptor": "long, classic, curly, blonde, lace front, sandy blonde rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "433.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sandy blonde rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HeavenMonoPart_1_1024x1024_8695a1e4-c1e2-4dfa-8500-ab7023d656b8.jpg?v=1709122059",
+          "altText": "Heaven - Position 1 Front View"
+        }
+      },
+      "content": "Heaven - sandy blonde rooted\n\nDescription: long, classic, curly, blonde, lace front, sandy blonde rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HeavenMonoPart_1_1024x1024_8695a1e4-c1e2-4dfa-8500-ab7023d656b8.jpg?v=1709122059",
+        "altText": "Heaven - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679567671531",
+      "title": "Image - light bernstein rooted",
+      "descriptor": "long, classic, blonde, lace front, light bernstein rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2165.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "light bernstein rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at7.22.51pm.png?v=1709122062",
+          "altText": "Image - Position 1 Front View"
+        }
+      },
+      "content": "Image - light bernstein rooted\n\nDescription: long, classic, blonde, lace front, light bernstein rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at7.22.51pm.png?v=1709122062",
+        "altText": "Image - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679574487275",
+      "title": "Bliss - frosty blonde hl",
+      "descriptor": "long, classic, blonde, lace front, frosty blonde hl",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "398.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "frosty blonde hl"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Bliss_Sugar_1461-Edit.jpg?v=1709122073",
+          "altText": "Bliss - Position 1 Front View"
+        }
+      },
+      "content": "Bliss - frosty blonde hl\n\nDescription: long, classic, blonde, lace front, frosty blonde hl\n\nBrand: TressAllure\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Bliss_Sugar_1461-Edit.jpg?v=1709122073",
+        "altText": "Bliss - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679595622635",
+      "title": "Mirage - champagne rooted",
+      "descriptor": "long, classic, blonde, lace front, champagne rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "687.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_mirage_4.jpg?v=1709122117",
+          "altText": "Mirage - Position 1 Front View"
+        }
+      },
+      "content": "Mirage - champagne rooted\n\nDescription: long, classic, blonde, lace front, champagne rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_mirage_4.jpg?v=1709122117",
+        "altText": "Mirage - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679607222507",
+      "title": "Top Coverage Wavy 18 - 10h16 latte",
+      "descriptor": "long, classic, wavy, blonde, lace front, 10h16 latte",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "489.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10h16 latte"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Coverage_Wavy_18in_12FS8_Main__63452.jpg?v=1745259845",
+          "altText": "Top Coverage Wavy 18 - Position 1 Front View"
+        }
+      },
+      "content": "Top Coverage Wavy 18 - 10h16 latte\n\nDescription: long, classic, wavy, blonde, lace front, 10h16 latte\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Coverage_Wavy_18in_12FS8_Main__63452.jpg?v=1745259845",
+        "altText": "Top Coverage Wavy 18 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679611318507",
+      "title": "Milano - Crushed Almond Blonde Rooted",
+      "descriptor": "long, classic, wavy, blonde, lace front, Crushed Almond Blonde Rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "344.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Crushed Almond Blonde Rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MILANO_milkshakeblonde-R1.jpg?v=1709122142",
+          "altText": "Milano - Position 1 Front View"
+        }
+      },
+      "content": "Milano - Crushed Almond Blonde Rooted\n\nDescription: long, classic, wavy, blonde, lace front, Crushed Almond Blonde Rooted\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MILANO_milkshakeblonde-R1.jpg?v=1709122142",
+        "altText": "Milano - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679614071019",
+      "title": "TOP BILLING 12 - RL38 smoke",
+      "descriptor": "long, classic, blonde, lace front, RL38 smoke",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "284.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL38 smoke"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tb1_b400ae0f-696d-434c-870a-da6f1b7736ba.jpg?v=1709122150",
+          "altText": "TOP BILLING 12 - Position 1 Front View"
+        }
+      },
+      "content": "TOP BILLING 12 - RL38 smoke\n\nDescription: long, classic, blonde, lace front, RL38 smoke\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tb1_b400ae0f-696d-434c-870a-da6f1b7736ba.jpg?v=1709122150",
+        "altText": "TOP BILLING 12 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679621476587",
+      "title": "Blaze - frosty blonde hl",
+      "descriptor": "long, classic, blonde, lace front, frosty blonde hl",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "398.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "frosty blonde hl"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Blaze-Honey-Bean-0Z2A3036_1500x_468b8627-255f-49d2-9b4d-c52749a6a3a4.jpg?v=1709122167",
+          "altText": "Blaze - Position 1 Front View"
+        }
+      },
+      "content": "Blaze - frosty blonde hl\n\nDescription: long, classic, blonde, lace front, frosty blonde hl\n\nBrand: TressAllure\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Blaze-Honey-Bean-0Z2A3036_1500x_468b8627-255f-49d2-9b4d-c52749a6a3a4.jpg?v=1709122167",
+        "altText": "Blaze - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679625212139",
+      "title": "Sevyn - r6/10 medium brown",
+      "descriptor": "long, classic, wavy, blonde, lace front, r6/10 medium brown",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "306.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r6/10 medium brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sevyn_M.jpg?v=1709122179",
+          "altText": "Sevyn - Position 1 Front View"
+        }
+      },
+      "content": "Sevyn - r6/10 medium brown\n\nDescription: long, classic, wavy, blonde, lace front, r6/10 medium brown\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sevyn_M.jpg?v=1709122179",
+        "altText": "Sevyn - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679637827819",
+      "title": "Ready For It - GF17-23SS iced latte macchiato",
+      "descriptor": "long, classic, wavy, blonde, lace front, GF17-23SS iced latte macchiato",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "395.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GF17-23SS iced latte macchiato"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-ReadyForIt-Model2-Front1_29feb333-6fa0-4e9d-8546-21649265aa19.jpg?v=1709122190",
+          "altText": "Ready For It - Position 1 Front View"
+        }
+      },
+      "content": "Ready For It - GF17-23SS iced latte macchiato\n\nDescription: long, classic, wavy, blonde, lace front, GF17-23SS iced latte macchiato\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-ReadyForIt-Model2-Front1_29feb333-6fa0-4e9d-8546-21649265aa19.jpg?v=1709122190",
+        "altText": "Ready For It - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679643103467",
+      "title": "Lace Front Mono Top Peerless 19 - Bombshell Blonde",
+      "descriptor": "long, classic, curly, blonde, lace front, Bombshell Blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "383.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Bombshell Blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lace-front-mono-top-peerless-19-brownsugar-sweetcream-1.jpg?v=1709122199",
+          "altText": "Lace Front Mono Top Peerless 19 - Position 1 Front View"
+        }
+      },
+      "content": "Lace Front Mono Top Peerless 19 - Bombshell Blonde\n\nDescription: long, classic, curly, blonde, lace front, Bombshell Blonde\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lace-front-mono-top-peerless-19-brownsugar-sweetcream-1.jpg?v=1709122199",
+        "altText": "Lace Front Mono Top Peerless 19 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679648837867",
+      "title": "rachel - 1 jet",
+      "descriptor": "long, classic, wavy, blonde, lace front, 1 jet",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "543.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 jet"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Rachel_Lite_S14_26_88RO_Sunshine_Main.png?v=1709122211",
+          "altText": "rachel - Position 1 Front View"
+        }
+      },
+      "content": "rachel - 1 jet\n\nDescription: long, classic, wavy, blonde, lace front, 1 jet\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Rachel_Lite_S14_26_88RO_Sunshine_Main.png?v=1709122211",
+        "altText": "rachel - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679668728043",
+      "title": "MESMERIZED - RL32/31 cinnabar",
+      "descriptor": "long, classic, blonde, lace front, RL32/31 cinnabar",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "523.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL32/31 cinnabar"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Mesmerized-Model-Front2_2bdb9447-b726-4edf-95c2-2d4642c15262.jpg?v=1709122247",
+          "altText": "MESMERIZED - Position 1 Front View"
+        }
+      },
+      "content": "MESMERIZED - RL32/31 cinnabar\n\nDescription: long, classic, blonde, lace front, RL32/31 cinnabar\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Mesmerized-Model-Front2_2bdb9447-b726-4edf-95c2-2d4642c15262.jpg?v=1709122247",
+        "altText": "MESMERIZED - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679673381099",
+      "title": "Siena - Crushed Almond Blonde Rooted",
+      "descriptor": "long, classic, blonde, lace front, Crushed Almond Blonde Rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "440.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Crushed Almond Blonde Rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SIENNA_buttercreamblonde1.jpg?v=1709122257",
+          "altText": "Siena - Position 1 Front View"
+        }
+      },
+      "content": "Siena - Crushed Almond Blonde Rooted\n\nDescription: long, classic, blonde, lace front, Crushed Almond Blonde Rooted\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SIENNA_buttercreamblonde1.jpg?v=1709122257",
+        "altText": "Siena - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679687307499",
+      "title": "top coverage 18 - 10h16 latte",
+      "descriptor": "long, classic, blonde, lace front, 10h16 latte",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "481.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10h16 latte"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Coverage_Straight_18in_12FS8_Main__17376.jpg?v=1745254414",
+          "altText": "top coverage 18 - Position 1 Front View"
+        }
+      },
+      "content": "top coverage 18 - 10h16 latte\n\nDescription: long, classic, blonde, lace front, 10h16 latte\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Coverage_Straight_18in_12FS8_Main__17376.jpg?v=1745254414",
+        "altText": "top coverage 18 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679706181867",
+      "title": "Wanted Mono Part - espresso rooted",
+      "descriptor": "long, classic, curly, blonde, lace front, espresso rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "411.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-wanted-1_1.jpg?v=1744354963",
+          "altText": "Wanted Mono Part - Position 1 Front View"
+        }
+      },
+      "content": "Wanted Mono Part - espresso rooted\n\nDescription: long, classic, curly, blonde, lace front, espresso rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-wanted-1_1.jpg?v=1744354963",
+        "altText": "Wanted Mono Part - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679704740075",
+      "title": "Lace Front Mono Top Straight 18 - Bombshell Blonde",
+      "descriptor": "long, classic, blonde, lace front, Bombshell Blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "356.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Bombshell Blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Lace_Front_Mono_Top_Straight_18_vanilla_lush_2.jpg?v=1744054438",
+          "altText": "Lace Front Mono Top Straight 18 - Position 1 Front View"
+        }
+      },
+      "content": "Lace Front Mono Top Straight 18 - Bombshell Blonde\n\nDescription: long, classic, blonde, lace front, Bombshell Blonde\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Lace_Front_Mono_Top_Straight_18_vanilla_lush_2.jpg?v=1744054438",
+        "altText": "Lace Front Mono Top Straight 18 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679709720811",
+      "title": "Voice Large - dark chocolate mix",
+      "descriptor": "long, classic, wavy, blonde, lace front, dark chocolate mix",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "530.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/VoiceMonoLARGE_2.jpg?v=1709122331",
+          "altText": "Voice Large - Position 1 Front View"
+        }
+      },
+      "content": "Voice Large - dark chocolate mix\n\nDescription: long, classic, wavy, blonde, lace front, dark chocolate mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/VoiceMonoLARGE_2.jpg?v=1709122331",
+        "altText": "Voice Large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679708901611",
+      "title": "Ava - Almond Breeze",
+      "descriptor": "long, classic, blonde, lace front, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "440.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ava.jpg?v=1744629525",
+          "altText": "Ava - Position 1 Front View"
+        }
+      },
+      "content": "Ava - Almond Breeze\n\nDescription: long, classic, blonde, lace front, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ava.jpg?v=1744629525",
+        "altText": "Ava - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679715094763",
+      "title": "Look - black",
+      "descriptor": "long, classic, blonde, lace front, black",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "348.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Look_1.jpg?v=1709122339",
+          "altText": "Look - Position 1 Front View"
+        }
+      },
+      "content": "Look - black\n\nDescription: long, classic, blonde, lace front, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Look_1.jpg?v=1709122339",
+        "altText": "Look - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679725449451",
+      "title": "Veronica - Almond Breeze",
+      "descriptor": "long, classic, blonde, lace front, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2216.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Veronica.jpg?v=1744395016",
+          "altText": "Veronica - Position 1 Front View"
+        }
+      },
+      "content": "Veronica - Almond Breeze\n\nDescription: long, classic, blonde, lace front, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Veronica.jpg?v=1744395016",
+        "altText": "Veronica - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679727874283",
+      "title": "miranda - 10rh16 caffe mocha",
+      "descriptor": "long, classic, blonde, lace front, 10rh16 caffe mocha",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "283.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10rh16 caffe mocha"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Miranda_S6_30A27RO_Autumn_Main__54400.1665792069.png?v=1744906977",
+          "altText": "miranda - Position 1 Front View"
+        }
+      },
+      "content": "miranda - 10rh16 caffe mocha\n\nDescription: long, classic, blonde, lace front, 10rh16 caffe mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Miranda_S6_30A27RO_Autumn_Main__54400.1665792069.png?v=1744906977",
+        "altText": "miranda - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679371718891",
+      "title": "Ensley - creamy dolce",
+      "descriptor": "long, classic, curly, blonde, lace front, creamy dolce",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy dolce"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ensley-Chocolate-Pretzel-19508.jpg?v=1709121854",
+          "altText": "Ensley - Position 1 Front View"
+        }
+      },
+      "content": "Ensley - creamy dolce\n\nDescription: long, classic, curly, blonde, lace front, creamy dolce\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Ensley-Chocolate-Pretzel-19508.jpg?v=1709121854",
+        "altText": "Ensley - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679380369643",
+      "title": "Vita - chocolate rooted",
+      "descriptor": "long, classic, blonde, lace front, chocolate rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "433.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "chocolate rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/VitaMonoPart_1_1024x1024_c6f5c3e0-7372-4f64-a487-138ce0db9db4.jpg?v=1709121860",
+          "altText": "Vita - Position 1 Front View"
+        }
+      },
+      "content": "Vita - chocolate rooted\n\nDescription: long, classic, blonde, lace front, chocolate rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/VitaMonoPart_1_1024x1024_c6f5c3e0-7372-4f64-a487-138ce0db9db4.jpg?v=1709121860",
+        "altText": "Vita - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679381418219",
+      "title": "James - r6/10 medium brown",
+      "descriptor": "long, classic, blonde, lace front, r6/10 medium brown",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "392.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r6/10 medium brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/James_M.jpg?v=1709121862",
+          "altText": "James - Position 1 Front View"
+        }
+      },
+      "content": "James - r6/10 medium brown\n\nDescription: long, classic, blonde, lace front, r6/10 medium brown\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/James_M.jpg?v=1709121862",
+        "altText": "James - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679384137963",
+      "title": "SHOW STOPPER - RL14/25 HONEY GINGER",
+      "descriptor": "long, classic, blonde, lace front, RL14/25 HONEY GINGER",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "409.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL14/25 HONEY GINGER"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Show-Stopper-Model-Front-1-scaled.jpg?v=1744820029",
+          "altText": "SHOW STOPPER - Position 1 Front View"
+        }
+      },
+      "content": "SHOW STOPPER - RL14/25 HONEY GINGER\n\nDescription: long, classic, blonde, lace front, RL14/25 HONEY GINGER\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Show-Stopper-Model-Front-1-scaled.jpg?v=1744820029",
+        "altText": "SHOW STOPPER - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679392559339",
+      "title": "Lace Front Mono Top Bangs 16 - Bombshell Blonde",
+      "descriptor": "long, classic, blonde, lace front, Bombshell Blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "329.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Bombshell Blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lacefrontmonotopbangs16-brownsugarsweetcream1-2048x.jpg?v=1709121870",
+          "altText": "Lace Front Mono Top Bangs 16 - Position 1 Front View"
+        }
+      },
+      "content": "Lace Front Mono Top Bangs 16 - Bombshell Blonde\n\nDescription: long, classic, blonde, lace front, Bombshell Blonde\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lacefrontmonotopbangs16-brownsugarsweetcream1-2048x.jpg?v=1709121870",
+        "altText": "Lace Front Mono Top Bangs 16 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679394853099",
+      "title": "High Fashion - R29S glazed strawberry hh",
+      "descriptor": "long, classic, blonde, lace front, R29S glazed strawberry hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "heavy",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2762.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R29S glazed strawberry hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-50th-HighFashion-Model-Editorial4.jpg?v=1709121871",
+          "altText": "High Fashion - Position 1 Front View"
+        }
+      },
+      "content": "High Fashion - R29S glazed strawberry hh\n\nDescription: long, classic, blonde, lace front, R29S glazed strawberry hh\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"heavy\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-50th-HighFashion-Model-Editorial4.jpg?v=1709121871",
+        "altText": "High Fashion - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679402586347",
+      "title": "Superb - espresso mix hh",
+      "descriptor": "long, classic, blonde, lace front, espresso mix hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1847.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Superb_1.png?v=1709121882",
+          "altText": "Superb - Position 1 Front View"
+        }
+      },
+      "content": "Superb - espresso mix hh\n\nDescription: long, classic, blonde, lace front, espresso mix hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Superb_1.png?v=1709121882",
+        "altText": "Superb - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679405306091",
+      "title": "OBSESSION - dark chocolate mix hh",
+      "descriptor": "long, classic, blonde, lace front, dark chocolate mix hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "4161.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate mix hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/obsession_2_21788dcb-03d2-4c1c-a909-6481f7b40e71.jpg?v=1709121883",
+          "altText": "OBSESSION - Position 1 Front View"
+        }
+      },
+      "content": "OBSESSION - dark chocolate mix hh\n\nDescription: long, classic, blonde, lace front, dark chocolate mix hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/obsession_2_21788dcb-03d2-4c1c-a909-6481f7b40e71.jpg?v=1709121883",
+        "altText": "OBSESSION - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679404585195",
+      "title": "Wendi - Almond Breeze",
+      "descriptor": "long, classic, wavy, blonde, lace front, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "300.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Wendi.jpg?v=1744630207",
+          "altText": "Wendi - Position 1 Front View"
+        }
+      },
+      "content": "Wendi - Almond Breeze\n\nDescription: long, classic, wavy, blonde, lace front, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Wendi.jpg?v=1744630207",
+        "altText": "Wendi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679416807659",
+      "title": "XENITA HI - sandy blonde rooted hh",
+      "descriptor": "long, classic, blonde, lace front, sandy blonde rooted hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3466.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sandy blonde rooted hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/xenita_3_2_f1a77936-b9c5-4d32-bbd3-e40c7da1cd3d.jpg?v=1709121891",
+          "altText": "XENITA HI - Position 1 Front View"
+        }
+      },
+      "content": "XENITA HI - sandy blonde rooted hh\n\nDescription: long, classic, blonde, lace front, sandy blonde rooted hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/xenita_3_2_f1a77936-b9c5-4d32-bbd3-e40c7da1cd3d.jpg?v=1709121891",
+        "altText": "XENITA HI - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679424114923",
+      "title": "Avalon - auburn sugar rooted",
+      "descriptor": "long, classic, wavy, blonde, lace front, auburn sugar rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "206.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Avalon-Marble-Brown-R-20387-scaled.jpg?v=1709121895",
+          "altText": "Avalon - Position 1 Front View"
+        }
+      },
+      "content": "Avalon - auburn sugar rooted\n\nDescription: long, classic, wavy, blonde, lace front, auburn sugar rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Avalon-Marble-Brown-R-20387-scaled.jpg?v=1709121895",
+        "altText": "Avalon - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679436042475",
+      "title": "sage - champagne rooted",
+      "descriptor": "long, classic, wavy, blonde, lace front, champagne rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "357.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2400_Sage_MilkTea.jpg?v=1709121904",
+          "altText": "sage - Position 1 Front View"
+        }
+      },
+      "content": "sage - champagne rooted\n\nDescription: long, classic, wavy, blonde, lace front, champagne rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2400_Sage_MilkTea.jpg?v=1709121904",
+        "altText": "sage - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679481098475",
+      "title": "Cascade - champagne rooted hh",
+      "descriptor": "long, classic, blonde, lace front, champagne rooted hh",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3354.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/cascade_2-1.jpg?v=1709121926",
+          "altText": "Cascade - Position 1 Front View"
+        }
+      },
+      "content": "Cascade - champagne rooted hh\n\nDescription: long, classic, blonde, lace front, champagne rooted hh\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/cascade_2-1.jpg?v=1709121926",
+        "altText": "Cascade - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679479689451",
+      "title": "Willow - fs17/101s18 palm springs blonde",
+      "descriptor": "long, classic, wavy, blonde, lace front, fs17/101s18 palm springs blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "585.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs17/101s18 palm springs blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Willow_12FS12_Side.jpg?v=1709121926",
+          "altText": "Willow - Position 1 Front View"
+        }
+      },
+      "content": "Willow - fs17/101s18 palm springs blonde\n\nDescription: long, classic, wavy, blonde, lace front, fs17/101s18 palm springs blonde\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Willow_12FS12_Side.jpg?v=1709121926",
+        "altText": "Willow - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679481688299",
+      "title": "Angie - fs27 strawberry syrup",
+      "descriptor": "long, classic, blonde, lace front, fs27 strawberry syrup",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2643.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "fs27 strawberry syrup"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Angie12FS8-main.jpg?v=1709121927",
+          "altText": "Angie - Position 1 Front View"
+        }
+      },
+      "content": "Angie - fs27 strawberry syrup\n\nDescription: long, classic, blonde, lace front, fs27 strawberry syrup\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Angie12FS8-main.jpg?v=1709121927",
+        "altText": "Angie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679751008491",
+      "title": "En Vogue - black",
+      "descriptor": "long, classic, blonde, lace front, black",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "314.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/envogue_5.jpg?v=1744377674",
+          "altText": "En Vogue - Position 1 Front View"
+        }
+      },
+      "content": "En Vogue - black\n\nDescription: long, classic, blonde, lace front, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/envogue_5.jpg?v=1744377674",
+        "altText": "En Vogue - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679754481899",
+      "title": "go all out 16 - SS8/12 iced mocha",
+      "descriptor": "long, classic, blonde, lace front, SS8/12 iced mocha",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "299.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS8/12 iced mocha"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-GoAllOut16in-Model-Front2_e7cf1136-e9a0-4538-9830-d5abc09ee384.jpg?v=1709122403",
+          "altText": "go all out 16 - Position 1 Front View"
+        }
+      },
+      "content": "go all out 16 - SS8/12 iced mocha\n\nDescription: long, classic, blonde, lace front, SS8/12 iced mocha\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-GoAllOut16in-Model-Front2_e7cf1136-e9a0-4538-9830-d5abc09ee384.jpg?v=1709122403",
+        "altText": "go all out 16 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679774404843",
+      "title": "Music - champagne rooted",
+      "descriptor": "long, classic, blonde, lace front, champagne rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "568.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MusicComfort_1_1024x1024_35a726ac-19eb-4a0c-bc86-be25e073041e.jpg?v=1709122436",
+          "altText": "Music - Position 1 Front View"
+        }
+      },
+      "content": "Music - champagne rooted\n\nDescription: long, classic, blonde, lace front, champagne rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MusicComfort_1_1024x1024_35a726ac-19eb-4a0c-bc86-be25e073041e.jpg?v=1709122436",
+        "altText": "Music - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679777026283",
+      "title": "Anne Nature - middle blonde",
+      "descriptor": "long, classic, blonde, lace front, middle blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3179.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "middle blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_AnneNature_1_1_6ea931cc-63b1-4f77-b4d9-9873265b471b.jpg?v=1709122440",
+          "altText": "Anne Nature - Position 1 Front View"
+        }
+      },
+      "content": "Anne Nature - middle blonde\n\nDescription: long, classic, blonde, lace front, middle blonde\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_AnneNature_1_1_6ea931cc-63b1-4f77-b4d9-9873265b471b.jpg?v=1709122440",
+        "altText": "Anne Nature - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679790559467",
+      "title": "Brielle - starlight blonde",
+      "descriptor": "long, classic, blonde, lace front, starlight blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3065.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "starlight blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Brielle-Chocolate-Parfait2_1500x_ffb1d5cf-995f-4807-9acf-f62bfad7fe8b.jpg?v=1709122464",
+          "altText": "Brielle - Position 1 Front View"
+        }
+      },
+      "content": "Brielle - starlight blonde\n\nDescription: long, classic, blonde, lace front, starlight blonde\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Brielle-Chocolate-Parfait2_1500x_ffb1d5cf-995f-4807-9acf-f62bfad7fe8b.jpg?v=1709122464",
+        "altText": "Brielle - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679796621547",
+      "title": "amber large - 4/33 chocolate raspberry truffle",
+      "descriptor": "long, classic, wavy, blonde, lace front, 4/33 chocolate raspberry truffle",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "420.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4/33 chocolate raspberry truffle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/amber-14-26s10-alt2__18341.1717985505.jpg?v=1744966071",
+          "altText": "amber large - Position 1 Front View"
+        }
+      },
+      "content": "amber large - 4/33 chocolate raspberry truffle\n\nDescription: long, classic, wavy, blonde, lace front, 4/33 chocolate raspberry truffle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/amber-14-26s10-alt2__18341.1717985505.jpg?v=1744966071",
+        "altText": "amber large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679795638507",
+      "title": "alexis hh - 8r14-25 caramel rooted",
+      "descriptor": "long, classic, blonde, lace front, 8r14-25 caramel rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1814.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8r14-25 caramel rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3105-ALEXIS-9-28-25-main2_6713d086-882f-494a-a6ca-587d3e28e853.jpg?v=1709122471",
+          "altText": "alexis hh - Position 1 Front View"
+        }
+      },
+      "content": "alexis hh - 8r14-25 caramel rooted\n\nDescription: long, classic, blonde, lace front, 8r14-25 caramel rooted\n\nBrand: Fair Fashion\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3105-ALEXIS-9-28-25-main2_6713d086-882f-494a-a6ca-587d3e28e853.jpg?v=1709122471",
+        "altText": "alexis hh - Position 1 Front View"
+      }
+    }
+  ]
+}

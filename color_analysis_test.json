@@ -1,0 +1,90 @@
+{
+  "timestamp": "2025-09-23T19:11:26.743Z",
+  "totalAnalyzed": 5,
+  "results": [
+    {
+      "colorName": "mochaccino-R",
+      "actualColorFamily": "brunette",
+      "specificShade": "mochaccino-R",
+      "undertone": "neutral",
+      "labValues": {
+        "L": 50,
+        "a": 0,
+        "b": 0
+      },
+      "hexColor": "#8B4513",
+      "confidence": 0.3,
+      "isRooted": false,
+      "notes": "AI analysis failed, inferred from name. Error: Failed to fetch image: 404 Not Found"
+    },
+    {
+      "colorName": "Brown Sugar Cookie Rooted",
+      "actualColorFamily": "brunette",
+      "specificShade": "Light Ash Brown",
+      "undertone": "cool",
+      "labValues": {
+        "L": 55,
+        "a": 4,
+        "b": 10
+      },
+      "hexColor": "#8B7D6B",
+      "confidence": 0.95,
+      "isRooted": false,
+      "notes": "The hair color is a mix of light brown tones with cool undertones, giving it an ash appearance."
+    },
+    {
+      "colorName": "Butterbeer Rooted",
+      "actualColorFamily": "blonde",
+      "specificShade": "Light Ash Blonde",
+      "undertone": "cool",
+      "labValues": {
+        "L": 80,
+        "a": 0,
+        "b": 10
+      },
+      "hexColor": "#D4C4A1",
+      "confidence": 0.95,
+      "isRooted": false,
+      "notes": "The hair color is a light blonde with cool, ashy undertones."
+    },
+    {
+      "colorName": "Cappuccino Latte Rooted",
+      "actualColorFamily": "brunette",
+      "specificShade": "Ash Brown",
+      "undertone": "cool",
+      "labValues": {
+        "L": 50,
+        "a": 2,
+        "b": 5
+      },
+      "hexColor": "#8B7D6B",
+      "confidence": 0.95,
+      "isRooted": false,
+      "notes": "The color appears to be a medium ash brown with cool undertones and no visible gradient or darker roots."
+    },
+    {
+      "colorName": "Chocolate Buttercream Rooted",
+      "actualColorFamily": "brunette",
+      "specificShade": "Ash Brown",
+      "undertone": "cool",
+      "labValues": {
+        "L": 50,
+        "a": 0,
+        "b": 5
+      },
+      "hexColor": "#8B7D6B",
+      "confidence": 0.95,
+      "isRooted": false,
+      "notes": "The hair color is predominantly a cool ash brown with subtle highlights."
+    }
+  ],
+  "summary": {
+    "blonde": 1,
+    "brunette": 4,
+    "black": 0,
+    "red": 0,
+    "gray": 0,
+    "white": 0,
+    "fantasy": 0
+  }
+}

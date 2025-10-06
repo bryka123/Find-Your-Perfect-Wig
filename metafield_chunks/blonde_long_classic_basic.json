@@ -1,0 +1,1590 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "long",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 50,
+    "filename": "blonde_long_classic_basic.json",
+    "generated_at": "2025-09-24T16:06:50.007Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679517176043",
+      "title": "16 CURL BACK HAIR EXTENSION HD - R830 ginger brown",
+      "descriptor": "long, classic, curly, blonde, R830 ginger brown",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "75.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R830 ginger brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1622-curl-back-hairdo.2.jpg?v=1709121966",
+          "altText": "16 CURL BACK HAIR EXTENSION HD - R830 ginger brown"
+        }
+      },
+      "content": "16 CURL BACK HAIR EXTENSION HD - R830 ginger brown\n\nDescription: long, classic, curly, blonde, R830 ginger brown\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1622-curl-back-hairdo.2.jpg?v=1709121966",
+        "altText": "16 CURL BACK HAIR EXTENSION HD - R830 ginger brown"
+      }
+    },
+    {
+      "id": "45818085277931",
+      "title": "CHARLI-V - FS1B/27 Off Black",
+      "descriptor": "long, classic, blonde, FS1B/27 Off Black",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "39.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "FS1B/27 Off Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/CHARLI-V_613-M_1f128d04-46cd-4e12-9bd2-1e901cfb2f45.jpg?v=1726605004",
+          "altText": "CHARLI-V - FS1B/27 Off Black"
+        }
+      },
+      "content": "CHARLI-V - FS1B/27 Off Black\n\nDescription: long, classic, blonde, FS1B/27 Off Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/CHARLI-V_613-M_1f128d04-46cd-4e12-9bd2-1e901cfb2f45.jpg?v=1726605004",
+        "altText": "CHARLI-V - FS1B/27 Off Black"
+      }
+    },
+    {
+      "id": "44679547519211",
+      "title": "16 STRAIGHT CLIP IN 8 PIECE HD - R4 MIDNIGHT BROWN",
+      "descriptor": "long, classic, blonde, R4 MIDNIGHT BROWN",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "76.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R4 MIDNIGHT BROWN"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-16in8-PieceStraightExtensionKit-Cap_011cc47c-67e9-4d06-838d-aaec7c5303d0.jpg?v=1709122017",
+          "altText": "16 STRAIGHT CLIP IN 8 PIECE HD - R4 MIDNIGHT BROWN"
+        }
+      },
+      "content": "16 STRAIGHT CLIP IN 8 PIECE HD - R4 MIDNIGHT BROWN\n\nDescription: long, classic, blonde, R4 MIDNIGHT BROWN\n\nBrand: Hairdo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-16in8-PieceStraightExtensionKit-Cap_011cc47c-67e9-4d06-838d-aaec7c5303d0.jpg?v=1709122017",
+        "altText": "16 STRAIGHT CLIP IN 8 PIECE HD - R4 MIDNIGHT BROWN"
+      }
+    },
+    {
+      "id": "44679604338923",
+      "title": "EASIPART HD 18 - 33 boysenberry treat",
+      "descriptor": "long, classic, blonde, 33 boysenberry treat",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "258.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "33 boysenberry treat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easipart-hd18inch_6_alt5_2__79709.1722386877.jpg?v=1744974321",
+          "altText": "EASIPART HD 18 - 33 boysenberry treat"
+        }
+      },
+      "content": "EASIPART HD 18 - 33 boysenberry treat\n\nDescription: long, classic, blonde, 33 boysenberry treat\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easipart-hd18inch_6_alt5_2__79709.1722386877.jpg?v=1744974321",
+        "altText": "EASIPART HD 18 - 33 boysenberry treat"
+      }
+    },
+    {
+      "id": "44679619936491",
+      "title": "Seville - mocacchino-rooted",
+      "descriptor": "long, classic, blonde, mocacchino-rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "253.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "mocacchino-rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1685-Seville-Banana-Split-R-scaled.jpg?v=1744746002",
+          "altText": "Seville - mocacchino-rooted"
+        }
+      },
+      "content": "Seville - mocacchino-rooted\n\nDescription: long, classic, blonde, mocacchino-rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1685-Seville-Banana-Split-R-scaled.jpg?v=1744746002",
+        "altText": "Seville - mocacchino-rooted"
+      }
+    },
+    {
+      "id": "44679642710251",
+      "title": "human hair pony 16 - R3HH dark brown",
+      "descriptor": "long, classic, blonde, R3HH dark brown",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "250.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R3HH dark brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HDHHPN_16IN_HH_Pony_01_7fe6a7a2-9755-4a7a-be81-c03462abcfc3.jpg?v=1709122198",
+          "altText": "human hair pony 16 - R3HH dark brown"
+        }
+      },
+      "content": "human hair pony 16 - R3HH dark brown\n\nDescription: long, classic, blonde, R3HH dark brown\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HDHHPN_16IN_HH_Pony_01_7fe6a7a2-9755-4a7a-be81-c03462abcfc3.jpg?v=1709122198",
+        "altText": "human hair pony 16 - R3HH dark brown"
+      }
+    },
+    {
+      "id": "44679666270443",
+      "title": "16” 10PC Human Hair Fineline Extension Kit - R3025S+ Glazed Cinnamon",
+      "descriptor": "long, classic, blonde, R3025S+ Glazed Cinnamon",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "324.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R3025S+ Glazed Cinnamon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-16in-10pc-Human-Hair-Fineline-Extension-Kit-Front.jpg?v=1709122242",
+          "altText": "16” 10PC Human Hair Fineline Extension Kit - R3025S+ Glazed Cinnamon"
+        }
+      },
+      "content": "16” 10PC Human Hair Fineline Extension Kit - R3025S+ Glazed Cinnamon\n\nDescription: long, classic, blonde, R3025S+ Glazed Cinnamon\n\nBrand: Hairdo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-16in-10pc-Human-Hair-Fineline-Extension-Kit-Front.jpg?v=1709122242",
+        "altText": "16” 10PC Human Hair Fineline Extension Kit - R3025S+ Glazed Cinnamon"
+      }
+    },
+    {
+      "id": "44679677280491",
+      "title": "Thrill Seeker - R14/88H golden wheat",
+      "descriptor": "long, classic, wavy, blonde, R14/88H golden wheat",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "160.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/88H golden wheat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Thrill-Seeker-Model-Front-1-copy.jpg?v=1709122270",
+          "altText": "Thrill Seeker - R14/88H golden wheat"
+        }
+      },
+      "content": "Thrill Seeker - R14/88H golden wheat\n\nDescription: long, classic, wavy, blonde, R14/88H golden wheat\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Thrill-Seeker-Model-Front-1-copy.jpg?v=1709122270",
+        "altText": "Thrill Seeker - R14/88H golden wheat"
+      }
+    },
+    {
+      "id": "44679719485675",
+      "title": "Sonia - Almond Breeze",
+      "descriptor": "long, classic, wavy, blonde, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "178.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sonia-Dark-Blonde-1587-OL.jpg?v=1744643448",
+          "altText": "Sonia - Almond Breeze"
+        }
+      },
+      "content": "Sonia - Almond Breeze\n\nDescription: long, classic, wavy, blonde, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sonia-Dark-Blonde-1587-OL.jpg?v=1744643448",
+        "altText": "Sonia - Almond Breeze"
+      }
+    },
+    {
+      "id": "44679731904747",
+      "title": "Aqua - black",
+      "descriptor": "long, classic, blonde, black",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "63.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/aqua_2.jpg?v=1709122365",
+          "altText": "Aqua - black"
+        }
+      },
+      "content": "Aqua - black\n\nDescription: long, classic, blonde, black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/aqua_2.jpg?v=1709122365",
+        "altText": "Aqua - black"
+      }
+    },
+    {
+      "id": "44679739343083",
+      "title": "Kate - Almond Breeze",
+      "descriptor": "long, classic, blonde, Almond Breeze",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "187.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kate_CinnamonRaisin-3839.jpg?v=1744637983",
+          "altText": "Kate - Almond Breeze"
+        }
+      },
+      "content": "Kate - Almond Breeze\n\nDescription: long, classic, blonde, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kate_CinnamonRaisin-3839.jpg?v=1744637983",
+        "altText": "Kate - Almond Breeze"
+      }
+    },
+    {
+      "id": "44679400816875",
+      "title": "provocative - 16/22 banana creme",
+      "descriptor": "long, classic, blonde, 16/22 banana creme",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "51.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "16/22 banana creme"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Provocative_SYN_12F_Main__09711.1717984983.png?v=1744214951",
+          "altText": "provocative - 16/22 banana creme"
+        }
+      },
+      "content": "provocative - 16/22 banana creme\n\nDescription: long, classic, blonde, 16/22 banana creme\n\nBrand: EasiHair\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Provocative_SYN_12F_Main__09711.1717984983.png?v=1744214951",
+        "altText": "provocative - 16/22 banana creme"
+      }
+    },
+    {
+      "id": "44679412908267",
+      "title": "Sleek For The Week - R14/88H golden wheat",
+      "descriptor": "long, classic, blonde, R14/88H golden wheat",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "160.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/88H golden wheat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Sleek-For-The-Week-Model-Front-2-scaled.jpg?v=1709121888",
+          "altText": "Sleek For The Week - R14/88H golden wheat"
+        }
+      },
+      "content": "Sleek For The Week - R14/88H golden wheat\n\nDescription: long, classic, blonde, R14/88H golden wheat\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-Sleek-For-The-Week-Model-Front-2-scaled.jpg?v=1709121888",
+        "altText": "Sleek For The Week - R14/88H golden wheat"
+      }
+    },
+    {
+      "id": "44679414546667",
+      "title": "TOP LEVEL SYNTHETIC - 16/22 banana creme",
+      "descriptor": "long, classic, blonde, 16/22 banana creme",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "277.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "16/22 banana creme"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/grgSLSEw.jpg?v=1709121889",
+          "altText": "TOP LEVEL SYNTHETIC - 16/22 banana creme"
+        }
+      },
+      "content": "TOP LEVEL SYNTHETIC - 16/22 banana creme\n\nDescription: long, classic, blonde, 16/22 banana creme\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/grgSLSEw.jpg?v=1709121889",
+        "altText": "TOP LEVEL SYNTHETIC - 16/22 banana creme"
+      }
+    },
+    {
+      "id": "44679420641515",
+      "title": "Seduction - cafe ole",
+      "descriptor": "long, classic, curly, blonde, cafe ole",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "148.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "cafe ole"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4106_Seduction_Molten-Amber_1_482d3bfb-2e86-47e6-98ef-dbef4711ceae.jpg?v=1709121892",
+          "altText": "Seduction - cafe ole"
+        }
+      },
+      "content": "Seduction - cafe ole\n\nDescription: long, classic, curly, blonde, cafe ole\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4106_Seduction_Molten-Amber_1_482d3bfb-2e86-47e6-98ef-dbef4711ceae.jpg?v=1709121892",
+        "altText": "Seduction - cafe ole"
+      }
+    },
+    {
+      "id": "44679456588011",
+      "title": "23 GRAND SYNTHETIC EXTENSION - R14/16T BUTTERED TOAST",
+      "descriptor": "long, classic, wavy, blonde, R14/16T BUTTERED TOAST",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "95.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/16T BUTTERED TOAST"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-23in-Grand-Extension-Model-Front-2-scaled.jpg?v=1744662364",
+          "altText": "23 GRAND SYNTHETIC EXTENSION - R14/16T BUTTERED TOAST"
+        }
+      },
+      "content": "23 GRAND SYNTHETIC EXTENSION - R14/16T BUTTERED TOAST\n\nDescription: long, classic, wavy, blonde, R14/16T BUTTERED TOAST\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/HD-23in-Grand-Extension-Model-Front-2-scaled.jpg?v=1744662364",
+        "altText": "23 GRAND SYNTHETIC EXTENSION - R14/16T BUTTERED TOAST"
+      }
+    },
+    {
+      "id": "44679472677099",
+      "title": "Ashlyn - princess ivory",
+      "descriptor": "long, classic, wavy, blonde, princess ivory",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "152.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "princess ivory"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0006s_0000_Ashlyn-_-Silky-Sand-21_1500x_c4f28333-9471-4078-b8c0-f3424e418d2d.jpg?v=1709121922",
+          "altText": "Ashlyn - princess ivory"
+        }
+      },
+      "content": "Ashlyn - princess ivory\n\nDescription: long, classic, wavy, blonde, princess ivory\n\nBrand: TressAllure\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0006s_0000_Ashlyn-_-Silky-Sand-21_1500x_c4f28333-9471-4078-b8c0-f3424e418d2d.jpg?v=1709121922",
+        "altText": "Ashlyn - princess ivory"
+      }
+    },
+    {
+      "id": "44679787086059",
+      "title": "LONG WITH LAYERS - R10 CHESTNUT",
+      "descriptor": "long, classic, blonde, R10 CHESTNUT",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R10 CHESTNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Front2.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R10 CHESTNUT"
+        }
+      },
+      "content": "LONG WITH LAYERS - R10 CHESTNUT\n\nDescription: long, classic, blonde, R10 CHESTNUT\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Front2.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R10 CHESTNUT"
+      }
+    },
+    {
+      "id": "44679787118827",
+      "title": "LONG WITH LAYERS - R11S GLAZED MOCHA",
+      "descriptor": "long, classic, blonde, R11S GLAZED MOCHA",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R11S GLAZED MOCHA"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Front1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R11S GLAZED MOCHA"
+        }
+      },
+      "content": "LONG WITH LAYERS - R11S GLAZED MOCHA\n\nDescription: long, classic, blonde, R11S GLAZED MOCHA\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Front1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R11S GLAZED MOCHA"
+      }
+    },
+    {
+      "id": "44679787151595",
+      "title": "LONG WITH LAYERS - R2 EBONY",
+      "descriptor": "long, classic, blonde, R2 EBONY",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R2 EBONY"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R2 EBONY"
+        }
+      },
+      "content": "LONG WITH LAYERS - R2 EBONY\n\nDescription: long, classic, blonde, R2 EBONY\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R2 EBONY"
+      }
+    },
+    {
+      "id": "44679787184363",
+      "title": "LONG WITH LAYERS - R3025S GLAZED CINNAMON",
+      "descriptor": "long, classic, blonde, R3025S GLAZED CINNAMON",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R3025S GLAZED CINNAMON"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side3.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R3025S GLAZED CINNAMON"
+        }
+      },
+      "content": "LONG WITH LAYERS - R3025S GLAZED CINNAMON\n\nDescription: long, classic, blonde, R3025S GLAZED CINNAMON\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side3.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R3025S GLAZED CINNAMON"
+      }
+    },
+    {
+      "id": "44679787217131",
+      "title": "LONG WITH LAYERS - R4 MIDNIGHT BROWN",
+      "descriptor": "long, classic, blonde, R4 MIDNIGHT BROWN",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R4 MIDNIGHT BROWN"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side2.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R4 MIDNIGHT BROWN"
+        }
+      },
+      "content": "LONG WITH LAYERS - R4 MIDNIGHT BROWN\n\nDescription: long, classic, blonde, R4 MIDNIGHT BROWN\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongWithLayers-model2-Side2.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R4 MIDNIGHT BROWN"
+      }
+    },
+    {
+      "id": "44679787249899",
+      "title": "LONG WITH LAYERS - R435S GLAZED BLACK CHERRY",
+      "descriptor": "long, classic, blonde, R435S GLAZED BLACK CHERRY",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R435S GLAZED BLACK CHERRY"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Model-Editorial1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R435S GLAZED BLACK CHERRY"
+        }
+      },
+      "content": "LONG WITH LAYERS - R435S GLAZED BLACK CHERRY\n\nDescription: long, classic, blonde, R435S GLAZED BLACK CHERRY\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Model-Editorial1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R435S GLAZED BLACK CHERRY"
+      }
+    },
+    {
+      "id": "44679787282667",
+      "title": "LONG WITH LAYERS - R6/30H CHOCOLATE COPPER",
+      "descriptor": "long, classic, blonde, R6/30H CHOCOLATE COPPER",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R6/30H CHOCOLATE COPPER"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_3_1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R6/30H CHOCOLATE COPPER"
+        }
+      },
+      "content": "LONG WITH LAYERS - R6/30H CHOCOLATE COPPER\n\nDescription: long, classic, blonde, R6/30H CHOCOLATE COPPER\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_3_1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R6/30H CHOCOLATE COPPER"
+      }
+    },
+    {
+      "id": "44679787315435",
+      "title": "LONG WITH LAYERS - R829S GLAZED HAZELNUT",
+      "descriptor": "long, classic, blonde, R829S GLAZED HAZELNUT",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R829S GLAZED HAZELNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_4_1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R829S GLAZED HAZELNUT"
+        }
+      },
+      "content": "LONG WITH LAYERS - R829S GLAZED HAZELNUT\n\nDescription: long, classic, blonde, R829S GLAZED HAZELNUT\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_4_1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R829S GLAZED HAZELNUT"
+      }
+    },
+    {
+      "id": "44679787348203",
+      "title": "LONG WITH LAYERS - SS14/88H GOLDEN WHEAT",
+      "descriptor": "long, classic, blonde, SS14/88H GOLDEN WHEAT",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS14/88H GOLDEN WHEAT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Model-Front2.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - SS14/88H GOLDEN WHEAT"
+        }
+      },
+      "content": "LONG WITH LAYERS - SS14/88H GOLDEN WHEAT\n\nDescription: long, classic, blonde, SS14/88H GOLDEN WHEAT\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Model-Front2.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - SS14/88H GOLDEN WHEAT"
+      }
+    },
+    {
+      "id": "44679787380971",
+      "title": "LONG WITH LAYERS - SS25 GINGER BLONDE ROOTED",
+      "descriptor": "long, classic, blonde, SS25 GINGER BLONDE ROOTED",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS25 GINGER BLONDE ROOTED"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_6_1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - SS25 GINGER BLONDE ROOTED"
+        }
+      },
+      "content": "LONG WITH LAYERS - SS25 GINGER BLONDE ROOTED\n\nDescription: long, classic, blonde, SS25 GINGER BLONDE ROOTED\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_6_1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - SS25 GINGER BLONDE ROOTED"
+      }
+    },
+    {
+      "id": "44679787413739",
+      "title": "LONG WITH LAYERS - R16/21s glazed sand",
+      "descriptor": "long, classic, blonde, R16/21s glazed sand",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R16/21s glazed sand"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_7_1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - R16/21s glazed sand"
+        }
+      },
+      "content": "LONG WITH LAYERS - R16/21s glazed sand\n\nDescription: long, classic, blonde, R16/21s glazed sand\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_7_1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - R16/21s glazed sand"
+      }
+    },
+    {
+      "id": "44679787446507",
+      "title": "LONG WITH LAYERS - r830 ginger brown",
+      "descriptor": "long, classic, blonde, r830 ginger brown",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r830 ginger brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_8_1.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - r830 ginger brown"
+        }
+      },
+      "content": "LONG WITH LAYERS - r830 ginger brown\n\nDescription: long, classic, blonde, r830 ginger brown\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd-long-with-layers_8_1.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - r830 ginger brown"
+      }
+    },
+    {
+      "id": "44679787479275",
+      "title": "LONG WITH LAYERS - r56 60 silver mist",
+      "descriptor": "long, classic, blonde, r56 60 silver mist",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r56 60 silver mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Cap.jpg?v=1709122451",
+          "altText": "LONG WITH LAYERS - r56 60 silver mist"
+        }
+      },
+      "content": "LONG WITH LAYERS - r56 60 silver mist\n\nDescription: long, classic, blonde, r56 60 silver mist\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-LongwithLayers-Cap.jpg?v=1709122451",
+        "altText": "LONG WITH LAYERS - r56 60 silver mist"
+      }
+    },
+    {
+      "id": "44679803699435",
+      "title": "23 WAVY HAIR EXTENSIONS HD - R28S GLAZED FIRE",
+      "descriptor": "long, classic, wavy, blonde, R28S GLAZED FIRE",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "95.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R28S GLAZED FIRE"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd23wxtr_07.18-04_lg_9d861d37-a415-49cc-8d00-038e1c5e7af2.jpg?v=1709122483",
+          "altText": "23 WAVY HAIR EXTENSIONS HD - R28S GLAZED FIRE"
+        }
+      },
+      "content": "23 WAVY HAIR EXTENSIONS HD - R28S GLAZED FIRE\n\nDescription: long, classic, wavy, blonde, R28S GLAZED FIRE\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/hd23wxtr_07.18-04_lg_9d861d37-a415-49cc-8d00-038e1c5e7af2.jpg?v=1709122483",
+        "altText": "23 WAVY HAIR EXTENSIONS HD - R28S GLAZED FIRE"
+      }
+    },
+    {
+      "id": "44679805927659",
+      "title": "robin - almond spice rooted",
+      "descriptor": "long, classic, blonde, almond spice rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "214.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "almond spice rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Robin-Burg-Rosa3248.jpg?v=1709122484",
+          "altText": "robin - almond spice rooted"
+        }
+      },
+      "content": "robin - almond spice rooted\n\nDescription: long, classic, blonde, almond spice rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Robin-Burg-Rosa3248.jpg?v=1709122484",
+        "altText": "robin - almond spice rooted"
+      }
+    },
+    {
+      "id": "44679808549099",
+      "title": "25 Straight Wrap around ponytail HD - R10 chestnut",
+      "descriptor": "long, classic, blonde, R10 chestnut",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R10 chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/25_inch_Straight_Pony_-_1-1.jpg?v=1709122487",
+          "altText": "25 Straight Wrap around ponytail HD - R10 chestnut"
+        }
+      },
+      "content": "25 Straight Wrap around ponytail HD - R10 chestnut\n\nDescription: long, classic, blonde, R10 chestnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/25_inch_Straight_Pony_-_1-1.jpg?v=1709122487",
+        "altText": "25 Straight Wrap around ponytail HD - R10 chestnut"
+      }
+    },
+    {
+      "id": "44679834173675",
+      "title": "always large - RL10/12 sunlit chestnut",
+      "descriptor": "long, classic, wavy, blonde, RL10/12 sunlit chestnut",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "198.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL10/12 sunlit chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Always-Model-Lifestyle-2-scaled.jpg?v=1744723077",
+          "altText": "always large - RL10/12 sunlit chestnut"
+        }
+      },
+      "content": "always large - RL10/12 sunlit chestnut\n\nDescription: long, classic, wavy, blonde, RL10/12 sunlit chestnut\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Always-Model-Lifestyle-2-scaled.jpg?v=1744723077",
+        "altText": "always large - RL10/12 sunlit chestnut"
+      }
+    },
+    {
+      "id": "44679846396139",
+      "title": "PIN UP - 2 chocolate souffle",
+      "descriptor": "long, classic, curly, blonde, 2 chocolate souffle",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "44.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "2 chocolate souffle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/pinup_2_side__70946.1578371519.jpg?v=1744965888",
+          "altText": "PIN UP - 2 chocolate souffle"
+        }
+      },
+      "content": "PIN UP - 2 chocolate souffle\n\nDescription: long, classic, curly, blonde, 2 chocolate souffle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/pinup_2_side__70946.1578371519.jpg?v=1744965888",
+        "altText": "PIN UP - 2 chocolate souffle"
+      }
+    },
+    {
+      "id": "44679853900011",
+      "title": "EASICROWN HH 18 - 10h24b english toffee",
+      "descriptor": "long, classic, blonde, 10h24b english toffee",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1064.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10h24b english toffee"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr737_02_lg.jpg?v=1709122550",
+          "altText": "EASICROWN HH 18 - 10h24b english toffee"
+        }
+      },
+      "content": "EASICROWN HH 18 - 10h24b english toffee\n\nDescription: long, classic, blonde, 10h24b english toffee\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr737_02_lg.jpg?v=1709122550",
+        "altText": "EASICROWN HH 18 - 10h24b english toffee"
+      }
+    },
+    {
+      "id": "44679895187691",
+      "title": "EASIPART XL HH 18 - 12/30bt rootbeer float",
+      "descriptor": "long, classic, blonde, 12/30bt rootbeer float",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1824.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12/30bt rootbeer float"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr735_02_lg.jpg?v=1709122604",
+          "altText": "EASIPART XL HH 18 - 12/30bt rootbeer float"
+        }
+      },
+      "content": "EASIPART XL HH 18 - 12/30bt rootbeer float\n\nDescription: long, classic, blonde, 12/30bt rootbeer float\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr735_02_lg.jpg?v=1709122604",
+        "altText": "EASIPART XL HH 18 - 12/30bt rootbeer float"
+      }
+    },
+    {
+      "id": "44679905378539",
+      "title": "simply curly claw clip 18 - R2 ebony",
+      "descriptor": "long, classic, curly, blonde, R2 ebony",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "55.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R2 ebony"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/18-inch-Curly-Claw-Clip-Pony-2.jpg?v=1744660160",
+          "altText": "simply curly claw clip 18 - R2 ebony"
+        }
+      },
+      "content": "simply curly claw clip 18 - R2 ebony\n\nDescription: long, classic, curly, blonde, R2 ebony\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/18-inch-Curly-Claw-Clip-Pony-2.jpg?v=1744660160",
+        "altText": "simply curly claw clip 18 - R2 ebony"
+      }
+    },
+    {
+      "id": "44679911735531",
+      "title": "EASIPART HD XL 18 - 22mb poppy seed",
+      "descriptor": "long, classic, blonde, 22mb poppy seed",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "297.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "22mb poppy seed"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easipart-xl-hd-18inch_6_main_69d9b92b-0089-405d-a114-dc1e8832cb19.jpg?v=1709122633",
+          "altText": "EASIPART HD XL 18 - 22mb poppy seed"
+        }
+      },
+      "content": "EASIPART HD XL 18 - 22mb poppy seed\n\nDescription: long, classic, blonde, 22mb poppy seed\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/easipart-xl-hd-18inch_6_main_69d9b92b-0089-405d-a114-dc1e8832cb19.jpg?v=1709122633",
+        "altText": "EASIPART HD XL 18 - 22mb poppy seed"
+      }
+    },
+    {
+      "id": "44679919665387",
+      "title": "angelica large - champagne rooted",
+      "descriptor": "long, classic, blonde, champagne rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "large",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "266.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1702-Angelica-LG-Toasted-Brown-scaled_399cd251-eff2-47e5-9a96-2c32e7999bf7.jpg?v=1744746931",
+          "altText": "angelica large - champagne rooted"
+        }
+      },
+      "content": "angelica large - champagne rooted\n\nDescription: long, classic, blonde, champagne rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1702-Angelica-LG-Toasted-Brown-scaled_399cd251-eff2-47e5-9a96-2c32e7999bf7.jpg?v=1744746931",
+        "altText": "angelica large - champagne rooted"
+      }
+    },
+    {
+      "id": "44679960756459",
+      "title": "LONG TOP PIECE - expresso",
+      "descriptor": "long, classic, blonde, expresso",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "expresso"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR1-scaled.jpg?v=1744125190",
+          "altText": "LONG TOP PIECE - expresso"
+        }
+      },
+      "content": "LONG TOP PIECE - expresso\n\nDescription: long, classic, blonde, expresso\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR1-scaled.jpg?v=1744125190",
+        "altText": "LONG TOP PIECE - expresso"
+      }
+    },
+    {
+      "id": "44679960887531",
+      "title": "LONG TOP PIECE - iced mocha rooted",
+      "descriptor": "long, classic, blonde, iced mocha rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "iced mocha rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR2-scaled.jpg?v=1744125560",
+          "altText": "LONG TOP PIECE - iced mocha rooted"
+        }
+      },
+      "content": "LONG TOP PIECE - iced mocha rooted\n\nDescription: long, classic, blonde, iced mocha rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR2-scaled.jpg?v=1744125560",
+        "altText": "LONG TOP PIECE - iced mocha rooted"
+      }
+    },
+    {
+      "id": "44679960985835",
+      "title": "LONG TOP PIECE - ginger brown",
+      "descriptor": "long, classic, blonde, ginger brown",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ginger brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR3-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - ginger brown"
+        }
+      },
+      "content": "LONG TOP PIECE - ginger brown\n\nDescription: long, classic, blonde, ginger brown\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR3-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - ginger brown"
+      }
+    },
+    {
+      "id": "44679961247979",
+      "title": "LONG TOP PIECE - creamy toffee rooted",
+      "descriptor": "long, classic, blonde, creamy toffee rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy toffee rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-1-of-4-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - creamy toffee rooted"
+        }
+      },
+      "content": "LONG TOP PIECE - creamy toffee rooted\n\nDescription: long, classic, blonde, creamy toffee rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-1-of-4-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - creamy toffee rooted"
+      }
+    },
+    {
+      "id": "44679961346283",
+      "title": "LONG TOP PIECE - medium brown",
+      "descriptor": "long, classic, blonde, medium brown",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "medium brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-2-of-4-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - medium brown"
+        }
+      },
+      "content": "LONG TOP PIECE - medium brown\n\nDescription: long, classic, blonde, medium brown\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-2-of-4-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - medium brown"
+      }
+    },
+    {
+      "id": "44679961444587",
+      "title": "LONG TOP PIECE - marble brown long rooted",
+      "descriptor": "long, classic, blonde, marble brown long rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marble brown long rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-3-of-4-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - marble brown long rooted"
+        }
+      },
+      "content": "LONG TOP PIECE - marble brown long rooted\n\nDescription: long, classic, blonde, marble brown long rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-3-of-4-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - marble brown long rooted"
+      }
+    },
+    {
+      "id": "44679961542891",
+      "title": "LONG TOP PIECE - macadamia long rooted",
+      "descriptor": "long, classic, blonde, macadamia long rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "macadamia long rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-4-of-4-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - macadamia long rooted"
+        }
+      },
+      "content": "LONG TOP PIECE - macadamia long rooted\n\nDescription: long, classic, blonde, macadamia long rooted\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Long-TP-Marble-Brown-LR-4-of-4-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - macadamia long rooted"
+      }
+    },
+    {
+      "id": "44679961641195",
+      "title": "LONG TOP PIECE - harvest gold",
+      "descriptor": "long, classic, blonde, harvest gold",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "harvest gold"
+          }
+        ]
+      },
+      "content": "LONG TOP PIECE - harvest gold\n\nDescription: long, classic, blonde, harvest gold\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679961772267",
+      "title": "LONG TOP PIECE - gold blonde",
+      "descriptor": "long, classic, blonde, gold blonde",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "gold blonde"
+          }
+        ]
+      },
+      "content": "LONG TOP PIECE - gold blonde\n\nDescription: long, classic, blonde, gold blonde\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679961903339",
+      "title": "LONG TOP PIECE - spring honey",
+      "descriptor": "long, classic, blonde, spring honey",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "spring honey"
+          }
+        ]
+      },
+      "content": "LONG TOP PIECE - spring honey\n\nDescription: long, classic, blonde, spring honey\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    }
+  ]
+}

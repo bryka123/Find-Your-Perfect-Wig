@@ -1,0 +1,151 @@
+{{ 'wig-matcher-block.css' | asset_url | stylesheet_tag }}
+
+<div class="wig-matcher-block" {{ block.shopify_attributes }}>
+  <div class="wig-matcher-container">
+    <div class="wig-matcher-header">
+      <h2 class="wig-matcher-title">{{ block.settings.title | default: "Find Your Perfect Wig" }}</h2>
+      {% if block.settings.description != blank %}
+        <p class="wig-matcher-description">{{ block.settings.description }}</p>
+      {% endif %}
+    </div>
+    
+    <div id="chiquel-wig-matcher" 
+         data-app-url="{{ block.settings.app_url | default: 'https://your-app-domain.com' }}"
+         data-theme="{{ block.settings.theme | default: 'light' }}"
+         data-max-results="{{ block.settings.max_results | default: 6 }}"
+         data-show-filters="{{ block.settings.show_filters | default: true }}">
+      <div class="loading-placeholder">
+        <div class="loading-spinner"></div>
+        <p>Loading wig matcher...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Load the wig matcher component
+  (function() {
+    const container = document.getElementById('chiquel-wig-matcher');
+    if (!container) return;
+    
+    const appUrl = container.dataset.appUrl;
+    const theme = container.dataset.theme || 'light';
+    const maxResults = parseInt(container.dataset.maxResults) || 6;
+    const showFilters = container.dataset.showFilters === 'true';
+    
+    // Create iframe to load the app component
+    const iframe = document.createElement('iframe');
+    iframe.src = `${appUrl}/storefront/wig-matcher?theme=${theme}&maxResults=${maxResults}&showFilters=${showFilters}`;
+    iframe.style.width = '100%';
+    iframe.style.minHeight = '600px';
+    iframe.style.border = 'none';
+    iframe.style.borderRadius = '12px';
+    iframe.style.backgroundColor = theme === 'dark' ? '#1a1a1a' : '#ffffff';
+    
+    // Replace loading placeholder with iframe
+    container.innerHTML = '';
+    container.appendChild(iframe);
+    
+    // Handle iframe resize
+    window.addEventListener('message', function(event) {
+      if (event.origin !== new URL(appUrl).origin) return;
+      
+      if (event.data.type === 'wig-matcher-resize') {
+        iframe.style.height = event.data.height + 'px';
+      }
+    });
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Wig Matcher",
+  "target": "section",
+  "available_if": "{{ app.metafields.chiquel.enabled }}",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Find Your Perfect Wig"
+    },
+    {
+      "type": "textarea",
+      "id": "description", 
+      "label": "Description",
+      "default": "Discover wigs that match your style and features using AI-powered recommendations"
+    },
+    {
+      "type": "url",
+      "id": "app_url",
+      "label": "App URL",
+      "info": "The URL where your Chiquel app is hosted"
+    },
+    {
+      "type": "select",
+      "id": "theme",
+      "label": "Theme",
+      "options": [
+        {
+          "value": "light",
+          "label": "Light"
+        },
+        {
+          "value": "dark", 
+          "label": "Dark"
+        }
+      ],
+      "default": "light"
+    },
+    {
+      "type": "range",
+      "id": "max_results",
+      "label": "Maximum Results",
+      "min": 3,
+      "max": 12,
+      "step": 1,
+      "default": 6
+    },
+    {
+      "type": "checkbox",
+      "id": "show_filters",
+      "label": "Show Filters",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Styling"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "text_color", 
+      "label": "Text Color",
+      "default": "#333333"
+    },
+    {
+      "type": "color",
+      "id": "accent_color",
+      "label": "Accent Color",
+      "default": "#e91e63"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Wig Matcher"
+    }
+  ]
+}
+{% endschema %}
+
+
+
+
+
+
+

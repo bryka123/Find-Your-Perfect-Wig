@@ -1,0 +1,798 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "long",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 25,
+    "filename": "brunette_long_classic_basic.json",
+    "generated_at": "2025-09-24T16:06:50.008Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679443480811",
+      "title": "Mantra Long Scarf - Brown 167",
+      "descriptor": "long, classic, brunette, Brown 167",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Brown 167"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-80ties-grafic-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Brown 167"
+        }
+      },
+      "content": "Mantra Long Scarf - Brown 167\n\nDescription: long, classic, brunette, Brown 167\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-80ties-grafic-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Brown 167"
+      }
+    },
+    {
+      "id": "44679443513579",
+      "title": "Mantra Long Scarf - Blue 168",
+      "descriptor": "long, classic, brunette, Blue 168",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Blue 168"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Kaleidoscope-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Blue 168"
+        }
+      },
+      "content": "Mantra Long Scarf - Blue 168\n\nDescription: long, classic, brunette, Blue 168\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Kaleidoscope-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Blue 168"
+      }
+    },
+    {
+      "id": "44679443546347",
+      "title": "Mantra Long Scarf - Grey Melange 169",
+      "descriptor": "long, classic, brunette, Grey Melange 169",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Grey Melange 169"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Black-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Grey Melange 169"
+        }
+      },
+      "content": "Mantra Long Scarf - Grey Melange 169\n\nDescription: long, classic, brunette, Grey Melange 169\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Black-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Grey Melange 169"
+      }
+    },
+    {
+      "id": "44679443579115",
+      "title": "Mantra Long Scarf - Light Lilac 171",
+      "descriptor": "long, classic, brunette, Light Lilac 171",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Lilac 171"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Blue-Melange-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Light Lilac 171"
+        }
+      },
+      "content": "Mantra Long Scarf - Light Lilac 171\n\nDescription: long, classic, brunette, Light Lilac 171\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Blue-Melange-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Light Lilac 171"
+      }
+    },
+    {
+      "id": "44679443644651",
+      "title": "Mantra Long Scarf - Dark Blue 255",
+      "descriptor": "long, classic, brunette, Dark Blue 255",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Blue 255"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Brown-Green-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Dark Blue 255"
+        }
+      },
+      "content": "Mantra Long Scarf - Dark Blue 255\n\nDescription: long, classic, brunette, Dark Blue 255\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Brown-Green-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Dark Blue 255"
+      }
+    },
+    {
+      "id": "44679443742955",
+      "title": "Mantra Long Scarf - Ocean Blue 295",
+      "descriptor": "long, classic, brunette, Ocean Blue 295",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ocean Blue 295"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Brown-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Ocean Blue 295"
+        }
+      },
+      "content": "Mantra Long Scarf - Ocean Blue 295\n\nDescription: long, classic, brunette, Ocean Blue 295\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Brown-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Ocean Blue 295"
+      }
+    },
+    {
+      "id": "44679443808491",
+      "title": "Mantra Long Scarf - Rose Melange 320",
+      "descriptor": "long, classic, brunette, Rose Melange 320",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Rose Melange 320"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Cerise-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Rose Melange 320"
+        }
+      },
+      "content": "Mantra Long Scarf - Rose Melange 320\n\nDescription: long, classic, brunette, Rose Melange 320\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Cerise-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Rose Melange 320"
+      }
+    },
+    {
+      "id": "44679443906795",
+      "title": "Mantra Long Scarf - Brown Green 338",
+      "descriptor": "long, classic, brunette, Brown Green 338",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Brown Green 338"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Fuchsia-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Brown Green 338"
+        }
+      },
+      "content": "Mantra Long Scarf - Brown Green 338\n\nDescription: long, classic, brunette, Brown Green 338\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Fuchsia-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Brown Green 338"
+      }
+    },
+    {
+      "id": "44679444005099",
+      "title": "Mantra Long Scarf - Blue Melange 391",
+      "descriptor": "long, classic, brunette, Blue Melange 391",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Blue Melange 391"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Grey-Brown-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Blue Melange 391"
+        }
+      },
+      "content": "Mantra Long Scarf - Blue Melange 391\n\nDescription: long, classic, brunette, Blue Melange 391\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Grey-Brown-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Blue Melange 391"
+      }
+    },
+    {
+      "id": "44679444103403",
+      "title": "Mantra Long Scarf - Brown Melange 84",
+      "descriptor": "long, classic, brunette, Brown Melange 84",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Brown Melange 84"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Grey-Melange-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Brown Melange 84"
+        }
+      },
+      "content": "Mantra Long Scarf - Brown Melange 84\n\nDescription: long, classic, brunette, Brown Melange 84\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Grey-Melange-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Brown Melange 84"
+      }
+    },
+    {
+      "id": "44679444168939",
+      "title": "Mantra Long Scarf - Fuchsia 174",
+      "descriptor": "long, classic, brunette, Fuchsia 174",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Fuchsia 174"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Light-Lilac-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Fuchsia 174"
+        }
+      },
+      "content": "Mantra Long Scarf - Fuchsia 174\n\nDescription: long, classic, brunette, Fuchsia 174\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Light-Lilac-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Fuchsia 174"
+      }
+    },
+    {
+      "id": "44679444267243",
+      "title": "Mantra Long Scarf - Grey/Brown 253",
+      "descriptor": "long, classic, brunette, Grey/Brown 253",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Grey/Brown 253"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Ocean-Blue-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Grey/Brown 253"
+        }
+      },
+      "content": "Mantra Long Scarf - Grey/Brown 253\n\nDescription: long, classic, brunette, Grey/Brown 253\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Ocean-Blue-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Grey/Brown 253"
+      }
+    },
+    {
+      "id": "44679444365547",
+      "title": "Mantra Long Scarf - Cerise 254",
+      "descriptor": "long, classic, brunette, Cerise 254",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "62.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cerise 254"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Red-scaled.jpg?v=1709121909",
+          "altText": "Mantra Long Scarf - Cerise 254"
+        }
+      },
+      "content": "Mantra Long Scarf - Cerise 254\n\nDescription: long, classic, brunette, Cerise 254\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mantra-Long-Scarf-Red-scaled.jpg?v=1709121909",
+        "altText": "Mantra Long Scarf - Cerise 254"
+      }
+    },
+    {
+      "id": "44679942734059",
+      "title": "EASICROWN HD 18 - 6 fudgesicle",
+      "descriptor": "long, classic, brunette, 6 fudgesicle",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "253.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easicrown-hh-18in-6f27-alt1_3__06936.1722386447.jpg?v=1744977605",
+          "altText": "EASICROWN HD 18 - 6 fudgesicle"
+        }
+      },
+      "content": "EASICROWN HD 18 - 6 fudgesicle\n\nDescription: long, classic, blonde, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easicrown-hh-18in-6f27-alt1_3__06936.1722386447.jpg?v=1744977605",
+        "altText": "EASICROWN HD 18 - 6 fudgesicle"
+      }
+    },
+    {
+      "id": "44679961149675",
+      "title": "LONG TOP PIECE - dark chocolate",
+      "descriptor": "long, classic, brunette, dark chocolate",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "142.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Before-Topper-2-1-of-1-scaled.jpg?v=1744125896",
+          "altText": "LONG TOP PIECE - dark chocolate"
+        }
+      },
+      "content": "LONG TOP PIECE - dark chocolate\n\nDescription: long, classic, blonde, dark chocolate\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Before-Topper-2-1-of-1-scaled.jpg?v=1744125896",
+        "altText": "LONG TOP PIECE - dark chocolate"
+      }
+    },
+    {
+      "id": "44680781398251",
+      "title": "TOP FULL 18 SYNTHETIC - 8/30 cocoa twist",
+      "descriptor": "long, classic, brunette, 8/30 cocoa twist",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "442.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8/30 cocoa twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/topfull18_026c53a9-c6a6-4654-a980-2b52ca60498d.jpg?v=1709124105",
+          "altText": "TOP FULL 18 SYNTHETIC - 8/30 cocoa twist"
+        }
+      },
+      "content": "TOP FULL 18 SYNTHETIC - 8/30 cocoa twist\n\nDescription: long, classic, blonde, 8/30 cocoa twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/topfull18_026c53a9-c6a6-4654-a980-2b52ca60498d.jpg?v=1709124105",
+        "altText": "TOP FULL 18 SYNTHETIC - 8/30 cocoa twist"
+      }
+    },
+    {
+      "id": "45833851699435",
+      "title": "LBP-TOBI - 1 Jet Black",
+      "descriptor": "long, classic, curly, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "21.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBP-TOBI_99J_M.jpg?v=1758287542",
+          "altText": "LBP-TOBI - 1 Jet Black"
+        }
+      },
+      "content": "LBP-TOBI - 1 Jet Black\n\nDescription: long, classic, curly, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBP-TOBI_99J_M.jpg?v=1758287542",
+        "altText": "LBP-TOBI - 1 Jet Black"
+      }
+    },
+    {
+      "id": "45837909885163",
+      "title": "BP-ALLURE - 1 Jet Black",
+      "descriptor": "long, classic, curly, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "16.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BP-ALLURE_99J_M-1.png?v=1758116088",
+          "altText": "BP-ALLURE - 1 Jet Black"
+        }
+      },
+      "content": "BP-ALLURE - 1 Jet Black\n\nDescription: long, classic, curly, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BP-ALLURE_99J_M-1.png?v=1758116088",
+        "altText": "BP-ALLURE - 1 Jet Black"
+      }
+    },
+    {
+      "id": "45840590209259",
+      "title": "V-JUNO - 1 Jet Black",
+      "descriptor": "long, classic, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "41.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/vivica-a-fox-v-juno-240918115004.jpg?v=1758116095",
+          "altText": "V-JUNO - 1 Jet Black"
+        }
+      },
+      "content": "V-JUNO - 1 Jet Black\n\nDescription: long, classic, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/vivica-a-fox-v-juno-240918115004.jpg?v=1758116095",
+        "altText": "V-JUNO - 1 Jet Black"
+      }
+    },
+    {
+      "id": "45840688152811",
+      "title": "V-RING - 1 Jet Black",
+      "descriptor": "long, classic, curly, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "43.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/vivica-a-fox-v-juno-240918120127.jpg?v=1758116096",
+          "altText": "V-RING - 1 Jet Black"
+        }
+      },
+      "content": "V-RING - 1 Jet Black\n\nDescription: long, classic, curly, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/vivica-a-fox-v-juno-240918120127.jpg?v=1758116096",
+        "altText": "V-RING - 1 Jet Black"
+      }
+    },
+    {
+      "id": "46033629577451",
+      "title": "Punky Long (Facebook) - Claret",
+      "descriptor": "long, classic, brunette, Claret",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "244.56",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Claret"
+          }
+        ]
+      },
+      "content": "Punky Long (Facebook) - Claret\n\nDescription: long, classic, brunette, Claret\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46033629610219",
+      "title": "Punky Long (Facebook) - Venom",
+      "descriptor": "long, classic, brunette, Venom",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "244.56",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Venom"
+          }
+        ]
+      },
+      "content": "Punky Long (Facebook) - Venom\n\nDescription: long, classic, brunette, Venom\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46101949284587",
+      "title": "LBPB-IVY - 1 Jet Black",
+      "descriptor": "long, classic, curly, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "22.95",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBPB-IVY_99J_M.png?v=1758116099",
+          "altText": "LBPB-IVY - 1 Jet Black"
+        }
+      },
+      "content": "LBPB-IVY - 1 Jet Black\n\nDescription: long, classic, curly, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBPB-IVY_99J_M.png?v=1758116099",
+        "altText": "LBPB-IVY - 1 Jet Black"
+      }
+    },
+    {
+      "id": "46101974843627",
+      "title": "LBP-DAISY - 1 Jet Black",
+      "descriptor": "long, classic, wavy, brunette, 1 Jet Black",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "23.95",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1 Jet Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBP-DAISY_P4_27_30_M.png?v=1758116085",
+          "altText": "LBP-DAISY - 1 Jet Black"
+        }
+      },
+      "content": "LBP-DAISY - 1 Jet Black\n\nDescription: long, classic, wavy, brunette, 1 Jet Black\n\nBrand: Vivica Fox\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/LBP-DAISY_P4_27_30_M.png?v=1758116085",
+        "altText": "LBP-DAISY - 1 Jet Black"
+      }
+    },
+    {
+      "id": "46886310936811",
+      "title": "angelica Dark Chocolate (Amanda) - dark chocolate",
+      "descriptor": "long, classic, brunette, dark chocolate",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "234.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Angelica-Iced-Mocha-R1-scaled.jpg?v=1744745195",
+          "altText": "angelica Dark Chocolate (Amanda) - dark chocolate"
+        }
+      },
+      "content": "angelica Dark Chocolate (Amanda) - dark chocolate\n\nDescription: long, classic, blonde, dark chocolate\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Angelica-Iced-Mocha-R1-scaled.jpg?v=1744745195",
+        "altText": "angelica Dark Chocolate (Amanda) - dark chocolate"
+      }
+    }
+  ]
+}

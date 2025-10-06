@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "color": "red",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 13,
+    "filename": "red_medium_classic_basic.json",
+    "generated_at": "2025-09-24T16:06:50.008Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44680132919531",
+      "title": "Lotus Turban - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "41.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lotus-Turban-Grey-Brown-scaled.jpg?v=1709122990",
+          "altText": "Lotus Turban - Red 361"
+        }
+      },
+      "content": "Lotus Turban - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Lotus-Turban-Grey-Brown-scaled.jpg?v=1709122990",
+        "altText": "Lotus Turban - Red 361"
+      }
+    },
+    {
+      "id": "44680164114667",
+      "title": "Chitta Headband - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "22.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ]
+      },
+      "content": "Chitta Headband - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680173617387",
+      "title": "Sapphire Boho Printed Turban - Flowerpot Red 784",
+      "descriptor": "medium, classic, red, Flowerpot Red 784",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "46.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Flowerpot Red 784"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sapphire-Boho-Printed-Turban-Satin-Snake-1-scaled.jpg?v=1709123057",
+          "altText": "Sapphire Boho Printed Turban - Flowerpot Red 784"
+        }
+      },
+      "content": "Sapphire Boho Printed Turban - Flowerpot Red 784\n\nDescription: medium, classic, red, Flowerpot Red 784\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Sapphire-Boho-Printed-Turban-Satin-Snake-1-scaled.jpg?v=1709123057",
+        "altText": "Sapphire Boho Printed Turban - Flowerpot Red 784"
+      }
+    },
+    {
+      "id": "44680274182379",
+      "title": "Yoga Turban - Red 361",
+      "descriptor": "medium, classic, red, Red 361",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "45.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red 361"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Yoga-Turban-Fuchsia-scaled.jpg?v=1709123229",
+          "altText": "Yoga Turban - Red 361"
+        }
+      },
+      "content": "Yoga Turban - Red 361\n\nDescription: medium, classic, red, Red 361\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Yoga-Turban-Fuchsia-scaled.jpg?v=1709123229",
+        "altText": "Yoga Turban - Red 361"
+      }
+    },
+    {
+      "id": "44680607826155",
+      "title": "TINSEL TOWN - Red Tinsel",
+      "descriptor": "medium, classic, red, Red Tinsel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "43.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red Tinsel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinsel_town_red__5_5__26916.1578371520.jpg?v=1744977086",
+          "altText": "TINSEL TOWN - Red Tinsel"
+        }
+      },
+      "content": "TINSEL TOWN - Red Tinsel\n\nDescription: medium, classic, red, Red Tinsel\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tinsel_town_red__5_5__26916.1578371520.jpg?v=1744977086",
+        "altText": "TINSEL TOWN - Red Tinsel"
+      }
+    },
+    {
+      "id": "44680647737579",
+      "title": "Anoki - ah dark red",
+      "descriptor": "medium, classic, red, ah dark red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "48.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ah dark red"
+          }
+        ]
+      },
+      "content": "Anoki - ah dark red\n\nDescription: medium, classic, red, ah dark red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45896271069419",
+      "title": "Tala Soft - tst red",
+      "descriptor": "medium, classic, red, tst red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "25.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tst red"
+          }
+        ]
+      },
+      "content": "Tala Soft - tst red\n\nDescription: medium, classic, red, tst red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45896418951403",
+      "title": "Easy Fit - eft red",
+      "descriptor": "medium, classic, red, eft red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "22.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "eft red"
+          }
+        ]
+      },
+      "content": "Easy Fit - eft red\n\nDescription: medium, classic, red, eft red\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46033997529323",
+      "title": "Smitten (Facebook) - 27 Fire n Ice",
+      "descriptor": "medium, classic, red, 27 Fire n Ice",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "80.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27 Fire n Ice"
+          }
+        ]
+      },
+      "content": "Smitten (Facebook) - 27 Fire n Ice\n\nDescription: medium, classic, red, 27 Fire n Ice\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46033997562091",
+      "title": "Smitten (Facebook) - 27T33B Cinnamon Toast",
+      "descriptor": "medium, classic, red, 27T33B Cinnamon Toast",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "80.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27T33B Cinnamon Toast"
+          }
+        ]
+      },
+      "content": "Smitten (Facebook) - 27T33B Cinnamon Toast\n\nDescription: medium, classic, red, 27T33B Cinnamon Toast\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46036839235819",
+      "title": "easiPrints (Facebook) - Red",
+      "descriptor": "medium, classic, red, Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "9.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easiprints_alt_1__89481.1578371528.jpg?v=1742566465",
+          "altText": "easiPrints (Facebook) - Red"
+        }
+      },
+      "content": "easiPrints (Facebook) - Red\n\nDescription: medium, classic, red, Red\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easiprints_alt_1__89481.1578371528.jpg?v=1742566465",
+        "altText": "easiPrints (Facebook) - Red"
+      }
+    },
+    {
+      "id": "46036802797803",
+      "title": "easiTinsel (Facebook) - Red Tinsel",
+      "descriptor": "medium, classic, red, Red Tinsel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "9.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Red Tinsel"
+          }
+        ]
+      },
+      "content": "easiTinsel (Facebook) - Red Tinsel\n\nDescription: medium, classic, red, Red Tinsel\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "46063918448875",
+      "title": "Allure Petite (Facebook) - 132F2 Pinot",
+      "descriptor": "medium, classic, red, 132F2 Pinot",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "red",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "154.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "132F2 Pinot"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alllure_12FS12_Main__21952.1717985699.jpg?v=1744973705",
+          "altText": "Allure Petite (Facebook) - 132F2 Pinot"
+        }
+      },
+      "content": "Allure Petite (Facebook) - 132F2 Pinot\n\nDescription: medium, classic, red, 132F2 Pinot\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"red\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Alllure_12FS12_Main__21952.1717985699.jpg?v=1744973705",
+        "altText": "Allure Petite (Facebook) - 132F2 Pinot"
+      }
+    }
+  ]
+}

@@ -1,0 +1,974 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "short",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 30,
+    "filename": "brunette_short_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:06:50.006Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679499776235",
+      "title": "ANNE - 8/30 cocoa twist",
+      "descriptor": "short, classic, brunette, lace front, 8/30 cocoa twist",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8/30 cocoa twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5384_01_lg_1.jpg?v=1709121939",
+          "altText": "ANNE - 8/30 cocoa twist"
+        }
+      },
+      "content": "ANNE - 8/30 cocoa twist\n\nDescription: short, classic, blonde, lace front, 8/30 cocoa twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5384_01_lg_1.jpg?v=1709121939",
+        "altText": "ANNE - 8/30 cocoa twist"
+      }
+    },
+    {
+      "id": "44679511310571",
+      "title": "opulence large - GL14-16 honey toast",
+      "descriptor": "short, classic, brunette, lace front, GL14-16 honey toast",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL14-16 honey toast"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0007_GB_-_Opulence_SS_-_Model_-_Front_4_525x700_eaf1951c-ed16-44ee-9e56-148b94efc27d.jpg?v=1709121952",
+          "altText": "opulence large - GL14-16 honey toast"
+        }
+      },
+      "content": "opulence large - GL14-16 honey toast\n\nDescription: short, classic, brunette, lace front, GL14-16 honey toast\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0007_GB_-_Opulence_SS_-_Model_-_Front_4_525x700_eaf1951c-ed16-44ee-9e56-148b94efc27d.jpg?v=1709121952",
+        "altText": "opulence large - GL14-16 honey toast"
+      }
+    },
+    {
+      "id": "44679652671723",
+      "title": "Tact Soft - beige multi shad",
+      "descriptor": "short, classic, brunette, lace front, beige multi shad",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "333.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "beige multi shad"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at9.20.45pm.jpg?v=1709122214",
+          "altText": "Tact Soft - beige multi shad"
+        }
+      },
+      "content": "Tact Soft - beige multi shad\n\nDescription: short, classic, brunette, lace front, beige multi shad\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at9.20.45pm.jpg?v=1709122214",
+        "altText": "Tact Soft - beige multi shad"
+      }
+    },
+    {
+      "id": "44679699464427",
+      "title": "Safi - marble brown long rooted",
+      "descriptor": "short, classic, wavy, brunette, lace front, marble brown long rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "311.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marble brown long rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1019_Safi_Spring-Honey-LR_1-scaled.jpg?v=1742832620",
+          "altText": "Safi - marble brown long rooted"
+        }
+      },
+      "content": "Safi - marble brown long rooted\n\nDescription: short, classic, wavy, brunette, lace front, marble brown long rooted\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1019_Safi_Spring-Honey-LR_1-scaled.jpg?v=1742832620",
+        "altText": "Safi - marble brown long rooted"
+      }
+    },
+    {
+      "id": "44679710146795",
+      "title": "Sing - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "403.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SingMono_01.jpg?v=1709122333",
+          "altText": "Sing - espresso mix"
+        }
+      },
+      "content": "Sing - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SingMono_01.jpg?v=1709122333",
+        "altText": "Sing - espresso mix"
+      }
+    },
+    {
+      "id": "44679407796459",
+      "title": "bliss - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "237.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-bliss-1_10.jpg?v=1744372471",
+          "altText": "bliss - espresso mix"
+        }
+      },
+      "content": "bliss - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-bliss-1_10.jpg?v=1744372471",
+        "altText": "bliss - espresso mix"
+      }
+    },
+    {
+      "id": "44679910293739",
+      "title": "Sound - espresso mix",
+      "descriptor": "short, classic, wavy, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "339.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SoundMonoPart_2.jpg?v=1709122631",
+          "altText": "Sound - espresso mix"
+        }
+      },
+      "content": "Sound - espresso mix\n\nDescription: short, classic, wavy, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SoundMonoPart_2.jpg?v=1709122631",
+        "altText": "Sound - espresso mix"
+      }
+    },
+    {
+      "id": "44679946207467",
+      "title": "Tate - auburn sugar",
+      "descriptor": "short, classic, brunette, lace front, auburn sugar",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "424.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Tate-Silver-Stone-R-scaled.jpg?v=1744035098",
+          "altText": "Tate - auburn sugar"
+        }
+      },
+      "content": "Tate - auburn sugar\n\nDescription: short, classic, brunette, lace front, auburn sugar\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Tate-Silver-Stone-R-scaled.jpg?v=1744035098",
+        "altText": "Tate - auburn sugar"
+      }
+    },
+    {
+      "id": "44679970947307",
+      "title": "Emy - sugar cane rooted",
+      "descriptor": "short, classic, brunette, lace front, sugar cane rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "410.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sugar cane rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Emy-Champagne-R-scaled.jpg?v=1744033973",
+          "altText": "Emy - sugar cane rooted"
+        }
+      },
+      "content": "Emy - sugar cane rooted\n\nDescription: short, classic, brunette, lace front, sugar cane rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Emy-Champagne-R-scaled.jpg?v=1744033973",
+        "altText": "Emy - sugar cane rooted"
+      }
+    },
+    {
+      "id": "44679990345963",
+      "title": "sophie - 213f-jr caramelo mix",
+      "descriptor": "short, classic, curly, brunette, lace front, 213f-jr caramelo mix",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1177.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "213f-jr caramelo mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3112-SOPHIE-213F-main_54ea91fb-9246-4907-99a7-1e03139446ac.jpg?v=1709122754",
+          "altText": "sophie - 213f-jr caramelo mix"
+        }
+      },
+      "content": "sophie - 213f-jr caramelo mix\n\nDescription: short, classic, curly, brunette, lace front, 213f-jr caramelo mix\n\nBrand: Fair Fashion\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3112-SOPHIE-213F-main_54ea91fb-9246-4907-99a7-1e03139446ac.jpg?v=1709122754",
+        "altText": "sophie - 213f-jr caramelo mix"
+      }
+    },
+    {
+      "id": "44680027504875",
+      "title": "Real - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1061.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at7.58.17pm.png?v=1709122810",
+          "altText": "Real - espresso mix"
+        }
+      },
+      "content": "Real - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-28at7.58.17pm.png?v=1709122810",
+        "altText": "Real - espresso mix"
+      }
+    },
+    {
+      "id": "44680062271723",
+      "title": "Jay - M3S dark brown",
+      "descriptor": "short, classic, brunette, lace front, M3S dark brown",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "573.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "M3S dark brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_HfM_Toupet_Jay_1_CMYK_1024x1024_540x_d57a8a59-7757-4b97-8b9d-c3c1e801cfa4.jpg?v=1709122875",
+          "altText": "Jay - M3S dark brown"
+        }
+      },
+      "content": "Jay - M3S dark brown\n\nDescription: short, classic, brunette, lace front, M3S dark brown\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_HfM_Toupet_Jay_1_CMYK_1024x1024_540x_d57a8a59-7757-4b97-8b9d-c3c1e801cfa4.jpg?v=1709122875",
+        "altText": "Jay - M3S dark brown"
+      }
+    },
+    {
+      "id": "44680094613739",
+      "title": "Select Soft - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "590.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_select_1.jpg?v=1709122934",
+          "altText": "Select Soft - espresso mix"
+        }
+      },
+      "content": "Select Soft - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hairsociety_select_1.jpg?v=1709122934",
+        "altText": "Select Soft - espresso mix"
+      }
+    },
+    {
+      "id": "44680185774315",
+      "title": "elan - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "254.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-elan-2_1.jpg?v=1744371912",
+          "altText": "elan - espresso mix"
+        }
+      },
+      "content": "elan - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/peruecke-elan-2_1.jpg?v=1744371912",
+        "altText": "elan - espresso mix"
+      }
+    },
+    {
+      "id": "44680292925675",
+      "title": "SWEET TALK - GL10-12 SUNLIT CHESTNUT",
+      "descriptor": "short, classic, curly, brunette, lace front, GL10-12 SUNLIT CHESTNUT",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL10-12 SUNLIT CHESTNUT"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-7-scaled_9d669946-8ea8-4dc2-933a-4bbb762b9cca.jpg?v=1744624339",
+          "altText": "SWEET TALK - GL10-12 SUNLIT CHESTNUT"
+        }
+      },
+      "content": "SWEET TALK - GL10-12 SUNLIT CHESTNUT\n\nDescription: short, classic, curly, brunette, lace front, GL10-12 SUNLIT CHESTNUT\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/GB-Sweet-Talk-SS-Model-Front-7-scaled_9d669946-8ea8-4dc2-933a-4bbb762b9cca.jpg?v=1744624339",
+        "altText": "SWEET TALK - GL10-12 SUNLIT CHESTNUT"
+      }
+    },
+    {
+      "id": "44680509292779",
+      "title": "bradford - M7S natural med brown",
+      "descriptor": "short, classic, brunette, lace front, M7S natural med brown",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "535.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "M7S natural med brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/herren-peruecke-bradford-1_1_1.jpg?v=1744304645",
+          "altText": "bradford - M7S natural med brown"
+        }
+      },
+      "content": "bradford - M7S natural med brown\n\nDescription: short, classic, brunette, lace front, M7S natural med brown\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/herren-peruecke-bradford-1_1_1.jpg?v=1744304645",
+        "altText": "bradford - M7S natural med brown"
+      }
+    },
+    {
+      "id": "44680576565483",
+      "title": "LACE TOP - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "373.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lace_top_1.jpg?v=1709123770",
+          "altText": "LACE TOP - espresso mix"
+        }
+      },
+      "content": "LACE TOP - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/lace_top_1.jpg?v=1709123770",
+        "altText": "LACE TOP - espresso mix"
+      }
+    },
+    {
+      "id": "44680597864683",
+      "title": "Relax - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "276.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Relax_1.jpg?v=1709123807",
+          "altText": "Relax - espresso mix"
+        }
+      },
+      "content": "Relax - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Relax_1.jpg?v=1709123807",
+        "altText": "Relax - espresso mix"
+      }
+    },
+    {
+      "id": "44680710979819",
+      "title": "bethany - strawberry swirl",
+      "descriptor": "short, classic, brunette, lace front, strawberry swirl",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "206.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "strawberry swirl"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1028_Bethany_Silver-Stone_3-scaled.jpg?v=1744134284",
+          "altText": "bethany - strawberry swirl"
+        }
+      },
+      "content": "bethany - strawberry swirl\n\nDescription: short, classic, brunette, lace front, strawberry swirl\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1028_Bethany_Silver-Stone_3-scaled.jpg?v=1744134284",
+        "altText": "bethany - strawberry swirl"
+      }
+    },
+    {
+      "id": "44680807842027",
+      "title": "Jason - M3S dark brown",
+      "descriptor": "short, classic, brunette, lace front, M3S dark brown",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "598.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "M3S dark brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_Jason_1.jpg?v=1709124143",
+          "altText": "Jason - M3S dark brown"
+        }
+      },
+      "content": "Jason - M3S dark brown\n\nDescription: short, classic, brunette, lace front, M3S dark brown\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_Jason_1.jpg?v=1709124143",
+        "altText": "Jason - M3S dark brown"
+      }
+    },
+    {
+      "id": "46044685861099",
+      "title": "Amber Rock - Discontinued Colors (Live) - Ginger",
+      "descriptor": "short, classic, curly, brunette, lace front, Ginger",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "608.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/AMBERROCK_BUTTERBEERBLONDE3_d59b07cf-344c-467b-9475-fb288d419b64.jpg?v=1736417357",
+          "altText": "Amber Rock - Discontinued Colors (Live) - Ginger"
+        }
+      },
+      "content": "Amber Rock - Discontinued Colors (Live) - Ginger\n\nDescription: short, classic, curly, brunette, lace front, Ginger\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/AMBERROCK_BUTTERBEERBLONDE3_d59b07cf-344c-467b-9475-fb288d419b64.jpg?v=1736417357",
+        "altText": "Amber Rock - Discontinued Colors (Live) - Ginger"
+      }
+    },
+    {
+      "id": "46044939813099",
+      "title": "Clover - Discontinued Color (Live) - Coffee without Cream",
+      "descriptor": "short, classic, brunette, lace front, Coffee without Cream",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "530.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Coffee without Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/clover-coconut-silver-blonde-1.jpg?v=1706208245",
+          "altText": "Clover - Discontinued Color (Live) - Coffee without Cream"
+        }
+      },
+      "content": "Clover - Discontinued Color (Live) - Coffee without Cream\n\nDescription: short, classic, brunette, lace front, Coffee without Cream\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/clover-coconut-silver-blonde-1.jpg?v=1706208245",
+        "altText": "Clover - Discontinued Color (Live) - Coffee without Cream"
+      }
+    },
+    {
+      "id": "46168402362603",
+      "title": "Toledo (Live) - Sienna Spice",
+      "descriptor": "short, classic, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "392.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Toledo_crushedalmondblonde-R5.jpg?v=1738901770",
+          "altText": "Toledo (Live) - Sienna Spice"
+        }
+      },
+      "content": "Toledo (Live) - Sienna Spice\n\nDescription: short, classic, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Toledo_crushedalmondblonde-R5.jpg?v=1738901770",
+        "altText": "Toledo (Live) - Sienna Spice"
+      }
+    },
+    {
+      "id": "46625823359211",
+      "title": "Amber Rock (Outlet) - Ginger",
+      "descriptor": "short, classic, curly, brunette, lace front, Ginger",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "608.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/AMBERROCK_BUTTERBEERBLONDE3_798e8ded-654b-488f-87d0-3f733764ad81.jpg?v=1757940229",
+          "altText": "Amber Rock (Outlet) - Ginger"
+        }
+      },
+      "content": "Amber Rock (Outlet) - Ginger\n\nDescription: short, classic, curly, brunette, lace front, Ginger\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/AMBERROCK_BUTTERBEERBLONDE3_798e8ded-654b-488f-87d0-3f733764ad81.jpg?v=1757940229",
+        "altText": "Amber Rock (Outlet) - Ginger"
+      }
+    },
+    {
+      "id": "46625850917099",
+      "title": "Toledo (Outlet) - Sienna Spice",
+      "descriptor": "short, classic, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "392.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Toledo_crushedalmondblonde-R5_2d965a85-9090-4321-ac7e-7ab9495748c3.jpg?v=1758557800",
+          "altText": "Toledo (Outlet) - Sienna Spice"
+        }
+      },
+      "content": "Toledo (Outlet) - Sienna Spice\n\nDescription: short, classic, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Toledo_crushedalmondblonde-R5_2d965a85-9090-4321-ac7e-7ab9495748c3.jpg?v=1758557800",
+        "altText": "Toledo (Outlet) - Sienna Spice"
+      }
+    },
+    {
+      "id": "46625984053483",
+      "title": "Clover (Outlet) - Coffee without Cream",
+      "descriptor": "short, classic, brunette, lace front, Coffee without Cream",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "530.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Coffee without Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/clover-coconut-silver-blonde-1_b2e80c02-d0f6-4ab5-9ba5-d3e5343a02e4.jpg?v=1753265594",
+          "altText": "Clover (Outlet) - Coffee without Cream"
+        }
+      },
+      "content": "Clover (Outlet) - Coffee without Cream\n\nDescription: short, classic, brunette, lace front, Coffee without Cream\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/clover-coconut-silver-blonde-1_b2e80c02-d0f6-4ab5-9ba5-d3e5343a02e4.jpg?v=1753265594",
+        "altText": "Clover (Outlet) - Coffee without Cream"
+      }
+    },
+    {
+      "id": "46497125826795",
+      "title": "Aria - dark chocolate",
+      "descriptor": "short, classic, brunette, lace front, dark chocolate",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "187.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1_878665ba-9073-4ffa-af81-236f4cb00060.jpg?v=1758158141",
+          "altText": "Aria - dark chocolate"
+        }
+      },
+      "content": "Aria - dark chocolate\n\nDescription: short, classic, blonde, lace front, dark chocolate\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1_878665ba-9073-4ffa-af81-236f4cb00060.jpg?v=1758158141",
+        "altText": "Aria - dark chocolate"
+      }
+    },
+    {
+      "id": "46568527069419",
+      "title": "Relax (Live) - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "276.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Relax_1_1a497c54-0e53-4cc0-82fc-c8974dc2bb17.jpg?v=1758263925",
+          "altText": "Relax (Live) - espresso mix"
+        }
+      },
+      "content": "Relax (Live) - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Relax_1_1a497c54-0e53-4cc0-82fc-c8974dc2bb17.jpg?v=1758263925",
+        "altText": "Relax (Live) - espresso mix"
+      }
+    },
+    {
+      "id": "46568724725995",
+      "title": "Sing (Live) - espresso mix",
+      "descriptor": "short, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "403.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SingMono_01_e28e7b9e-d32e-4126-b0d3-18666c8be8d2.jpg?v=1758634084",
+          "altText": "Sing (Live) - espresso mix"
+        }
+      },
+      "content": "Sing (Live) - espresso mix\n\nDescription: short, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SingMono_01_e28e7b9e-d32e-4126-b0d3-18666c8be8d2.jpg?v=1758634084",
+        "altText": "Sing (Live) - espresso mix"
+      }
+    },
+    {
+      "id": "46851407806699",
+      "title": "Luna (Kansas City) - 4 brownie finale",
+      "descriptor": "short, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "191.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Luna_FS17_101S18_HD_Main__95957.webp?v=1755472068",
+          "altText": "Luna (Kansas City) - 4 brownie finale"
+        }
+      },
+      "content": "Luna (Kansas City) - 4 brownie finale\n\nDescription: short, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Luna_FS17_101S18_HD_Main__95957.webp?v=1755472068",
+        "altText": "Luna (Kansas City) - 4 brownie finale"
+      }
+    }
+  ]
+}

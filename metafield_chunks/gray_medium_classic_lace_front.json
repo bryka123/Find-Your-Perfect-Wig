@@ -1,0 +1,1238 @@
+{
+  "metadata": {
+    "color": "gray",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 50,
+    "filename": "gray_medium_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:06:50.003Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679488831723",
+      "title": "Destiny - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Destiny - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679520354539",
+      "title": "Sheena - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "375.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Sheena - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679566688491",
+      "title": "Brittaney - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "329.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Brittaney - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679593754859",
+      "title": "Rose - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "346.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Rose - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679686848747",
+      "title": "Jordan - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "400.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Jordan - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679704314091",
+      "title": "Amy - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "289.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Amy - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679709655275",
+      "title": "Ava - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "440.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Ava - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679712866539",
+      "title": "Angie - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "292.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Angie - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679370080491",
+      "title": "Wedge Topper - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "284.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Wedge Topper - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679411302635",
+      "title": "Chelsea - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1712.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Chelsea - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679747502315",
+      "title": "Sam - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "348.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Sam - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679753728235",
+      "title": "Coti - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1057.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Coti - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679884603627",
+      "title": "Harmony - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "300.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Harmony - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679946731755",
+      "title": "Tate - silver stone",
+      "descriptor": "medium, classic, gray, lace front, silver stone",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "424.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "silver stone"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Screenshot2023-06-27at9.27.35am_c824e98c-7072-4f23-b594-24c938949711.png?v=1744035315",
+          "altText": "Tate - silver stone"
+        }
+      },
+      "content": "Tate - silver stone\n\nDescription: medium, classic, gray, lace front, silver stone\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Screenshot2023-06-27at9.27.35am_c824e98c-7072-4f23-b594-24c938949711.png?v=1744035315",
+        "altText": "Tate - silver stone"
+      }
+    },
+    {
+      "id": "44679946961131",
+      "title": "Tate - silver stone rooted",
+      "descriptor": "medium, classic, gray, lace front, silver stone rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "424.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "silver stone rooted"
+          }
+        ]
+      },
+      "content": "Tate - silver stone rooted\n\nDescription: medium, classic, gray, lace front, silver stone rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680013316331",
+      "title": "Carrisa - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "255.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Carrisa - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680097497323",
+      "title": "Abbey - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1294.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Abbey - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680101527787",
+      "title": "Micki - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "292.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Micki - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680104116459",
+      "title": "Dakota - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "297.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Dakota - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680107098347",
+      "title": "Belinda - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "275.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Belinda - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680119124203",
+      "title": "London - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "291.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "London - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680125120747",
+      "title": "Be Blunt Topper - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "212.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Be Blunt Topper - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680132460779",
+      "title": "Isabella - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "563.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Isabella - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680141406443",
+      "title": "Bob Topper - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "268.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Bob Topper - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680141996267",
+      "title": "Chloe - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Chloe - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680146387179",
+      "title": "Paula - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1073.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Paula - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680164770027",
+      "title": "Counter Culture - Discontinued Colours (Facebook) - Stardust",
+      "descriptor": "medium, classic, gray, lace front, Stardust",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "587.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Stardust"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/counter-culture-brownsugar-sweetcream-2_4f918b3c-9064-4528-aaf9-ef7cb909d7da.jpg?v=1751545255",
+          "altText": "Counter Culture - Discontinued Colours (Facebook) - Stardust"
+        }
+      },
+      "content": "Counter Culture - Discontinued Colours (Facebook) - Stardust\n\nDescription: medium, classic, gray, lace front, Stardust\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/counter-culture-brownsugar-sweetcream-2_4f918b3c-9064-4528-aaf9-ef7cb909d7da.jpg?v=1751545255",
+        "altText": "Counter Culture - Discontinued Colours (Facebook) - Stardust"
+      }
+    },
+    {
+      "id": "44680215920875",
+      "title": "Eve - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "260.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Eve - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680218181867",
+      "title": "Making Waves Topper - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "294.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Making Waves Topper - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680225849579",
+      "title": "Coco - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "294.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Coco - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680294007019",
+      "title": "SWEET TALK - GL60-101 SILVERY MOON",
+      "descriptor": "medium, classic, gray, lace front, GL60-101 SILVERY MOON",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL60-101 SILVERY MOON"
+          }
+        ]
+      },
+      "content": "SWEET TALK - GL60-101 SILVERY MOON\n\nDescription: medium, classic, gray, lace front, GL60-101 SILVERY MOON\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680314061035",
+      "title": "Fiona - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "376.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Fiona - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680317305067",
+      "title": "Zoey - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1426.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Zoey - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680342110443",
+      "title": "Lisa - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1339.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Lisa - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680407417067",
+      "title": "Jade - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "243.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Jade - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680416919787",
+      "title": "Juliet - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "291.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Juliet - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680454930667",
+      "title": "Brooke - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "300.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Brooke - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680566898923",
+      "title": "Joy - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "283.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Joy - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680675393771",
+      "title": "Billie - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "904.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Billie - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680690303211",
+      "title": "Tinsley - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "255.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Tinsley - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680690499819",
+      "title": "Jeannie - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "237.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Jeannie - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680710521067",
+      "title": "Emma - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "408.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Emma - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680711143659",
+      "title": "bethany - silver stone",
+      "descriptor": "medium, classic, gray, lace front, silver stone",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "206.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "silver stone"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1028_Bethany_Silver-Stone_fr-scaled.jpg?v=1744134385",
+          "altText": "bethany - silver stone"
+        }
+      },
+      "content": "bethany - silver stone\n\nDescription: medium, classic, gray, lace front, silver stone\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1028_Bethany_Silver-Stone_fr-scaled.jpg?v=1744134385",
+        "altText": "bethany - silver stone"
+      }
+    },
+    {
+      "id": "44680715895019",
+      "title": "Delaney - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "358.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Delaney - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680844476651",
+      "title": "Heather - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "978.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Heather - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680890155243",
+      "title": "Amber - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Amber - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44691968786667",
+      "title": "Gia Mono - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "344.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Gia Mono - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44703377228011",
+      "title": "Harper - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "277.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Harper - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45769357951211",
+      "title": "Like - silver mix",
+      "descriptor": "medium, classic, gray, lace front, silver mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "412.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "silver mix"
+          }
+        ]
+      },
+      "content": "Like - silver mix\n\nDescription: medium, classic, gray, lace front, silver mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45086057169131",
+      "title": "Charlotte - Light Grey",
+      "descriptor": "medium, classic, gray, lace front, Light Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "gray",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "296.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Grey"
+          }
+        ]
+      },
+      "content": "Charlotte - Light Grey\n\nDescription: medium, classic, blonde, lace front, Light Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"gray\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    }
+  ]
+}

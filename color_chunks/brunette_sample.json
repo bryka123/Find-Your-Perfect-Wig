@@ -1,0 +1,2768 @@
+{
+  "metadata": {
+    "colorFamily": "brunette",
+    "totalVariants": 100,
+    "generated_at": "2025-09-24T15:53:32.159Z",
+    "source_file": "new_products_corrected.json",
+    "avg_price": 459.5,
+    "price_range": {
+      "min": 8.99,
+      "max": 4488.99
+    },
+    "note": "Sample subset for quick testing"
+  },
+  "products": [
+    {
+      "id": "44679488930027",
+      "title": "Julia - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j5-2.jpg?v=1709121933",
+          "altText": "Julia - 6f27 caramel ribbon"
+        }
+      },
+      "content": "Julia - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j5-2.jpg?v=1709121933",
+        "altText": "Julia - 6f27 caramel ribbon"
+      }
+    },
+    {
+      "id": "44679489257707",
+      "title": "Julia - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j3-3.jpg?v=1709121933",
+          "altText": "Julia - 6 fudgesicle"
+        }
+      },
+      "content": "Julia - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j3-3.jpg?v=1709121933",
+        "altText": "Julia - 6 fudgesicle"
+      }
+    },
+    {
+      "id": "44679489323243",
+      "title": "Julia - 4 brownie finale",
+      "descriptor": "medium, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j7-1.jpg?v=1709121933",
+          "altText": "Julia - 4 brownie finale"
+        }
+      },
+      "content": "Julia - 4 brownie finale\n\nDescription: medium, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/j7-1.jpg?v=1709121933",
+        "altText": "Julia - 4 brownie finale"
+      }
+    },
+    {
+      "id": "44679490470123",
+      "title": "Julia - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "385.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ]
+      },
+      "content": "Julia - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488274667",
+      "title": "Destiny - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Destiny - Cinnamon Raisin\n\nDescription: medium, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488340203",
+      "title": "Destiny - Dark Brown",
+      "descriptor": "medium, classic, brunette, lace front, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Destiny - Dark Brown\n\nDescription: medium, classic, blonde, lace front, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488635115",
+      "title": "Destiny - Medium Brown",
+      "descriptor": "medium, classic, brunette, lace front, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Destiny - Medium Brown\n\nDescription: medium, classic, blonde, lace front, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679488667883",
+      "title": "Destiny - Mocha Frost",
+      "descriptor": "medium, classic, brunette, lace front, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1027.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Destiny - Mocha Frost\n\nDescription: medium, classic, blonde, lace front, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489356011",
+      "title": "Kylie - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, monofilament, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Kylie - Cinnamon Raisin\n\nDescription: medium, classic, blonde, monofilament, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489487083",
+      "title": "Kylie - Dark Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Kylie - Dark Brown\n\nDescription: medium, classic, blonde, monofilament, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490076907",
+      "title": "Kylie - Medium Brown",
+      "descriptor": "medium, classic, brunette, monofilament, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Kylie - Medium Brown\n\nDescription: medium, classic, blonde, monofilament, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490175211",
+      "title": "Kylie - Mocha Frost",
+      "descriptor": "medium, classic, brunette, monofilament, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Kylie - Mocha Frost\n\nDescription: medium, classic, blonde, monofilament, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491682539",
+      "title": "elle - 4 brownie finale",
+      "descriptor": "medium, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ]
+      },
+      "content": "elle - 4 brownie finale\n\nDescription: medium, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491846379",
+      "title": "elle - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ]
+      },
+      "content": "elle - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491879147",
+      "title": "elle - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ]
+      },
+      "content": "elle - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679491944683",
+      "title": "elle - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ]
+      },
+      "content": "elle - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679499776235",
+      "title": "ANNE - 8/30 cocoa twist",
+      "descriptor": "short, classic, brunette, lace front, 8/30 cocoa twist",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8/30 cocoa twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5384_01_lg_1.jpg?v=1709121939",
+          "altText": "ANNE - 8/30 cocoa twist"
+        }
+      },
+      "content": "ANNE - 8/30 cocoa twist\n\nDescription: short, classic, blonde, lace front, 8/30 cocoa twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5384_01_lg_1.jpg?v=1709121939",
+        "altText": "ANNE - 8/30 cocoa twist"
+      }
+    },
+    {
+      "id": "44679499907307",
+      "title": "ANNE - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.front3.jpg?v=1709121939",
+          "altText": "ANNE - 6 fudgesicle"
+        }
+      },
+      "content": "ANNE - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.front3.jpg?v=1709121939",
+        "altText": "ANNE - 6 fudgesicle"
+      }
+    },
+    {
+      "id": "44679500103915",
+      "title": "ANNE - 4 brownie finale",
+      "descriptor": "medium, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.jpg?v=1709121939",
+          "altText": "ANNE - 4 brownie finale"
+        }
+      },
+      "content": "ANNE - 4 brownie finale\n\nDescription: medium, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.jpg?v=1709121939",
+        "altText": "ANNE - 4 brownie finale"
+      }
+    },
+    {
+      "id": "44679500136683",
+      "title": "ANNE - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.front.jpg?v=1709121939",
+          "altText": "ANNE - 6f27 caramel ribbon"
+        }
+      },
+      "content": "ANNE - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/anne.front.jpg?v=1709121939",
+        "altText": "ANNE - 6f27 caramel ribbon"
+      }
+    },
+    {
+      "id": "44679500202219",
+      "title": "ANNE - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "460.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ]
+      },
+      "content": "ANNE - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679503085803",
+      "title": "audrey - dark chocolate",
+      "descriptor": "medium, classic, brunette, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "158.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ]
+      },
+      "content": "audrey - dark chocolate\n\nDescription: medium, classic, blonde, dark chocolate\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504494827",
+      "title": "brandi - dark chocolate",
+      "descriptor": "medium, classic, brunette, monofilament, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14000_f503d745-276d-4d86-8078-666d70cfa116.jpg?v=1709121943",
+          "altText": "brandi - dark chocolate"
+        }
+      },
+      "content": "brandi - dark chocolate\n\nDescription: medium, classic, blonde, monofilament, dark chocolate\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14000_f503d745-276d-4d86-8078-666d70cfa116.jpg?v=1709121943",
+        "altText": "brandi - dark chocolate"
+      }
+    },
+    {
+      "id": "46502587793643",
+      "title": "tonic - espresso mix",
+      "descriptor": "medium, classic, brunette, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "51.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ]
+      },
+      "content": "tonic - espresso mix\n\nDescription: medium, classic, blonde, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508590827",
+      "title": "The Softie - SKY",
+      "descriptor": "medium, classic, brunette, SKY",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SKY"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrtso_01_lg.jpg?v=1709121948",
+          "altText": "The Softie - SKY"
+        }
+      },
+      "content": "The Softie - SKY\n\nDescription: medium, classic, brunette, SKY\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrtso_01_lg.jpg?v=1709121948",
+        "altText": "The Softie - SKY"
+      }
+    },
+    {
+      "id": "44679508623595",
+      "title": "The Softie - BALLERINA",
+      "descriptor": "medium, classic, brunette, BALLERINA",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "BALLERINA"
+          }
+        ]
+      },
+      "content": "The Softie - BALLERINA\n\nDescription: medium, classic, brunette, BALLERINA\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508656363",
+      "title": "The Softie - tcs Blue sage",
+      "descriptor": "medium, classic, brunette, tcs Blue sage",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Blue sage"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Blue sage\n\nDescription: medium, classic, brunette, tcs Blue sage\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508689131",
+      "title": "The Softie - tcs Pink sherbet",
+      "descriptor": "medium, classic, brunette, tcs Pink sherbet",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Pink sherbet"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Pink sherbet\n\nDescription: medium, classic, brunette, tcs Pink sherbet\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508721899",
+      "title": "The Softie - caribbean",
+      "descriptor": "medium, classic, brunette, caribbean",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "caribbean"
+          }
+        ]
+      },
+      "content": "The Softie - caribbean\n\nDescription: medium, classic, brunette, caribbean\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508754667",
+      "title": "The Softie - tcs Aqua",
+      "descriptor": "medium, classic, brunette, tcs Aqua",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Aqua"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Aqua\n\nDescription: medium, classic, brunette, tcs Aqua\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508820203",
+      "title": "The Softie - tcs DARK GREY",
+      "descriptor": "medium, classic, brunette, tcs DARK GREY",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs DARK GREY"
+          }
+        ]
+      },
+      "content": "The Softie - tcs DARK GREY\n\nDescription: medium, classic, brunette, tcs DARK GREY\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508885739",
+      "title": "The Softie - tcs Plum",
+      "descriptor": "medium, classic, brunette, tcs Plum",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Plum"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Plum\n\nDescription: medium, classic, brunette, tcs Plum\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679508951275",
+      "title": "The Softie - cream",
+      "descriptor": "medium, classic, brunette, cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "cream"
+          }
+        ]
+      },
+      "content": "The Softie - cream\n\nDescription: medium, classic, brunette, cream\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509016811",
+      "title": "The Softie - tcs Soft coral",
+      "descriptor": "medium, classic, brunette, tcs Soft coral",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Soft coral"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Soft coral\n\nDescription: medium, classic, brunette, tcs Soft coral\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509115115",
+      "title": "The Softie - sweet pea",
+      "descriptor": "medium, classic, brunette, sweet pea",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sweet pea"
+          }
+        ]
+      },
+      "content": "The Softie - sweet pea\n\nDescription: medium, classic, brunette, sweet pea\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509180651",
+      "title": "The Softie - Raspberry",
+      "descriptor": "medium, classic, brunette, Raspberry",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Raspberry"
+          }
+        ]
+      },
+      "content": "The Softie - Raspberry\n\nDescription: medium, classic, brunette, Raspberry\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509278955",
+      "title": "The Softie - Green sage",
+      "descriptor": "medium, classic, brunette, Green sage",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Green sage"
+          }
+        ]
+      },
+      "content": "The Softie - Green sage\n\nDescription: medium, classic, brunette, Green sage\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509377259",
+      "title": "The Softie - Navy",
+      "descriptor": "medium, classic, brunette, Navy",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      "content": "The Softie - Navy\n\nDescription: medium, classic, brunette, Navy\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679509475563",
+      "title": "The Softie - tcs Mocha",
+      "descriptor": "medium, classic, brunette, tcs Mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Mocha"
+          }
+        ]
+      },
+      "content": "The Softie - tcs Mocha\n\nDescription: medium, classic, brunette, tcs Mocha\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679511310571",
+      "title": "opulence large - GL14-16 honey toast",
+      "descriptor": "short, classic, brunette, lace front, GL14-16 honey toast",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL14-16 honey toast"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0007_GB_-_Opulence_SS_-_Model_-_Front_4_525x700_eaf1951c-ed16-44ee-9e56-148b94efc27d.jpg?v=1709121952",
+          "altText": "opulence large - GL14-16 honey toast"
+        }
+      },
+      "content": "opulence large - GL14-16 honey toast\n\nDescription: short, classic, brunette, lace front, GL14-16 honey toast\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0007_GB_-_Opulence_SS_-_Model_-_Front_4_525x700_eaf1951c-ed16-44ee-9e56-148b94efc27d.jpg?v=1709121952",
+        "altText": "opulence large - GL14-16 honey toast"
+      }
+    },
+    {
+      "id": "44679511343339",
+      "title": "opulence large - GL6-30 mahogany",
+      "descriptor": "medium, classic, brunette, lace front, GL6-30 mahogany",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL6-30 mahogany"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0006_GB_-_Opulence_SS_-_Model_-_Front_5_525x700_5b1a1e13-2cfd-43cd-9713-d4dad73ff230.jpg?v=1709121952",
+          "altText": "opulence large - GL6-30 mahogany"
+        }
+      },
+      "content": "opulence large - GL6-30 mahogany\n\nDescription: medium, classic, brunette, lace front, GL6-30 mahogany\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0006_GB_-_Opulence_SS_-_Model_-_Front_5_525x700_5b1a1e13-2cfd-43cd-9713-d4dad73ff230.jpg?v=1709121952",
+        "altText": "opulence large - GL6-30 mahogany"
+      }
+    },
+    {
+      "id": "44679511376107",
+      "title": "opulence large - GL23-101 sunkissed beige",
+      "descriptor": "medium, classic, brunette, lace front, GL23-101 sunkissed beige",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL23-101 sunkissed beige"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencefro_d255b3fd-8e2a-4952-84fd-27236e0368ca.jpg?v=1709121953",
+          "altText": "opulence large - GL23-101 sunkissed beige"
+        }
+      },
+      "content": "opulence large - GL23-101 sunkissed beige\n\nDescription: medium, classic, brunette, lace front, GL23-101 sunkissed beige\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencefro_d255b3fd-8e2a-4952-84fd-27236e0368ca.jpg?v=1709121953",
+        "altText": "opulence large - GL23-101 sunkissed beige"
+      }
+    },
+    {
+      "id": "44679511408875",
+      "title": "opulence large - GL10-14 walnut",
+      "descriptor": "medium, classic, brunette, lace front, GL10-14 walnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL10-14 walnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-front_5036cf23-b030-427e-86b6-131ee8c53144.jpg?v=1709121953",
+          "altText": "opulence large - GL10-14 walnut"
+        }
+      },
+      "content": "opulence large - GL10-14 walnut\n\nDescription: medium, classic, brunette, lace front, GL10-14 walnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-front_5036cf23-b030-427e-86b6-131ee8c53144.jpg?v=1709121953",
+        "altText": "opulence large - GL10-14 walnut"
+      }
+    },
+    {
+      "id": "44679511441643",
+      "title": "opulence large - GL33-130 sangria",
+      "descriptor": "medium, classic, brunette, lace front, GL33-130 sangria",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL33-130 sangria"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-1_09de315c-b758-4af1-85b0-99dfe317251c.jpg?v=1709121953",
+          "altText": "opulence large - GL33-130 sangria"
+        }
+      },
+      "content": "opulence large - GL33-130 sangria\n\nDescription: medium, classic, brunette, lace front, GL33-130 sangria\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-1_09de315c-b758-4af1-85b0-99dfe317251c.jpg?v=1709121953",
+        "altText": "opulence large - GL33-130 sangria"
+      }
+    },
+    {
+      "id": "44679511474411",
+      "title": "opulence large - GL29-31 rusty auburn",
+      "descriptor": "medium, classic, brunette, lace front, GL29-31 rusty auburn",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL29-31 rusty auburn"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-frontt_7889c8f8-cf43-4507-a702-1cbaeb4a4f29.jpg?v=1709121953",
+          "altText": "opulence large - GL29-31 rusty auburn"
+        }
+      },
+      "content": "opulence large - GL29-31 rusty auburn\n\nDescription: medium, classic, brunette, lace front, GL29-31 rusty auburn\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-frontt_7889c8f8-cf43-4507-a702-1cbaeb4a4f29.jpg?v=1709121953",
+        "altText": "opulence large - GL29-31 rusty auburn"
+      }
+    },
+    {
+      "id": "44679511507179",
+      "title": "opulence large - GL11-25 honey pecan",
+      "descriptor": "medium, classic, brunette, lace front, GL11-25 honey pecan",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL11-25 honey pecan"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencefronttt_0720ff12-2829-4bca-8492-bd5519e60e2b.jpg?v=1709121953",
+          "altText": "opulence large - GL11-25 honey pecan"
+        }
+      },
+      "content": "opulence large - GL11-25 honey pecan\n\nDescription: medium, classic, brunette, lace front, GL11-25 honey pecan\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulencefronttt_0720ff12-2829-4bca-8492-bd5519e60e2b.jpg?v=1709121953",
+        "altText": "opulence large - GL11-25 honey pecan"
+      }
+    },
+    {
+      "id": "44679511539947",
+      "title": "opulence large - GL23-101SS sunkissed beige rooted",
+      "descriptor": "medium, classic, brunette, lace front, GL23-101SS sunkissed beige rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL23-101SS sunkissed beige rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulenceside_4f6f43ea-2112-4c0e-9382-16fcc02794cb.jpg?v=1709121953",
+          "altText": "opulence large - GL23-101SS sunkissed beige rooted"
+        }
+      },
+      "content": "opulence large - GL23-101SS sunkissed beige rooted\n\nDescription: medium, classic, brunette, lace front, GL23-101SS sunkissed beige rooted\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulenceside_4f6f43ea-2112-4c0e-9382-16fcc02794cb.jpg?v=1709121953",
+        "altText": "opulence large - GL23-101SS sunkissed beige rooted"
+      }
+    },
+    {
+      "id": "44679511572715",
+      "title": "opulence large - GL27-22 caramel",
+      "descriptor": "medium, classic, brunette, lace front, GL27-22 caramel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL27-22 caramel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-sidee_a9e5570b-c227-4433-9d7a-66d5ddc7804b.jpg?v=1709121953",
+          "altText": "opulence large - GL27-22 caramel"
+        }
+      },
+      "content": "opulence large - GL27-22 caramel\n\nDescription: medium, classic, brunette, lace front, GL27-22 caramel\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence-sidee_a9e5570b-c227-4433-9d7a-66d5ddc7804b.jpg?v=1709121953",
+        "altText": "opulence large - GL27-22 caramel"
+      }
+    },
+    {
+      "id": "44679511605483",
+      "title": "opulence large - GL12-16 golden walnut",
+      "descriptor": "medium, classic, brunette, lace front, GL12-16 golden walnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL12-16 golden walnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulenc_bc6337a0-d190-465c-a34c-3eed70929fdb.jpg?v=1709121953",
+          "altText": "opulence large - GL12-16 golden walnut"
+        }
+      },
+      "content": "opulence large - GL12-16 golden walnut\n\nDescription: medium, classic, brunette, lace front, GL12-16 golden walnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulenc_bc6337a0-d190-465c-a34c-3eed70929fdb.jpg?v=1709121953",
+        "altText": "opulence large - GL12-16 golden walnut"
+      }
+    },
+    {
+      "id": "44679511933163",
+      "title": "opulence large - GL4-8 dark choc",
+      "descriptor": "medium, classic, brunette, lace front, GL4-8 dark choc",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL4-8 dark choc"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0005_GB_-_Opulence_SS_-_Model_-_Side_1_525x700_4b1568f0-4e42-4c4a-ada3-14dddf56df9b.jpg?v=1709121953",
+          "altText": "opulence large - GL4-8 dark choc"
+        }
+      },
+      "content": "opulence large - GL4-8 dark choc\n\nDescription: medium, classic, brunette, lace front, GL4-8 dark choc\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0005_GB_-_Opulence_SS_-_Model_-_Side_1_525x700_4b1568f0-4e42-4c4a-ada3-14dddf56df9b.jpg?v=1709121953",
+        "altText": "opulence large - GL4-8 dark choc"
+      }
+    },
+    {
+      "id": "44679512064235",
+      "title": "opulence large - GL8-10 dark chestnut",
+      "descriptor": "medium, classic, brunette, lace front, GL8-10 dark chestnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL8-10 dark chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Opulence_evagabor_ch_7e98db84-c2ac-4782-8fc7-42eef5e6f7a7.jpg?v=1709121953",
+          "altText": "opulence large - GL8-10 dark chestnut"
+        }
+      },
+      "content": "opulence large - GL8-10 dark chestnut\n\nDescription: medium, classic, brunette, lace front, GL8-10 dark chestnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Opulence_evagabor_ch_7e98db84-c2ac-4782-8fc7-42eef5e6f7a7.jpg?v=1709121953",
+        "altText": "opulence large - GL8-10 dark chestnut"
+      }
+    },
+    {
+      "id": "44679512129771",
+      "title": "opulence large - GL8-29 hazelnut",
+      "descriptor": "medium, classic, brunette, lace front, GL8-29 hazelnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL8-29 hazelnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence1_2274c512-cbb5-46d4-913f-1442c4e1dc66.jpg?v=1709121953",
+          "altText": "opulence large - GL8-29 hazelnut"
+        }
+      },
+      "content": "opulence large - GL8-29 hazelnut\n\nDescription: medium, classic, brunette, lace front, GL8-29 hazelnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/opulence1_2274c512-cbb5-46d4-913f-1442c4e1dc66.jpg?v=1709121953",
+        "altText": "opulence large - GL8-29 hazelnut"
+      }
+    },
+    {
+      "id": "44679512195307",
+      "title": "opulence large - GL10-12 sunlit chestnut",
+      "descriptor": "medium, classic, brunette, lace front, GL10-12 sunlit chestnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL10-12 sunlit chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0003_GB_-_Opulence_SS_-_Model_-_Side_3_525x700_b56525e2-83a1-4a25-8b80-75d6a023edf1.jpg?v=1709121953",
+          "altText": "opulence large - GL10-12 sunlit chestnut"
+        }
+      },
+      "content": "opulence large - GL10-12 sunlit chestnut\n\nDescription: medium, classic, brunette, lace front, GL10-12 sunlit chestnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized-525x700-_0003_GB_-_Opulence_SS_-_Model_-_Side_3_525x700_b56525e2-83a1-4a25-8b80-75d6a023edf1.jpg?v=1709121953",
+        "altText": "opulence large - GL10-12 sunlit chestnut"
+      }
+    },
+    {
+      "id": " &quot;Segoe UI&quot;",
+      "title": " Cap Design_Wefted / Basic -  BlinkMacSystemFont",
+      "descriptor": "medium, classic, brunette,  BlinkMacSystemFont",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": " sans-serif;>&nbsp;lace front",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": " BlinkMacSystemFont"
+          }
+        ],
+        "image": {
+          "url": "Monofilament",
+          "altText": " Cap Design_Wefted / Basic -  BlinkMacSystemFont"
+        }
+      },
+      "content": " Cap Design_Wefted / Basic -  BlinkMacSystemFont\n\nDescription: medium, classic, brunette,  BlinkMacSystemFont\n\nBrand:  cat:brunettes\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "Monofilament",
+        "altText": " Cap Design_Wefted / Basic -  BlinkMacSystemFont"
+      }
+    },
+    {
+      "id": "44679519797483",
+      "title": "Sheena - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "375.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Sheena - Cinnamon Raisin\n\nDescription: medium, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679519863019",
+      "title": "Sheena - Dark Brown",
+      "descriptor": "medium, classic, brunette, lace front, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "375.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Sheena - Dark Brown\n\nDescription: medium, classic, blonde, lace front, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679520157931",
+      "title": "Sheena - Medium Brown",
+      "descriptor": "medium, classic, brunette, lace front, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "375.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Sheena - Medium Brown\n\nDescription: medium, classic, blonde, lace front, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679520190699",
+      "title": "Sheena - Mocha Frost",
+      "descriptor": "medium, classic, brunette, lace front, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "375.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Sheena - Mocha Frost\n\nDescription: medium, classic, blonde, lace front, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679524090091",
+      "title": "charlotte - espresso mix",
+      "descriptor": "medium, classic, brunette, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "237.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/charlotte_2_1.jpg?v=1709121979",
+          "altText": "charlotte - espresso mix"
+        }
+      },
+      "content": "charlotte - espresso mix\n\nDescription: medium, classic, blonde, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/charlotte_2_1.jpg?v=1709121979",
+        "altText": "charlotte - espresso mix"
+      }
+    },
+    {
+      "id": "44679525138667",
+      "title": "textured flip wig - r8/29s glazed hazelnut",
+      "descriptor": "short, classic, wavy, brunette, r8/29s glazed hazelnut",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r8/29s glazed hazelnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo_c1d4154c-9842-4405-96fb-bb4cec57129b.jpg?v=1709121981",
+          "altText": "textured flip wig - r8/29s glazed hazelnut"
+        }
+      },
+      "content": "textured flip wig - r8/29s glazed hazelnut\n\nDescription: short, classic, wavy, brunette, r8/29s glazed hazelnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo_c1d4154c-9842-4405-96fb-bb4cec57129b.jpg?v=1709121981",
+        "altText": "textured flip wig - r8/29s glazed hazelnut"
+      }
+    },
+    {
+      "id": "44679525171435",
+      "title": "textured flip wig - r11s glazed mocha",
+      "descriptor": "medium, classic, brunette, r11s glazed mocha",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r11s glazed mocha"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo1.jpg?v=1709121981",
+          "altText": "textured flip wig - r11s glazed mocha"
+        }
+      },
+      "content": "textured flip wig - r11s glazed mocha\n\nDescription: medium, classic, brunette, r11s glazed mocha\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo1.jpg?v=1709121981",
+        "altText": "textured flip wig - r11s glazed mocha"
+      }
+    },
+    {
+      "id": "44679525204203",
+      "title": "textured flip wig - R435s glazed black cherry",
+      "descriptor": "medium, classic, brunette, R435s glazed black cherry",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R435s glazed black cherry"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo2.jpg?v=1709121981",
+          "altText": "textured flip wig - R435s glazed black cherry"
+        }
+      },
+      "content": "textured flip wig - R435s glazed black cherry\n\nDescription: medium, classic, brunette, R435s glazed black cherry\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo2.jpg?v=1709121981",
+        "altText": "textured flip wig - R435s glazed black cherry"
+      }
+    },
+    {
+      "id": "44679525269739",
+      "title": "textured flip wig - r56/60 silver mist",
+      "descriptor": "medium, classic, brunette, r56/60 silver mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r56/60 silver mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo4.jpg?v=1709121981",
+          "altText": "textured flip wig - r56/60 silver mist"
+        }
+      },
+      "content": "textured flip wig - r56/60 silver mist\n\nDescription: medium, classic, brunette, r56/60 silver mist\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/textured_flip_hairdo4.jpg?v=1709121981",
+        "altText": "textured flip wig - r56/60 silver mist"
+      }
+    },
+    {
+      "id": "44679525302507",
+      "title": "textured flip wig - R511g gradient charcoal",
+      "descriptor": "medium, classic, brunette, R511g gradient charcoal",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R511g gradient charcoal"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-TexturedFlipWig-Cap.jpg?v=1709121981",
+          "altText": "textured flip wig - R511g gradient charcoal"
+        }
+      },
+      "content": "textured flip wig - R511g gradient charcoal\n\nDescription: medium, classic, brunette, R511g gradient charcoal\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-TexturedFlipWig-Cap.jpg?v=1709121981",
+        "altText": "textured flip wig - R511g gradient charcoal"
+      }
+    },
+    {
+      "id": "44679525335275",
+      "title": "textured flip wig - R4 midnight brown",
+      "descriptor": "medium, classic, brunette, R4 midnight brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R4 midnight brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-TexturedFlip-CapConstruction_a837f45b-0fa7-496b-b01b-70bc79118996.jpg?v=1709121981",
+          "altText": "textured flip wig - R4 midnight brown"
+        }
+      },
+      "content": "textured flip wig - R4 midnight brown\n\nDescription: medium, classic, brunette, R4 midnight brown\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/HD-TexturedFlip-CapConstruction_a837f45b-0fa7-496b-b01b-70bc79118996.jpg?v=1709121981",
+        "altText": "textured flip wig - R4 midnight brown"
+      }
+    },
+    {
+      "id": "44679525368043",
+      "title": "textured flip wig - SS14/88h golden wheat",
+      "descriptor": "medium, classic, brunette, SS14/88h golden wheat",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SS14/88h golden wheat"
+          }
+        ]
+      },
+      "content": "textured flip wig - SS14/88h golden wheat\n\nDescription: medium, classic, brunette, SS14/88h golden wheat\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679525400811",
+      "title": "textured flip wig - R6-30h chocolate copper",
+      "descriptor": "medium, classic, brunette, R6-30h chocolate copper",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R6-30h chocolate copper"
+          }
+        ]
+      },
+      "content": "textured flip wig - R6-30h chocolate copper\n\nDescription: medium, classic, brunette, R6-30h chocolate copper\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679525433579",
+      "title": "textured flip wig - R2 ebony",
+      "descriptor": "medium, classic, brunette, R2 ebony",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R2 ebony"
+          }
+        ]
+      },
+      "content": "textured flip wig - R2 ebony\n\nDescription: medium, classic, brunette, R2 ebony\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679525499115",
+      "title": "textured flip wig - r30/25s glazed cinnamon",
+      "descriptor": "medium, classic, brunette, r30/25s glazed cinnamon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r30/25s glazed cinnamon"
+          }
+        ]
+      },
+      "content": "textured flip wig - r30/25s glazed cinnamon\n\nDescription: medium, classic, brunette, r30/25s glazed cinnamon\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679525564651",
+      "title": "textured flip wig - R10 chestnut",
+      "descriptor": "medium, classic, brunette, R10 chestnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "126.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R10 chestnut"
+          }
+        ]
+      },
+      "content": "textured flip wig - R10 chestnut\n\nDescription: medium, classic, brunette, R10 chestnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679524810987",
+      "title": "SMOKE HI MONO - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "390.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/0002_ew_HP_SmokeHi_Mono_1_sandyblonde_rooted_2018.jpg?v=1744296731",
+          "altText": "SMOKE HI MONO - espresso mix"
+        }
+      },
+      "content": "SMOKE HI MONO - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/0002_ew_HP_SmokeHi_Mono_1_sandyblonde_rooted_2018.jpg?v=1744296731",
+        "altText": "SMOKE HI MONO - espresso mix"
+      }
+    },
+    {
+      "id": "44679526056171",
+      "title": "Rylee - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "309.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Rylee - Cinnamon Raisin\n\nDescription: medium, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679526121707",
+      "title": "Rylee - Dark Brown",
+      "descriptor": "medium, classic, brunette, lace front, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "309.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Rylee - Dark Brown\n\nDescription: medium, classic, blonde, lace front, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679526416619",
+      "title": "Rylee - Medium Brown",
+      "descriptor": "medium, classic, brunette, lace front, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "309.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Rylee - Medium Brown\n\nDescription: medium, classic, blonde, lace front, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679526449387",
+      "title": "Rylee - Mocha Frost",
+      "descriptor": "medium, classic, brunette, lace front, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "309.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Rylee - Mocha Frost\n\nDescription: medium, classic, blonde, lace front, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679528677611",
+      "title": "Vista - espresso mix",
+      "descriptor": "medium, classic, brunette, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "258.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/vista_3_2.jpg?v=1709121984",
+          "altText": "Vista - espresso mix"
+        }
+      },
+      "content": "Vista - espresso mix\n\nDescription: medium, classic, blonde, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/vista_3_2.jpg?v=1709121984",
+        "altText": "Vista - espresso mix"
+      }
+    },
+    {
+      "id": "44679530184939",
+      "title": "Heidi - 4 brownie finale",
+      "descriptor": "medium, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "429.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ]
+      },
+      "content": "Heidi - 4 brownie finale\n\nDescription: medium, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679530283243",
+      "title": "Heidi - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "429.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ]
+      },
+      "content": "Heidi - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679530316011",
+      "title": "Heidi - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "429.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ]
+      },
+      "content": "Heidi - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679530348779",
+      "title": "Heidi - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "429.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ]
+      },
+      "content": "Heidi - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679538573547",
+      "title": "Tiffany Large - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20Back_da6076a0-df04-4b17-b197-39f66c8ce66b.webp?v=1709122003",
+          "altText": "Tiffany Large - Cinnamon Raisin"
+        }
+      },
+      "content": "Tiffany Large - Cinnamon Raisin\n\nDescription: medium, classic, blonde, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20Back_da6076a0-df04-4b17-b197-39f66c8ce66b.webp?v=1709122003",
+        "altText": "Tiffany Large - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679538639083",
+      "title": "Tiffany Large - Dark Brown",
+      "descriptor": "medium, classic, brunette, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Tiffany Large - Dark Brown\n\nDescription: medium, classic, blonde, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679538933995",
+      "title": "Tiffany Large - Medium Brown",
+      "descriptor": "medium, classic, brunette, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Tiffany Large - Medium Brown\n\nDescription: medium, classic, blonde, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679538966763",
+      "title": "Tiffany Large - Mocha Frost",
+      "descriptor": "medium, classic, brunette, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Tiffany Large - Mocha Frost\n\nDescription: medium, classic, blonde, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679543816427",
+      "title": "Coco - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "246.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ]
+      },
+      "content": "Coco - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679545782507",
+      "title": "Carrie Petite - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1147.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Carrie-Petite-22_16S8-alt2_82208fd7-589d-4c71-9ceb-f1c3945ed00a.jpg?v=1709122013",
+          "altText": "Carrie Petite - 6f27 caramel ribbon"
+        }
+      },
+      "content": "Carrie Petite - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Carrie-Petite-22_16S8-alt2_82208fd7-589d-4c71-9ceb-f1c3945ed00a.jpg?v=1709122013",
+        "altText": "Carrie Petite - 6f27 caramel ribbon"
+      }
+    },
+    {
+      "id": "44679546011883",
+      "title": "Carrie Petite - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JR708_Carrie_02_lg_f8d5d575-fc4a-4af7-a551-ab48314b1e2a.jpg?v=1709122013",
+          "altText": "Carrie Petite - 6 fudgesicle"
+        }
+      },
+      "content": "Carrie Petite - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JR708_Carrie_02_lg_f8d5d575-fc4a-4af7-a551-ab48314b1e2a.jpg?v=1709122013",
+        "altText": "Carrie Petite - 6 fudgesicle"
+      }
+    },
+    {
+      "id": "44679546044651",
+      "title": "Carrie Petite - 4 brownie finale",
+      "descriptor": "medium, classic, brunette, lace front, 4 brownie finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 brownie finale"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JR708_Carrie_04_lg_574dda94-403a-4517-8f61-6df8e2c2b6a3.jpg?v=1709122013",
+          "altText": "Carrie Petite - 4 brownie finale"
+        }
+      },
+      "content": "Carrie Petite - 4 brownie finale\n\nDescription: medium, classic, blonde, lace front, 4 brownie finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JR708_Carrie_04_lg_574dda94-403a-4517-8f61-6df8e2c2b6a3.jpg?v=1709122013",
+        "altText": "Carrie Petite - 4 brownie finale"
+      }
+    },
+    {
+      "id": "44679557021931",
+      "title": "Fair Mono - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "535.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_FairFair-Mono_3.jpg?v=1709122036",
+          "altText": "Fair Mono - espresso mix"
+        }
+      },
+      "content": "Fair Mono - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_FairFair-Mono_3.jpg?v=1709122036",
+        "altText": "Fair Mono - espresso mix"
+      }
+    },
+    {
+      "id": "44679554334955",
+      "title": "Softie Boho Beanie Print - stiletto snake",
+      "descriptor": "medium, classic, brunette, stiletto snake",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "stiletto snake"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SOFTIE-WRAP-PRINT.jpg?v=1709122031",
+          "altText": "Softie Boho Beanie Print - stiletto snake"
+        }
+      },
+      "content": "Softie Boho Beanie Print - stiletto snake\n\nDescription: medium, classic, brunette, stiletto snake\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/SOFTIE-WRAP-PRINT.jpg?v=1709122031",
+        "altText": "Softie Boho Beanie Print - stiletto snake"
+      }
+    },
+    {
+      "id": "44679554367723",
+      "title": "Softie Boho Beanie Print - spiritual trails",
+      "descriptor": "medium, classic, brunette, spiritual trails",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "spiritual trails"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/The-Softie-Boho-Beanie-Main.jpg?v=1709122031",
+          "altText": "Softie Boho Beanie Print - spiritual trails"
+        }
+      },
+      "content": "Softie Boho Beanie Print - spiritual trails\n\nDescription: medium, classic, brunette, spiritual trails\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/The-Softie-Boho-Beanie-Main.jpg?v=1709122031",
+        "altText": "Softie Boho Beanie Print - spiritual trails"
+      }
+    },
+    {
+      "id": "44679554433259",
+      "title": "Softie Boho Beanie Print - marquise multi",
+      "descriptor": "medium, classic, brunette, marquise multi",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marquise multi"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/The-Softie-Boho-Beanie-Alt1.jpg?v=1709122031",
+          "altText": "Softie Boho Beanie Print - marquise multi"
+        }
+      },
+      "content": "Softie Boho Beanie Print - marquise multi\n\nDescription: medium, classic, brunette, marquise multi\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/The-Softie-Boho-Beanie-Alt1.jpg?v=1709122031",
+        "altText": "Softie Boho Beanie Print - marquise multi"
+      }
+    },
+    {
+      "id": "44679554466027",
+      "title": "Softie Boho Beanie Print - tombi tales",
+      "descriptor": "medium, classic, brunette, tombi tales",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tombi tales"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/softie_boho_beanie.jpg5.jpg?v=1709122031",
+          "altText": "Softie Boho Beanie Print - tombi tales"
+        }
+      },
+      "content": "Softie Boho Beanie Print - tombi tales\n\nDescription: medium, classic, brunette, tombi tales\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/softie_boho_beanie.jpg5.jpg?v=1709122031",
+        "altText": "Softie Boho Beanie Print - tombi tales"
+      }
+    },
+    {
+      "id": "44679554498795",
+      "title": "Softie Boho Beanie Print - bright animal",
+      "descriptor": "medium, classic, brunette, bright animal",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bright animal"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/6.jpg?v=1709122032",
+          "altText": "Softie Boho Beanie Print - bright animal"
+        }
+      },
+      "content": "Softie Boho Beanie Print - bright animal\n\nDescription: medium, classic, brunette, bright animal\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/6.jpg?v=1709122032",
+        "altText": "Softie Boho Beanie Print - bright animal"
+      }
+    },
+    {
+      "id": "44679554531563",
+      "title": "Softie Boho Beanie Print - royal cheetah",
+      "descriptor": "medium, classic, brunette, royal cheetah",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "royal cheetah"
+          }
+        ]
+      },
+      "content": "Softie Boho Beanie Print - royal cheetah\n\nDescription: medium, classic, brunette, royal cheetah\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679554564331",
+      "title": "Softie Boho Beanie Print - bloom",
+      "descriptor": "medium, classic, brunette, bloom",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bloom"
+          }
+        ]
+      },
+      "content": "Softie Boho Beanie Print - bloom\n\nDescription: medium, classic, brunette, bloom\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679554597099",
+      "title": "Softie Boho Beanie Print - soweto nights",
+      "descriptor": "medium, classic, brunette, soweto nights",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "soweto nights"
+          }
+        ]
+      },
+      "content": "Softie Boho Beanie Print - soweto nights\n\nDescription: medium, classic, brunette, soweto nights\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679554629867",
+      "title": "Softie Boho Beanie Print - dark sky",
+      "descriptor": "medium, classic, brunette, dark sky",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "39.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark sky"
+          }
+        ]
+      },
+      "content": "Softie Boho Beanie Print - dark sky\n\nDescription: medium, classic, brunette, dark sky\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679553745131",
+      "title": "Jolie - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Jolie_20TSE_20BK.webp?v=1709122031",
+          "altText": "Jolie - Cinnamon Raisin"
+        }
+      },
+      "content": "Jolie - Cinnamon Raisin\n\nDescription: medium, classic, blonde, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Jolie_20TSE_20BK.webp?v=1709122031",
+        "altText": "Jolie - Cinnamon Raisin"
+      }
+    },
+    {
+      "id": "44679553810667",
+      "title": "Jolie - Dark Brown",
+      "descriptor": "medium, classic, brunette, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Jolie - Dark Brown\n\nDescription: medium, classic, blonde, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    }
+  ]
+}

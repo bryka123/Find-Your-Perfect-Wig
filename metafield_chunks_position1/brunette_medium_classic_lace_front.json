@@ -1,0 +1,1038 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 32,
+    "filename": "brunette_medium_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:23:14.937Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679524810987",
+      "title": "SMOKE HI MONO - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "390.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/0002_ew_HP_SmokeHi_Mono_1_sandyblonde_rooted_2018.jpg?v=1744296731",
+          "altText": "SMOKE HI MONO - Position 1 Front View"
+        }
+      },
+      "content": "SMOKE HI MONO - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/0002_ew_HP_SmokeHi_Mono_1_sandyblonde_rooted_2018.jpg?v=1744296731",
+        "altText": "SMOKE HI MONO - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679581401323",
+      "title": "Hannah - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2023.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Hannah.webp?v=1709122090",
+          "altText": "Hannah - Position 1 Front View"
+        }
+      },
+      "content": "Hannah - Cinnamon Raisin\n\nDescription: medium, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Hannah.webp?v=1709122090",
+        "altText": "Hannah - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679733575915",
+      "title": "Drive - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/drive-mono-part-coffeebrown-mix-05_1.jpg?v=1744314558",
+          "altText": "Drive - Position 1 Front View"
+        }
+      },
+      "content": "Drive - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/drive-mono-part-coffeebrown-mix-05_1.jpg?v=1744314558",
+        "altText": "Drive - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679735116011",
+      "title": "TAB - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "284.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tab_3_1.jpg?v=1744383296",
+          "altText": "TAB - Position 1 Front View"
+        }
+      },
+      "content": "TAB - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tab_3_1.jpg?v=1744383296",
+        "altText": "TAB - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679382761707",
+      "title": "Elegance - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1825.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-10-01at11.24.42am.png?v=1744376363",
+          "altText": "Elegance - Position 1 Front View"
+        }
+      },
+      "content": "Elegance - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-10-01at11.24.42am.png?v=1744376363",
+        "altText": "Elegance - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679757005035",
+      "title": "Icone - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "653.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_HS_Icone_1_RGB_2017.jpg?v=1709122405",
+          "altText": "Icone - Position 1 Front View"
+        }
+      },
+      "content": "Icone - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_HS_Icone_1_RGB_2017.jpg?v=1709122405",
+        "altText": "Icone - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679775682795",
+      "title": "Melody Large - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "518.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MelodyMonoLARGE_1_1024x1024_446e1cf2-1572-4e04-aae6-a7ec0b5be53e.webp?v=1709122438",
+          "altText": "Melody Large - Position 1 Front View"
+        }
+      },
+      "content": "Melody Large - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MelodyMonoLARGE_1_1024x1024_446e1cf2-1572-4e04-aae6-a7ec0b5be53e.webp?v=1709122438",
+        "altText": "Melody Large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679799701739",
+      "title": "scarlett large - 6/33 raspberry twist",
+      "descriptor": "medium, classic, wavy, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "255.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/scarlett_12fs8_alt1_1201ea1c-51e0-4c4b-9d39-18c491968608.jpg?v=1709122479",
+          "altText": "scarlett large - Position 1 Front View"
+        }
+      },
+      "content": "scarlett large - 6/33 raspberry twist\n\nDescription: medium, classic, wavy, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/scarlett_12fs8_alt1_1201ea1c-51e0-4c4b-9d39-18c491968608.jpg?v=1709122479",
+        "altText": "scarlett large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679895056619",
+      "title": "velvet wavez - midnight stone",
+      "descriptor": "medium, classic, wavy, brunette, lace front, midnight stone",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "165.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "midnight stone"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0002s_0001s_0000_1502-Vevet-Wavez-Polar-Sky_525x700_cccd74d6-197f-4899-9df0-0fa041be8363.jpg?v=1709122604",
+          "altText": "velvet wavez - Position 1 Front View"
+        }
+      },
+      "content": "velvet wavez - midnight stone\n\nDescription: medium, classic, wavy, brunette, lace front, midnight stone\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0002s_0001s_0000_1502-Vevet-Wavez-Polar-Sky_525x700_cccd74d6-197f-4899-9df0-0fa041be8363.jpg?v=1709122604",
+        "altText": "velvet wavez - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679917109483",
+      "title": "Carrie - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/carrie_jonrenau.2.jpg?v=1709122642",
+          "altText": "Carrie - Position 1 Front View"
+        }
+      },
+      "content": "Carrie - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/carrie_jonrenau.2.jpg?v=1709122642",
+        "altText": "Carrie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680043331819",
+      "title": "Secret Hi - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "481.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0000_ew_toppower_secret_eb234471-42e3-4eb2-8602-97d2646159a5.jpg?v=1709122837",
+          "altText": "Secret Hi - Position 1 Front View"
+        }
+      },
+      "content": "Secret Hi - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/resized_0000_ew_toppower_secret_eb234471-42e3-4eb2-8602-97d2646159a5.jpg?v=1709122837",
+        "altText": "Secret Hi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680059945195",
+      "title": "Taste - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1656.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-10-01at11.36.14am.png?v=1709122868",
+          "altText": "Taste - Position 1 Front View"
+        }
+      },
+      "content": "Taste - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-10-01at11.36.14am.png?v=1709122868",
+        "altText": "Taste - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680124694763",
+      "title": "Amelia - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1307.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Amelia-Dark-Brown-4764.jpg?v=1744648010",
+          "altText": "Amelia - Position 1 Front View"
+        }
+      },
+      "content": "Amelia - Cinnamon Raisin\n\nDescription: medium, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4-Amelia-Dark-Brown-4764.jpg?v=1744648010",
+        "altText": "Amelia - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680554774763",
+      "title": "cameron large - 6 fudgesicle",
+      "descriptor": "medium, classic, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "large",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "521.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Cameron-PetLrg-FS6_30_27-ToffeeTruffle-alt.jpg?v=1745236946",
+          "altText": "cameron large - Position 1 Front View"
+        }
+      },
+      "content": "cameron large - 6 fudgesicle\n\nDescription: medium, classic, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"large\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Cameron-PetLrg-FS6_30_27-ToffeeTruffle-alt.jpg?v=1745236946",
+        "altText": "cameron large - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680636301547",
+      "title": "Young Mono - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "335.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/young_mono_part_1_1.jpg?v=1744295518",
+          "altText": "Young Mono - Position 1 Front View"
+        }
+      },
+      "content": "Young Mono - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/young_mono_part_1_1.jpg?v=1744295518",
+        "altText": "Young Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680662483179",
+      "title": "Melody - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "518.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MelodyMono_1_1024x1024_2d82ac3c-b442-48b0-879a-e6a8566abf8b.webp?v=1709123927",
+          "altText": "Melody - Position 1 Front View"
+        }
+      },
+      "content": "Melody - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/MelodyMono_1_1024x1024_2d82ac3c-b442-48b0-879a-e6a8566abf8b.webp?v=1709123927",
+        "altText": "Melody - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45893732958443",
+      "title": "Aurora - 6 fudgesicle",
+      "descriptor": "medium, classic, curly, brunette, lace front, 6 fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "476.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Aurora_22F16S8_HD_Main__62080.1727901712.png?v=1758569892",
+          "altText": "Aurora - Position 1 Front View"
+        }
+      },
+      "content": "Aurora - 6 fudgesicle\n\nDescription: medium, classic, curly, blonde, lace front, 6 fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Aurora_22F16S8_HD_Main__62080.1727901712.png?v=1758569892",
+        "altText": "Aurora - Position 1 Front View"
+      }
+    },
+    {
+      "id": "&quot;abs_y&quot;:241}><strong style=font-family: -apple-system",
+      "title": " Cap Design_Mono Filament -  Roboto",
+      "descriptor": "medium, classic, brunette, lace front,  Roboto",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": " Roboto",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": " Roboto"
+          }
+        ],
+        "image": {
+          "url": "Wefted / Basic],,,,,,,,,,,cat:reds,color_description.32-f-cherry-creme,,,,,,,,,,,,,{pending:0",
+          "altText": " Cap Design_Mono Filament - Position 1 Front View"
+        }
+      },
+      "content": " Cap Design_Mono Filament -  Roboto\n\nDescription: medium, classic, brunette, lace front,  Roboto\n\nBrand:  cat:blondes\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "Wefted / Basic],,,,,,,,,,,cat:reds,color_description.32-f-cherry-creme,,,,,,,,,,,,,{pending:0",
+        "altText": " Cap Design_Mono Filament - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45460585480427",
+      "title": "Sophia - dark chocolate",
+      "descriptor": "medium, classic, brunette, lace front, dark chocolate",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "168.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sophia-Creamy-Blond1.webp?v=1758158144",
+          "altText": "Sophia - Position 1 Front View"
+        }
+      },
+      "content": "Sophia - dark chocolate\n\nDescription: medium, classic, blonde, lace front, dark chocolate\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sophia-Creamy-Blond1.webp?v=1758158144",
+        "altText": "Sophia - Position 1 Front View"
+      }
+    },
+    {
+      "id": "45999216066795",
+      "title": "Couture - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Couture_1_1024x1024_1500x_80749b85-20cc-47c3-a3da-fcd991ad1122.jpg?v=1758555914",
+          "altText": "Couture - Position 1 Front View"
+        }
+      },
+      "content": "Couture - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Couture_1_1024x1024_1500x_80749b85-20cc-47c3-a3da-fcd991ad1122.jpg?v=1758555914",
+        "altText": "Couture - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46041174147307",
+      "title": "Stumptown - Discontinued Colour (Live) - Graphite",
+      "descriptor": "medium, classic, curly, brunette, lace front, Graphite",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "602.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Graphite"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/STUMPTOWN_treslechesblonde1_2ea0d54d-d3c7-4682-9a35-0b757c5cc549.jpg?v=1755280736",
+          "altText": "Stumptown - Discontinued Colour (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Stumptown - Discontinued Colour (Live) - Graphite\n\nDescription: medium, classic, curly, brunette, lace front, Graphite\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/STUMPTOWN_treslechesblonde1_2ea0d54d-d3c7-4682-9a35-0b757c5cc549.jpg?v=1755280736",
+        "altText": "Stumptown - Discontinued Colour (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46044905144555",
+      "title": "Ceremony - Discontinued Colors (Live) - Ginger",
+      "descriptor": "medium, classic, brunette, lace front, Ginger",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "578.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ceremony-butterbeer-blonde-3_6c65b901-91d4-4c72-8381-63d1ce52a8ce.jpg?v=1736357977",
+          "altText": "Ceremony - Discontinued Colors (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Ceremony - Discontinued Colors (Live) - Ginger\n\nDescription: medium, classic, brunette, lace front, Ginger\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ceremony-butterbeer-blonde-3_6c65b901-91d4-4c72-8381-63d1ce52a8ce.jpg?v=1736357977",
+        "altText": "Ceremony - Discontinued Colors (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46045881762027",
+      "title": "Nottingham - Discontinued Color (Live) - Sienna Spice",
+      "descriptor": "medium, classic, wavy, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "550.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Nottingham_caramelblonde-R4_c59829c0-5785-46e2-bcad-b461ef24f03f.jpg?v=1736365457",
+          "altText": "Nottingham - Discontinued Color (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Nottingham - Discontinued Color (Live) - Sienna Spice\n\nDescription: medium, classic, wavy, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Nottingham_caramelblonde-R4_c59829c0-5785-46e2-bcad-b461ef24f03f.jpg?v=1736365457",
+        "altText": "Nottingham - Discontinued Color (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625823949035",
+      "title": "Stumptown (Outlet) - Graphite",
+      "descriptor": "medium, classic, curly, brunette, lace front, Graphite",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "602.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Graphite"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/STUMPTOWN_treslechesblonde1_b4853847-ae3b-4911-92dd-d0436488ccfb.jpg?v=1753260242",
+          "altText": "Stumptown (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Stumptown (Outlet) - Graphite\n\nDescription: medium, classic, curly, brunette, lace front, Graphite\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/STUMPTOWN_treslechesblonde1_b4853847-ae3b-4911-92dd-d0436488ccfb.jpg?v=1753260242",
+        "altText": "Stumptown (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625965605099",
+      "title": "Nottingham (Outlet) - Sienna Spice",
+      "descriptor": "medium, classic, wavy, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "550.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Nottingham_caramelblonde-R4_8eb3e683-cba6-41c5-aad8-5eb0b6c7cb20.jpg?v=1758555314",
+          "altText": "Nottingham (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Nottingham (Outlet) - Sienna Spice\n\nDescription: medium, classic, wavy, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Nottingham_caramelblonde-R4_8eb3e683-cba6-41c5-aad8-5eb0b6c7cb20.jpg?v=1758555314",
+        "altText": "Nottingham (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625966096619",
+      "title": "Ceremony (Outlet) - Ginger",
+      "descriptor": "medium, classic, brunette, lace front, Ginger",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "578.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ceremony-butterbeer-blonde-3_28a2bbb6-cced-4bb2-8fd7-30bef4696552.jpg?v=1757943649",
+          "altText": "Ceremony (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Ceremony (Outlet) - Ginger\n\nDescription: medium, classic, brunette, lace front, Ginger\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/ceremony-butterbeer-blonde-3_28a2bbb6-cced-4bb2-8fd7-30bef4696552.jpg?v=1757943649",
+        "altText": "Ceremony (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625983463659",
+      "title": "Devocion (Outlet) - Coffee without Cream",
+      "descriptor": "medium, classic, curly, brunette, lace front, Coffee without Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "586.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Coffee without Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/devocion-rootbeer-float-blonde-1_e669bdc4-31a8-4a49-8633-c1b91dfe2ddb.jpg?v=1757943765",
+          "altText": "Devocion (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Devocion (Outlet) - Coffee without Cream\n\nDescription: medium, classic, curly, brunette, lace front, Coffee without Cream\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/devocion-rootbeer-float-blonde-1_e669bdc4-31a8-4a49-8633-c1b91dfe2ddb.jpg?v=1757943765",
+        "altText": "Devocion (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46626041659627",
+      "title": "Santa Barbara (Outlet) - Sienna Spice",
+      "descriptor": "medium, classic, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "332.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SANTABARBARA_oystergray1_d5bfc410-857e-4e74-94db-f825c2fe239f.jpg?v=1758557275",
+          "altText": "Santa Barbara (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Santa Barbara (Outlet) - Sienna Spice\n\nDescription: medium, classic, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SANTABARBARA_oystergray1_d5bfc410-857e-4e74-94db-f825c2fe239f.jpg?v=1758557275",
+        "altText": "Santa Barbara (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46569091399915",
+      "title": "Drive (Live) - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "428.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/drive-mono-part-coffeebrown-mix-05_1.jpg?v=1744314558",
+          "altText": "Drive (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Drive (Live) - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/drive-mono-part-coffeebrown-mix-05_1.jpg?v=1744314558",
+        "altText": "Drive (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46576662020331",
+      "title": "TAB (LIVE) - espresso mix",
+      "descriptor": "medium, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "284.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tab_3_1.jpg?v=1744383296",
+          "altText": "TAB (LIVE) - Position 1 Front View"
+        }
+      },
+      "content": "TAB (LIVE) - espresso mix\n\nDescription: medium, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/tab_3_1.jpg?v=1744383296",
+        "altText": "TAB (LIVE) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46851014492395",
+      "title": "cameron lite (Kansas City) - 6/33 raspberry twist",
+      "descriptor": "medium, classic, brunette, lace front, 6/33 raspberry twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "557.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6/33 raspberry twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Cameron-Lite_6F27_SLL_SYN_24_Main__41895.1742927018.jpg?v=1745238725",
+          "altText": "cameron lite (Kansas City) - Position 1 Front View"
+        }
+      },
+      "content": "cameron lite (Kansas City) - 6/33 raspberry twist\n\nDescription: medium, classic, blonde, lace front, 6/33 raspberry twist\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Cameron-Lite_6F27_SLL_SYN_24_Main__41895.1742927018.jpg?v=1745238725",
+        "altText": "cameron lite (Kansas City) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46297267667179",
+      "title": "Santa Barbara - Discontinued Colour (Live) - Sienna Spice",
+      "descriptor": "medium, classic, brunette, lace front, Sienna Spice",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "332.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sienna Spice"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SANTABARBARA_oystergray1_6cfacde1-319e-4bff-a898-1b6d5a8372d2.jpg?v=1758557275",
+          "altText": "Santa Barbara - Discontinued Colour (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Santa Barbara - Discontinued Colour (Live) - Sienna Spice\n\nDescription: medium, classic, brunette, lace front, Sienna Spice\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/SANTABARBARA_oystergray1_6cfacde1-319e-4bff-a898-1b6d5a8372d2.jpg?v=1758557275",
+        "altText": "Santa Barbara - Discontinued Colour (Live) - Position 1 Front View"
+      }
+    }
+  ]
+}

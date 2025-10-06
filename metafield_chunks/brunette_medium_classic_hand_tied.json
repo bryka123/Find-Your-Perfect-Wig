@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "hand",
+    "totalVariants": 8,
+    "filename": "brunette_medium_classic_hand_tied.json",
+    "generated_at": "2025-09-24T16:06:50.008Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44680186986731",
+      "title": "Roxie - Cinnamon Raisin",
+      "descriptor": "medium, classic, brunette, hand tied, Cinnamon Raisin",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "378.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ]
+      },
+      "content": "Roxie - Cinnamon Raisin\n\nDescription: medium, classic, blonde, hand tied, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680187052267",
+      "title": "Roxie - Dark Brown",
+      "descriptor": "medium, classic, brunette, hand tied, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "378.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Roxie - Dark Brown\n\nDescription: medium, classic, blonde, hand tied, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680187347179",
+      "title": "Roxie - Medium Brown",
+      "descriptor": "medium, classic, brunette, hand tied, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "378.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Roxie - Medium Brown\n\nDescription: medium, classic, blonde, hand tied, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680187379947",
+      "title": "Roxie - Mocha Frost",
+      "descriptor": "medium, classic, brunette, hand tied, Mocha Frost",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "378.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Mocha Frost"
+          }
+        ]
+      },
+      "content": "Roxie - Mocha Frost\n\nDescription: medium, classic, blonde, hand tied, Mocha Frost\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680642330859",
+      "title": "Add-On Top - Dark Brown",
+      "descriptor": "medium, classic, brunette, hand tied, Dark Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1375.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Brown"
+          }
+        ]
+      },
+      "content": "Add-On Top - Dark Brown\n\nDescription: medium, classic, blonde, hand tied, Dark Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680642461931",
+      "title": "Add-On Top - Medium Brown",
+      "descriptor": "medium, classic, brunette, hand tied, Medium Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1375.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Brown"
+          }
+        ]
+      },
+      "content": "Add-On Top - Medium Brown\n\nDescription: medium, classic, blonde, hand tied, Medium Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "45143172186347",
+      "title": "Spirit (Facebook) - 6f27 caramel ribbon",
+      "descriptor": "medium, classic, brunette, hand tied, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "3145.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/spirit_12fs8_back__29650.1578371709.jpg?v=1756454850",
+          "altText": "Spirit (Facebook) - 6f27 caramel ribbon"
+        }
+      },
+      "content": "Spirit (Facebook) - 6f27 caramel ribbon\n\nDescription: medium, classic, blonde, hand tied, 6f27 caramel ribbon\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/spirit_12fs8_back__29650.1578371709.jpg?v=1756454850",
+        "altText": "Spirit (Facebook) - 6f27 caramel ribbon"
+      }
+    },
+    {
+      "id": "45143172382955",
+      "title": "Spirit (Facebook) - 8/30 cocoa twist",
+      "descriptor": "medium, classic, brunette, hand tied, 8/30 cocoa twist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "hand_tied",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "3145.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8/30 cocoa twist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/spirit_12fs8_side__44382.1578371709.jpg?v=1756454850",
+          "altText": "Spirit (Facebook) - 8/30 cocoa twist"
+        }
+      },
+      "content": "Spirit (Facebook) - 8/30 cocoa twist\n\nDescription: medium, classic, blonde, hand tied, 8/30 cocoa twist\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"hand_tied\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/spirit_12fs8_side__44382.1578371709.jpg?v=1756454850",
+        "altText": "Spirit (Facebook) - 8/30 cocoa twist"
+      }
+    }
+  ]
+}

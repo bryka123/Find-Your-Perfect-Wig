@@ -1,0 +1,718 @@
+{
+  "metadata": {
+    "color": "brunette",
+    "length": "long",
+    "style": "classic",
+    "capConstruction": "lace",
+    "totalVariants": 22,
+    "filename": "brunette_long_classic_lace_front.json",
+    "generated_at": "2025-09-24T16:23:14.937Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679732822251",
+      "title": "Attract - espresso mix",
+      "descriptor": "long, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "2377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/attract_mono_3_4.jpg?v=1744373181",
+          "altText": "Attract - Position 1 Front View"
+        }
+      },
+      "content": "Attract - espresso mix\n\nDescription: long, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/attract_mono_3_4.jpg?v=1744373181",
+        "altText": "Attract - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679443120363",
+      "title": "divine wavez - midnight stone",
+      "descriptor": "long, classic, wavy, brunette, lace front, midnight stone",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "midnight stone"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1503-Divine-Wavez-Polar-Sky_da0b61c9-982d-4264-9c38-00aa4092009b.jpg?v=1709121908",
+          "altText": "divine wavez - Position 1 Front View"
+        }
+      },
+      "content": "divine wavez - midnight stone\n\nDescription: long, classic, wavy, brunette, lace front, midnight stone\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1503-Divine-Wavez-Polar-Sky_da0b61c9-982d-4264-9c38-00aa4092009b.jpg?v=1709121908",
+        "altText": "divine wavez - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679915045099",
+      "title": "IRENE - 8r10-12 brown deluxe rooted",
+      "descriptor": "long, classic, wavy, brunette, lace front, 8r10-12 brown deluxe rooted",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1929.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8r10-12 brown deluxe rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3116-IRENE-9-28-25-main_0060dfda-49c9-4c1b-a39e-bba853d96668.jpg?v=1709122637",
+          "altText": "IRENE - Position 1 Front View"
+        }
+      },
+      "content": "IRENE - 8r10-12 brown deluxe rooted\n\nDescription: long, classic, wavy, brunette, lace front, 8r10-12 brown deluxe rooted\n\nBrand: Fair Fashion\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3116-IRENE-9-28-25-main_0060dfda-49c9-4c1b-a39e-bba853d96668.jpg?v=1709122637",
+        "altText": "IRENE - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679976714475",
+      "title": "ZARA PETITE - 6f27 caramel ribbon",
+      "descriptor": "long, classic, brunette, lace front, 6f27 caramel ribbon",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "382.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6f27 caramel ribbon"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Zara-Petite-FS4_33_30A-MidnightCocoa-alt1.jpg?v=1709122736",
+          "altText": "ZARA PETITE - Position 1 Front View"
+        }
+      },
+      "content": "ZARA PETITE - 6f27 caramel ribbon\n\nDescription: long, classic, blonde, lace front, 6f27 caramel ribbon\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Zara-Petite-FS4_33_30A-MidnightCocoa-alt1.jpg?v=1709122736",
+        "altText": "ZARA PETITE - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680113553643",
+      "title": "Collect Mono Part - espresso mix",
+      "descriptor": "long, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1974.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/01_ew_COLLECT_MONO_PART.jpg?v=1709122968",
+          "altText": "Collect Mono Part - Position 1 Front View"
+        }
+      },
+      "content": "Collect Mono Part - espresso mix\n\nDescription: long, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/01_ew_COLLECT_MONO_PART.jpg?v=1709122968",
+        "altText": "Collect Mono Part - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680364753131",
+      "title": "Just Long - espresso mix",
+      "descriptor": "long, classic, brunette, lace front, espresso mix",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "280.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "espresso mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JustLong_5_1024x1024_b31d068c-555e-4d3a-b441-da5c29bc511e.jpg?v=1709123384",
+          "altText": "Just Long - Position 1 Front View"
+        }
+      },
+      "content": "Just Long - espresso mix\n\nDescription: long, classic, blonde, lace front, espresso mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JustLong_5_1024x1024_b31d068c-555e-4d3a-b441-da5c29bc511e.jpg?v=1709123384",
+        "altText": "Just Long - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680547074283",
+      "title": "rylee - pastel pink",
+      "descriptor": "long, classic, wavy, brunette, lace front, pastel pink",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "322.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "pastel pink"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Rylee-HoneyCombBrown95071.jpg?v=1715309463",
+          "altText": "rylee - Position 1 Front View"
+        }
+      },
+      "content": "rylee - pastel pink\n\nDescription: long, classic, wavy, brunette, lace front, pastel pink\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Rylee-HoneyCombBrown95071.jpg?v=1715309463",
+        "altText": "rylee - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680557527275",
+      "title": "Blake Petite - 27t613s8 shaded sun",
+      "descriptor": "long, classic, brunette, lace front, 27t613s8 shaded sun",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "heavy",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3748.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "27t613s8 shaded sun"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Blake-12FS8-alt1_9c28d5b6-be05-4907-bb15-51ff11fc8a85.jpg?v=1744976502",
+          "altText": "Blake Petite - Position 1 Front View"
+        }
+      },
+      "content": "Blake Petite - 27t613s8 shaded sun\n\nDescription: long, classic, brunette, lace front, 27t613s8 shaded sun\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"heavy\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Blake-12FS8-alt1_9c28d5b6-be05-4907-bb15-51ff11fc8a85.jpg?v=1744976502",
+        "altText": "Blake Petite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680678801643",
+      "title": "Sophia - Cinnamon Raisin",
+      "descriptor": "long, classic, brunette, lace front, Cinnamon Raisin",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "3377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cinnamon Raisin"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2-Sophia-Dark-Red-7292.webp?v=1709123951",
+          "altText": "Sophia - Position 1 Front View"
+        }
+      },
+      "content": "Sophia - Cinnamon Raisin\n\nDescription: long, classic, blonde, lace front, Cinnamon Raisin\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2-Sophia-Dark-Red-7292.webp?v=1709123951",
+        "altText": "Sophia - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680823144683",
+      "title": "Affair Hi - chocolate mix",
+      "descriptor": "long, classic, brunette, lace front, chocolate mix",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "petite",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "658.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "chocolate mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/AffairHi_1.jpg?v=1709124170",
+          "altText": "Affair Hi - Position 1 Front View"
+        }
+      },
+      "content": "Affair Hi - chocolate mix\n\nDescription: long, classic, brunette, lace front, chocolate mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/AffairHi_1.jpg?v=1709124170",
+        "altText": "Affair Hi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46041180602603",
+      "title": "Nitro 22 - Discontinued Colours (Live) - Chrome",
+      "descriptor": "long, classic, curly, brunette, lace front, Chrome",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "560.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chrome"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/nitro-22-tres-leches-blonde-1-1024x1024_2x_1f6c82cd-3948-4c56-9822-068ee81cf15e.jpg?v=1757956131",
+          "altText": "Nitro 22 - Discontinued Colours (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Nitro 22 - Discontinued Colours (Live) - Chrome\n\nDescription: long, classic, curly, brunette, lace front, Chrome\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/nitro-22-tres-leches-blonde-1-1024x1024_2x_1f6c82cd-3948-4c56-9822-068ee81cf15e.jpg?v=1757956131",
+        "altText": "Nitro 22 - Discontinued Colours (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46044827189483",
+      "title": "Bossa Nova - Discontinued Colours (Live) - Chrome",
+      "descriptor": "long, classic, brunette, lace front, Chrome",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "627.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chrome"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BOSANOVA_BUTTERBEERBLONDE3_b93239cf-800d-405e-9563-b14a8b83127a.jpg?v=1757942030",
+          "altText": "Bossa Nova - Discontinued Colours (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Bossa Nova - Discontinued Colours (Live) - Chrome\n\nDescription: long, classic, brunette, lace front, Chrome\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BOSANOVA_BUTTERBEERBLONDE3_b93239cf-800d-405e-9563-b14a8b83127a.jpg?v=1757942030",
+        "altText": "Bossa Nova - Discontinued Colours (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46045606281451",
+      "title": "Pure Honey Balayage - Discontinued Colors (Live) - Caramel Almond",
+      "descriptor": "long, classic, curly, brunette, lace front, Caramel Almond",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "655.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Caramel Almond"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/b-pure-honey-sweet-mango-4_172c26a7-405b-4aab-9ef9-0e363cdc10a2.jpg?v=1736418662",
+          "altText": "Pure Honey Balayage - Discontinued Colors (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Pure Honey Balayage - Discontinued Colors (Live) - Caramel Almond\n\nDescription: long, classic, curly, brunette, lace front, Caramel Almond\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/b-pure-honey-sweet-mango-4_172c26a7-405b-4aab-9ef9-0e363cdc10a2.jpg?v=1736418662",
+        "altText": "Pure Honey Balayage - Discontinued Colors (Live) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625794949355",
+      "title": "Allegro 28 (Outlet) - Purple Rain",
+      "descriptor": "long, classic, curly, brunette, lace front, Purple Rain",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Purple Rain"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/allegro-28-honey-with-chai-latte-4_d1a23568-8074-43e3-a6b4-2a3ae2bac14b.jpg?v=1753258615",
+          "altText": "Allegro 28 (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Allegro 28 (Outlet) - Purple Rain\n\nDescription: long, classic, curly, brunette, lace front, Purple Rain\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/allegro-28-honey-with-chai-latte-4_d1a23568-8074-43e3-a6b4-2a3ae2bac14b.jpg?v=1753258615",
+        "altText": "Allegro 28 (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625822081259",
+      "title": "Bossa Nova (Outlet) - Chrome",
+      "descriptor": "long, classic, brunette, lace front, Chrome",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "627.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chrome"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BOSANOVA_BUTTERBEERBLONDE3_173919db-28cd-4ad6-9a05-8ea9d3965be9.jpg?v=1757942029",
+          "altText": "Bossa Nova (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Bossa Nova (Outlet) - Chrome\n\nDescription: long, classic, brunette, lace front, Chrome\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/BOSANOVA_BUTTERBEERBLONDE3_173919db-28cd-4ad6-9a05-8ea9d3965be9.jpg?v=1757942029",
+        "altText": "Bossa Nova (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46625944240363",
+      "title": "Dalgona 23 (Outlet) - Cayenne with Ginger Root",
+      "descriptor": "long, classic, wavy, brunette, lace front, Cayenne with Ginger Root",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "506.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cayenne with Ginger Root"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/dalgona-23-butterbeer-blonde-2_2ccc95cf-a578-4197-8483-6a38bd59ca58.jpg?v=1755275917",
+          "altText": "Dalgona 23 (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Dalgona 23 (Outlet) - Cayenne with Ginger Root\n\nDescription: long, classic, wavy, brunette, lace front, Cayenne with Ginger Root\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/dalgona-23-butterbeer-blonde-2_2ccc95cf-a578-4197-8483-6a38bd59ca58.jpg?v=1755275917",
+        "altText": "Dalgona 23 (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46626015445227",
+      "title": "Maxwella 22 (Outlet) - Iced Lavender Latte",
+      "descriptor": "long, classic, brunette, lace front, Iced Lavender Latte",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "695.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Iced Lavender Latte"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_22_1_9d08de54-9d0a-4bc0-9f7e-aedf5e26ee66.jpg?v=1753267816",
+          "altText": "Maxwella 22 (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Maxwella 22 (Outlet) - Iced Lavender Latte\n\nDescription: long, classic, brunette, lace front, Iced Lavender Latte\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Maxwella_22_1_9d08de54-9d0a-4bc0-9f7e-aedf5e26ee66.jpg?v=1753267816",
+        "altText": "Maxwella 22 (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46626044674283",
+      "title": "Nitro 22 (Outlet) - Chrome",
+      "descriptor": "long, classic, curly, brunette, lace front, Chrome",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "637.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chrome"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/nitro-22-tres-leches-blonde-1-1024x1024_2x_0fe3f471-a573-4ec7-ae04-244db6b5201d.jpg?v=1753279887",
+          "altText": "Nitro 22 (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Nitro 22 (Outlet) - Chrome\n\nDescription: long, classic, curly, brunette, lace front, Chrome\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/nitro-22-tres-leches-blonde-1-1024x1024_2x_0fe3f471-a573-4ec7-ae04-244db6b5201d.jpg?v=1753279887",
+        "altText": "Nitro 22 (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46626080948459",
+      "title": "Pure Honey Balayage (Outlet) - Caramel Almond",
+      "descriptor": "long, classic, curly, brunette, lace front, Caramel Almond",
+      "attrs": {
+        "length": "long",
+        "texture": "curly",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "655.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Caramel Almond"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/b-pure-honey-sweet-mango-2_3f17be6f-3d4c-485b-87c6-bfcbb0d022ed.jpg?v=1753270634",
+          "altText": "Pure Honey Balayage (Outlet) - Position 1 Front View"
+        }
+      },
+      "content": "Pure Honey Balayage (Outlet) - Caramel Almond\n\nDescription: long, classic, curly, brunette, lace front, Caramel Almond\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"curly\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/b-pure-honey-sweet-mango-2_3f17be6f-3d4c-485b-87c6-bfcbb0d022ed.jpg?v=1753270634",
+        "altText": "Pure Honey Balayage (Outlet) - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46497216561387",
+      "title": "Roxie - dark chocolate",
+      "descriptor": "long, classic, wavy, brunette, lace front, dark chocolate",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "199.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1_e44a5b74-4b12-4a36-9d23-440643b1d6aa.jpg?v=1758109071",
+          "altText": "Roxie - Position 1 Front View"
+        }
+      },
+      "content": "Roxie - dark chocolate\n\nDescription: long, classic, wavy, blonde, lace front, dark chocolate\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1_e44a5b74-4b12-4a36-9d23-440643b1d6aa.jpg?v=1758109071",
+        "altText": "Roxie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46699391287531",
+      "title": "Deluxe Hairline - dark chocolate",
+      "descriptor": "long, classic, brunette, lace front, dark chocolate",
+      "attrs": {
+        "length": "long",
+        "texture": "straight",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "210.03",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Deluxe-Hairline-Long-HF-Dark-Chocolate-1_2-scaled.jpg?v=1754998002",
+          "altText": "Deluxe Hairline - Position 1 Front View"
+        }
+      },
+      "content": "Deluxe Hairline - dark chocolate\n\nDescription: long, classic, brunette, lace front, dark chocolate\n\nBrand: Rene Of Paris\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"straight\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Deluxe-Hairline-Long-HF-Dark-Chocolate-1_2-scaled.jpg?v=1754998002",
+        "altText": "Deluxe Hairline - Position 1 Front View"
+      }
+    },
+    {
+      "id": "46323455197419",
+      "title": "Dalgona 23 - Discontinued Colours (Live) - Cayenne with Ginger Root",
+      "descriptor": "long, classic, wavy, brunette, lace front, Cayenne with Ginger Root",
+      "attrs": {
+        "length": "long",
+        "texture": "wavy",
+        "color": "brunette",
+        "capSize": "average",
+        "capConstruction": "lace_front",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "506.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Cayenne with Ginger Root"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/dalgona-23-butterbeer-blonde-2_de2ef89e-d1e7-4feb-ad26-9c1048d9f76e.jpg?v=1757969017",
+          "altText": "Dalgona 23 - Discontinued Colours (Live) - Position 1 Front View"
+        }
+      },
+      "content": "Dalgona 23 - Discontinued Colours (Live) - Cayenne with Ginger Root\n\nDescription: long, classic, wavy, brunette, lace front, Cayenne with Ginger Root\n\nBrand: Belle Tress\n\nAttributes: {\n  \"length\": \"long\",\n  \"texture\": \"wavy\",\n  \"color\": \"brunette\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"lace_front\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/dalgona-23-butterbeer-blonde-2_de2ef89e-d1e7-4feb-ad26-9c1048d9f76e.jpg?v=1757969017",
+        "altText": "Dalgona 23 - Discontinued Colours (Live) - Position 1 Front View"
+      }
+    }
+  ]
+}

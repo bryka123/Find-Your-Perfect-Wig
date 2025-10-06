@@ -1,0 +1,1614 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "short",
+    "style": "classic",
+    "capConstruction": "monofilament",
+    "totalVariants": 50,
+    "filename": "blonde_short_classic_monofilament.json",
+    "generated_at": "2025-09-24T16:23:14.931Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679488995563",
+      "title": "Kylie - Almond Breeze",
+      "descriptor": "short, classic, wavy, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kylie.jpg?v=1744631335",
+          "altText": "Kylie - Position 1 Front View"
+        }
+      },
+      "content": "Kylie - Almond Breeze\n\nDescription: short, classic, wavy, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kylie.jpg?v=1744631335",
+        "altText": "Kylie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679526580459",
+      "title": "Incentive Petite - G27 ginger mist",
+      "descriptor": "short, classic, blonde, monofilament, G27 ginger mist",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G27 ginger mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive_evagabor_af164af0-d2d3-41d8-93f1-fe12c85f6c28.jpg?v=1709121982",
+          "altText": "Incentive Petite - Position 1 Front View"
+        }
+      },
+      "content": "Incentive Petite - G27 ginger mist\n\nDescription: short, classic, blonde, monofilament, G27 ginger mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive_evagabor_af164af0-d2d3-41d8-93f1-fe12c85f6c28.jpg?v=1709121982",
+        "altText": "Incentive Petite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679537688811",
+      "title": "Fenja Petite - sand mix",
+      "descriptor": "short, classic, blonde, monofilament, sand mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "334.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sand mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fenja_1-1_6068d9ad-a8da-4f42-903e-882303b5905f.jpg?v=1709121999",
+          "altText": "Fenja Petite - Position 1 Front View"
+        }
+      },
+      "content": "Fenja Petite - sand mix\n\nDescription: short, classic, blonde, monofilament, sand mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fenja_1-1_6068d9ad-a8da-4f42-903e-882303b5905f.jpg?v=1709121999",
+        "altText": "Fenja Petite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679562363115",
+      "title": "Aubrey - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Aubrey.jpg?v=1744398346",
+          "altText": "Aubrey - Position 1 Front View"
+        }
+      },
+      "content": "Aubrey - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Aubrey.jpg?v=1744398346",
+        "altText": "Aubrey - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679663190251",
+      "title": "Gold - dark chocolate mix",
+      "descriptor": "short, classic, wavy, blonde, monofilament, dark chocolate mix",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "281.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "dark chocolate mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_Gold_1.png?v=1709122237",
+          "altText": "Gold - Position 1 Front View"
+        }
+      },
+      "content": "Gold - dark chocolate mix\n\nDescription: short, classic, wavy, blonde, monofilament, dark chocolate mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ew_hp2018_Gold_1.png?v=1709122237",
+        "altText": "Gold - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679694581995",
+      "title": "erin - auburn sugar",
+      "descriptor": "short, classic, blonde, monofilament, auburn sugar",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "322.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Erin-Auburn-Sugar-scaled.jpg?v=1744027268",
+          "altText": "erin - Position 1 Front View"
+        }
+      },
+      "content": "erin - auburn sugar\n\nDescription: short, classic, blonde, monofilament, auburn sugar\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Erin-Auburn-Sugar-scaled.jpg?v=1744027268",
+        "altText": "erin - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679693238507",
+      "title": "Kris - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kris.jpg?v=1709122297",
+          "altText": "Kris - Position 1 Front View"
+        }
+      },
+      "content": "Kris - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kris.jpg?v=1709122297",
+        "altText": "Kris - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679696417003",
+      "title": "Flame - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flame1.jpg?v=1744994481",
+          "altText": "Flame - Position 1 Front View"
+        }
+      },
+      "content": "Flame - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flame1.jpg?v=1744994481",
+        "altText": "Flame - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679708279019",
+      "title": "Top Mono - bernstein mix",
+      "descriptor": "short, classic, blonde, monofilament, bernstein mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "356.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/TOPMONO.jpg?v=1709122327",
+          "altText": "Top Mono - Position 1 Front View"
+        }
+      },
+      "content": "Top Mono - bernstein mix\n\nDescription: short, classic, blonde, monofilament, bernstein mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/TOPMONO.jpg?v=1709122327",
+        "altText": "Top Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679727382763",
+      "title": "Light Mono - caramel mix",
+      "descriptor": "short, classic, blonde, monofilament, caramel mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "445.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "caramel mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resize-525x700-_0003_ew_hp2018_Light_Mono_1.jpg?v=1709122359",
+          "altText": "Light Mono - Position 1 Front View"
+        }
+      },
+      "content": "Light Mono - caramel mix\n\nDescription: short, classic, blonde, monofilament, caramel mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resize-525x700-_0003_ew_hp2018_Light_Mono_1.jpg?v=1709122359",
+        "altText": "Light Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679733051627",
+      "title": "mia mono - champagne mix",
+      "descriptor": "short, classic, blonde, monofilament, champagne mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "479.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/mia_mono_1_70ad5fef-10f2-4569-a5d3-743a62a4d183.jpg?v=1709122368",
+          "altText": "mia mono - Position 1 Front View"
+        }
+      },
+      "content": "mia mono - champagne mix\n\nDescription: short, classic, blonde, monofilament, champagne mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/mia_mono_1_70ad5fef-10f2-4569-a5d3-743a62a4d183.jpg?v=1709122368",
+        "altText": "mia mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679376666859",
+      "title": "Tiffany Petite Mono - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tiffany_20LS_827303f3-70ad-4191-bc3a-ac9192869c7b.webp?v=1709121858",
+          "altText": "Tiffany Petite Mono - Position 1 Front View"
+        }
+      },
+      "content": "Tiffany Petite Mono - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tiffany_20LS_827303f3-70ad-4191-bc3a-ac9192869c7b.webp?v=1709121858",
+        "altText": "Tiffany Petite Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679382106347",
+      "title": "Kris - honey brown",
+      "descriptor": "short, classic, blonde, monofilament, honey brown",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "704.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "honey brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kris-Golden-Wheat1067.jpg?v=1744140429",
+          "altText": "Kris - Position 1 Front View"
+        }
+      },
+      "content": "Kris - honey brown\n\nDescription: short, classic, blonde, monofilament, honey brown\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kris-Golden-Wheat1067.jpg?v=1744140429",
+        "altText": "Kris - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679385514219",
+      "title": "Kitana - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kitana.jpg?v=1744992856",
+          "altText": "Kitana - Position 1 Front View"
+        }
+      },
+      "content": "Kitana - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Kitana.jpg?v=1744992856",
+        "altText": "Kitana - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679408484587",
+      "title": "UPPER CUT - GL29-31 rusty auburn",
+      "descriptor": "short, classic, wavy, blonde, monofilament, GL29-31 rusty auburn",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "186.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL29-31 rusty auburn"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/upper.jpg?v=1709121886",
+          "altText": "UPPER CUT - Position 1 Front View"
+        }
+      },
+      "content": "UPPER CUT - GL29-31 rusty auburn\n\nDescription: short, classic, wavy, blonde, monofilament, GL29-31 rusty auburn\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/upper.jpg?v=1709121886",
+        "altText": "UPPER CUT - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679458029803",
+      "title": "Jolie - auburn sugar rooted",
+      "descriptor": "short, classic, blonde, monofilament, auburn sugar rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "374.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn sugar rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jolie-Kahlua-Blast2884-scaled.jpg?v=1744750849",
+          "altText": "Jolie - Position 1 Front View"
+        }
+      },
+      "content": "Jolie - auburn sugar rooted\n\nDescription: short, classic, blonde, monofilament, auburn sugar rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jolie-Kahlua-Blast2884-scaled.jpg?v=1744750849",
+        "altText": "Jolie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679465992427",
+      "title": "pretty in page - R10 chestnut",
+      "descriptor": "short, classic, blonde, monofilament, R10 chestnut",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "157.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R10 chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/KIDZ-PrettyInPage-Model-Front4.jpg?v=1709121918",
+          "altText": "pretty in page - Position 1 Front View"
+        }
+      },
+      "content": "pretty in page - R10 chestnut\n\nDescription: short, classic, blonde, monofilament, R10 chestnut\n\nBrand: HairDo\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/KIDZ-PrettyInPage-Model-Front4.jpg?v=1709121918",
+        "altText": "pretty in page - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679471890667",
+      "title": "Fenja - auburn mix",
+      "descriptor": "short, classic, blonde, monofilament, auburn mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "334.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "auburn mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fenja_1-1.jpg?v=1709121921",
+          "altText": "Fenja - Position 1 Front View"
+        }
+      },
+      "content": "Fenja - auburn mix\n\nDescription: short, classic, blonde, monofilament, auburn mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fenja_1-1.jpg?v=1709121921",
+        "altText": "Fenja - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679763886315",
+      "title": "Haley - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Haley.jpg?v=1744639621",
+          "altText": "Haley - Position 1 Front View"
+        }
+      },
+      "content": "Haley - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Haley.jpg?v=1744639621",
+        "altText": "Haley - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679770374379",
+      "title": "Jane - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "418.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jane-Lighter-Red-2335-OL.jpg?v=1744645545",
+          "altText": "Jane - Position 1 Front View"
+        }
+      },
+      "content": "Jane - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Jane-Lighter-Red-2335-OL.jpg?v=1744645545",
+        "altText": "Jane - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679842234603",
+      "title": "Shyla - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1276.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Shyla.jpg?v=1744627078",
+          "altText": "Shyla - Position 1 Front View"
+        }
+      },
+      "content": "Shyla - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Shyla.jpg?v=1744627078",
+        "altText": "Shyla - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679870152939",
+      "title": "Erika - copper glaze",
+      "descriptor": "short, classic, blonde, monofilament, copper glaze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "333.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "copper glaze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Erika-Strawberry-Swirl6731-scaled.jpg?v=1744029599",
+          "altText": "Erika - Position 1 Front View"
+        }
+      },
+      "content": "Erika - copper glaze\n\nDescription: short, classic, blonde, monofilament, copper glaze\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Erika-Strawberry-Swirl6731-scaled.jpg?v=1744029599",
+        "altText": "Erika - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679940636907",
+      "title": "becky - mochaccino rooted",
+      "descriptor": "short, classic, blonde, monofilament, mochaccino rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "285.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "mochaccino rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1025_Becky_Coffee-Latte-tif_a49b0da4-3f60-4bd5-ab75-f43bd396f7fc.jpg?v=1709122671",
+          "altText": "becky - Position 1 Front View"
+        }
+      },
+      "content": "becky - mochaccino rooted\n\nDescription: short, classic, blonde, monofilament, mochaccino rooted\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1025_Becky_Coffee-Latte-tif_a49b0da4-3f60-4bd5-ab75-f43bd396f7fc.jpg?v=1709122671",
+        "altText": "becky - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679962951915",
+      "title": "astrid - spring honey rooted",
+      "descriptor": "short, classic, blonde, monofilament, spring honey rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "290.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "spring honey rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1026_Astrid_60_2-scaled.jpg?v=1744134842",
+          "altText": "astrid - Position 1 Front View"
+        }
+      },
+      "content": "astrid - spring honey rooted\n\nDescription: short, classic, blonde, monofilament, spring honey rooted\n\nBrand: Alexander Couture\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1026_Astrid_60_2-scaled.jpg?v=1744134842",
+        "altText": "astrid - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679965933803",
+      "title": "Savannah - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "342.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Savannah.jpg?v=1709122711",
+          "altText": "Savannah - Position 1 Front View"
+        }
+      },
+      "content": "Savannah - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Savannah.jpg?v=1709122711",
+        "altText": "Savannah - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44679992967403",
+      "title": "Miley - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "213.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Miley.jpg?v=1709122759",
+          "altText": "Miley - Position 1 Front View"
+        }
+      },
+      "content": "Miley - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Miley.jpg?v=1709122759",
+        "altText": "Miley - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680040874219",
+      "title": "Influence Elite - RL19/23SS shaded biscuit",
+      "descriptor": "short, classic, blonde, monofilament, RL19/23SS shaded biscuit",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "528.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL19/23SS shaded biscuit"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Influence-Elite-Model-Front-1.jpg?v=1709122833",
+          "altText": "Influence Elite - Position 1 Front View"
+        }
+      },
+      "content": "Influence Elite - RL19/23SS shaded biscuit\n\nDescription: short, classic, blonde, monofilament, RL19/23SS shaded biscuit\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Influence-Elite-Model-Front-1.jpg?v=1709122833",
+        "altText": "Influence Elite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680111227115",
+      "title": "Lulu - Auburn Sugar Rooted",
+      "descriptor": "short, classic, curly, blonde, monofilament, Auburn Sugar Rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "curly",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "311.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Auburn Sugar Rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/rp1691_10_lg_1500x_01c16f44-7a20-4733-ba9b-c2e3d6bf3f8c.jpg?v=1709122963",
+          "altText": "Lulu - Position 1 Front View"
+        }
+      },
+      "content": "Lulu - Auburn Sugar Rooted\n\nDescription: short, classic, curly, blonde, monofilament, Auburn Sugar Rooted\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"curly\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/rp1691_10_lg_1500x_01c16f44-7a20-4733-ba9b-c2e3d6bf3f8c.jpg?v=1709122963",
+        "altText": "Lulu - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680139145451",
+      "title": "Mono Wiglet 5 - r8-12 golden brown blended",
+      "descriptor": "short, classic, blonde, monofilament, r8-12 golden brown blended",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "158.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "r8-12 golden brown blended"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/monowiglet_1.jpg?v=1709123002",
+          "altText": "Mono Wiglet 5 - Position 1 Front View"
+        }
+      },
+      "content": "Mono Wiglet 5 - r8-12 golden brown blended\n\nDescription: short, classic, blonde, monofilament, r8-12 golden brown blended\n\nBrand: Estetica\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/monowiglet_1.jpg?v=1709123002",
+        "altText": "Mono Wiglet 5 - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680175321323",
+      "title": "scorpio part mono - ginger snap",
+      "descriptor": "short, classic, blonde, monofilament, ginger snap",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "221.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ginger snap"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Scorpio-PM-Coffee-Latte-R-19372_52607821-7f76-4e69-8444-5113ab3422da.jpg?v=1709123060",
+          "altText": "scorpio part mono - Position 1 Front View"
+        }
+      },
+      "content": "scorpio part mono - ginger snap\n\nDescription: short, classic, blonde, monofilament, ginger snap\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Scorpio-PM-Coffee-Latte-R-19372_52607821-7f76-4e69-8444-5113ab3422da.jpg?v=1709123060",
+        "altText": "scorpio part mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680201732331",
+      "title": "codi xo - honey wheat",
+      "descriptor": "short, classic, blonde, monofilament, honey wheat",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "410.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "honey wheat"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Codi-XO-Dark-Chocolate6810-scaled.jpg?v=1744031178",
+          "altText": "codi xo - Position 1 Front View"
+        }
+      },
+      "content": "codi xo - honey wheat\n\nDescription: short, classic, blonde, monofilament, honey wheat\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Codi-XO-Dark-Chocolate6810-scaled.jpg?v=1744031178",
+        "altText": "codi xo - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680209629419",
+      "title": "Connie - 60",
+      "descriptor": "short, classic, blonde, monofilament, 60",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "318.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "60"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Connie-Silver-Mink6617-scaled_a2ce9563-b6a0-4bc3-bf66-45a587139313.jpg?v=1709123115",
+          "altText": "Connie - Position 1 Front View"
+        }
+      },
+      "content": "Connie - 60\n\nDescription: short, classic, blonde, monofilament, 60\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Connie-Silver-Mink6617-scaled_a2ce9563-b6a0-4bc3-bf66-45a587139313.jpg?v=1709123115",
+        "altText": "Connie - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680262844651",
+      "title": "pixie perfect - GL8-29 hazelnut",
+      "descriptor": "short, classic, blonde, monofilament, GL8-29 hazelnut",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "186.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "GL8-29 hazelnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-PixiePerfect-Model-Front1.jpg?v=1709123207",
+          "altText": "pixie perfect - Position 1 Front View"
+        }
+      },
+      "content": "pixie perfect - GL8-29 hazelnut\n\nDescription: short, classic, blonde, monofilament, GL8-29 hazelnut\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-PixiePerfect-Model-Front1.jpg?v=1709123207",
+        "altText": "pixie perfect - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680289485035",
+      "title": "Incentive - 511C sugared charcoal",
+      "descriptor": "short, classic, blonde, monofilament, 511C sugared charcoal",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "511C sugared charcoal"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive_evagabor.jpg?v=1709123254",
+          "altText": "Incentive - Position 1 Front View"
+        }
+      },
+      "content": "Incentive - 511C sugared charcoal\n\nDescription: short, classic, blonde, monofilament, 511C sugared charcoal\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive_evagabor.jpg?v=1709123254",
+        "altText": "Incentive - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680294957291",
+      "title": "Casey - toasted brown",
+      "descriptor": "short, classic, wavy, blonde, monofilament, toasted brown",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "424.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "toasted brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/CaseyMochaccinoR3.jpg?v=1709123260",
+          "altText": "Casey - Position 1 Front View"
+        }
+      },
+      "content": "Casey - toasted brown\n\nDescription: short, classic, wavy, blonde, monofilament, toasted brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/CaseyMochaccinoR3.jpg?v=1709123260",
+        "altText": "Casey - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680358559979",
+      "title": "TANGO - R6/30H chocolate copper",
+      "descriptor": "short, classic, wavy, blonde, monofilament, R6/30H chocolate copper",
+      "attrs": {
+        "length": "short",
+        "texture": "wavy",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "374.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R6/30H chocolate copper"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Tango-Model-Front1.jpg?v=1709123376",
+          "altText": "TANGO - Position 1 Front View"
+        }
+      },
+      "content": "TANGO - R6/30H chocolate copper\n\nDescription: short, classic, wavy, blonde, monofilament, R6/30H chocolate copper\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"wavy\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-Tango-Model-Front1.jpg?v=1709123376",
+        "altText": "TANGO - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680393621739",
+      "title": "Avola Mono Part - bernstein shad",
+      "descriptor": "short, classic, blonde, monofilament, bernstein shad",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "215.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "bernstein shad"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at4.12.15pm.png?v=1709123442",
+          "altText": "Avola Mono Part - Position 1 Front View"
+        }
+      },
+      "content": "Avola Mono Part - bernstein shad\n\nDescription: short, classic, blonde, monofilament, bernstein shad\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at4.12.15pm.png?v=1709123442",
+        "altText": "Avola Mono Part - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680411775211",
+      "title": "portia petite - sepia",
+      "descriptor": "short, classic, blonde, monofilament, sepia",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "221.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "sepia"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5022-Petitie-Portia-Chestnut.jpg?v=1709123472",
+          "altText": "portia petite - Position 1 Front View"
+        }
+      },
+      "content": "portia petite - sepia\n\nDescription: short, classic, blonde, monofilament, sepia\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5022-Petitie-Portia-Chestnut.jpg?v=1709123472",
+        "altText": "portia petite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680421245163",
+      "title": "Tandi - Almond Breeze",
+      "descriptor": "short, classic, blonde, monofilament, Almond Breeze",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "391.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Almond Breeze"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Tandi.jpg?v=1709123490",
+          "altText": "Tandi - Position 1 Front View"
+        }
+      },
+      "content": "Tandi - Almond Breeze\n\nDescription: short, classic, blonde, monofilament, Almond Breeze\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Tandi.jpg?v=1709123490",
+        "altText": "Tandi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680484225259",
+      "title": "human hair bang - R14/88H golden wheat hh",
+      "descriptor": "short, classic, blonde, monofilament, R14/88H golden wheat hh",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "348.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "R14/88H golden wheat hh"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Human-Hair-Bang-Model-Front-1-scaled.jpg?v=1744727867",
+          "altText": "human hair bang - Position 1 Front View"
+        }
+      },
+      "content": "human hair bang - R14/88H golden wheat hh\n\nDescription: short, classic, blonde, monofilament, R14/88H golden wheat hh\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/RW-Human-Hair-Bang-Model-Front-1-scaled.jpg?v=1744727867",
+        "altText": "human hair bang - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680501068011",
+      "title": "Fun - champagne rooted",
+      "descriptor": "short, classic, blonde, monofilament, champagne rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "208.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "champagne rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at5.34.37pm.jpg?v=1709123649",
+          "altText": "Fun - Position 1 Front View"
+        }
+      },
+      "content": "Fun - champagne rooted\n\nDescription: short, classic, blonde, monofilament, champagne rooted\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ScreenShot2022-09-27at5.34.37pm.jpg?v=1709123649",
+        "altText": "Fun - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680512766187",
+      "title": "Jazz Mono - 10/22tt almond biscuit",
+      "descriptor": "short, classic, blonde, monofilament, 10/22tt almond biscuit",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "351.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10/22tt almond biscuit"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jazz_6F27_Main.png?v=1709123669",
+          "altText": "Jazz Mono - Position 1 Front View"
+        }
+      },
+      "content": "Jazz Mono - 10/22tt almond biscuit\n\nDescription: short, classic, blonde, monofilament, 10/22tt almond biscuit\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Jazz_6F27_Main.png?v=1709123669",
+        "altText": "Jazz Mono - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680520663275",
+      "title": "codi - creamy toffee rooted",
+      "descriptor": "short, classic, blonde, monofilament, creamy toffee rooted",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "330.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy toffee rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Codi-Iced-Mocha-R-scaled-e1713160696886.jpg?v=1744030687",
+          "altText": "codi - Position 1 Front View"
+        }
+      },
+      "content": "codi - creamy toffee rooted\n\nDescription: short, classic, blonde, monofilament, creamy toffee rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Codi-Iced-Mocha-R-scaled-e1713160696886.jpg?v=1744030687",
+        "altText": "codi - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680532295915",
+      "title": "robin petite - 4/27/30 brownie blondies",
+      "descriptor": "short, classic, blonde, monofilament, 4/27/30 brownie blondies",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "352.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4/27/30 brownie blondies"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/robin_12fs8_alt1.jpg?v=1709123692",
+          "altText": "robin petite - Position 1 Front View"
+        }
+      },
+      "content": "robin petite - 4/27/30 brownie blondies\n\nDescription: short, classic, blonde, monofilament, 4/27/30 brownie blondies\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/robin_12fs8_alt1.jpg?v=1709123692",
+        "altText": "robin petite - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680636891371",
+      "title": "Boudoir Glam - RL16/88 pale golden honey",
+      "descriptor": "short, classic, blonde, monofilament, RL16/88 pale golden honey",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "heat_friendly",
+        "style": "classic",
+        "price": "436.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "RL16/88 pale golden honey"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-BoudoirGlam-Model2-Front1.jpg?v=1709123880",
+          "altText": "Boudoir Glam - Position 1 Front View"
+        }
+      },
+      "content": "Boudoir Glam - RL16/88 pale golden honey\n\nDescription: short, classic, blonde, monofilament, RL16/88 pale golden honey\n\nBrand: Raquel Welch\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"heat_friendly\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/RW-BoudoirGlam-Model2-Front1.jpg?v=1709123880",
+        "altText": "Boudoir Glam - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680661008619",
+      "title": "TOP FORM 8 HUMAN HAIR - 14/24 creme soda",
+      "descriptor": "short, classic, blonde, monofilament, 14/24 creme soda",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "1004.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/24 creme soda"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Top-Form-6in-to-8in-12FS8_main_37150f9d-2fdb-412b-a051-7930a966ed12.jpg?v=1709123926",
+          "altText": "TOP FORM 8 HUMAN HAIR - Position 1 Front View"
+        }
+      },
+      "content": "TOP FORM 8 HUMAN HAIR - 14/24 creme soda\n\nDescription: short, classic, blonde, monofilament, 14/24 creme soda\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Top-Form-6in-to-8in-12FS8_main_37150f9d-2fdb-412b-a051-7930a966ed12.jpg?v=1709123926",
+        "altText": "TOP FORM 8 HUMAN HAIR - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680665006315",
+      "title": "VALENTINA - praline & cream",
+      "descriptor": "short, classic, blonde, monofilament, praline & cream",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "446.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "praline & cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Valentina-Sugar-Cookie-19097.jpg?v=1709123930",
+          "altText": "VALENTINA - Position 1 Front View"
+        }
+      },
+      "content": "VALENTINA - praline & cream\n\nDescription: short, classic, blonde, monofilament, praline & cream\n\nBrand: Orchid Collection\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Valentina-Sugar-Cookie-19097.jpg?v=1709123930",
+        "altText": "VALENTINA - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680671985899",
+      "title": "Pixie TP - coffee latte",
+      "descriptor": "short, classic, blonde, monofilament, coffee latte",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "279.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "coffee latte"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/PixieTPMonoSilverStone6266.jpg?v=1709123940",
+          "altText": "Pixie TP - Position 1 Front View"
+        }
+      },
+      "content": "Pixie TP - coffee latte\n\nDescription: short, classic, blonde, monofilament, coffee latte\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/PixieTPMonoSilverStone6266.jpg?v=1709123940",
+        "altText": "Pixie TP - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680703377643",
+      "title": "Fresh - hazelnut mix",
+      "descriptor": "short, classic, blonde, monofilament, hazelnut mix",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "petite",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "390.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "hazelnut mix"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fresh_1.jpg?v=1709123988",
+          "altText": "Fresh - Position 1 Front View"
+        }
+      },
+      "content": "Fresh - hazelnut mix\n\nDescription: short, classic, blonde, monofilament, hazelnut mix\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"petite\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/fresh_1.jpg?v=1709123988",
+        "altText": "Fresh - Position 1 Front View"
+      }
+    },
+    {
+      "id": "44680819572971",
+      "title": "ryan - strawberry swirl",
+      "descriptor": "short, classic, blonde, monofilament, strawberry swirl",
+      "attrs": {
+        "length": "short",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "light",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "377.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "strawberry swirl"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1653-Ryan-Chocolate-Swril_83805172-f848-4bdd-96c8-00837fd30d96.jpg?v=1709124161",
+          "altText": "ryan - Position 1 Front View"
+        }
+      },
+      "content": "ryan - strawberry swirl\n\nDescription: short, classic, blonde, monofilament, strawberry swirl\n\nBrand: Noriko\n\nAttributes: {\n  \"length\": \"short\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"light\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1653-Ryan-Chocolate-Swril_83805172-f848-4bdd-96c8-00837fd30d96.jpg?v=1709124161",
+        "altText": "ryan - Position 1 Front View"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1454 @@
+{
+  "metadata": {
+    "color": "black",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "basic",
+    "totalVariants": 50,
+    "filename": "black_medium_classic_basic.json",
+    "generated_at": "2025-09-24T16:06:50.006Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679508558059",
+      "title": "The Softie - tcs Black",
+      "descriptor": "medium, classic, black, tcs Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "tcs Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/th2_ba8e062c-0d47-497c-a798-6dd0ae1754e2.jpg?v=1709121948",
+          "altText": "The Softie - tcs Black"
+        }
+      },
+      "content": "The Softie - tcs Black\n\nDescription: medium, classic, black, tcs Black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/th2_ba8e062c-0d47-497c-a798-6dd0ae1754e2.jpg?v=1709121948",
+        "altText": "The Softie - tcs Black"
+      }
+    },
+    {
+      "id": "44679538442475",
+      "title": "Tiffany Large - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20LS_023e7083-26e4-4206-a460-3ecfdd9dc62f.webp?v=1709122003",
+          "altText": "Tiffany Large - Black"
+        }
+      },
+      "content": "Tiffany Large - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/3_20Tiffany_20LS_023e7083-26e4-4206-a460-3ecfdd9dc62f.webp?v=1709122003",
+        "altText": "Tiffany Large - Black"
+      }
+    },
+    {
+      "id": "44679553614059",
+      "title": "Jolie - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "196.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Jolie_20LS.webp?v=1709122031",
+          "altText": "Jolie - Black"
+        }
+      },
+      "content": "Jolie - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Jolie_20LS.webp?v=1709122031",
+        "altText": "Jolie - Black"
+      }
+    },
+    {
+      "id": "44679560429803",
+      "title": "Flip-Flip Hooray Topper - Black",
+      "descriptor": "medium, classic, wavy, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "wavy",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "186.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flip-Flop-Hooray-Medium-Blonde-OL.webp?v=1709122046",
+          "altText": "Flip-Flip Hooray Topper - Black"
+        }
+      },
+      "content": "Flip-Flip Hooray Topper - Black\n\nDescription: medium, classic, wavy, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"wavy\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Flip-Flop-Hooray-Medium-Blonde-OL.webp?v=1709122046",
+        "altText": "Flip-Flip Hooray Topper - Black"
+      }
+    },
+    {
+      "id": "44679567999211",
+      "title": "Angel - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "130.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Angel_20RS.webp?v=1744639389",
+          "altText": "Angel - Black"
+        }
+      },
+      "content": "Angel - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Angel_20RS.webp?v=1744639389",
+        "altText": "Angel - Black"
+      }
+    },
+    {
+      "id": "44679571767531",
+      "title": "Kelsey - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "171.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kelsey_20LS.webp?v=1744542195",
+          "altText": "Kelsey - Black"
+        }
+      },
+      "content": "Kelsey - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kelsey_20LS.webp?v=1744542195",
+        "altText": "Kelsey - Black"
+      }
+    },
+    {
+      "id": "44679590740203",
+      "title": "Alyssa Petite - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "132.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Alyssa_20RS_5217dd2a-7298-4338-abf2-a9cf79464b21.jpg?v=1744630679",
+          "altText": "Alyssa Petite - Black"
+        }
+      },
+      "content": "Alyssa Petite - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Alyssa_20RS_5217dd2a-7298-4338-abf2-a9cf79464b21.jpg?v=1744630679",
+        "altText": "Alyssa Petite - Black"
+      }
+    },
+    {
+      "id": "44679605518571",
+      "title": "EASIPART HD 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "258.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASIPART HD 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679611646187",
+      "title": "cotton wig liner - black liner",
+      "descriptor": "medium, classic, black, black liner",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "8.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black liner"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrcwl_02_lg_7972c668-9044-4f0f-8f80-0897ac6056e7.jpg?v=1709122142",
+          "altText": "cotton wig liner - black liner"
+        }
+      },
+      "content": "cotton wig liner - black liner\n\nDescription: medium, classic, black, black liner\n\nBrand: Chiquel\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jrcwl_02_lg_7972c668-9044-4f0f-8f80-0897ac6056e7.jpg?v=1709122142",
+        "altText": "cotton wig liner - black liner"
+      }
+    },
+    {
+      "id": "44679612236011",
+      "title": "Namida - nt black",
+      "descriptor": "medium, classic, black, nt black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "nt black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/muetze-namida-1_2.jpg?v=1744385814",
+          "altText": "Namida - nt black"
+        }
+      },
+      "content": "Namida - nt black\n\nDescription: medium, classic, black, nt black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/muetze-namida-1_2.jpg?v=1744385814",
+        "altText": "Namida - nt black"
+      }
+    },
+    {
+      "id": "44679635632363",
+      "title": "Ophelia - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "562.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Ophelia_20LS.webp?v=1744631048",
+          "altText": "Ophelia - Black"
+        }
+      },
+      "content": "Ophelia - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Ophelia_20LS.webp?v=1744631048",
+        "altText": "Ophelia - Black"
+      }
+    },
+    {
+      "id": "44679645495531",
+      "title": "Zoya Turban - Black Iris 555",
+      "descriptor": "medium, classic, black, Black Iris 555",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "45.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black Iris 555"
+          }
+        ]
+      },
+      "content": "Zoya Turban - Black Iris 555\n\nDescription: medium, classic, black, Black Iris 555\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679679508715",
+      "title": "Kaitlyn - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "164.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kaitlyn_20LS.webp?v=1744646504",
+          "altText": "Kaitlyn - Black"
+        }
+      },
+      "content": "Kaitlyn - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kaitlyn_20LS.webp?v=1744646504",
+        "altText": "Kaitlyn - Black"
+      }
+    },
+    {
+      "id": "44679697924331",
+      "title": "Shari - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "134.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Shari_20RS.webp?v=1744626330",
+          "altText": "Shari - Black"
+        }
+      },
+      "content": "Shari - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Shari_20RS.webp?v=1744626330",
+        "altText": "Shari - Black"
+      }
+    },
+    {
+      "id": "44679702708459",
+      "title": "Bryn - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "132.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Bryn_20LS.webp?v=1744642811",
+          "altText": "Bryn - Black"
+        }
+      },
+      "content": "Bryn - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Bryn_20LS.webp?v=1744642811",
+        "altText": "Bryn - Black"
+      }
+    },
+    {
+      "id": "44679719551211",
+      "title": "Sonia - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "178.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sonia_DarkBlonde-1598.jpg?v=1744643502",
+          "altText": "Sonia - Black"
+        }
+      },
+      "content": "Sonia - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Sonia_DarkBlonde-1598.jpg?v=1744643502",
+        "altText": "Sonia - Black"
+      }
+    },
+    {
+      "id": "44679721353451",
+      "title": "Magena - mt black",
+      "descriptor": "medium, classic, black, mt black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "48.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "mt black"
+          }
+        ]
+      },
+      "content": "Magena - mt black\n\nDescription: medium, classic, black, mt black\n\nBrand: Ellen Wille\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679736426731",
+      "title": "Tiffany - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "187.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Tiffany_20LS.webp?v=1709122375",
+          "altText": "Tiffany - Black"
+        }
+      },
+      "content": "Tiffany - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Tiffany_20LS.webp?v=1709122375",
+        "altText": "Tiffany - Black"
+      }
+    },
+    {
+      "id": "44679739408619",
+      "title": "Kate - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "187.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kate_LighterRed-1800.jpg?v=1744637983",
+          "altText": "Kate - Black"
+        }
+      },
+      "content": "Kate - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kate_LighterRed-1800.jpg?v=1744637983",
+        "altText": "Kate - Black"
+      }
+    },
+    {
+      "id": "44679364444395",
+      "title": "Simple Softie - TCS black",
+      "descriptor": "medium, classic, black, TCS black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "TCS black"
+          }
+        ]
+      },
+      "content": "Simple Softie - TCS black\n\nDescription: medium, classic, black, TCS black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679366246635",
+      "title": "Softie Accent - softie black",
+      "descriptor": "medium, classic, black, softie black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "13.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "softie black"
+          }
+        ]
+      },
+      "content": "Softie Accent - softie black\n\nDescription: medium, classic, black, softie black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679398293739",
+      "title": "elite - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "157.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "elite - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679401603307",
+      "title": "provocative - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "51.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "provocative - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: EasiHair\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679415759083",
+      "title": "TOP LEVEL SYNTHETIC - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "277.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP LEVEL SYNTHETIC - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679412285675",
+      "title": "MARIAH - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "210.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mariah_12FS12_Main.jpg?v=1709121888",
+          "altText": "MARIAH - 1b hot fudge"
+        }
+      },
+      "content": "MARIAH - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Mariah_12FS12_Main.jpg?v=1709121888",
+        "altText": "MARIAH - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44679417692395",
+      "title": "Anna Tube - Black Iris 555",
+      "descriptor": "medium, classic, black, Black Iris 555",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "45.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black Iris 555"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Anna-Tube-Vintage-Khaki1-scaled.jpg?v=1709121891",
+          "altText": "Anna Tube - Black Iris 555"
+        }
+      },
+      "content": "Anna Tube - Black Iris 555\n\nDescription: medium, classic, black, Black Iris 555\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Anna-Tube-Vintage-Khaki1-scaled.jpg?v=1709121891",
+        "altText": "Anna Tube - Black Iris 555"
+      }
+    },
+    {
+      "id": "44679424737515",
+      "title": "Shari Large - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "134.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Shari_20LS_31bd4048-a81b-48b9-803b-f6da39be5c4c.webp?v=1744994724",
+          "altText": "Shari Large - Black"
+        }
+      },
+      "content": "Shari Large - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Shari_20LS_31bd4048-a81b-48b9-803b-f6da39be5c4c.webp?v=1744994724",
+        "altText": "Shari Large - Black"
+      }
+    },
+    {
+      "id": "44679434436843",
+      "title": "hat magic 10 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "90.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "hat magic 10 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679446692075",
+      "title": "allure - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "154.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "allure - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679748583659",
+      "title": "Scarlett - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "133.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Scarlett_20Butterscotch_20Shadow-7820.jpg?v=1709122393",
+          "altText": "Scarlett - Black"
+        }
+      },
+      "content": "Scarlett - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Scarlett_20Butterscotch_20Shadow-7820.jpg?v=1709122393",
+        "altText": "Scarlett - Black"
+      }
+    },
+    {
+      "id": "44679769325803",
+      "title": "Elegant Softie - TCS black",
+      "descriptor": "medium, classic, black, TCS black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "31.00",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "TCS black"
+          }
+        ]
+      },
+      "content": "Elegant Softie - TCS black\n\nDescription: medium, classic, black, TCS black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679777943787",
+      "title": "SIMPLICITY PETITE - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "147.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "SIMPLICITY PETITE - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679794458859",
+      "title": "Playful Softie - black stripe",
+      "descriptor": "medium, classic, black, black stripe",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "25.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "black stripe"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/playful-softie-plum-2.jpg?v=1709122469",
+          "altText": "Playful Softie - black stripe"
+        }
+      },
+      "content": "Playful Softie - black stripe\n\nDescription: medium, classic, black, black stripe\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/playful-softie-plum-2.jpg?v=1709122469",
+        "altText": "Playful Softie - black stripe"
+      }
+    },
+    {
+      "id": "44679832895723",
+      "title": "Ivy - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "165.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Ivy_20RS.webp?v=1744636989",
+          "altText": "Ivy - Black"
+        }
+      },
+      "content": "Ivy - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Ivy_20RS.webp?v=1744636989",
+        "altText": "Ivy - Black"
+      }
+    },
+    {
+      "id": "44679837876459",
+      "title": "angelique large - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "189.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "angelique large - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679847117035",
+      "title": "Softie Wrap Solid - SW black",
+      "descriptor": "medium, classic, black, SW black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "38.00",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "SW black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sbs_a530139c-fd47-498c-b5e7-1b3b7b97f139.jpg?v=1709122539",
+          "altText": "Softie Wrap Solid - SW black"
+        }
+      },
+      "content": "Softie Wrap Solid - SW black\n\nDescription: medium, classic, black, SW black\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/sbs_a530139c-fd47-498c-b5e7-1b3b7b97f139.jpg?v=1709122539",
+        "altText": "Softie Wrap Solid - SW black"
+      }
+    },
+    {
+      "id": "44679848394987",
+      "title": "EASIPART XL HH 8 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1144.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASIPART XL HH 8 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679855243499",
+      "title": "EASICROWN HH 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1064.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASICROWN HH 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679867203819",
+      "title": "EASICROWN HH 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "714.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASICROWN HH 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679865270507",
+      "title": "Crush - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "41.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "Crush - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: EasiHair\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679890862315",
+      "title": "TOP FULL 12 SYNTHETIC - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "406.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP FULL 12 SYNTHETIC - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679895777515",
+      "title": "EASIPART XL HH 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1824.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASIPART XL HH 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679911899371",
+      "title": "EASIPART HD XL 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "297.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jreasipartxl_12fs8_bottom_18_lg_2.jpg?v=1709122633",
+          "altText": "EASIPART HD XL 18 - 1b hot fudge"
+        }
+      },
+      "content": "EASIPART HD XL 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jreasipartxl_12fs8_bottom_18_lg_2.jpg?v=1709122633",
+        "altText": "EASIPART HD XL 18 - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44679925367019",
+      "title": "Aria - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "585.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Aria_20LS.webp?v=1744634992",
+          "altText": "Aria - Black"
+        }
+      },
+      "content": "Aria - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Aria_20LS.webp?v=1744634992",
+        "altText": "Aria - Black"
+      }
+    },
+    {
+      "id": "44679945322731",
+      "title": "Nelly V  Braided Turban - Blue/Black 674",
+      "descriptor": "medium, classic, black, Blue/Black 674",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "57.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Blue/Black 674"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1470-0673.webp?v=1744038042",
+          "altText": "Nelly V  Braided Turban - Blue/Black 674"
+        }
+      },
+      "content": "Nelly V  Braided Turban - Blue/Black 674\n\nDescription: medium, classic, black, Blue/Black 674\n\nBrand: Christine Headwear\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/1470-0673.webp?v=1744038042",
+        "altText": "Nelly V  Braided Turban - Blue/Black 674"
+      }
+    },
+    {
+      "id": "44679942897899",
+      "title": "EASICROWN HD 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "253.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easicrown_coverage_3__31205.1722386447.jpg?v=1744977742",
+          "altText": "EASICROWN HD 18 - 1b hot fudge"
+        }
+      },
+      "content": "EASICROWN HD 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/easicrown_coverage_3__31205.1722386447.jpg?v=1744977742",
+        "altText": "EASICROWN HD 18 - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44679981891819",
+      "title": "Scarlett Petite - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "133.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Scarlett_20LS_f43e0f34-5622-4a72-a00a-eac4b5ea0cf0.webp?v=1709122743",
+          "altText": "Scarlett Petite - Black"
+        }
+      },
+      "content": "Scarlett Petite - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Scarlett_20LS_f43e0f34-5622-4a72-a00a-eac4b5ea0cf0.webp?v=1709122743",
+        "altText": "Scarlett Petite - Black"
+      }
+    },
+    {
+      "id": "44679986020587",
+      "title": "TOP CROWN - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "255.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP CROWN - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680072757483",
+      "title": "EASIPART HD XL 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "268.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/iGxuWhgw.jpg?v=1709122891",
+          "altText": "EASIPART HD XL 12 - 1b hot fudge"
+        }
+      },
+      "content": "EASIPART HD XL 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/iGxuWhgw.jpg?v=1709122891",
+        "altText": "EASIPART HD XL 12 - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680090681579",
+      "title": "Penelope - Black",
+      "descriptor": "medium, classic, black, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "basic",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "131.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Pt.Penelope_20LS_10f5e112-98f7-4aa4-849f-f2f87152a8c2.webp?v=1709122923",
+          "altText": "Penelope - Black"
+        }
+      },
+      "content": "Penelope - Black\n\nDescription: medium, classic, blonde, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"basic\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Pt.Penelope_20LS_10f5e112-98f7-4aa4-849f-f2f87152a8c2.webp?v=1709122923",
+        "altText": "Penelope - Black"
+      }
+    }
+  ]
+}

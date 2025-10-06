@@ -1,0 +1,1414 @@
+{
+  "metadata": {
+    "color": "blonde",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "monofilament",
+    "totalVariants": 50,
+    "filename": "blonde_medium_classic_monofilament.json",
+    "generated_at": "2025-09-24T16:06:50.003Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679489061099",
+      "title": "Kylie - Amaretto & Cream",
+      "descriptor": "medium, classic, blonde, monofilament, Amaretto & Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Amaretto & Cream"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kylie2.jpg?v=1744634501",
+          "altText": "Kylie - Amaretto & Cream"
+        }
+      },
+      "content": "Kylie - Amaretto & Cream\n\nDescription: medium, classic, blonde, monofilament, Amaretto & Cream\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Kylie2.jpg?v=1744634501",
+        "altText": "Kylie - Amaretto & Cream"
+      }
+    },
+    {
+      "id": "44679489159403",
+      "title": "Kylie - Chocolate Caramel",
+      "descriptor": "medium, classic, blonde, monofilament, Chocolate Caramel",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chocolate Caramel"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy-Wigs-Kylie-Creamed-Coffee-Side.jpg?v=1744634501",
+          "altText": "Kylie - Chocolate Caramel"
+        }
+      },
+      "content": "Kylie - Chocolate Caramel\n\nDescription: medium, classic, blonde, monofilament, Chocolate Caramel\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy-Wigs-Kylie-Creamed-Coffee-Side.jpg?v=1744634501",
+        "altText": "Kylie - Chocolate Caramel"
+      }
+    },
+    {
+      "id": "44679489224939",
+      "title": "Kylie - Chocolate Cherry",
+      "descriptor": "medium, classic, blonde, monofilament, Chocolate Cherry",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Chocolate Cherry"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5_20Kylie.webp?v=1744634227",
+          "altText": "Kylie - Chocolate Cherry"
+        }
+      },
+      "content": "Kylie - Chocolate Cherry\n\nDescription: medium, classic, blonde, monofilament, Chocolate Cherry\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5_20Kylie.webp?v=1744634227",
+        "altText": "Kylie - Chocolate Cherry"
+      }
+    },
+    {
+      "id": "44679489290475",
+      "title": "Kylie - Creamed Coffee",
+      "descriptor": "medium, classic, blonde, monofilament, Creamed Coffee",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Creamed Coffee"
+          }
+        ]
+      },
+      "content": "Kylie - Creamed Coffee\n\nDescription: medium, classic, blonde, monofilament, Creamed Coffee\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489421547",
+      "title": "Kylie - Dark Blonde",
+      "descriptor": "medium, classic, blonde, monofilament, Dark Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Blonde"
+          }
+        ]
+      },
+      "content": "Kylie - Dark Blonde\n\nDescription: medium, classic, blonde, monofilament, Dark Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489552619",
+      "title": "Kylie - Dark Red",
+      "descriptor": "medium, classic, blonde, monofilament, Dark Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Red"
+          }
+        ]
+      },
+      "content": "Kylie - Dark Red\n\nDescription: medium, classic, blonde, monofilament, Dark Red\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489585387",
+      "title": "Kylie - Frosted",
+      "descriptor": "medium, classic, blonde, monofilament, Frosted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Frosted"
+          }
+        ]
+      },
+      "content": "Kylie - Frosted\n\nDescription: medium, classic, blonde, monofilament, Frosted\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489650923",
+      "title": "Kylie - Ginger Cream",
+      "descriptor": "medium, classic, blonde, monofilament, Ginger Cream",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Ginger Cream"
+          }
+        ]
+      },
+      "content": "Kylie - Ginger Cream\n\nDescription: medium, classic, blonde, monofilament, Ginger Cream\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489716459",
+      "title": "Kylie - Golden Nutmeg",
+      "descriptor": "medium, classic, blonde, monofilament, Golden Nutmeg",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Golden Nutmeg"
+          }
+        ]
+      },
+      "content": "Kylie - Golden Nutmeg\n\nDescription: medium, classic, blonde, monofilament, Golden Nutmeg\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489781995",
+      "title": "Kylie - Light Blonde",
+      "descriptor": "medium, classic, blonde, monofilament, Light Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Blonde"
+          }
+        ]
+      },
+      "content": "Kylie - Light Blonde\n\nDescription: medium, classic, blonde, monofilament, Light Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489814763",
+      "title": "Kylie - Light Brown",
+      "descriptor": "medium, classic, blonde, monofilament, Light Brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Light Brown"
+          }
+        ]
+      },
+      "content": "Kylie - Light Brown\n\nDescription: medium, classic, blonde, monofilament, Light Brown\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489880299",
+      "title": "Kylie - Lighter Red",
+      "descriptor": "medium, classic, blonde, monofilament, Lighter Red",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Lighter Red"
+          }
+        ]
+      },
+      "content": "Kylie - Lighter Red\n\nDescription: medium, classic, blonde, monofilament, Lighter Red\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679489978603",
+      "title": "Kylie - Medium Blonde",
+      "descriptor": "medium, classic, blonde, monofilament, Medium Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Blonde"
+          }
+        ]
+      },
+      "content": "Kylie - Medium Blonde\n\nDescription: medium, classic, blonde, monofilament, Medium Blonde\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490273515",
+      "title": "Kylie - Sparkling Champagne",
+      "descriptor": "medium, classic, blonde, monofilament, Sparkling Champagne",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Sparkling Champagne"
+          }
+        ]
+      },
+      "content": "Kylie - Sparkling Champagne\n\nDescription: medium, classic, blonde, monofilament, Sparkling Champagne\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490306283",
+      "title": "Kylie - Toasted Sesame",
+      "descriptor": "medium, classic, blonde, monofilament, Toasted Sesame",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Toasted Sesame"
+          }
+        ]
+      },
+      "content": "Kylie - Toasted Sesame\n\nDescription: medium, classic, blonde, monofilament, Toasted Sesame\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490371819",
+      "title": "Kylie - Vanilla Butter",
+      "descriptor": "medium, classic, blonde, monofilament, Vanilla Butter",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Vanilla Butter"
+          }
+        ]
+      },
+      "content": "Kylie - Vanilla Butter\n\nDescription: medium, classic, blonde, monofilament, Vanilla Butter\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490437355",
+      "title": "Kylie - Dark Grey",
+      "descriptor": "medium, classic, blonde, monofilament, Dark Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Dark Grey"
+          }
+        ]
+      },
+      "content": "Kylie - Dark Grey\n\nDescription: medium, classic, blonde, monofilament, Dark Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679490568427",
+      "title": "Kylie - Medium Grey",
+      "descriptor": "medium, classic, blonde, monofilament, Medium Grey",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Medium Grey"
+          }
+        ]
+      },
+      "content": "Kylie - Medium Grey\n\nDescription: medium, classic, blonde, monofilament, Medium Grey\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504429291",
+      "title": "brandi - expresso",
+      "descriptor": "medium, classic, blonde, monofilament, expresso",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "expresso"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR7316_7b361c17-b48c-4482-a36f-886e97084159.jpg?v=1709121943",
+          "altText": "brandi - expresso"
+        }
+      },
+      "content": "brandi - expresso\n\nDescription: medium, classic, blonde, monofilament, expresso\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR7316_7b361c17-b48c-4482-a36f-886e97084159.jpg?v=1709121943",
+        "altText": "brandi - expresso"
+      }
+    },
+    {
+      "id": "44679504462059",
+      "title": "brandi - cappuccino",
+      "descriptor": "medium, classic, blonde, monofilament, cappuccino",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "cappuccino"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR13977_2eb53625-25ab-46a1-bbb0-d192fe581af0.jpg?v=1709121943",
+          "altText": "brandi - cappuccino"
+        }
+      },
+      "content": "brandi - cappuccino\n\nDescription: medium, classic, blonde, monofilament, cappuccino\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR13977_2eb53625-25ab-46a1-bbb0-d192fe581af0.jpg?v=1709121943",
+        "altText": "brandi - cappuccino"
+      }
+    },
+    {
+      "id": "44679504527595",
+      "title": "brandi - toasted brown",
+      "descriptor": "medium, classic, blonde, monofilament, toasted brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "toasted brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14003_95611365-5f58-41ee-b937-5d87c2de6250.jpg?v=1709121943",
+          "altText": "brandi - toasted brown"
+        }
+      },
+      "content": "brandi - toasted brown\n\nDescription: medium, classic, blonde, monofilament, toasted brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/BrandiCreamyToffeeR14003_95611365-5f58-41ee-b937-5d87c2de6250.jpg?v=1709121943",
+        "altText": "brandi - toasted brown"
+      }
+    },
+    {
+      "id": "44679504560363",
+      "title": "brandi - creamy blonde",
+      "descriptor": "medium, classic, blonde, monofilament, creamy blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy blonde"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2503-Brandi-MarbleBrown-LR_2_f2b69c70-5a5a-4724-8156-eb8b92546ff7.jpg?v=1709121943",
+          "altText": "brandi - creamy blonde"
+        }
+      },
+      "content": "brandi - creamy blonde\n\nDescription: medium, classic, blonde, monofilament, creamy blonde\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2503-Brandi-MarbleBrown-LR_2_f2b69c70-5a5a-4724-8156-eb8b92546ff7.jpg?v=1709121943",
+        "altText": "brandi - creamy blonde"
+      }
+    },
+    {
+      "id": "44679504625899",
+      "title": "brandi - creamy toffee rooted",
+      "descriptor": "medium, classic, blonde, monofilament, creamy toffee rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "creamy toffee rooted"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/brandiamoreside.jpg?v=1709121943",
+          "altText": "brandi - creamy toffee rooted"
+        }
+      },
+      "content": "brandi - creamy toffee rooted\n\nDescription: medium, classic, blonde, monofilament, creamy toffee rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/brandiamoreside.jpg?v=1709121943",
+        "altText": "brandi - creamy toffee rooted"
+      }
+    },
+    {
+      "id": "44679504658667",
+      "title": "brandi - ginger brown",
+      "descriptor": "medium, classic, blonde, monofilament, ginger brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "ginger brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/brandiamoreback.jpg?v=1709121943",
+          "altText": "brandi - ginger brown"
+        }
+      },
+      "content": "brandi - ginger brown\n\nDescription: medium, classic, blonde, monofilament, ginger brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/brandiamoreback.jpg?v=1709121943",
+        "altText": "brandi - ginger brown"
+      }
+    },
+    {
+      "id": "44679504724203",
+      "title": "brandi - chestnut",
+      "descriptor": "medium, classic, blonde, monofilament, chestnut",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "chestnut"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Amore-DoubleMono-side2_f88297dc-6d2b-4140-bfbb-20130e6eceb4.jpg?v=1709121943",
+          "altText": "brandi - chestnut"
+        }
+      },
+      "content": "brandi - chestnut\n\nDescription: medium, classic, blonde, monofilament, chestnut\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Amore-DoubleMono-side2_f88297dc-6d2b-4140-bfbb-20130e6eceb4.jpg?v=1709121943",
+        "altText": "brandi - chestnut"
+      }
+    },
+    {
+      "id": "44679504789739",
+      "title": "brandi - medium brown",
+      "descriptor": "medium, classic, blonde, monofilament, medium brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "medium brown"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Screenshot2023-06-27at9.25.42am_92c6d7a2-b081-4f21-b206-34e66071a9a4.png?v=1709121943",
+          "altText": "brandi - medium brown"
+        }
+      },
+      "content": "brandi - medium brown\n\nDescription: medium, classic, blonde, monofilament, medium brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Screenshot2023-06-27at9.25.42am_92c6d7a2-b081-4f21-b206-34e66071a9a4.png?v=1709121943",
+        "altText": "brandi - medium brown"
+      }
+    },
+    {
+      "id": "44679504822507",
+      "title": "brandi - gold blonde",
+      "descriptor": "medium, classic, blonde, monofilament, gold blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "gold blonde"
+          }
+        ]
+      },
+      "content": "brandi - gold blonde\n\nDescription: medium, classic, blonde, monofilament, gold blonde\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504888043",
+      "title": "brandi - marble brown",
+      "descriptor": "medium, classic, blonde, monofilament, marble brown",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marble brown"
+          }
+        ]
+      },
+      "content": "brandi - marble brown\n\nDescription: medium, classic, blonde, monofilament, marble brown\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504953579",
+      "title": "brandi - mocacchino-rooted",
+      "descriptor": "medium, classic, blonde, monofilament, mocacchino-rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "mocacchino-rooted"
+          }
+        ]
+      },
+      "content": "brandi - mocacchino-rooted\n\nDescription: medium, classic, blonde, monofilament, mocacchino-rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679504986347",
+      "title": "brandi - marble brown long rooted",
+      "descriptor": "medium, classic, blonde, monofilament, marble brown long rooted",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "355.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "marble brown long rooted"
+          }
+        ]
+      },
+      "content": "brandi - marble brown long rooted\n\nDescription: medium, classic, blonde, monofilament, marble brown long rooted\n\nBrand: Amore\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514357995",
+      "title": "Top Flex HH 12 - 14/24 Creme Soda",
+      "descriptor": "medium, classic, blonde, monofilament, 14/24 Creme Soda",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "human",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "14/24 Creme Soda"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_12FS8_Main__27358.1686955496.png?v=1745232499",
+          "altText": "Top Flex HH 12 - 14/24 Creme Soda"
+        }
+      },
+      "content": "Top Flex HH 12 - 14/24 Creme Soda\n\nDescription: medium, classic, blonde, monofilament, 14/24 Creme Soda\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"human\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_12FS8_Main__27358.1686955496.png?v=1745232499",
+        "altText": "Top Flex HH 12 - 14/24 Creme Soda"
+      }
+    },
+    {
+      "id": "44679514390763",
+      "title": "Top Flex HH 12 - 1B Hot Fudge",
+      "descriptor": "medium, classic, blonde, monofilament, 1B Hot Fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1B Hot Fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_1__68007.1686955496.png?v=1745232507",
+          "altText": "Top Flex HH 12 - 1B Hot Fudge"
+        }
+      },
+      "content": "Top Flex HH 12 - 1B Hot Fudge\n\nDescription: medium, classic, blonde, monofilament, 1B Hot Fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_1__68007.1686955496.png?v=1745232507",
+        "altText": "Top Flex HH 12 - 1B Hot Fudge"
+      }
+    },
+    {
+      "id": "44679514423531",
+      "title": "Top Flex HH 12 - 2 Chocolate Souffle",
+      "descriptor": "medium, classic, blonde, monofilament, 2 Chocolate Souffle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "2 Chocolate Souffle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_2__60460.1686955496.png?v=1745232512",
+          "altText": "Top Flex HH 12 - 2 Chocolate Souffle"
+        }
+      },
+      "content": "Top Flex HH 12 - 2 Chocolate Souffle\n\nDescription: medium, classic, blonde, monofilament, 2 Chocolate Souffle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_2__60460.1686955496.png?v=1745232512",
+        "altText": "Top Flex HH 12 - 2 Chocolate Souffle"
+      }
+    },
+    {
+      "id": "44679514456299",
+      "title": "Top Flex HH 12 - 4 Brownie Finale",
+      "descriptor": "medium, classic, blonde, monofilament, 4 Brownie Finale",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "4 Brownie Finale"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_3__48194.1686955497.png?v=1745232517",
+          "altText": "Top Flex HH 12 - 4 Brownie Finale"
+        }
+      },
+      "content": "Top Flex HH 12 - 4 Brownie Finale\n\nDescription: medium, classic, blonde, monofilament, 4 Brownie Finale\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Alt_3__48194.1686955497.png?v=1745232517",
+        "altText": "Top Flex HH 12 - 4 Brownie Finale"
+      }
+    },
+    {
+      "id": "44679514489067",
+      "title": "Top Flex HH 12 - 6 Fudgesicle",
+      "descriptor": "medium, classic, blonde, monofilament, 6 Fudgesicle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "6 Fudgesicle"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Main__29700.1686955496.png?v=1745232523",
+          "altText": "Top Flex HH 12 - 6 Fudgesicle"
+        }
+      },
+      "content": "Top Flex HH 12 - 6 Fudgesicle\n\nDescription: medium, classic, blonde, monofilament, 6 Fudgesicle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_12in_6_Main__29700.1686955496.png?v=1745232523",
+        "altText": "Top Flex HH 12 - 6 Fudgesicle"
+      }
+    },
+    {
+      "id": "44679514521835",
+      "title": "Top Flex HH 12 - 8 Cocoa",
+      "descriptor": "medium, classic, blonde, monofilament, 8 Cocoa",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "8 Cocoa"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_HH_12in_12FS12_Flat-Lay__41184.1686843422.png?v=1745232528",
+          "altText": "Top Flex HH 12 - 8 Cocoa"
+        }
+      },
+      "content": "Top Flex HH 12 - 8 Cocoa\n\nDescription: medium, classic, blonde, monofilament, 8 Cocoa\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top_Flex_HH_12in_12FS12_Flat-Lay__41184.1686843422.png?v=1745232528",
+        "altText": "Top Flex HH 12 - 8 Cocoa"
+      }
+    },
+    {
+      "id": "44679514554603",
+      "title": "Top Flex HH 12 - 12FS12 Malibu Blonde",
+      "descriptor": "medium, classic, blonde, monofilament, 12FS12 Malibu Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12FS12 Malibu Blonde"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - 12FS12 Malibu Blonde\n\nDescription: medium, classic, blonde, monofilament, 12FS12 Malibu Blonde\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514587371",
+      "title": "Top Flex HH 12 - FS17/101S18 Palm Springs Blonde",
+      "descriptor": "medium, classic, blonde, monofilament, FS17/101S18 Palm Springs Blonde",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "FS17/101S18 Palm Springs Blonde"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - FS17/101S18 Palm Springs Blonde\n\nDescription: medium, classic, blonde, monofilament, FS17/101S18 Palm Springs Blonde\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514620139",
+      "title": "Top Flex HH 12 - FS6/30/27 Toffee Truffle",
+      "descriptor": "medium, classic, blonde, monofilament, FS6/30/27 Toffee Truffle",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "FS6/30/27 Toffee Truffle"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - FS6/30/27 Toffee Truffle\n\nDescription: medium, classic, blonde, monofilament, FS6/30/27 Toffee Truffle\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514652907",
+      "title": "Top Flex HH 12 - 10H24B ENGLISH TOFFEE",
+      "descriptor": "medium, classic, blonde, monofilament, 10H24B ENGLISH TOFFEE",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "10H24B ENGLISH TOFFEE"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - 10H24B ENGLISH TOFFEE\n\nDescription: medium, classic, blonde, monofilament, 10H24B ENGLISH TOFFEE\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514685675",
+      "title": "Top Flex HH 12 - 24B18S8 SHADED MOCHA",
+      "descriptor": "medium, classic, blonde, monofilament, 24B18S8 SHADED MOCHA",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "24B18S8 SHADED MOCHA"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - 24B18S8 SHADED MOCHA\n\nDescription: medium, classic, blonde, monofilament, 24B18S8 SHADED MOCHA\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679514718443",
+      "title": "Top Flex HH 12 - 12fs8 shaded praline",
+      "descriptor": "medium, classic, blonde, monofilament, 12fs8 shaded praline",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "979.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "12fs8 shaded praline"
+          }
+        ]
+      },
+      "content": "Top Flex HH 12 - 12fs8 shaded praline\n\nDescription: medium, classic, blonde, monofilament, 12fs8 shaded praline\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679526613227",
+      "title": "Incentive Petite - G30 paprika mist",
+      "descriptor": "medium, classic, blonde, monofilament, G30 paprika mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G30 paprika mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egincentive_02_lg_1_4ba512a5-1888-4c28-bfb3-b88657cc3fa5.jpg?v=1709121982",
+          "altText": "Incentive Petite - G30 paprika mist"
+        }
+      },
+      "content": "Incentive Petite - G30 paprika mist\n\nDescription: medium, classic, blonde, monofilament, G30 paprika mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egincentive_02_lg_1_4ba512a5-1888-4c28-bfb3-b88657cc3fa5.jpg?v=1709121982",
+        "altText": "Incentive Petite - G30 paprika mist"
+      }
+    },
+    {
+      "id": "44679526645995",
+      "title": "Incentive Petite - G4 dark choc mist",
+      "descriptor": "medium, classic, blonde, monofilament, G4 dark choc mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G4 dark choc mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egincentive_03_lg_1_3dd1a3c9-6b50-49a3-b0e2-726ad0dbd3ed.jpg?v=1709121982",
+          "altText": "Incentive Petite - G4 dark choc mist"
+        }
+      },
+      "content": "Incentive Petite - G4 dark choc mist\n\nDescription: medium, classic, blonde, monofilament, G4 dark choc mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/egincentive_03_lg_1_3dd1a3c9-6b50-49a3-b0e2-726ad0dbd3ed.jpg?v=1709121982",
+        "altText": "Incentive Petite - G4 dark choc mist"
+      }
+    },
+    {
+      "id": "44679526678763",
+      "title": "Incentive Petite - G13 cappuccino mist",
+      "descriptor": "medium, classic, blonde, monofilament, G13 cappuccino mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G13 cappuccino mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive-1_90d3d2bd-3aef-4eac-b706-9a531148afb4.jpg?v=1709121982",
+          "altText": "Incentive Petite - G13 cappuccino mist"
+        }
+      },
+      "content": "Incentive Petite - G13 cappuccino mist\n\nDescription: medium, classic, blonde, monofilament, G13 cappuccino mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/incentive-1_90d3d2bd-3aef-4eac-b706-9a531148afb4.jpg?v=1709121982",
+        "altText": "Incentive Petite - G13 cappuccino mist"
+      }
+    },
+    {
+      "id": "44679526711531",
+      "title": "Incentive Petite - G29 cayenne mist",
+      "descriptor": "medium, classic, blonde, monofilament, G29 cayenne mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G29 cayenne mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Front_4fa09c4f-7d33-4b3f-967b-34ebe127c212.jpg?v=1709121982",
+          "altText": "Incentive Petite - G29 cayenne mist"
+        }
+      },
+      "content": "Incentive Petite - G29 cayenne mist\n\nDescription: medium, classic, blonde, monofilament, G29 cayenne mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Front_4fa09c4f-7d33-4b3f-967b-34ebe127c212.jpg?v=1709121982",
+        "altText": "Incentive Petite - G29 cayenne mist"
+      }
+    },
+    {
+      "id": "44679526744299",
+      "title": "Incentive Petite - G12 pecan mist",
+      "descriptor": "medium, classic, blonde, monofilament, G12 pecan mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G12 pecan mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side1_3280152a-ea10-48cd-84e6-04f751831c67.jpg?v=1709121982",
+          "altText": "Incentive Petite - G12 pecan mist"
+        }
+      },
+      "content": "Incentive Petite - G12 pecan mist\n\nDescription: medium, classic, blonde, monofilament, G12 pecan mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side1_3280152a-ea10-48cd-84e6-04f751831c67.jpg?v=1709121982",
+        "altText": "Incentive Petite - G12 pecan mist"
+      }
+    },
+    {
+      "id": "44679526777067",
+      "title": "Incentive Petite - G630 choc copper mist",
+      "descriptor": "medium, classic, blonde, monofilament, G630 choc copper mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G630 choc copper mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side2_1e6cd0f4-aa7e-4e90-9e14-c6408e6bcef1.jpg?v=1709121982",
+          "altText": "Incentive Petite - G630 choc copper mist"
+        }
+      },
+      "content": "Incentive Petite - G630 choc copper mist\n\nDescription: medium, classic, blonde, monofilament, G630 choc copper mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side2_1e6cd0f4-aa7e-4e90-9e14-c6408e6bcef1.jpg?v=1709121982",
+        "altText": "Incentive Petite - G630 choc copper mist"
+      }
+    },
+    {
+      "id": "44679526809835",
+      "title": "Incentive Petite - G58 sugared almond",
+      "descriptor": "medium, classic, blonde, monofilament, G58 sugared almond",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G58 sugared almond"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side3_fa875e56-87a9-413c-b410-6ec187537e90.jpg?v=1709121982",
+          "altText": "Incentive Petite - G58 sugared almond"
+        }
+      },
+      "content": "Incentive Petite - G58 sugared almond\n\nDescription: medium, classic, blonde, monofilament, G58 sugared almond\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Mannequin-Side3_fa875e56-87a9-413c-b410-6ec187537e90.jpg?v=1709121982",
+        "altText": "Incentive Petite - G58 sugared almond"
+      }
+    },
+    {
+      "id": "44679526842603",
+      "title": "Incentive Petite - G6 coffee mist",
+      "descriptor": "medium, classic, blonde, monofilament, G6 coffee mist",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "blonde",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "295.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "G6 coffee mist"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Cap.jpg?v=1709121982",
+          "altText": "Incentive Petite - G6 coffee mist"
+        }
+      },
+      "content": "Incentive Petite - G6 coffee mist\n\nDescription: medium, classic, blonde, monofilament, G6 coffee mist\n\nBrand: Gabor\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"blonde\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/GB-Incentive-Cap.jpg?v=1709121982",
+        "altText": "Incentive Petite - G6 coffee mist"
+      }
+    }
+  ]
+}

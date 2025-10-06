@@ -1,0 +1,3542 @@
+{
+  "metadata": {
+    "type": "dynamic_color_mapping",
+    "description": "All available color families and their variants from Position 1 data",
+    "generated_at": "2025-09-24T16:33:44.194Z",
+    "no_hardcoding": true,
+    "total_families": 5,
+    "total_variants": 2007
+  },
+  "colorFamilies": {
+    "blonde": [
+      {
+        "name": "Almond Breeze",
+        "example": "Destiny - Almond Breeze",
+        "count": 114
+      },
+      {
+        "name": "1 Jet Black",
+        "example": "H302-V - 1 Jet Black",
+        "count": 30
+      },
+      {
+        "name": "MC1 Caviar",
+        "example": "Aniyah - MC1 Caviar",
+        "count": 26
+      },
+      {
+        "name": "Crushed Almond Blonde Rooted",
+        "example": "Milano - Crushed Almond Blonde Rooted",
+        "count": 26
+      },
+      {
+        "name": "British Milktea",
+        "example": "Tea Leaf Layer HAND TIED - British Milktea",
+        "count": 26
+      },
+      {
+        "name": "RL16/88 pale golden honey",
+        "example": "Captivating Canvas - RL16/88 pale golden honey",
+        "count": 23
+      },
+      {
+        "name": "Sienna Spice",
+        "example": "Manchester - Discontinued Colour (Live) - Sienna Spice",
+        "count": 22
+      },
+      {
+        "name": "GF17-23SS iced latte macchiato",
+        "example": "Glamorize Always - GF17-23SS iced latte macchiato",
+        "count": 21
+      },
+      {
+        "name": "black",
+        "example": "disc - black",
+        "count": 20
+      },
+      {
+        "name": "British Milktea Rooted",
+        "example": "Armani HT - British Milktea Rooted",
+        "count": 19
+      },
+      {
+        "name": "01B Off Black",
+        "example": "Hope - 01B Off Black",
+        "count": 19
+      },
+      {
+        "name": "champagne rooted",
+        "example": "Mirage - champagne rooted",
+        "count": 18
+      },
+      {
+        "name": "chocolate mix",
+        "example": "Charme - chocolate mix",
+        "count": 17
+      },
+      {
+        "name": "Buttered Toast Rooted",
+        "example": "Williamsburg - Buttered Toast Rooted",
+        "count": 17
+      },
+      {
+        "name": "10/26tt fortune cookie",
+        "example": "Heidi - 10/26tt fortune cookie",
+        "count": 16
+      },
+      {
+        "name": "ginger brown",
+        "example": "angelica part mono - ginger brown",
+        "count": 16
+      },
+      {
+        "name": "Bombshell Blonde",
+        "example": "Lace Front Mono Top Wave 14 - Bombshell Blonde",
+        "count": 15
+      },
+      {
+        "name": "r6/10 medium brown",
+        "example": "Vale - r6/10 medium brown",
+        "count": 14
+      },
+      {
+        "name": "Burnt Biscuit Blonde Rooted",
+        "example": "Fontaine - Burnt Biscuit Blonde Rooted",
+        "count": 14
+      },
+      {
+        "name": "sandy blonde rooted",
+        "example": "Heaven - sandy blonde rooted",
+        "count": 14
+      },
+      {
+        "name": "1 black",
+        "example": "Smooth Cut Bob - 1 black",
+        "count": 14
+      },
+      {
+        "name": "R10 chestnut",
+        "example": "bombshell bob - R10 chestnut",
+        "count": 13
+      },
+      {
+        "name": "champagne mix",
+        "example": "Cella Mono - champagne mix",
+        "count": 13
+      },
+      {
+        "name": "12fs8 shaded praline",
+        "example": "elite - 12fs8 shaded praline",
+        "count": 13
+      },
+      {
+        "name": "R14/16T buttered toast",
+        "example": "FRENCH BRAID BAND - R14/16T buttered toast",
+        "count": 11
+      },
+      {
+        "name": "bernstein rooted",
+        "example": "storyville - bernstein rooted",
+        "count": 11
+      },
+      {
+        "name": "GL10-12 sunlit chestnut",
+        "example": "bend the rules - GL10-12 sunlit chestnut",
+        "count": 10
+      },
+      {
+        "name": "10rh16 caffe mocha",
+        "example": "mila - 10rh16 caffe mocha",
+        "count": 10
+      },
+      {
+        "name": "chocolate rooted",
+        "example": "Vita - chocolate rooted",
+        "count": 10
+      },
+      {
+        "name": "RL10/12 sunlit chestnut",
+        "example": "STYLE FORWARD 16 - RL10/12 sunlit chestnut",
+        "count": 10
+      },
+      {
+        "name": "Lunar Haze",
+        "example": "Allure Wavez - Lunar Haze",
+        "count": 10
+      },
+      {
+        "name": "4 Dark Brown",
+        "example": "Stephanie - 4 Dark Brown",
+        "count": 10
+      },
+      {
+        "name": "Cappuccino with Cherry",
+        "example": "Spice Girl - Discontinued Colors (Live) - Cappuccino with Cherry",
+        "count": 10
+      },
+      {
+        "name": "Coolest Ash Brown",
+        "example": "Williamsburg - Discontinued Colors (Live) - Coolest Ash Brown",
+        "count": 10
+      },
+      {
+        "name": "Brown Sugar Blonde Rooted",
+        "example": "Beckham - Brown Sugar Blonde Rooted",
+        "count": 10
+      },
+      {
+        "name": "R14/88H golden wheat",
+        "example": "casual do wrap - R14/88H golden wheat",
+        "count": 9
+      },
+      {
+        "name": "bernstein mix",
+        "example": "tonic - bernstein mix",
+        "count": 9
+      },
+      {
+        "name": "light bernstein rooted",
+        "example": "charlotte - light bernstein rooted",
+        "count": 9
+      },
+      {
+        "name": "dark chocolate mix",
+        "example": "Gold - dark chocolate mix",
+        "count": 9
+      },
+      {
+        "name": "auburn sugar rooted",
+        "example": "Reese - auburn sugar rooted",
+        "count": 9
+      },
+      {
+        "name": "12fs12 malibu blonde",
+        "example": "Maya - 12fs12 malibu blonde",
+        "count": 9
+      },
+      {
+        "name": "BrownSugar SweetCream",
+        "example": "Cafe Chic E - BrownSugar SweetCream",
+        "count": 9
+      },
+      {
+        "name": "RL10/12 SUNLIT CHESTNUT",
+        "example": "Spotlight Large - RL10/12 SUNLIT CHESTNUT",
+        "count": 8
+      },
+      {
+        "name": "starlight blonde",
+        "example": "diamond topper - starlight blonde",
+        "count": 8
+      },
+      {
+        "name": "fs27 strawberry syrup",
+        "example": "Angie - fs27 strawberry syrup",
+        "count": 8
+      },
+      {
+        "name": "101f48t martini",
+        "example": "EASIPART HD XL 12 - 101f48t martini",
+        "count": 8
+      },
+      {
+        "name": "SS17/23 iced latte macchiato",
+        "example": "Straight Up With a Twist Elite - SS17/23 iced latte macchiato",
+        "count": 8
+      },
+      {
+        "name": "2 Darkest Brown",
+        "example": "Melody - 2 Darkest Brown",
+        "count": 8
+      },
+      {
+        "name": "Auburn Spice Rooted",
+        "example": "Perla - Auburn Spice Rooted",
+        "count": 8
+      },
+      {
+        "name": "1 jet",
+        "example": "elle - 1 jet",
+        "count": 7
+      },
+      {
+        "name": "spring honey",
+        "example": "brandi - spring honey",
+        "count": 7
+      },
+      {
+        "name": "snow mix",
+        "example": "Fair Mono - snow mix",
+        "count": 7
+      },
+      {
+        "name": "frosty blonde hl",
+        "example": "Bliss - frosty blonde hl",
+        "count": 7
+      },
+      {
+        "name": "espresso mix hh",
+        "example": "Add In - espresso mix hh",
+        "count": 7
+      },
+      {
+        "name": "M14S dark ash blonde",
+        "example": "Steven sport - M14S dark ash blonde",
+        "count": 7
+      },
+      {
+        "name": "marble brown",
+        "example": "Kenzie - marble brown",
+        "count": 7
+      },
+      {
+        "name": "10H24B English Toffee",
+        "example": "easiPart Medium HH 12 - 10H24B English Toffee",
+        "count": 7
+      },
+      {
+        "name": "14/26s10 shaded pralines n' cream",
+        "example": "EASICROWN HH 12 - 14/26s10 shaded pralines n' cream",
+        "count": 7
+      },
+      {
+        "name": "Cayenne with Ginger Root",
+        "example": "Califia - Discontinued Colours (Live) - Cayenne with Ginger Root",
+        "count": 7
+      },
+      {
+        "name": "mocca rooted",
+        "example": "amy deluxe - mocca rooted",
+        "count": 6
+      },
+      {
+        "name": "SS29/33 iced pumpkin spice",
+        "example": "flirting with fashion - SS29/33 iced pumpkin spice",
+        "count": 6
+      },
+      {
+        "name": "12/30bt rootbeer float",
+        "example": "EASIPART XL HH 18 - 12/30bt rootbeer float",
+        "count": 6
+      },
+      {
+        "name": "2/4R  Very Dark Brown with Highlights",
+        "example": "Chopped Pixie - 2/4R  Very Dark Brown with Highlights",
+        "count": 6
+      },
+      {
+        "name": "R6 dark chocolate",
+        "example": "Muse - R6 dark chocolate",
+        "count": 5
+      },
+      {
+        "name": "R56/60 silver mist",
+        "example": "LYRIC - R56/60 silver mist",
+        "count": 5
+      },
+      {
+        "name": "espresso rooted",
+        "example": "Java - espresso rooted",
+        "count": 5
+      },
+      {
+        "name": "RL32/31 cinnabar",
+        "example": "MESMERIZED - RL32/31 cinnabar",
+        "count": 5
+      },
+      {
+        "name": "smoke mix",
+        "example": "alba comfort - smoke mix",
+        "count": 5
+      },
+      {
+        "name": "medium blonde",
+        "example": "Thrill - medium blonde",
+        "count": 5
+      },
+      {
+        "name": "salt pepper mix",
+        "example": "daily - salt pepper mix",
+        "count": 5
+      },
+      {
+        "name": "R4 midnight brown",
+        "example": "its a wrap - R4 midnight brown",
+        "count": 5
+      },
+      {
+        "name": "spring honey rooted",
+        "example": "Alva - spring honey rooted",
+        "count": 5
+      },
+      {
+        "name": "RL30/27 rusty auburn",
+        "example": "ON THE GO 10 - RL30/27 rusty auburn",
+        "count": 5
+      },
+      {
+        "name": "GF1-2 double espresso",
+        "example": "Out The Door - GF1-2 double espresso",
+        "count": 5
+      },
+      {
+        "name": "cappuccino",
+        "example": "FLEX TOP PIECE - cappuccino",
+        "count": 5
+      },
+      {
+        "name": "RL12/22SS shaded cappuccino",
+        "example": "In charge - RL12/22SS shaded cappuccino",
+        "count": 5
+      },
+      {
+        "name": "light blonde",
+        "example": "Caipi - light blonde",
+        "count": 5
+      },
+      {
+        "name": "Watermelon Rooted",
+        "example": "Joss - Watermelon Rooted",
+        "count": 5
+      },
+      {
+        "name": "12F Pecan Praline",
+        "example": "easiHalo 12 - 12F Pecan Praline",
+        "count": 5
+      },
+      {
+        "name": "canyon stone",
+        "example": "Brooklyn - canyon stone",
+        "count": 5
+      },
+      {
+        "name": "14-26-r10 red blonde with gold blonde highlights and light brown roots",
+        "example": "Feathered Bob (Live) - 14-26-r10 red blonde with gold blonde highlights and light brown roots",
+        "count": 5
+      },
+      {
+        "name": "bernstein multi shad",
+        "example": "Perla - bernstein multi shad",
+        "count": 4
+      },
+      {
+        "name": "R3025S glazed cinnamon hh",
+        "example": "Grand Entrance - R3025S glazed cinnamon hh",
+        "count": 4
+      },
+      {
+        "name": "R830 ginger brown",
+        "example": "16 CURL BACK HAIR EXTENSION HD - R830 ginger brown",
+        "count": 4
+      },
+      {
+        "name": "22r dark golden blonde",
+        "example": "Cheers (Live) - 22r dark golden blonde",
+        "count": 4
+      },
+      {
+        "name": "10h16 latte",
+        "example": "Top Coverage Wavy 18 - 10h16 latte",
+        "count": 4
+      },
+      {
+        "name": "spring honey t",
+        "example": "Arden - spring honey t",
+        "count": 4
+      },
+      {
+        "name": "auburn rooted",
+        "example": "loop - auburn rooted",
+        "count": 4
+      },
+      {
+        "name": "RL19/23SS shaded biscuit",
+        "example": "Alpha wave 16 - RL19/23SS shaded biscuit",
+        "count": 4
+      },
+      {
+        "name": "fs26/31 caramel syrup",
+        "example": "Heat - fs26/31 caramel syrup",
+        "count": 4
+      },
+      {
+        "name": "Brown Spice",
+        "example": "Remy HH Topper 14 - Brown Spice",
+        "count": 4
+      },
+      {
+        "name": "14/26 Pralines N' Cream",
+        "example": "MARIAH - 14/26 Pralines N' Cream",
+        "count": 4
+      },
+      {
+        "name": "511C sugared charcoal",
+        "example": "perk petite - 511C sugared charcoal",
+        "count": 4
+      },
+      {
+        "name": "R10 Chestnut",
+        "example": "Simply Charming Bob - R10 Chestnut",
+        "count": 4
+      },
+      {
+        "name": "bahama beige shad",
+        "example": "Onda Mono Part - bahama beige shad",
+        "count": 4
+      },
+      {
+        "name": "Salt and Pepper",
+        "example": "Niki - Salt and Pepper",
+        "count": 4
+      },
+      {
+        "name": "R2 ebony",
+        "example": "Vintage Volume - R2 ebony",
+        "count": 4
+      },
+      {
+        "name": "pastel pink",
+        "example": "dakota - pastel pink",
+        "count": 4
+      },
+      {
+        "name": "GL23-101SS SUNKISSED BEIGE ROOTED",
+        "example": "Lets Lambada - GL23-101SS SUNKISSED BEIGE ROOTED",
+        "count": 4
+      },
+      {
+        "name": "10h24b english toffee",
+        "example": "EASICROWN HH 18 - 10h24b english toffee",
+        "count": 4
+      },
+      {
+        "name": "r4/8 medium golden brown",
+        "example": "Jett - r4/8 medium golden brown",
+        "count": 4
+      },
+      {
+        "name": "8rh14 mousse cake",
+        "example": "SPICY - 8rh14 mousse cake",
+        "count": 4
+      },
+      {
+        "name": "r8-12 golden brown blended",
+        "example": "Pony Tie - r8-12 golden brown blended",
+        "count": 4
+      },
+      {
+        "name": "60",
+        "example": "Connie - 60",
+        "count": 4
+      },
+      {
+        "name": "M34S med brown",
+        "example": "Admirable - M34S med brown",
+        "count": 4
+      },
+      {
+        "name": "Oyster Gray",
+        "example": "Montecito - Oyster Gray",
+        "count": 4
+      },
+      {
+        "name": "smoky forest",
+        "example": "breezy wavez - smoky forest",
+        "count": 4
+      },
+      {
+        "name": "CREAMY BLONDE",
+        "example": "LOGAN - CREAMY BLONDE",
+        "count": 4
+      },
+      {
+        "name": "Macadamia Latte Rooted",
+        "example": "Brooklyn - Macadamia Latte Rooted",
+        "count": 4
+      },
+      {
+        "name": "Sugar Cookie with Hazelnut",
+        "example": "Shakerato E - Discontinued Color (Live) - Sugar Cookie with Hazelnut",
+        "count": 4
+      },
+      {
+        "name": "Cola with Cherry",
+        "example": "Twix - Discontinued Colors (Live) - Cola with Cherry",
+        "count": 4
+      },
+      {
+        "name": "Cool Champagne Blonde",
+        "example": "Saint - Discontinued Colors (Live) - Cool Champagne Blonde",
+        "count": 4
+      },
+      {
+        "name": "RH2 EBONY",
+        "example": "Midnight In Paris - RH2 EBONY",
+        "count": 4
+      },
+      {
+        "name": "SS25 ginger blonde rooted",
+        "example": "allure - SS25 ginger blonde rooted",
+        "count": 3
+      },
+      {
+        "name": "maple sugar",
+        "example": "audrey - maple sugar",
+        "count": 3
+      },
+      {
+        "name": "light champagne rooted",
+        "example": "Vista - light champagne rooted",
+        "count": 3
+      },
+      {
+        "name": "sand mix",
+        "example": "Fenja Petite - sand mix",
+        "count": 3
+      },
+      {
+        "name": "R4 MIDNIGHT BROWN",
+        "example": "16 STRAIGHT CLIP IN 8 PIECE HD - R4 MIDNIGHT BROWN",
+        "count": 3
+      },
+      {
+        "name": "33 boysenberry treat",
+        "example": "EASIPART HD 18 - 33 boysenberry treat",
+        "count": 3
+      },
+      {
+        "name": "creamy blonde",
+        "example": "Malibu - creamy blonde",
+        "count": 3
+      },
+      {
+        "name": "27t613f toasted marshmallow",
+        "example": "lily - 27t613f toasted marshmallow",
+        "count": 3
+      },
+      {
+        "name": "G11 mocha mist",
+        "example": "Sensation - G11 mocha mist",
+        "count": 3
+      },
+      {
+        "name": "fs17/101s18 palm springs blonde",
+        "example": "Top Notch HD - fs17/101s18 palm springs blonde",
+        "count": 3
+      },
+      {
+        "name": "RL29/25 golden russet",
+        "example": "on your game - RL29/25 golden russet",
+        "count": 3
+      },
+      {
+        "name": "dark chocolate rooted",
+        "example": "flirt - dark chocolate rooted",
+        "count": 3
+      },
+      {
+        "name": "R13F25 praline foil",
+        "example": "Whisper - R13F25 praline foil",
+        "count": 3
+      },
+      {
+        "name": "dark chocolate mix hh",
+        "example": "FILL IN - dark chocolate mix hh",
+        "count": 3
+      },
+      {
+        "name": "22f16 pina colada",
+        "example": "Ruby - 22f16 pina colada",
+        "count": 3
+      },
+      {
+        "name": "burnt chilli",
+        "example": "destiny - burnt chilli",
+        "count": 3
+      },
+      {
+        "name": "mochaccino rooted",
+        "example": "millie - mochaccino rooted",
+        "count": 3
+      },
+      {
+        "name": "dark brown",
+        "example": "joy - dark brown",
+        "count": 3
+      },
+      {
+        "name": "2 chocolate souffle",
+        "example": "TOP STYLE 12 HUMAN HAIR - 2 chocolate souffle",
+        "count": 3
+      },
+      {
+        "name": "Chocolate with Caramel",
+        "example": "Rose Ella HAND TIED - Chocolate with Caramel",
+        "count": 3
+      },
+      {
+        "name": "brown sable",
+        "example": "brett - brown sable",
+        "count": 3
+      },
+      {
+        "name": "10 luscious caramel",
+        "example": "Crush - 10 luscious caramel",
+        "count": 3
+      },
+      {
+        "name": "R4/6 dark brown and chestnut brown blend",
+        "example": "Haven - R4/6 dark brown and chestnut brown blend",
+        "count": 3
+      },
+      {
+        "name": "R6/30H chocolate copper",
+        "example": "spiky clip - R6/30H chocolate copper",
+        "count": 3
+      },
+      {
+        "name": "14/26S10 shaded pralines n creme",
+        "example": "Avery - 14/26S10 shaded pralines n creme",
+        "count": 3
+      },
+      {
+        "name": "medium brown",
+        "example": "Elation - medium brown",
+        "count": 3
+      },
+      {
+        "name": "dark blonde gabor",
+        "example": "Prosperity - dark blonde gabor",
+        "count": 3
+      },
+      {
+        "name": "gold blonde",
+        "example": "sally - gold blonde",
+        "count": 3
+      },
+      {
+        "name": "candy blonde rooted",
+        "example": "diva - candy blonde rooted",
+        "count": 3
+      },
+      {
+        "name": "Graphite",
+        "example": "Shakerato - Discontinued Colours (Facebook) - Graphite",
+        "count": 3
+      },
+      {
+        "name": "fs17-101s18 palm springs blonde",
+        "example": "Gwyneth - fs17-101s18 palm springs blonde",
+        "count": 3
+      },
+      {
+        "name": "ckissrt4 copper brown rooted",
+        "example": "Devin - ckissrt4 copper brown rooted",
+        "count": 3
+      },
+      {
+        "name": "dark sand rooted",
+        "example": "rich mono - dark sand rooted",
+        "count": 3
+      },
+      {
+        "name": "r1b off black",
+        "example": "Glow French 8 - r1b off black",
+        "count": 3
+      },
+      {
+        "name": "22f16s8 venice blonde",
+        "example": "Ignite Petite - 22f16s8 venice blonde",
+        "count": 3
+      },
+      {
+        "name": "fs24/102s12 laguna blonde",
+        "example": "SIENNA - fs24/102s12 laguna blonde",
+        "count": 3
+      },
+      {
+        "name": "10 Luscious Caramel",
+        "example": "foxy - 10 Luscious Caramel",
+        "count": 3
+      },
+      {
+        "name": "copper glaze rooted",
+        "example": "Zeal - copper glaze rooted",
+        "count": 3
+      },
+      {
+        "name": "14/24 creme soda",
+        "example": "TOP FORM 8 HUMAN HAIR - 14/24 creme soda",
+        "count": 3
+      },
+      {
+        "name": "r4/6 deep brown mix",
+        "example": "brady - r4/6 deep brown mix",
+        "count": 3
+      },
+      {
+        "name": "Dark Blonde",
+        "example": "Naomi - Dark Blonde",
+        "count": 3
+      },
+      {
+        "name": "R2/4 Dark Brown Mix",
+        "example": "Finn - R2/4 Dark Brown Mix",
+        "count": 3
+      },
+      {
+        "name": "1 JET BLACK",
+        "example": "Pony Curl II - 1 JET BLACK",
+        "count": 3
+      },
+      {
+        "name": "RL11/25 GOLDEN WALNUT",
+        "example": "Cruise Control - RL11/25 GOLDEN WALNUT",
+        "count": 3
+      },
+      {
+        "name": "56f51 oyster",
+        "example": "Luna - 56f51 oyster",
+        "count": 3
+      },
+      {
+        "name": "Butterbeer Blonde",
+        "example": "Bellissima E - Butterbeer Blonde",
+        "count": 3
+      },
+      {
+        "name": "Chrome",
+        "example": "Perfect Blend - Discontinued Colors (Live) - Chrome",
+        "count": 3
+      },
+      {
+        "name": "Ginger Ale Blonde",
+        "example": "Louie (Outlet) - Ginger Ale Blonde",
+        "count": 3
+      },
+      {
+        "name": "Triple Chocolate Rooted",
+        "example": "Bristol (Kansas City) - Triple Chocolate Rooted",
+        "count": 3
+      },
+      {
+        "name": "cinnamon frost rooted",
+        "example": "Medium Wavy TP Mono - cinnamon frost rooted",
+        "count": 3
+      },
+      {
+        "name": "silver mix",
+        "example": "Gala - silver mix",
+        "count": 2
+      },
+      {
+        "name": "r8/29s glazed hazelnut",
+        "example": "Sassy Curl - r8/29s glazed hazelnut",
+        "count": 2
+      },
+      {
+        "name": "R25 ginger blonde",
+        "example": "Center Stage - R25 ginger blonde",
+        "count": 2
+      },
+      {
+        "name": "14/24 Creme Soda",
+        "example": "Top Flex HH 12 - 14/24 Creme Soda",
+        "count": 2
+      },
+      {
+        "name": "G60 burnished snow",
+        "example": "perk - G60 burnished snow",
+        "count": 2
+      },
+      {
+        "name": "r8/26h golden retreat",
+        "example": "Mellow - r8/26h golden retreat",
+        "count": 2
+      },
+      {
+        "name": "stone grey mix",
+        "example": "Coco - stone grey mix",
+        "count": 2
+      },
+      {
+        "name": "24bt18s8 shaded mocha",
+        "example": "Carrie Petite - 24bt18s8 shaded mocha",
+        "count": 2
+      },
+      {
+        "name": "hot chocolate mix",
+        "example": "change - hot chocolate mix",
+        "count": 2
+      },
+      {
+        "name": "R29S glazed strawberry",
+        "example": "crushing on casual - R29S glazed strawberry",
+        "count": 2
+      },
+      {
+        "name": "8/32 cocoa bean",
+        "example": "Karlie - 8/32 cocoa bean",
+        "count": 2
+      },
+      {
+        "name": "pastel blonde rooted hh",
+        "example": "wish - pastel blonde rooted hh",
+        "count": 2
+      },
+      {
+        "name": "mocacchino-rooted",
+        "example": "Seville - mocacchino-rooted",
+        "count": 2
+      },
+      {
+        "name": "RL38 smoke",
+        "example": "TOP BILLING 12 - RL38 smoke",
+        "count": 2
+      },
+      {
+        "name": "Dark Brown+HL",
+        "example": "Modena - Dark Brown+HL",
+        "count": 2
+      },
+      {
+        "name": "8 cocoa",
+        "example": "TOP SMART 12 - 8 cocoa",
+        "count": 2
+      },
+      {
+        "name": "DARK CHOCOLATE ROOTED",
+        "example": "Sunset - DARK CHOCOLATE ROOTED",
+        "count": 2
+      },
+      {
+        "name": "creamy toffee",
+        "example": "Halo ROP - creamy toffee",
+        "count": 2
+      },
+      {
+        "name": "GL6-30 mahogany",
+        "example": "radiant beauty - GL6-30 mahogany",
+        "count": 2
+      },
+      {
+        "name": "tobacco rooted",
+        "example": "raise - tobacco rooted",
+        "count": 2
+      },
+      {
+        "name": "pearl blonde rooted",
+        "example": "Bloom - pearl blonde rooted",
+        "count": 2
+      },
+      {
+        "name": "R29S glazed strawberry hh",
+        "example": "Bravo - R29S glazed strawberry hh",
+        "count": 2
+      },
+      {
+        "name": "caramel mix",
+        "example": "Light Mono - caramel mix",
+        "count": 2
+      },
+      {
+        "name": "SS14/88h golden wheat",
+        "example": "short shag - SS14/88h golden wheat",
+        "count": 2
+      },
+      {
+        "name": "beige multi shad",
+        "example": "Cesana Soft - beige multi shad",
+        "count": 2
+      },
+      {
+        "name": "white mix",
+        "example": "cara 100 deluxe - white mix",
+        "count": 2
+      },
+      {
+        "name": "r56/60 silver mist",
+        "example": "Instant Short Cut - r56/60 silver mist",
+        "count": 2
+      },
+      {
+        "name": "silver frost",
+        "example": "June - silver frost",
+        "count": 2
+      },
+      {
+        "name": "24b22 creme brule",
+        "example": "Katherine - 24b22 creme brule",
+        "count": 2
+      },
+      {
+        "name": "r6lf29 chestnut brown bright red mix at front",
+        "example": "Shelby - r6lf29 chestnut brown bright red mix at front",
+        "count": 2
+      },
+      {
+        "name": "16/22 banana creme",
+        "example": "provocative - 16/22 banana creme",
+        "count": 2
+      },
+      {
+        "name": "sandy blonde rooted hh",
+        "example": "XENITA HI - sandy blonde rooted hh",
+        "count": 2
+      },
+      {
+        "name": "cafe ole",
+        "example": "Seduction - cafe ole",
+        "count": 2
+      },
+      {
+        "name": "22mb poppy seed",
+        "example": "hat magic 10 - 22mb poppy seed",
+        "count": 2
+      },
+      {
+        "name": "23r platinum blonde",
+        "example": "Feathered Bob - 23r platinum blonde",
+        "count": 2
+      },
+      {
+        "name": "princess ivory",
+        "example": "Ashlyn - princess ivory",
+        "count": 2
+      },
+      {
+        "name": "champagne rooted hh",
+        "example": "Cascade - champagne rooted hh",
+        "count": 2
+      },
+      {
+        "name": "brown blonde",
+        "example": "Ambitious - brown blonde",
+        "count": 2
+      },
+      {
+        "name": "RL8/29SS shaded hazelnut",
+        "example": "Editors Pick - RL8/29SS shaded hazelnut",
+        "count": 2
+      },
+      {
+        "name": "R56-60 silver mist",
+        "example": "flirty flip - R56-60 silver mist",
+        "count": 2
+      },
+      {
+        "name": "SS9/24 iced cafe latte",
+        "example": "Winner - SS9/24 iced cafe latte",
+        "count": 2
+      },
+      {
+        "name": "R23S GLAZED VANILLA",
+        "example": "SPARKLE ELITE - R23S GLAZED VANILLA",
+        "count": 2
+      },
+      {
+        "name": "harvest gold",
+        "example": "TATUM - harvest gold",
+        "count": 2
+      },
+      {
+        "name": "almond spice rooted",
+        "example": "robin - almond spice rooted",
+        "count": 2
+      },
+      {
+        "name": "G16 honey mist",
+        "example": "aspire - G16 honey mist",
+        "count": 2
+      },
+      {
+        "name": "R14/25 honey ginger",
+        "example": "TRESS - R14/25 honey ginger",
+        "count": 2
+      },
+      {
+        "name": "R1621S glazed sand",
+        "example": "Layered Bob - R1621S glazed sand",
+        "count": 2
+      },
+      {
+        "name": "moonlight blonde rooted",
+        "example": "Lily - moonlight blonde rooted",
+        "count": 2
+      },
+      {
+        "name": "4rn natural dark brown",
+        "example": "TOP SMART HH 12 - 4rn natural dark brown",
+        "count": 2
+      },
+      {
+        "name": "r10 chestnut hh",
+        "example": "SPECIAL EFFECT - r10 chestnut hh",
+        "count": 2
+      },
+      {
+        "name": "copper glaze",
+        "example": "Erika - copper glaze",
+        "count": 2
+      },
+      {
+        "name": "1brh30 dk chocolate cherry ganache",
+        "example": "rosie - 1brh30 dk chocolate cherry ganache",
+        "count": 2
+      },
+      {
+        "name": "mocca mix",
+        "example": "elite petite - mocca mix",
+        "count": 2
+      },
+      {
+        "name": "FS2V/31V chocolate cherry",
+        "example": "TOP FULL 12 SYNTHETIC - FS2V/31V chocolate cherry",
+        "count": 2
+      },
+      {
+        "name": "SS8/29 hazelnut",
+        "example": "Voltage Large - SS8/29 hazelnut",
+        "count": 2
+      },
+      {
+        "name": "coffee latte",
+        "example": "sue - coffee latte",
+        "count": 2
+      },
+      {
+        "name": "M5S medium brown",
+        "example": "grit - M5S medium brown",
+        "count": 2
+      },
+      {
+        "name": "GL14-16 honey toast",
+        "example": "High Impact - GL14-16 honey toast",
+        "count": 2
+      },
+      {
+        "name": "toasted brown",
+        "example": "samantha - toasted brown",
+        "count": 2
+      },
+      {
+        "name": "fs2v/31v chocolate cherry",
+        "example": "January Hand Tied - fs2v/31v chocolate cherry",
+        "count": 2
+      },
+      {
+        "name": "pecan",
+        "example": "Jean - pecan",
+        "count": 2
+      },
+      {
+        "name": "GL1-2",
+        "example": "curves ahead - GL1-2",
+        "count": 2
+      },
+      {
+        "name": "coffee bean",
+        "example": "ella - coffee bean",
+        "count": 2
+      },
+      {
+        "name": "chocolate frost rooted",
+        "example": "joslin - chocolate frost rooted",
+        "count": 2
+      },
+      {
+        "name": "G13 cappuccino mist",
+        "example": "paradox - G13 cappuccino mist",
+        "count": 2
+      },
+      {
+        "name": "sandy silver",
+        "example": "Nell - sandy silver",
+        "count": 2
+      },
+      {
+        "name": "RL19/23SS SS biscuit",
+        "example": "Statement Style - RL19/23SS SS biscuit",
+        "count": 2
+      },
+      {
+        "name": "2 black/brown blend",
+        "example": "mimic - 2 black/brown blend",
+        "count": 2
+      },
+      {
+        "name": "GL44/66SS SUGARED NICKEL",
+        "example": "Spring Romance - GL44/66SS SUGARED NICKEL",
+        "count": 2
+      },
+      {
+        "name": "honey wheat",
+        "example": "Lacey - honey wheat",
+        "count": 2
+      },
+      {
+        "name": "M3S dark brown",
+        "example": "Jet - M3S dark brown",
+        "count": 2
+      },
+      {
+        "name": "RL14/22 PALE GOLD WHEAT",
+        "example": "SPOTLIGHT ELITE - RL14/22 PALE GOLD WHEAT",
+        "count": 2
+      },
+      {
+        "name": "R14/25 HONEY GINGER",
+        "example": "12 stretch pony heat synthetic - R14/25 HONEY GINGER",
+        "count": 2
+      },
+      {
+        "name": "RL19/23 biscuit",
+        "example": "enchant - RL19/23 biscuit",
+        "count": 2
+      },
+      {
+        "name": "6rn natural brown",
+        "example": "EASIPART HH 8 - 6rn natural brown",
+        "count": 2
+      },
+      {
+        "name": "RL11/25 golden walnut",
+        "example": "Lets Rendezvous - RL11/25 golden walnut",
+        "count": 2
+      },
+      {
+        "name": "brown grey",
+        "example": "VISIONARY - brown grey",
+        "count": 2
+      },
+      {
+        "name": "GL8-29 HAZELNUT",
+        "example": "SIMPLY FLAWLESS - GL8-29 HAZELNUT",
+        "count": 2
+      },
+      {
+        "name": "R9S glazed mahogany",
+        "example": "Winner Large - R9S glazed mahogany",
+        "count": 2
+      },
+      {
+        "name": "PermaFit 1b",
+        "example": "Perma Ray - PermaFit 1b",
+        "count": 2
+      },
+      {
+        "name": "bernstein shad",
+        "example": "Avola Mono Part - bernstein shad",
+        "count": 2
+      },
+      {
+        "name": "melted marshmallow",
+        "example": "Alexi - melted marshmallow",
+        "count": 2
+      },
+      {
+        "name": "creamy toffee rooted",
+        "example": "codi - creamy toffee rooted",
+        "count": 2
+      },
+      {
+        "name": "R14/88H GOLDEN WHEAT",
+        "example": "20 HUMAN HAIR EXTENSION 10 PIECES - R14/88H GOLDEN WHEAT",
+        "count": 2
+      },
+      {
+        "name": "60 winter sun",
+        "example": "Quinn - 60 winter sun",
+        "count": 2
+      },
+      {
+        "name": "light bernstein rooted hh",
+        "example": "spectra plus - light bernstein rooted hh",
+        "count": 2
+      },
+      {
+        "name": "GL16-27 buttered biscuit",
+        "example": "Flirt - GL16-27 buttered biscuit",
+        "count": 2
+      },
+      {
+        "name": "marigold",
+        "example": "Olivia - marigold",
+        "count": 2
+      },
+      {
+        "name": "CHOCOLATE MIX",
+        "example": "SKY - CHOCOLATE MIX",
+        "count": 2
+      },
+      {
+        "name": "pearl mix",
+        "example": "TEMPO 100 DELUXE - pearl mix",
+        "count": 2
+      },
+      {
+        "name": "maple sugar rooted",
+        "example": "nori - maple sugar rooted",
+        "count": 2
+      },
+      {
+        "name": "rose blonde rooted",
+        "example": "tabu - rose blonde rooted",
+        "count": 2
+      },
+      {
+        "name": "RL6/8 dark chocolate",
+        "example": "curve appeal - RL6/8 dark chocolate",
+        "count": 2
+      },
+      {
+        "name": "R6/10 chestnut brown blended with medium ash brown",
+        "example": "Kennedy - R6/10 chestnut brown blended with medium ash brown",
+        "count": 2
+      },
+      {
+        "name": "melted sunset",
+        "example": "Rae - melted sunset",
+        "count": 2
+      },
+      {
+        "name": "27mb strawberry shortcake",
+        "example": "easipart french XL 18 HH - 27mb strawberry shortcake",
+        "count": 2
+      },
+      {
+        "name": "G4 dark choc mist",
+        "example": "prodigy - G4 dark choc mist",
+        "count": 2
+      },
+      {
+        "name": "BLACK",
+        "example": "Cleo - BLACK",
+        "count": 2
+      },
+      {
+        "name": "Mocha Maple Brown",
+        "example": "Mallorca - Mocha Maple Brown",
+        "count": 2
+      },
+      {
+        "name": "R2 Ebony",
+        "example": "Classic Cool Petite - R2 Ebony",
+        "count": 2
+      },
+      {
+        "name": "Highlighted Blond Root",
+        "example": "Darra - Highlighted Blond Root",
+        "count": 2
+      },
+      {
+        "name": "sunlit sand",
+        "example": "Alina - sunlit sand",
+        "count": 2
+      },
+      {
+        "name": "Coffee without Cream",
+        "example": "Bona Vita  (Live) - Coffee without Cream",
+        "count": 2
+      },
+      {
+        "name": "RH2 Ebony",
+        "example": "Sorrento Surprise - RH2 Ebony",
+        "count": 2
+      },
+      {
+        "name": "Toffee Blonde Rooted",
+        "example": "Flow - Toffee Blonde Rooted",
+        "count": 2
+      },
+      {
+        "name": "32f cherry creme",
+        "example": "Julia - 32f cherry creme",
+        "count": 1
+      },
+      {
+        "name": "GL11-25 HONEY PECAN",
+        "example": "Fresh Chic - GL11-25 HONEY PECAN",
+        "count": 1
+      },
+      {
+        "name": "melted ocean",
+        "example": "India - melted ocean",
+        "count": 1
+      },
+      {
+        "name": "hot chocolate mix hh",
+        "example": "Emotion - hot chocolate mix hh",
+        "count": 1
+      },
+      {
+        "name": "RL10/12 Sunlit Chestnut",
+        "example": "Easy Does It - RL10/12 Sunlit Chestnut",
+        "count": 1
+      },
+      {
+        "name": "FS1B/27 Off Black",
+        "example": "CHARLI-V - FS1B/27 Off Black",
+        "count": 1
+      },
+      {
+        "name": "M17S light ash brown",
+        "example": "Roger 5 Stars - M17S light ash brown",
+        "count": 1
+      },
+      {
+        "name": "BROWN SABLE",
+        "example": "Kade - BROWN SABLE",
+        "count": 1
+      },
+      {
+        "name": "mocca mix hh",
+        "example": "mondo - mocca mix hh",
+        "count": 1
+      },
+      {
+        "name": "G27 ginger mist",
+        "example": "Incentive Petite - G27 ginger mist",
+        "count": 1
+      },
+      {
+        "name": "light brown",
+        "example": "eli - light brown",
+        "count": 1
+      },
+      {
+        "name": "r17-101 ash brown platinum blonde blend",
+        "example": "Kate petite - r17-101 ash brown platinum blonde blend",
+        "count": 1
+      },
+      {
+        "name": "GL1/2",
+        "example": "TIMELESS BEAUTY - GL1/2",
+        "count": 1
+      },
+      {
+        "name": "RL14/25 honey ginger",
+        "example": "Fascination - RL14/25 honey ginger",
+        "count": 1
+      },
+      {
+        "name": "GL51-56 sugared pewter",
+        "example": "belle - GL51-56 sugared pewter",
+        "count": 1
+      },
+      {
+        "name": "24bt18 eclair",
+        "example": "Skylar - 24bt18 eclair",
+        "count": 1
+      },
+      {
+        "name": "SS14/88H GOLDEN WHEAT",
+        "example": "SPARKLE - SS14/88H GOLDEN WHEAT",
+        "count": 1
+      },
+      {
+        "name": "R3HH dark brown",
+        "example": "human hair pony 16 - R3HH dark brown",
+        "count": 1
+      },
+      {
+        "name": "G56 sugared silver",
+        "example": "commitment large - G56 sugared silver",
+        "count": 1
+      },
+      {
+        "name": "M38S med brown 50% grey",
+        "example": "Gary - M38S med brown 50% grey",
+        "count": 1
+      },
+      {
+        "name": "DARK SAND MIX",
+        "example": "ZIZI - DARK SAND MIX",
+        "count": 1
+      },
+      {
+        "name": "R3025S+ Glazed Cinnamon",
+        "example": "16” 10PC Human Hair Fineline Extension Kit - R3025S+ Glazed Cinnamon",
+        "count": 1
+      },
+      {
+        "name": "GL23-101SS SUNKISSED BEIGE",
+        "example": "Royal Tease - GL23-101SS SUNKISSED BEIGE",
+        "count": 1
+      },
+      {
+        "name": "ash grey shad",
+        "example": "Rica - ash grey shad",
+        "count": 1
+      },
+      {
+        "name": "CREAMY TOFFEE",
+        "example": "STEVIE - CREAMY TOFFEE",
+        "count": 1
+      },
+      {
+        "name": "golden brown",
+        "example": "elsie - golden brown",
+        "count": 1
+      },
+      {
+        "name": "auburn sugar",
+        "example": "erin - auburn sugar",
+        "count": 1
+      },
+      {
+        "name": "mochaccino long rooted",
+        "example": "Evanna - mochaccino long rooted",
+        "count": 1
+      },
+      {
+        "name": "dark rust",
+        "example": "mariah - dark rust",
+        "count": 1
+      },
+      {
+        "name": "champagne shad",
+        "example": "London Super - champagne shad",
+        "count": 1
+      },
+      {
+        "name": "DARK SAND ROOTED",
+        "example": "SUE mono - DARK SAND ROOTED",
+        "count": 1
+      },
+      {
+        "name": "GL10-14 WALNUT",
+        "example": "SOCIALITE - GL10-14 WALNUT",
+        "count": 1
+      },
+      {
+        "name": "creamy dolce",
+        "example": "Ensley - creamy dolce",
+        "count": 1
+      },
+      {
+        "name": "GL15-26 buttered toast",
+        "example": "Top Tier - GL15-26 buttered toast",
+        "count": 1
+      },
+      {
+        "name": "honey brown",
+        "example": "Kris - honey brown",
+        "count": 1
+      },
+      {
+        "name": "RL14/25 HONEY GINGER",
+        "example": "SHOW STOPPER - RL14/25 HONEY GINGER",
+        "count": 1
+      },
+      {
+        "name": "silver stone",
+        "example": "NEW ADDITION - silver stone",
+        "count": 1
+      },
+      {
+        "name": "GL29-31 rusty auburn",
+        "example": "UPPER CUT - GL29-31 rusty auburn",
+        "count": 1
+      },
+      {
+        "name": "GL56-60 sugared silver",
+        "example": "curl up - GL56-60 sugared silver",
+        "count": 1
+      },
+      {
+        "name": "R9F26 mocha foils",
+        "example": "Watch Me Wow - R9F26 mocha foils",
+        "count": 1
+      },
+      {
+        "name": "chocolate mix hh",
+        "example": "Delicate Plus - chocolate mix hh",
+        "count": 1
+      },
+      {
+        "name": "G15 buttered toast mist",
+        "example": "commitment - G15 buttered toast mist",
+        "count": 1
+      },
+      {
+        "name": "R14/16T BUTTERED TOAST",
+        "example": "23 GRAND SYNTHETIC EXTENSION - R14/16T BUTTERED TOAST",
+        "count": 1
+      },
+      {
+        "name": "GL12-16 golden walnut",
+        "example": "epic large - GL12-16 golden walnut",
+        "count": 1
+      },
+      {
+        "name": "blonde ambition",
+        "example": "envious - blonde ambition",
+        "count": 1
+      },
+      {
+        "name": "hot chilli mix",
+        "example": "Dance - hot chilli mix",
+        "count": 1
+      },
+      {
+        "name": "auburn mix",
+        "example": "Fenja - auburn mix",
+        "count": 1
+      },
+      {
+        "name": "G17 vanilla mist",
+        "example": "aspire petite - G17 vanilla mist",
+        "count": 1
+      },
+      {
+        "name": "R6 Dark Chocolate",
+        "example": "double braid headband - R6 Dark Chocolate",
+        "count": 1
+      },
+      {
+        "name": "dark auburn mix",
+        "example": "open - dark auburn mix",
+        "count": 1
+      },
+      {
+        "name": "SS8/12 iced mocha",
+        "example": "go all out 16 - SS8/12 iced mocha",
+        "count": 1
+      },
+      {
+        "name": "R1HH black",
+        "example": "Charmed Life 12 - R1HH black",
+        "count": 1
+      },
+      {
+        "name": "creamy toffee long rooted",
+        "example": "Kai - creamy toffee long rooted",
+        "count": 1
+      },
+      {
+        "name": "middle blonde",
+        "example": "Anne Nature - middle blonde",
+        "count": 1
+      },
+      {
+        "name": "RL14/25SS shaded honey ginger",
+        "example": "Advanced French - RL14/25SS shaded honey ginger",
+        "count": 1
+      },
+      {
+        "name": "56 vanilla marble",
+        "example": "SIMPLICITY PETITE - 56 vanilla marble",
+        "count": 1
+      },
+      {
+        "name": "GL23-101 sunkissed beige",
+        "example": "TRUE DEMURE - GL23-101 sunkissed beige",
+        "count": 1
+      },
+      {
+        "name": "R10 CHESTNUT",
+        "example": "LONG WITH LAYERS - R10 CHESTNUT",
+        "count": 1
+      },
+      {
+        "name": "AUBURN SUGAR ROOTED",
+        "example": "SKY - AUBURN SUGAR ROOTED",
+        "count": 1
+      },
+      {
+        "name": "R2/31Cocoa",
+        "example": "SAVOIR FAIRE - R2/31Cocoa",
+        "count": 1
+      },
+      {
+        "name": "G29 cayenne mist",
+        "example": "Instinct Average Large - G29 cayenne mist",
+        "count": 1
+      },
+      {
+        "name": "4/33 chocolate raspberry truffle",
+        "example": "amber large - 4/33 chocolate raspberry truffle",
+        "count": 1
+      },
+      {
+        "name": "8r14-25 caramel rooted",
+        "example": "alexis hh - 8r14-25 caramel rooted",
+        "count": 1
+      },
+      {
+        "name": "27t613s8 shaded sun",
+        "example": "cameron - 27t613s8 shaded sun",
+        "count": 1
+      },
+      {
+        "name": "chocolate brown",
+        "example": "Emma - chocolate brown",
+        "count": 1
+      },
+      {
+        "name": "G10 nutmeg mist",
+        "example": "carte blanche large - G10 nutmeg mist",
+        "count": 1
+      },
+      {
+        "name": "R28S GLAZED FIRE",
+        "example": "23 WAVY HAIR EXTENSIONS HD - R28S GLAZED FIRE",
+        "count": 1
+      },
+      {
+        "name": "GL10-14 walnut",
+        "example": "premium - GL10-14 walnut",
+        "count": 1
+      },
+      {
+        "name": "chocolate shad",
+        "example": "Ava Mono part - chocolate shad",
+        "count": 1
+      },
+      {
+        "name": "R23s glazed vanilla",
+        "example": "CHAMELEON - R23s glazed vanilla",
+        "count": 1
+      },
+      {
+        "name": "STRAWBERRY BLONDE",
+        "example": "SIERRA - STRAWBERRY BLONDE",
+        "count": 1
+      },
+      {
+        "name": "GL8/29SS hazelnut rooted",
+        "example": "runway waves - GL8/29SS hazelnut rooted",
+        "count": 1
+      },
+      {
+        "name": "r3025s glazed cinnamon hh",
+        "example": "INDULGENCE - r3025s glazed cinnamon hh",
+        "count": 1
+      },
+      {
+        "name": "RL6/30 copper mahogany",
+        "example": "pretty please - RL6/30 copper mahogany",
+        "count": 1
+      },
+      {
+        "name": "G31 mango mist",
+        "example": "Innuendo - G31 mango mist",
+        "count": 1
+      },
+      {
+        "name": "honey brown rooted",
+        "example": "Anastasia - honey brown rooted",
+        "count": 1
+      },
+      {
+        "name": "24b/27cs10 shaded butterscotch",
+        "example": "EASIPART XL HH 8 - 24b/27cs10 shaded butterscotch",
+        "count": 1
+      },
+      {
+        "name": "r101 pearl platinum",
+        "example": "SONATA - r101 pearl platinum",
+        "count": 1
+      },
+      {
+        "name": "613/102s8 shaded lemon macaron",
+        "example": "Kim - 613/102s8 shaded lemon macaron",
+        "count": 1
+      },
+      {
+        "name": "R388G gradient smoked walnut",
+        "example": "Winner Elite - R388G gradient smoked walnut",
+        "count": 1
+      },
+      {
+        "name": "8r10-12 brown deluxe rooted",
+        "example": "megan medium - 8r10-12 brown deluxe rooted",
+        "count": 1
+      },
+      {
+        "name": "bl5-reddish-brown",
+        "example": "Contessa - bl5-reddish-brown",
+        "count": 1
+      },
+      {
+        "name": "GL8-10 DARK CHESTNUT",
+        "example": "STEPPING OUT LARGE - GL8-10 DARK CHESTNUT",
+        "count": 1
+      },
+      {
+        "name": "12F light golden brown w/ light golden blonde highlights",
+        "example": "Classy - 12F light golden brown w/ light golden blonde highlights",
+        "count": 1
+      },
+      {
+        "name": "aubergine mix",
+        "example": "Fair - aubergine mix",
+        "count": 1
+      },
+      {
+        "name": "R14/25 honey ginger hh",
+        "example": "Beguile - R14/25 honey ginger hh",
+        "count": 1
+      },
+      {
+        "name": "213f-jr caramelo mix",
+        "example": "brenda - 213f-jr caramelo mix",
+        "count": 1
+      },
+      {
+        "name": "R7HH strawberry blonde",
+        "example": "clip in bang human hair - R7HH strawberry blonde",
+        "count": 1
+      },
+      {
+        "name": "razberry ice rooted",
+        "example": "Emery - razberry ice rooted",
+        "count": 1
+      },
+      {
+        "name": "SANDY BLONDE ROOTED",
+        "example": "STAR - SANDY BLONDE ROOTED",
+        "count": 1
+      },
+      {
+        "name": "mimosa hl",
+        "example": "Charlie - mimosa hl",
+        "count": 1
+      },
+      {
+        "name": "silver stone rooted",
+        "example": "meadow - silver stone rooted",
+        "count": 1
+      },
+      {
+        "name": "MOCHACCINO",
+        "example": "ZOE - MOCHACCINO",
+        "count": 1
+      },
+      {
+        "name": "midnight stone",
+        "example": "mod sleek - midnight stone",
+        "count": 1
+      },
+      {
+        "name": "r8-32h golden brown w dark auburn highlights",
+        "example": "Heaven - r8-32h golden brown w dark auburn highlights",
+        "count": 1
+      },
+      {
+        "name": "SS12/22 shaded cappuccino",
+        "example": "gilded 18 - SS12/22 shaded cappuccino",
+        "count": 1
+      },
+      {
+        "name": "nutmeg rooted",
+        "example": "nolan - nutmeg rooted",
+        "count": 1
+      },
+      {
+        "name": "CHESTNUT",
+        "example": "Sky Large - CHESTNUT",
+        "count": 1
+      },
+      {
+        "name": "10RH16 light brown w/ 33% light natural blonde highlights",
+        "example": "bryce - 10RH16 light brown w/ 33% light natural blonde highlights",
+        "count": 1
+      },
+      {
+        "name": "expresso",
+        "example": "LONG TOP PIECE - expresso",
+        "count": 1
+      },
+      {
+        "name": "grape burst",
+        "example": "CHIC WAVEZ - grape burst",
+        "count": 1
+      },
+      {
+        "name": "lavender blush rooted",
+        "example": "Kensley - lavender blush rooted",
+        "count": 1
+      },
+      {
+        "name": "4r30-33 chestnut rooted",
+        "example": "aura - 4r30-33 chestnut rooted",
+        "count": 1
+      },
+      {
+        "name": "cherry red mix",
+        "example": "Cloud - cherry red mix",
+        "count": 1
+      },
+      {
+        "name": "mocca lighted",
+        "example": "cool - mocca lighted",
+        "count": 1
+      },
+      {
+        "name": "56/51 oyster mushrooms",
+        "example": "TOP CROWN - 56/51 oyster mushrooms",
+        "count": 1
+      },
+      {
+        "name": "R4/6 dark brown blended with chestnut brown",
+        "example": "Emmett - R4/6 dark brown blended with chestnut brown",
+        "count": 1
+      },
+      {
+        "name": "G4 DARK CHOC MIST",
+        "example": "ZEST - G4 DARK CHOC MIST",
+        "count": 1
+      },
+      {
+        "name": "fs12/24b cinnamon syrup",
+        "example": "sheena petite - fs12/24b cinnamon syrup",
+        "count": 1
+      },
+      {
+        "name": "10/26TT fortune cookie",
+        "example": "Idalia - 10/26TT fortune cookie",
+        "count": 1
+      },
+      {
+        "name": "r14-8h golden brown dark blonde highlights on top",
+        "example": "Mono Wiglet 413-MP - r14-8h golden brown dark blonde highlights on top",
+        "count": 1
+      },
+      {
+        "name": "Champagne Rooted",
+        "example": "Lexy - Champagne Rooted",
+        "count": 1
+      },
+      {
+        "name": "M38S med brown",
+        "example": "Justin - M38S med brown",
+        "count": 1
+      },
+      {
+        "name": "Bubblegum Rooted",
+        "example": "Billie - Bubblegum Rooted",
+        "count": 1
+      },
+      {
+        "name": "beige multi mix",
+        "example": "Gilda Mono - beige multi mix",
+        "count": 1
+      },
+      {
+        "name": "SS14/88H golden wheat",
+        "example": "Graceful Bob - SS14/88H golden wheat",
+        "count": 1
+      },
+      {
+        "name": "coco brown",
+        "example": "Harriet - coco brown",
+        "count": 1
+      },
+      {
+        "name": "sand multi rooted",
+        "example": "Vanity - sand multi rooted",
+        "count": 1
+      },
+      {
+        "name": "Buttered Toast",
+        "example": "Sydney - Buttered Toast",
+        "count": 1
+      },
+      {
+        "name": "38",
+        "example": "Pam - 38",
+        "count": 1
+      },
+      {
+        "name": "light red",
+        "example": "pixie this - light red",
+        "count": 1
+      },
+      {
+        "name": "Brown Sugar",
+        "example": "Naya - Brown Sugar",
+        "count": 1
+      },
+      {
+        "name": "Auburn Sugar Rooted",
+        "example": "Lulu - Auburn Sugar Rooted",
+        "count": 1
+      },
+      {
+        "name": "r2/4 dark brown mix",
+        "example": "Ponytail Spring Clip - r2/4 dark brown mix",
+        "count": 1
+      },
+      {
+        "name": "GL10-12 SUNLIT CHESTNUT",
+        "example": "Premium Luxury - GL10-12 SUNLIT CHESTNUT",
+        "count": 1
+      },
+      {
+        "name": "r14-25 honey ginger hh",
+        "example": "SUCCESS STORY - r14-25 honey ginger hh",
+        "count": 1
+      },
+      {
+        "name": "lilac cloud",
+        "example": "lush wavez - lilac cloud",
+        "count": 1
+      },
+      {
+        "name": "champagne blush",
+        "example": "Adelle - champagne blush",
+        "count": 1
+      },
+      {
+        "name": " Women Wig,REPLACE,2024-02-28 07:24:04 -0500,2025-09-16 01:57:04 -0400,Active,false,,global,,false,https://chiquel.com/products/pure-honey-clearance,69,14620,true,IMAGE,https://cdn.shopify.com/s/files/1/0506/4710/5726/files/pure-honey-butterbeer-blonde-1_a9e70b0e-23a3-433d-b531-01beb0dd18e2.jpg?v=1757956609,MERGE,1,520,700,BUTTERBEER BLONDE,47819098751211,45724136341739,MERGE,Color,Cayenne with Ginger Root,,,,,1,,00840238506338,,0.0,kg,517.99,,true,,shopify,deny,manual,true,9,0,,,,,,,Long,Curly,Women Wig,Heat Friendly Synthetic Hair,Average,Light-Medium,[Lace Front",
+        "example": " Cap Design_Mono Filament -  Women Wig,REPLACE,2024-02-28 07:24:04 -0500,2025-09-16 01:57:04 -0400,Active,false,,global,,false,https://chiquel.com/products/pure-honey-clearance,69,14620,true,IMAGE,https://cdn.shopify.com/s/files/1/0506/4710/5726/files/pure-honey-butterbeer-blonde-1_a9e70b0e-23a3-433d-b531-01beb0dd18e2.jpg?v=1757956609,MERGE,1,520,700,BUTTERBEER BLONDE,47819098751211,45724136341739,MERGE,Color,Cayenne with Ginger Root,,,,,1,,00840238506338,,0.0,kg,517.99,,true,,shopify,deny,manual,true,9,0,,,,,,,Long,Curly,Women Wig,Heat Friendly Synthetic Hair,Average,Light-Medium,[Lace Front",
+        "count": 1
+      },
+      {
+        "name": "G630 choc copper mist",
+        "example": "Acclaim Petite - G630 choc copper mist",
+        "count": 1
+      },
+      {
+        "name": "12/30BT Rootbeer Float",
+        "example": "easiVolume HH 10 - 12/30BT Rootbeer Float",
+        "count": 1
+      },
+      {
+        "name": "ginger snap",
+        "example": "scorpio part mono - ginger snap",
+        "count": 1
+      },
+      {
+        "name": "637 copper mill",
+        "example": "Valery - 637 copper mill",
+        "count": 1
+      },
+      {
+        "name": "GL11-25 honey pecan",
+        "example": "opulence - GL11-25 honey pecan",
+        "count": 1
+      },
+      {
+        "name": "rh1488 dark blonde light blonde highlights",
+        "example": "Mono Wiglet 12-HH - rh1488 dark blonde light blonde highlights",
+        "count": 1
+      },
+      {
+        "name": "R5HH light reddish brown",
+        "example": "SOFT FOCUS - R5HH light reddish brown",
+        "count": 1
+      },
+      {
+        "name": "bubblegum rooted",
+        "example": "miley - bubblegum rooted",
+        "count": 1
+      },
+      {
+        "name": "fs613/24b honey syrup",
+        "example": "Kris - fs613/24b honey syrup",
+        "count": 1
+      },
+      {
+        "name": "SS17/23 Iced Latte Macchiato",
+        "example": "UPSTAGE LARGE - SS17/23 Iced Latte Macchiato",
+        "count": 1
+      },
+      {
+        "name": "hot mocca rooted",
+        "example": "disco - hot mocca rooted",
+        "count": 1
+      },
+      {
+        "name": "bl9 light golden blonde",
+        "example": "PRINCESSA - bl9 light golden blonde",
+        "count": 1
+      },
+      {
+        "name": "sandalwood rooted",
+        "example": "sandie - sandalwood rooted",
+        "count": 1
+      },
+      {
+        "name": "RL14/25SS SHADED HONEY GINGER",
+        "example": "ready for take off - RL14/25SS SHADED HONEY GINGER",
+        "count": 1
+      },
+      {
+        "name": "macadamia long rooted",
+        "example": "angie - macadamia long rooted",
+        "count": 1
+      },
+      {
+        "name": "GL8-29 hazelnut",
+        "example": "pixie perfect - GL8-29 hazelnut",
+        "count": 1
+      },
+      {
+        "name": "FS4/33/30A midnight cocoa",
+        "example": "cameron petite - FS4/33/30A midnight cocoa",
+        "count": 1
+      },
+      {
+        "name": "GL8/29SS HAZELNUT ROOTED",
+        "example": "Perfection - GL8/29SS HAZELNUT ROOTED",
+        "count": 1
+      },
+      {
+        "name": "royal emerald",
+        "example": "Flawless - royal emerald",
+        "count": 1
+      },
+      {
+        "name": "R28S glazed fire",
+        "example": "cinch - R28S glazed fire",
+        "count": 1
+      },
+      {
+        "name": "614 blonde ambition",
+        "example": "mia - 614 blonde ambition",
+        "count": 1
+      },
+      {
+        "name": "GL8-10 dark chestnut",
+        "example": "modern motif - GL8-10 dark chestnut",
+        "count": 1
+      },
+      {
+        "name": "satin gold",
+        "example": "Alexa - satin gold",
+        "count": 1
+      },
+      {
+        "name": "SS12/22 cappuccino",
+        "example": "PROVOCATEUR - SS12/22 cappuccino",
+        "count": 1
+      },
+      {
+        "name": "SS12/20 toast",
+        "example": "down time - SS12/20 toast",
+        "count": 1
+      },
+      {
+        "name": "MOLTEN AMBER",
+        "example": "SPELLBOUND - MOLTEN AMBER",
+        "count": 1
+      },
+      {
+        "name": "dark snow mix",
+        "example": "apart hi - dark snow mix",
+        "count": 1
+      },
+      {
+        "name": "GL15-26 BUTTERED TOAST",
+        "example": "SOFT AND SUBTLE PETITE/AVERAGE - GL15-26 BUTTERED TOAST",
+        "count": 1
+      },
+      {
+        "name": "platinum blonde",
+        "example": "Lemon - platinum blonde",
+        "count": 1
+      },
+      {
+        "name": "Chocolate Buttercream rooted",
+        "example": "Lauren - Chocolate Buttercream rooted",
+        "count": 1
+      },
+      {
+        "name": "33rh29 nutmeg",
+        "example": "blair - 33rh29 nutmeg",
+        "count": 1
+      },
+      {
+        "name": "R11S glazed mocha",
+        "example": "power - R11S glazed mocha",
+        "count": 1
+      },
+      {
+        "name": "38 milkshake",
+        "example": "naomi - 38 milkshake",
+        "count": 1
+      },
+      {
+        "name": "131t4s4 shaded berry",
+        "example": "allure large - 131t4s4 shaded berry",
+        "count": 1
+      },
+      {
+        "name": "caramel kiss",
+        "example": "Jones - caramel kiss",
+        "count": 1
+      },
+      {
+        "name": "r51 75% grey",
+        "example": "Mono Wiglet 36-LF - r51 75% grey",
+        "count": 1
+      },
+      {
+        "name": "4 BROWNIE FINALE",
+        "example": "Layla - 4 BROWNIE FINALE",
+        "count": 1
+      },
+      {
+        "name": "espresso tipped",
+        "example": "Brian - espresso tipped",
+        "count": 1
+      },
+      {
+        "name": "chestnut mix",
+        "example": "Fiore Soft - chestnut mix",
+        "count": 1
+      },
+      {
+        "name": "12fs8 shaded praline rooted hd",
+        "example": "EASIPART T HD 18 - 12fs8 shaded praline rooted hd",
+        "count": 1
+      },
+      {
+        "name": "sand shad",
+        "example": "Dolce Soft - sand shad",
+        "count": 1
+      },
+      {
+        "name": "RL56/60 silver",
+        "example": "upstage petite - RL56/60 silver",
+        "count": 1
+      },
+      {
+        "name": "Icy Caviar",
+        "example": "Kason - Icy Caviar",
+        "count": 1
+      },
+      {
+        "name": "sepia",
+        "example": "portia petite - sepia",
+        "count": 1
+      },
+      {
+        "name": "RL12/16 honey toast",
+        "example": "go all out 10 - RL12/16 honey toast",
+        "count": 1
+      },
+      {
+        "name": "GL38-48 sugared smoke",
+        "example": "TOP PERFECT - GL38-48 sugared smoke",
+        "count": 1
+      },
+      {
+        "name": "R14/88H golden wheat hh",
+        "example": "human hair bang - R14/88H golden wheat hh",
+        "count": 1
+      },
+      {
+        "name": "RL14/22SS SHADED WHEAT",
+        "example": "SPOTLIGHT - RL14/22SS SHADED WHEAT",
+        "count": 1
+      },
+      {
+        "name": "60 pure white",
+        "example": "playful - 60 pure white",
+        "count": 1
+      },
+      {
+        "name": "10/22tt almond biscuit",
+        "example": "Jazz Mono - 10/22tt almond biscuit",
+        "count": 1
+      },
+      {
+        "name": "R11/25 golden walnut",
+        "example": "Top Billing Wavy 14 - R11/25 golden walnut",
+        "count": 1
+      },
+      {
+        "name": "24b18s8 shaded mocha",
+        "example": "TOP SMART WAVY 12 - 24b18s8 shaded mocha",
+        "count": 1
+      },
+      {
+        "name": "R16/21S GLAZED SAND",
+        "example": "STOP TRAFFIC - R16/21S GLAZED SAND",
+        "count": 1
+      },
+      {
+        "name": "4/27/30 brownie blondies",
+        "example": "robin petite - 4/27/30 brownie blondies",
+        "count": 1
+      },
+      {
+        "name": "iced mocha",
+        "example": "jade - iced mocha",
+        "count": 1
+      },
+      {
+        "name": "R48 walnut mist",
+        "example": "whimsy - R48 walnut mist",
+        "count": 1
+      },
+      {
+        "name": "plum dandy",
+        "example": "Fabulous - plum dandy",
+        "count": 1
+      },
+      {
+        "name": "fs26/31s6 salted caramel",
+        "example": "Gisele - fs26/31s6 salted caramel",
+        "count": 1
+      },
+      {
+        "name": "GL60-101 silvery moon",
+        "example": "pinnacle - GL60-101 silvery moon",
+        "count": 1
+      },
+      {
+        "name": "4-6 chestnut classic",
+        "example": "megan s - 4-6 chestnut classic",
+        "count": 1
+      },
+      {
+        "name": "r30/28/26 auburn golden deluxe",
+        "example": "Berlin Petite - r30/28/26 auburn golden deluxe",
+        "count": 1
+      },
+      {
+        "name": "RL16/22 Iced Sweet Cream",
+        "example": "Spotlight Petite - RL16/22 Iced Sweet Cream",
+        "count": 1
+      },
+      {
+        "name": "R22 SWEDISH BLONDE",
+        "example": "12 Hair Extensions heat synthetic - R22 SWEDISH BLONDE",
+        "count": 1
+      },
+      {
+        "name": "caramel rooted",
+        "example": "Flair Mono - caramel rooted",
+        "count": 1
+      },
+      {
+        "name": "silver rooted",
+        "example": "citta mono - silver rooted",
+        "count": 1
+      },
+      {
+        "name": "BERNSTEIN ROOTED",
+        "example": "STOP HI TEC - BERNSTEIN ROOTED",
+        "count": 1
+      },
+      {
+        "name": "27MB dark red golden blond",
+        "example": "Breathless - 27MB dark red golden blond",
+        "count": 1
+      },
+      {
+        "name": "pastel blonde rooted",
+        "example": "beach mono - pastel blonde rooted",
+        "count": 1
+      },
+      {
+        "name": "CHAMPAGNE ROOTED",
+        "example": "LOUISE - CHAMPAGNE ROOTED",
+        "count": 1
+      },
+      {
+        "name": "r11s glazed mocha",
+        "example": "FULL FRINGE PIXIE - r11s glazed mocha",
+        "count": 1
+      },
+      {
+        "name": "ivory blonde shad",
+        "example": "Barletta Hi Mono - ivory blonde shad",
+        "count": 1
+      },
+      {
+        "name": "27b peach tart",
+        "example": "TOP NOTCH - 27b peach tart",
+        "count": 1
+      },
+      {
+        "name": "flame rooted",
+        "example": "casino more - flame rooted",
+        "count": 1
+      },
+      {
+        "name": "14/88h vanilla macaron",
+        "example": "SOPHIA - 14/88h vanilla macaron",
+        "count": 1
+      },
+      {
+        "name": "GL4-8 dark choc",
+        "example": "epic - GL4-8 dark choc",
+        "count": 1
+      },
+      {
+        "name": "starfire",
+        "example": "Avalon - starfire",
+        "count": 1
+      },
+      {
+        "name": "chocolate swirl",
+        "example": "MASON - chocolate swirl",
+        "count": 1
+      },
+      {
+        "name": "M56S ash brown",
+        "example": "chiseled - M56S ash brown",
+        "count": 1
+      },
+      {
+        "name": "praline & cream",
+        "example": "VALENTINA - praline & cream",
+        "count": 1
+      },
+      {
+        "name": "R12/26H honey pecan",
+        "example": "Winner Petite - R12/26H honey pecan",
+        "count": 1
+      },
+      {
+        "name": "mocha h",
+        "example": "shilo - mocha h",
+        "count": 1
+      },
+      {
+        "name": "rosewood rooted",
+        "example": "Link - rosewood rooted",
+        "count": 1
+      },
+      {
+        "name": "r56t medium 3 tone grey blend",
+        "example": "Nancy petite - r56t medium 3 tone grey blend",
+        "count": 1
+      },
+      {
+        "name": "sandalwood h",
+        "example": "claire - sandalwood h",
+        "count": 1
+      },
+      {
+        "name": "G58 sugared almond",
+        "example": "Acclaim Large - G58 sugared almond",
+        "count": 1
+      },
+      {
+        "name": "smoky grey rooted",
+        "example": "eden - smoky grey rooted",
+        "count": 1
+      },
+      {
+        "name": "seashell blond rooted",
+        "example": "harlee - seashell blond rooted",
+        "count": 1
+      },
+      {
+        "name": "hazelnut mix",
+        "example": "Fresh - hazelnut mix",
+        "count": 1
+      },
+      {
+        "name": "130/31 cherry cobbler",
+        "example": "Rampage - 130/31 cherry cobbler",
+        "count": 1
+      },
+      {
+        "name": "Pumpkin Pie Spice Rooted",
+        "example": "Stella - Pumpkin Pie Spice Rooted",
+        "count": 1
+      },
+      {
+        "name": "RL13/88 golden pecan",
+        "example": "editors pick elite - RL13/88 golden pecan",
+        "count": 1
+      },
+      {
+        "name": "moonstone",
+        "example": "Carter - moonstone",
+        "count": 1
+      },
+      {
+        "name": "G811 mahogany mist",
+        "example": "Acclaim - G811 mahogany mist",
+        "count": 1
+      },
+      {
+        "name": "fs4/33/30a midnight cocoa",
+        "example": "ESSENTIALLY YOU - fs4/33/30a midnight cocoa",
+        "count": 1
+      },
+      {
+        "name": "G14 almond mist",
+        "example": "Gala - G14 almond mist",
+        "count": 1
+      },
+      {
+        "name": "GL33-130 sangria",
+        "example": "runway waves large - GL33-130 sangria",
+        "count": 1
+      },
+      {
+        "name": "bahama beige mix",
+        "example": "Modena Mono - bahama beige mix",
+        "count": 1
+      },
+      {
+        "name": "101F48T soft white front light brown w/ 75% grey w/ soft white tips",
+        "example": "EASIPART MEDIUM HD 12 - 101F48T soft white front light brown w/ 75% grey w/ soft white tips",
+        "count": 1
+      },
+      {
+        "name": "G8 chestnut mist",
+        "example": "Affluence - G8 chestnut mist",
+        "count": 1
+      },
+      {
+        "name": "M7S natural med brown",
+        "example": "george 5 star - M7S natural med brown",
+        "count": 1
+      },
+      {
+        "name": "CHAMPAGNE MIX",
+        "example": "SPRING MONO - CHAMPAGNE MIX",
+        "count": 1
+      },
+      {
+        "name": "R435s Glazed Black Cherry",
+        "example": "perfect pixie - R435s Glazed Black Cherry",
+        "count": 1
+      },
+      {
+        "name": "r11s glazed mocha hh",
+        "example": "Applause - r11s glazed mocha hh",
+        "count": 1
+      },
+      {
+        "name": "24b613s12 shaded butter popcorn",
+        "example": "TOP FORM 12 HUMAN HAIR - 24b613s12 shaded butter popcorn",
+        "count": 1
+      },
+      {
+        "name": "r4 brown dark",
+        "example": "Victoria - r4 brown dark",
+        "count": 1
+      },
+      {
+        "name": "R22 swedish blonde",
+        "example": "simply straight pony 18 - R22 swedish blonde",
+        "count": 1
+      },
+      {
+        "name": "GL11-25SS honey pecan rooted",
+        "example": "Debutante - GL11-25SS honey pecan rooted",
+        "count": 1
+      },
+      {
+        "name": "G101 platinum mist",
+        "example": "renew - G101 platinum mist",
+        "count": 1
+      },
+      {
+        "name": "PermaFit 1720",
+        "example": "Perma Class - PermaFit 1720",
+        "count": 1
+      },
+      {
+        "name": "illumina rooted",
+        "example": "Alexandra - illumina rooted",
+        "count": 1
+      },
+      {
+        "name": "GL23-101 SUNKISSED BEIGE",
+        "example": "STEPPING OUT - GL23-101 SUNKISSED BEIGE",
+        "count": 1
+      },
+      {
+        "name": "strawberry swirl",
+        "example": "ryan - strawberry swirl",
+        "count": 1
+      },
+      {
+        "name": "black hh",
+        "example": "Impact - black hh",
+        "count": 1
+      },
+      {
+        "name": "34 nightfall",
+        "example": "Lily Petite - 34 nightfall",
+        "count": 1
+      },
+      {
+        "name": "RL8/29 HAZELNUT",
+        "example": "LIMELIGHT - RL8/29 HAZELNUT",
+        "count": 1
+      },
+      {
+        "name": "GL51-56 SUGARED PEWTER",
+        "example": "SOFT AND SUBTLE AVERAGE/LARGE - GL51-56 SUGARED PEWTER",
+        "count": 1
+      },
+      {
+        "name": "R56 smoke",
+        "example": "Aperitif - R56 smoke",
+        "count": 1
+      },
+      {
+        "name": "738 fire cracker",
+        "example": "angel - 738 fire cracker",
+        "count": 1
+      },
+      {
+        "name": "SS9/30 cocoa",
+        "example": "Voltage Elite - SS9/30 cocoa",
+        "count": 1
+      },
+      {
+        "name": "Dark Red",
+        "example": "Dena - Dark Red",
+        "count": 1
+      },
+      {
+        "name": "Chocolate Cherry",
+        "example": "Francesca - Chocolate Cherry",
+        "count": 1
+      },
+      {
+        "name": "Amaretto & Cream",
+        "example": "Kimberly - Amaretto & Cream",
+        "count": 1
+      },
+      {
+        "name": "dark sand shad",
+        "example": "Lina Small - dark sand shad",
+        "count": 1
+      },
+      {
+        "name": "r4 midnight brown",
+        "example": "Winner Premium - r4 midnight brown",
+        "count": 1
+      },
+      {
+        "name": "34 Dark Brown with Grey",
+        "example": "H222-V - 34 Dark Brown with Grey",
+        "count": 1
+      },
+      {
+        "name": "1B Off Black",
+        "example": "WP-LINDSAY-V - 1B Off Black",
+        "count": 1
+      },
+      {
+        "name": "99J Deep Burgundy Wine",
+        "example": "JOANNA-V - 99J Deep Burgundy Wine",
+        "count": 1
+      },
+      {
+        "name": "4 Medium Dark Brown",
+        "example": "BOHEMIAN-V - 4 Medium Dark Brown",
+        "count": 1
+      },
+      {
+        "name": "FS1B/33 Off Black",
+        "example": "AUTUMN-V - FS1B/33 Off Black",
+        "count": 1
+      },
+      {
+        "name": "midnight iris",
+        "example": "Diva - midnight iris",
+        "count": 1
+      },
+      {
+        "name": "4 Brownie Finale",
+        "example": "Dawn - 4 Brownie Finale",
+        "count": 1
+      },
+      {
+        "name": "RL8/240M Ombre Wheat",
+        "example": "Balayage Beauty - RL8/240M Ombre Wheat",
+        "count": 1
+      },
+      {
+        "name": "Creamy Toffee",
+        "example": "Aubrey - Creamy Toffee",
+        "count": 1
+      },
+      {
+        "name": "caramel biscotti",
+        "example": "Davina - caramel biscotti",
+        "count": 1
+      },
+      {
+        "name": "Hot Chocolate",
+        "example": "Clara - Hot Chocolate",
+        "count": 1
+      },
+      {
+        "name": "LIGHT ESPRESSO MIX",
+        "example": "Destiny - LIGHT ESPRESSO MIX",
+        "count": 1
+      },
+      {
+        "name": "Sunkissed Almond Rooted",
+        "example": "Spade - Sunkissed Almond Rooted",
+        "count": 1
+      },
+      {
+        "name": "Brown Blonde",
+        "example": "Kinetic Beauty - Brown Blonde",
+        "count": 1
+      },
+      {
+        "name": "Burnt Biscuit Blonde rooted",
+        "example": "Spade V - Burnt Biscuit Blonde rooted",
+        "count": 1
+      },
+      {
+        "name": "Auburn Sugar",
+        "example": "Lizzy - Auburn Sugar",
+        "count": 1
+      },
+      {
+        "name": "Creamy Blond",
+        "example": "Dolce - Creamy Blond",
+        "count": 1
+      },
+      {
+        "name": "GL1-2 Double Espresso",
+        "example": "Lets Lambada (Live) - GL1-2 Double Espresso",
+        "count": 1
+      },
+      {
+        "name": "RL32/31 CINNABAR",
+        "example": "SIMMER (Outlet) - RL32/31 CINNABAR",
+        "count": 1
+      },
+      {
+        "name": "Caramel Toffee Blonde Rooted",
+        "example": "Bradshaw - Caramel Toffee Blonde Rooted",
+        "count": 1
+      },
+      {
+        "name": "Brown Sugar Cookie Rooted",
+        "example": "Paige - Brown Sugar Cookie Rooted",
+        "count": 1
+      },
+      {
+        "name": "SS14/26/R10",
+        "example": "Dynamic - SS14/26/R10",
+        "count": 1
+      },
+      {
+        "name": "Cake Batter Blonde",
+        "example": "Napa (Outlet) - Cake Batter Blonde",
+        "count": 1
+      },
+      {
+        "name": "32-31 medium red and auburn blend",
+        "example": "Casual Curls 32/31 (Live) - 32-31 medium red and auburn blend",
+        "count": 1
+      },
+      {
+        "name": "GF1-2 DOUBLE ESPRESSO",
+        "example": "Under Cover Halo - GF1-2 DOUBLE ESPRESSO",
+        "count": 1
+      },
+      {
+        "name": "SS14/25 Honey Ginger",
+        "example": "On Fire (Facebook) - SS14/25 Honey Ginger",
+        "count": 1
+      },
+      {
+        "name": "10-130r bright red with medium brown roots",
+        "example": "California Beach Waves (Live) - 10-130r bright red with medium brown roots",
+        "count": 1
+      },
+      {
+        "name": "4/6R  Dark Brown",
+        "example": "Light and airy - 4/6R  Dark Brown",
+        "count": 1
+      },
+      {
+        "name": "Pink rw",
+        "example": "Queue The Hue - Pink rw",
+        "count": 1
+      },
+      {
+        "name": "light honey mix",
+        "example": "cat (Live) - light honey mix",
+        "count": 1
+      },
+      {
+        "name": "Stardust",
+        "example": "Shakerato Stardust (Amanda) - Stardust",
+        "count": 1
+      },
+      {
+        "name": "Iced Lavender Latte",
+        "example": "Allegro 18 Iced Lavender Latte (Amanda) - Iced Lavender Latte",
+        "count": 1
+      },
+      {
+        "name": "Deep Smoky Brown",
+        "example": "Zion Deep Smoky Brown (Amanda) - Deep Smoky Brown",
+        "count": 1
+      },
+      {
+        "name": "24BT18 dark natural ash blonde & light golden blonde blend w/ light golden blonde tips",
+        "example": "Bryce (Outlet) - 24BT18 dark natural ash blonde & light golden blonde blend w/ light golden blonde tips",
+        "count": 1
+      },
+      {
+        "name": "10RH16 Caffe Mocha",
+        "example": "Caelen (Outlet) - 10RH16 Caffe Mocha",
+        "count": 1
+      },
+      {
+        "name": "51 licorice twist",
+        "example": "ESSENTIALLY YOU (Kansas City) - 51 licorice twist",
+        "count": 1
+      },
+      {
+        "name": "White Rose Blond Rooted",
+        "example": "Mika! (Kansas City) - White Rose Blond Rooted",
+        "count": 1
+      },
+      {
+        "name": "icy oak sr",
+        "example": "Pax (Kansas City) - icy oak sr",
+        "count": 1
+      },
+      {
+        "name": "RL31/29 fiery copper",
+        "example": "Goddess (Kansas City) - RL31/29 fiery copper",
+        "count": 1
+      },
+      {
+        "name": "milky opal rooted",
+        "example": "Mira (Kansas City) - milky opal rooted",
+        "count": 1
+      },
+      {
+        "name": "RL30/27 RUSTY AUBURN",
+        "example": "Black Tie Chic (Kansas City) - RL30/27 RUSTY AUBURN",
+        "count": 1
+      },
+      {
+        "name": "GF8-12SS iced mocha",
+        "example": "Own The Room (Kansas City) - GF8-12SS iced mocha",
+        "count": 1
+      },
+      {
+        "name": "Golden Nutmeg",
+        "example": "Scarlett Petite (Kansas City) - Golden Nutmeg",
+        "count": 1
+      },
+      {
+        "name": "Dark Chocolate Mix",
+        "example": "Savelli - Dark Chocolate Mix",
+        "count": 1
+      },
+      {
+        "name": "Chocolate Mix",
+        "example": "Prima Soft - Chocolate Mix",
+        "count": 1
+      },
+      {
+        "name": "R4/6 Deep Brown Mix",
+        "example": "Shai - R4/6 Deep Brown Mix",
+        "count": 1
+      },
+      {
+        "name": "SS9/24 Iced Cafe Latte",
+        "example": "crowd pleaser (Kansas City) - SS9/24 Iced Cafe Latte",
+        "count": 1
+      },
+      {
+        "name": "Dark Chocolate",
+        "example": "Glam Wavez (Kansas City) - Dark Chocolate",
+        "count": 1
+      },
+      {
+        "name": "SS10/22 iced cappuccino",
+        "example": "on in 10 (Kansas City) - SS10/22 iced cappuccino",
+        "count": 1
+      },
+      {
+        "name": "RL8/12SS ICED MOCHA",
+        "example": "Big Spender (Kansas City) - RL8/12SS ICED MOCHA",
+        "count": 1
+      },
+      {
+        "name": "8/32 COCOA BEAN",
+        "example": "Maeve (Kansas City) - 8/32 COCOA BEAN",
+        "count": 1
+      },
+      {
+        "name": "ss8-12 iced mocha",
+        "example": "In charge (Kansas City) - ss8-12 iced mocha",
+        "count": 1
+      },
+      {
+        "name": "fs10 toffee syrup",
+        "example": "Jazz (Kansas City) - fs10 toffee syrup",
+        "count": 1
+      },
+      {
+        "name": "java frost",
+        "example": "cameron (Kansas City) - java frost",
+        "count": 1
+      },
+      {
+        "name": "GL27-22 caramel",
+        "example": "premium (Kansas City) - GL27-22 caramel",
+        "count": 1
+      },
+      {
+        "name": "Cool Chai Blonde Rooted",
+        "example": "Monroe (Kansas City) - Cool Chai Blonde Rooted",
+        "count": 1
+      },
+      {
+        "name": "SS44/60 sugared licorice",
+        "example": "crushing on casual (Kansas City) - SS44/60 sugared licorice",
+        "count": 1
+      },
+      {
+        "name": "Jamoca Almond Fudge Rooted",
+        "example": "Destiny E (Kansas City) - Jamoca Almond Fudge Rooted",
+        "count": 1
+      },
+      {
+        "name": "FS4/33/30A MIDNIGHT COCOA",
+        "example": "Hollie (Kansas City) - FS4/33/30A MIDNIGHT COCOA",
+        "count": 1
+      },
+      {
+        "name": "R51/61 iced granita",
+        "example": "go to style (Kansas City) - R51/61 iced granita",
+        "count": 1
+      },
+      {
+        "name": "RL19/23SS SHADED BISCUIT",
+        "example": "SPOTLIGHT (Kansas City) - RL19/23SS SHADED BISCUIT",
+        "count": 1
+      },
+      {
+        "name": "R14/16T buttered toast hh",
+        "example": "gilded 18 (Kansas City) - R14/16T buttered toast hh",
+        "count": 1
+      },
+      {
+        "name": "6h12 espresso",
+        "example": "Jazz Petite (Kansas City) - 6h12 espresso",
+        "count": 1
+      },
+      {
+        "name": "RL4/6 black coffee",
+        "example": "Statement Style (Kansas City) - RL4/6 black coffee",
+        "count": 1
+      },
+      {
+        "name": "bl1-darkest-brown",
+        "example": "Contessa (Kansas City) - bl1-darkest-brown",
+        "count": 1
+      },
+      {
+        "name": "Mixed Berry Rooted",
+        "example": "Wintour (Kansas City) - Mixed Berry Rooted",
+        "count": 1
+      },
+      {
+        "name": "1b60 peppercorn",
+        "example": "Evan (Kansas City) - 1b60 peppercorn",
+        "count": 1
+      },
+      {
+        "name": "GF19-23SS biscuit",
+        "example": "Jaw Dropper (Kansas City) - GF19-23SS biscuit",
+        "count": 1
+      },
+      {
+        "name": "rh26-613rt8 golden blonde with pale blonde highlights dark root",
+        "example": "Mellow (Kansas City) - rh26-613rt8 golden blonde with pale blonde highlights dark root",
+        "count": 1
+      },
+      {
+        "name": "mocca rooted hh",
+        "example": "appeal (Kansas City) - mocca rooted hh",
+        "count": 1
+      },
+      {
+        "name": "sandy blonde mix",
+        "example": "Mint (Kansas City) - sandy blonde mix",
+        "count": 1
+      }
+    ],
+    "brunette": [
+      {
+        "name": "espresso mix",
+        "example": "SMOKE HI MONO - espresso mix",
+        "count": 28
+      },
+      {
+        "name": "dark chocolate",
+        "example": "may - dark chocolate",
+        "count": 11
+      },
+      {
+        "name": "1 Jet Black",
+        "example": "LBP-TOBI - 1 Jet Black",
+        "count": 11
+      },
+      {
+        "name": "6 fudgesicle",
+        "example": "Carrie - 6 fudgesicle",
+        "count": 7
+      },
+      {
+        "name": " &quot;San Francisco&quot;",
+        "example": " then simply adjust these to fit your head.</p>,Estetica,,Brand_Estetica -  &quot;San Francisco&quot;",
+        "count": 6
+      },
+      {
+        "name": "Sienna Spice",
+        "example": "Nottingham - Discontinued Color (Live) - Sienna Spice",
+        "count": 6
+      },
+      {
+        "name": " &quot;Helvetica Neue&quot;",
+        "example": " cat:blondes -  &quot;Helvetica Neue&quot;",
+        "count": 5
+      },
+      {
+        "name": "8/30 cocoa twist",
+        "example": "ANNE - 8/30 cocoa twist",
+        "count": 4
+      },
+      {
+        "name": "6/33 raspberry twist",
+        "example": "scarlett large - 6/33 raspberry twist",
+        "count": 4
+      },
+      {
+        "name": "Chrome",
+        "example": "Nitro 22 - Discontinued Colours (Live) - Chrome",
+        "count": 4
+      },
+      {
+        "name": "Ginger",
+        "example": "Amber Rock - Discontinued Colors (Live) - Ginger",
+        "count": 4
+      },
+      {
+        "name": "Cinnamon Raisin",
+        "example": "Hannah - Cinnamon Raisin",
+        "count": 3
+      },
+      {
+        "name": "Brown 167",
+        "example": "Mantra Long Scarf - Brown 167",
+        "count": 3
+      },
+      {
+        "name": "Coffee without Cream",
+        "example": "Clover - Discontinued Color (Live) - Coffee without Cream",
+        "count": 3
+      },
+      {
+        "name": " BlinkMacSystemFont",
+        "example": " Cap Design_Wefted / Basic -  BlinkMacSystemFont",
+        "count": 2
+      },
+      {
+        "name": "r8/29s glazed hazelnut",
+        "example": "textured flip wig - r8/29s glazed hazelnut",
+        "count": 2
+      },
+      {
+        "name": "Woodrose 551",
+        "example": "Zoya Turban - Woodrose 551",
+        "count": 2
+      },
+      {
+        "name": "sky",
+        "example": "Softie Accent - sky",
+        "count": 2
+      },
+      {
+        "name": "midnight stone",
+        "example": "divine wavez - midnight stone",
+        "count": 2
+      },
+      {
+        "name": "auburn sugar",
+        "example": "Tate - auburn sugar",
+        "count": 2
+      },
+      {
+        "name": "6f27 caramel ribbon",
+        "example": "ZARA PETITE - 6f27 caramel ribbon",
+        "count": 2
+      },
+      {
+        "name": "M3S dark brown",
+        "example": "Jay - M3S dark brown",
+        "count": 2
+      },
+      {
+        "name": " Roboto",
+        "example": " Cap Design_Lace Front -  Roboto",
+        "count": 2
+      },
+      {
+        "name": "ballerina and blooms",
+        "example": "reversible softie headscarf - ballerina and blooms",
+        "count": 2
+      },
+      {
+        "name": " &quot;Segoe UI&quot;",
+        "example": " Cap Design_Wefted / Basic -  &quot;Segoe UI&quot;",
+        "count": 2
+      },
+      {
+        "name": "Graphite",
+        "example": "Stumptown - Discontinued Colour (Live) - Graphite",
+        "count": 2
+      },
+      {
+        "name": "Caramel Almond",
+        "example": "Pure Honey Balayage - Discontinued Colors (Live) - Caramel Almond",
+        "count": 2
+      },
+      {
+        "name": "&quot;abs_y&quot;:26}></p><h3 bis_size={&quot;x&quot;:325",
+        "example": " and effortless beauty—making every day a good hair day.</p>,Raquel Welch,,Brand_RAQUEL WELCH - &quot;abs_y&quot;:26}></p><h3 bis_size={&quot;x&quot;:325",
+        "count": 2
+      },
+      {
+        "name": "Cayenne with Ginger Root",
+        "example": "Dalgona 23 (Outlet) - Cayenne with Ginger Root",
+        "count": 2
+      },
+      {
+        "name": "GL14-16 honey toast",
+        "example": "opulence large - GL14-16 honey toast",
+        "count": 1
+      },
+      {
+        "name": "stiletto snake",
+        "example": "Softie Boho Beanie Print - stiletto snake",
+        "count": 1
+      },
+      {
+        "name": " Side: 9.5",
+        "example": " Cap Design_Lace Front -  Side: 9.5",
+        "count": 1
+      },
+      {
+        "name": "beige multi shad",
+        "example": "Tact Soft - beige multi shad",
+        "count": 1
+      },
+      {
+        "name": "marble brown long rooted",
+        "example": "Safi - marble brown long rooted",
+        "count": 1
+      },
+      {
+        "name": "mt antic pink",
+        "example": "Magena - mt antic pink",
+        "count": 1
+      },
+      {
+        "name": "TCS soft coral",
+        "example": "Simple Softie - TCS soft coral",
+        "count": 1
+      },
+      {
+        "name": "Raisin 552",
+        "example": "Laura Turban - Raisin 552",
+        "count": 1
+      },
+      {
+        "name": "Grey Melange 686",
+        "example": "Rosa V Turban - Grey Melange 686",
+        "count": 1
+      },
+      {
+        "name": "R4 midnight brown",
+        "example": "breezy wave cut - R4 midnight brown",
+        "count": 1
+      },
+      {
+        "name": "Almond Spice Rooted",
+        "example": "Brady - Almond Spice Rooted",
+        "count": 1
+      },
+      {
+        "name": "tombi tales",
+        "example": "Softie Accent Print - tombi tales",
+        "count": 1
+      },
+      {
+        "name": "Blue Melange 391",
+        "example": "Chandra Night Cap - Blue Melange 391",
+        "count": 1
+      },
+      {
+        "name": "8r10-12 brown deluxe rooted",
+        "example": "IRENE - 8r10-12 brown deluxe rooted",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;2.05oz</span><br><strong>• approx length:&nbsp;</strong>Bang: 1.75 | Side: 2” | Crown: 2.25” | Nape: 1.5”</p>",
+        "example": " Cap Design_Capless -  sans-serif;>&nbsp;2.05oz</span><br><strong>• approx length:&nbsp;</strong>Bang: 1.75 | Side: 2” | Crown: 2.25” | Nape: 1.5”</p>",
+        "count": 1
+      },
+      {
+        "name": "Grey Melange 673",
+        "example": "Nelly V  Braided Turban - Grey Melange 673",
+        "count": 1
+      },
+      {
+        "name": "sugar cane rooted",
+        "example": "Emy - sugar cane rooted",
+        "count": 1
+      },
+      {
+        "name": "213f-jr caramelo mix",
+        "example": "sophie - 213f-jr caramelo mix",
+        "count": 1
+      },
+      {
+        "name": "Dusty Brown 318",
+        "example": "Soleil Sun Cap - Dusty Brown 318",
+        "count": 1
+      },
+      {
+        "name": " Women Wig,REPLACE,2024-02-28 07:22:45 -0500,2025-09-16 02:17:43 -0400,Active,false,,global,,false,https://chiquel.com/products/woolala-clearance,125,13560,true,IMAGE,https://cdn.shopify.com/s/files/1/0506/4710/5726/files/woolala-vanilla-lush-3_2edb3047-0136-47a5-b8ce-47097ce9d877.jpg?v=1757959144,MERGE,1,1000,1400,VANILLA LUSH,46774819193067,44680112865515,MERGE,Color,Cappuccino with Cherry,,,,,1,BT-6014_03,00840238507816,,0.0,kg,488.99,,true,,shopify,deny,manual,true,3,0,,,,,,,Short,Straight,Women Wig,Heat Friendly Synthetic Hair,Average,Light-Medium,[Lace Front",
+        "example": " Cap Design_Mono Filament -  Women Wig,REPLACE,2024-02-28 07:22:45 -0500,2025-09-16 02:17:43 -0400,Active,false,,global,,false,https://chiquel.com/products/woolala-clearance,125,13560,true,IMAGE,https://cdn.shopify.com/s/files/1/0506/4710/5726/files/woolala-vanilla-lush-3_2edb3047-0136-47a5-b8ce-47097ce9d877.jpg?v=1757959144,MERGE,1,1000,1400,VANILLA LUSH,46774819193067,44680112865515,MERGE,Color,Cappuccino with Cherry,,,,,1,BT-6014_03,00840238507816,,0.0,kg,488.99,,true,,shopify,deny,manual,true,3,0,,,,,,,Short,Straight,Women Wig,Heat Friendly Synthetic Hair,Average,Light-Medium,[Lace Front",
+        "count": 1
+      },
+      {
+        "name": "Blue 168",
+        "example": "Lotus Turban - Blue 168",
+        "count": 1
+      },
+      {
+        "name": "Floral Woods 738",
+        "example": "Sapphire Boho Printed Turban - Floral Woods 738",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;3.1oz</span><br><strong>• approx length:&nbsp;</strong>Front 5.5 | Crown 5.25 | Sides 6 | Nape 5</p>",
+        "example": " Cap Design_Capless -  sans-serif;>&nbsp;3.1oz</span><br><strong>• approx length:&nbsp;</strong>Front 5.5 | Crown 5.25 | Sides 6 | Nape 5</p>",
+        "count": 1
+      },
+      {
+        "name": "Artistic Autumn 720",
+        "example": "Shakti Printed Turban - Artistic Autumn 720",
+        "count": 1
+      },
+      {
+        "name": "Light Tan 248",
+        "example": "Nouli Wigliner - Light Tan 248",
+        "count": 1
+      },
+      {
+        "name": " Nape:18.0</p>",
+        "example": " breathable cap construction providing comfort for all-day wear.,Estetica,,Brand_Estetica -  Nape:18.0</p>",
+        "count": 1
+      },
+      {
+        "name": "spiritual trails",
+        "example": "The Softie Print - spiritual trails",
+        "count": 1
+      },
+      {
+        "name": "TT light pink",
+        "example": "Terry Turban - TT light pink",
+        "count": 1
+      },
+      {
+        "name": "PC black",
+        "example": "Poly Cotton Turban - PC black",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;4.27 oz</span><br><strong>• approx length:</strong>&nbsp;Bang: 11 | Side: 10.5” | Crown: 13” | Nape: 11”</p>",
+        "example": " then simply adjust these to fit your head. ,Estetica,,Brand_Estetica -  sans-serif;>&nbsp;4.27 oz</span><br><strong>• approx length:</strong>&nbsp;Bang: 11 | Side: 10.5” | Crown: 13” | Nape: 11”</p>",
+        "count": 1
+      },
+      {
+        "name": "bloom",
+        "example": "Elegant Softie Print - bloom",
+        "count": 1
+      },
+      {
+        "name": "GL10-12 SUNLIT CHESTNUT",
+        "example": "SWEET TALK - GL10-12 SUNLIT CHESTNUT",
+        "count": 1
+      },
+      {
+        "name": "r30/25s glazed cinnamon",
+        "example": "Textured fringe bob - r30/25s glazed cinnamon",
+        "count": 1
+      },
+      {
+        "name": "copper glaze",
+        "example": "Coco - copper glaze",
+        "count": 1
+      },
+      {
+        "name": "M7S natural med brown",
+        "example": "bradford - M7S natural med brown",
+        "count": 1
+      },
+      {
+        "name": "pastel pink",
+        "example": "rylee - pastel pink",
+        "count": 1
+      },
+      {
+        "name": "27t613s8 shaded sun",
+        "example": "Blake Petite - 27t613s8 shaded sun",
+        "count": 1
+      },
+      {
+        "name": "SC medium pink",
+        "example": "Sleep Cap - SC medium pink",
+        "count": 1
+      },
+      {
+        "name": "Rose With Glitter Piping 602",
+        "example": "Emmy V Turban - Rose With Glitter Piping 602",
+        "count": 1
+      },
+      {
+        "name": "dark sky",
+        "example": "Softie Wrap Print - dark sky",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;3.35 oz</span><br><strong>• approx length:&nbsp;</strong>Bang 3 | Crown 6.75 | Sides 7.25 | Nape 4.75</p>",
+        "example": " Cap Design_Capless -  sans-serif;>&nbsp;3.35 oz</span><br><strong>• approx length:&nbsp;</strong>Bang 3 | Crown 6.75 | Sides 7.25 | Nape 4.75</p>",
+        "count": 1
+      },
+      {
+        "name": "ah antik pink",
+        "example": "Anoki - ah antik pink",
+        "count": 1
+      },
+      {
+        "name": " Nape: 10.0</p>",
+        "example": " breathable cap construction providing comfort for all-day wear.,Estetica,,Brand_Estetica -  Nape: 10.0</p>",
+        "count": 1
+      },
+      {
+        "name": "Steel Grey 769",
+        "example": "B.B. Becca Turban - Steel Grey 769",
+        "count": 1
+      },
+      {
+        "name": "strawberry swirl",
+        "example": "bethany - strawberry swirl",
+        "count": 1
+      },
+      {
+        "name": "amethyst",
+        "example": "Cozy Hat - amethyst",
+        "count": 1
+      },
+      {
+        "name": "chocolate mix",
+        "example": "Affair Hi - chocolate mix",
+        "count": 1
+      },
+      {
+        "name": "toasted brown",
+        "example": "wavy bob halo - toasted brown",
+        "count": 1
+      },
+      {
+        "name": "maple sugar rooted",
+        "example": "Albee - maple sugar rooted",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;4.9oz</span><br><strong>• approx length:&nbsp;</strong>Bang: 6.5 | Side: 9” | Crown: 12” | Nape: 11.5”</p>",
+        "example": " Cap Design_Capless -  sans-serif;>&nbsp;4.9oz</span><br><strong>• approx length:&nbsp;</strong>Bang: 6.5 | Side: 9” | Crown: 12” | Nape: 11.5”</p>",
+        "count": 1
+      },
+      {
+        "name": "99J Deep Burgundy Wine",
+        "example": "ORIA - 99J Deep Burgundy Wine",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>&nbsp;Wig</span></p><p><strong>Brand:</strong>&nbsp;Vivica Fox<br><strong>Hair Type:</strong>&nbsp;Human Hair Blend<br><strong>Cap Design:</strong>&nbsp;100% Hand Tied Cap<br><strong>Cap Size:</strong>&nbsp;Average<br><strong>Approx Length:</strong>&nbsp;Overall:&nbsp;11~16</p>",
+        "example": " Cap Design_100% Hand Tied -  sans-serif;>&nbsp;Wig</span></p><p><strong>Brand:</strong>&nbsp;Vivica Fox<br><strong>Hair Type:</strong>&nbsp;Human Hair Blend<br><strong>Cap Design:</strong>&nbsp;100% Hand Tied Cap<br><strong>Cap Size:</strong>&nbsp;Average<br><strong>Approx Length:</strong>&nbsp;Overall:&nbsp;11~16</p>",
+        "count": 1
+      },
+      {
+        "name": "value:4.0},,,,,,,cat:brunettes,color_description.coolest-ash-brown,,,,,,,,,,,,,,<h3>PRODUCT REVIEW</h3>",
+        "example": " Cap Design_Mono Part - value:4.0},,,,,,,cat:brunettes,color_description.coolest-ash-brown,,,,,,,,,,,,,,<h3>PRODUCT REVIEW</h3>",
+        "count": 1
+      },
+      {
+        "name": "&quot;abs_y&quot;:201}>design</strong>: wig<br bis_size={&quot;x&quot;:688",
+        "example": " Cap Design_Lace Front - &quot;abs_y&quot;:201}>design</strong>: wig<br bis_size={&quot;x&quot;:688",
+        "count": 1
+      },
+      {
+        "name": "&quot;y&quot;:142",
+        "example": " Cap Design_Lace Front - &quot;y&quot;:142",
+        "count": 1
+      },
+      {
+        "name": "&quot;h&quot;:19",
+        "example": " Cap Design_Lace Front - &quot;h&quot;:19",
+        "count": 1
+      },
+      {
+        "name": "&quot;abs_x&quot;:841",
+        "example": " Cap Design_Lace Front - &quot;abs_x&quot;:841",
+        "count": 1
+      },
+      {
+        "name": "&quot;h&quot;:20",
+        "example": " Cap Design_Lace Front - &quot;h&quot;:20",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;>• brand:</strong><span style=font-family: -apple-system",
+        "example": " Cap Design_Wefted / Basic -  sans-serif;>• brand:</strong><span style=font-family: -apple-system",
+        "count": 1
+      },
+      {
+        "name": " sans-serif;> Gabor<br></span><strong>• hair type:</strong>&nbsp;Heat Synthetic Hair<br><strong>• cap design:</strong>&nbsp;Wefted / Basic",
+        "example": " Cap Design_Wefted / Basic -  sans-serif;> Gabor<br></span><strong>• hair type:</strong>&nbsp;Heat Synthetic Hair<br><strong>• cap design:</strong>&nbsp;Wefted / Basic",
+        "count": 1
+      },
+      {
+        "name": "&quot;abs_y&quot;:200}></p><h3 bis_size={&quot;x&quot;:325",
+        "example": " Cap Design_Wefted / Basic - &quot;abs_y&quot;:200}></p><h3 bis_size={&quot;x&quot;:325",
+        "count": 1
+      },
+      {
+        "name": "Purple Rain",
+        "example": "Allegro 28 (Outlet) - Purple Rain",
+        "count": 1
+      },
+      {
+        "name": "Iced Lavender Latte",
+        "example": "Maxwella 22 (Outlet) - Iced Lavender Latte",
+        "count": 1
+      },
+      {
+        "name": "&quot;h&quot;:0",
+        "example": " and effortless beauty—making every day a good hair day.</p>,Raquel Welch,Raquel35,Brand_RAQUEL WELCH - &quot;h&quot;:0",
+        "count": 1
+      },
+      {
+        "name": "4 brownie finale",
+        "example": "Luna (Kansas City) - 4 brownie finale",
+        "count": 1
+      },
+      {
+        "name": "ginger brown",
+        "example": "wavy bob halo (Kansas City) - ginger brown",
+        "count": 1
+      }
+    ],
+    "black": [
+      {
+        "name": "Black",
+        "example": "Flip-Flip Hooray Topper - Black",
+        "count": 21
+      },
+      {
+        "name": "1b hot fudge",
+        "example": "EASIPART FRENCH XL 12 HH - 1b hot fudge",
+        "count": 7
+      },
+      {
+        "name": "tcs Black",
+        "example": "The Softie - tcs Black",
+        "count": 1
+      },
+      {
+        "name": "black liner",
+        "example": "cotton wig liner - black liner",
+        "count": 1
+      },
+      {
+        "name": "nt black",
+        "example": "Namida - nt black",
+        "count": 1
+      },
+      {
+        "name": "black stripe",
+        "example": "Playful Softie - black stripe",
+        "count": 1
+      },
+      {
+        "name": "SW black",
+        "example": "Softie Wrap Solid - SW black",
+        "count": 1
+      },
+      {
+        "name": "black-s",
+        "example": "softie boho beanie - black-s",
+        "count": 1
+      },
+      {
+        "name": "TCS soft coral",
+        "example": "Casual Softie - TCS soft coral",
+        "count": 1
+      },
+      {
+        "name": "sky",
+        "example": "SOFTIE CAP - sky",
+        "count": 1
+      },
+      {
+        "name": "Black Tinsel",
+        "example": "TINSEL TOWN - Black Tinsel",
+        "count": 1
+      },
+      {
+        "name": "Black/Blue 440",
+        "example": "Chitta Printed Headband - Black/Blue 440",
+        "count": 1
+      },
+      {
+        "name": "TCS black",
+        "example": "BLOSSOM SOFTIE - TCS black",
+        "count": 1
+      },
+      {
+        "name": "1 Jet Black",
+        "example": "YOKI - 1 Jet Black",
+        "count": 1
+      }
+    ],
+    "gray": [
+      {
+        "name": "Purple Rain",
+        "example": "Counter Culture - Discontinued Colors (Live) - Purple Rain",
+        "count": 2
+      },
+      {
+        "name": "silver mist",
+        "example": "posh - silver mist",
+        "count": 1
+      }
+    ],
+    "red": [
+      {
+        "name": "Graphite",
+        "example": "Maxwella 18 - Discontinued Colors (Live) - Graphite",
+        "count": 2
+      }
+    ]
+  }
+}

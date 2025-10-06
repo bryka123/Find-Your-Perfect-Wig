@@ -1,0 +1,213 @@
+{{ 'wig-matcher.css' | asset_url | stylesheet_tag }}
+
+<div class="chiquel-wig-matcher-block" {{ block.shopify_attributes }}>
+  <div class="wig-matcher-wrapper">
+    {% if block.settings.title != blank %}
+      <div class="wig-matcher-header">
+        <h2 class="wig-matcher-title">{{ block.settings.title }}</h2>
+        {% if block.settings.description != blank %}
+          <p class="wig-matcher-description">{{ block.settings.description }}</p>
+        {% endif %}
+      </div>
+    {% endif %}
+    
+    <div 
+      id="chiquel-wig-matcher-{{ block.id }}" 
+      class="wig-matcher-container"
+      data-block-id="{{ block.id }}"
+      data-app-url="{{ block.settings.app_url }}"
+      data-theme="{{ block.settings.theme }}"
+      data-max-results="{{ block.settings.max_results }}"
+      data-show-filters="{{ block.settings.show_filters }}"
+      data-background-color="{{ block.settings.background_color }}"
+      data-text-color="{{ block.settings.text_color }}"
+      data-accent-color="{{ block.settings.accent_color }}"
+    >
+      <div class="wig-matcher-loading">
+        <div class="loading-spinner"></div>
+        <p>Loading wig matcher...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const blockId = '{{ block.id }}';
+  const container = document.getElementById('chiquel-wig-matcher-' + blockId);
+  
+  if (!container) return;
+  
+  // Get configuration from data attributes
+  const config = {
+    appUrl: container.dataset.appUrl || 'https://chiquel-wig-matcher.vercel.app',
+    theme: container.dataset.theme || 'light',
+    maxResults: parseInt(container.dataset.maxResults) || 6,
+    showFilters: container.dataset.showFilters === 'true',
+    backgroundColor: container.dataset.backgroundColor || '#ffffff',
+    textColor: container.dataset.textColor || '#333333',
+    accentColor: container.dataset.accentColor || '#e91e63'
+  };
+  
+  // Build iframe URL with configuration
+  const params = new URLSearchParams({
+    theme: config.theme,
+    maxResults: config.maxResults.toString(),
+    showFilters: config.showFilters.toString(),
+    backgroundColor: config.backgroundColor,
+    textColor: config.textColor,
+    accentColor: config.accentColor,
+    embedded: 'true'
+  });
+  
+  const iframeUrl = config.appUrl + '/storefront/wig-matcher?' + params.toString();
+  
+  // Create and configure iframe
+  const iframe = document.createElement('iframe');
+  iframe.src = iframeUrl;
+  iframe.style.width = '100%';
+  iframe.style.minHeight = '600px';
+  iframe.style.border = 'none';
+  iframe.style.backgroundColor = config.backgroundColor;
+  iframe.style.borderRadius = '12px';
+  iframe.setAttribute('loading', 'lazy');
+  iframe.setAttribute('title', 'Wig Matcher Tool');
+  
+  // Replace loading content with iframe
+  container.innerHTML = '';
+  container.appendChild(iframe);
+  
+  // Handle iframe messages for dynamic resizing
+  function handleMessage(event) {
+    if (event.origin !== new URL(config.appUrl).origin) return;
+    
+    if (event.data && event.data.type === 'wig-matcher-resize') {
+      iframe.style.height = Math.max(event.data.height, 400) + 'px';
+    }
+  }
+  
+  window.addEventListener('message', handleMessage);
+  
+  // Cleanup function (if needed for theme changes)
+  window.chiquelCleanup = window.chiquelCleanup || {};
+  window.chiquelCleanup[blockId] = function() {
+    window.removeEventListener('message', handleMessage);
+  };
+  
+})();
+</script>
+
+{% schema %}
+{
+  "name": "Wig Matcher",
+  "target": "section",
+  "available_if": "{{ app.metafields.chiquel.enabled.value == true }}",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Content"
+    },
+    {
+      "type": "text", 
+      "id": "title",
+      "label": "Title",
+      "default": "Find Your Perfect Wig",
+      "info": "Leave blank to hide title"
+    },
+    {
+      "type": "textarea",
+      "id": "description",
+      "label": "Description", 
+      "default": "Discover wigs that match your style and features using AI-powered recommendations",
+      "info": "Leave blank to hide description"
+    },
+    {
+      "type": "header",
+      "content": "Configuration"
+    },
+    {
+      "type": "url",
+      "id": "app_url",
+      "label": "App URL",
+      "default": "https://chiquel-wig-matcher.vercel.app",
+      "info": "The URL where your Chiquel app is hosted"
+    },
+    {
+      "type": "select",
+      "id": "theme",
+      "label": "Theme",
+      "options": [
+        {
+          "value": "light",
+          "label": "Light"
+        },
+        {
+          "value": "dark",
+          "label": "Dark"
+        },
+        {
+          "value": "auto",
+          "label": "Auto (match store theme)"
+        }
+      ],
+      "default": "light"
+    },
+    {
+      "type": "range",
+      "id": "max_results",
+      "label": "Maximum Results",
+      "min": 3,
+      "max": 12,
+      "step": 1,
+      "default": 6,
+      "info": "Number of wig matches to display"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_filters",
+      "label": "Show Filters",
+      "default": true,
+      "info": "Allow customers to filter by price, color, length, etc."
+    },
+    {
+      "type": "header",
+      "content": "Styling"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text Color",
+      "default": "#333333"
+    },
+    {
+      "type": "color", 
+      "id": "accent_color",
+      "label": "Accent Color",
+      "default": "#e91e63",
+      "info": "Used for buttons, highlights, and branding"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Wig Matcher",
+      "settings": {
+        "title": "Find Your Perfect Wig",
+        "description": "Discover wigs that match your style and features using AI-powered recommendations"
+      }
+    }
+  ]
+}
+{% endschema %}
+
+
+
+
+
+
+

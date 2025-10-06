@@ -1,0 +1,1446 @@
+{
+  "metadata": {
+    "color": "black",
+    "length": "medium",
+    "style": "classic",
+    "capConstruction": "monofilament",
+    "totalVariants": 48,
+    "filename": "black_medium_classic_monofilament.json",
+    "generated_at": "2025-09-24T16:06:50.004Z",
+    "includes_reference": false
+  },
+  "products": [
+    {
+      "id": "44679489093867",
+      "title": "Kylie - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1204.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy-Wigs-Kylie-Creamed-Coffee-Front.jpg?v=1744634501",
+          "altText": "Kylie - Black"
+        }
+      },
+      "content": "Kylie - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy-Wigs-Kylie-Creamed-Coffee-Front.jpg?v=1744634501",
+        "altText": "Kylie - Black"
+      }
+    },
+    {
+      "id": "44679562428651",
+      "title": "Aubrey - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "996.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/aubrey_-creamed-coffee-9886.jpg?v=1744990529",
+          "altText": "Aubrey - Black"
+        }
+      },
+      "content": "Aubrey - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/aubrey_-creamed-coffee-9886.jpg?v=1744990529",
+        "altText": "Aubrey - Black"
+      }
+    },
+    {
+      "id": "44679693304043",
+      "title": "Kris - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "226.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kris_20LS.webp?v=1709122297",
+          "altText": "Kris - Black"
+        }
+      },
+      "content": "Kris - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Kris_20LS.webp?v=1709122297",
+        "altText": "Kris - Black"
+      }
+    },
+    {
+      "id": "44679696482539",
+      "title": "Flame - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "564.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Flame_20LS.webp?v=1744994481",
+          "altText": "Flame - Black"
+        }
+      },
+      "content": "Flame - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Flame_20LS.webp?v=1744994481",
+        "altText": "Flame - Black"
+      }
+    },
+    {
+      "id": "44679710638315",
+      "title": "Top Notch HD - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "264.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/essentially_you_coverage__53174.1578371560.1280.1280__19891_1_a958b5e9-558e-4dd8-984a-02e053f65259.jpg?v=1709122333",
+          "altText": "Top Notch HD - 1b hot fudge"
+        }
+      },
+      "content": "Top Notch HD - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/essentially_you_coverage__53174.1578371560.1280.1280__19891_1_a958b5e9-558e-4dd8-984a-02e053f65259.jpg?v=1709122333",
+        "altText": "Top Notch HD - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44679722991851",
+      "title": "Grace - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1269.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Grace_20LS.webp?v=1744622019",
+          "altText": "Grace - Black"
+        }
+      },
+      "content": "Grace - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Grace_20LS.webp?v=1744622019",
+        "altText": "Grace - Black"
+      }
+    },
+    {
+      "id": "44679376732395",
+      "title": "Tiffany Petite Mono - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "399.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Tiffany_20LS_9081fb7b-8f1a-4ed3-8562-ce924f52c482.webp?v=1709121858",
+          "altText": "Tiffany Petite Mono - Black"
+        }
+      },
+      "content": "Tiffany Petite Mono - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/4_20Tiffany_20LS_9081fb7b-8f1a-4ed3-8562-ce924f52c482.webp?v=1709121858",
+        "altText": "Tiffany Petite Mono - Black"
+      }
+    },
+    {
+      "id": "44679385579755",
+      "title": "Kitana - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "263.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2Kitana_LS.webp?v=1744992856",
+          "altText": "Kitana - Black"
+        }
+      },
+      "content": "Kitana - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2Kitana_LS.webp?v=1744992856",
+        "altText": "Kitana - Black"
+      }
+    },
+    {
+      "id": "44679422017771",
+      "title": "Nadia - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Nadia.jpg?v=1709121894",
+          "altText": "Nadia - Black"
+        }
+      },
+      "content": "Nadia - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Nadia.jpg?v=1709121894",
+        "altText": "Nadia - Black"
+      }
+    },
+    {
+      "id": "44679755989227",
+      "title": "Taryn - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1201.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tayrn_-ginger-cream-7380.jpg?v=1744992416",
+          "altText": "Taryn - Black"
+        }
+      },
+      "content": "Taryn - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/tayrn_-ginger-cream-7380.jpg?v=1744992416",
+        "altText": "Taryn - Black"
+      }
+    },
+    {
+      "id": "44679763951851",
+      "title": "Haley - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5_20Haley_20CC.webp?v=1709122414",
+          "altText": "Haley - Black"
+        }
+      },
+      "content": "Haley - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/5_20Haley_20CC.webp?v=1709122414",
+        "altText": "Haley - Black"
+      }
+    },
+    {
+      "id": "44679770439915",
+      "title": "Jane - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "418.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy_Wigs_Jane_Lighter_Red_Side.jpg?v=1744645288",
+          "altText": "Jane - Black"
+        }
+      },
+      "content": "Jane - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Envy_Wigs_Jane_Lighter_Red_Side.jpg?v=1744645288",
+        "altText": "Jane - Black"
+      }
+    },
+    {
+      "id": "44679792034027",
+      "title": "TOP STYLE 12 HUMAN HAIR - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1643.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP STYLE 12 HUMAN HAIR - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679801766123",
+      "title": "Celeste - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "249.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Celeste_20RS.webp?v=1744646062",
+          "altText": "Celeste - Black"
+        }
+      },
+      "content": "Celeste - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Celeste_20RS.webp?v=1744646062",
+        "altText": "Celeste - Black"
+      }
+    },
+    {
+      "id": "44679810482411",
+      "title": "TOP WAVE 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "321.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP WAVE 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679839416555",
+      "title": "TOP WAVE 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "277.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP WAVE 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44679842300139",
+      "title": "Shyla - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1276.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Shyla_20LS.webp?v=1744627105",
+          "altText": "Shyla - Black"
+        }
+      },
+      "content": "Shyla - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Shyla_20LS.webp?v=1744627105",
+        "altText": "Shyla - Black"
+      }
+    },
+    {
+      "id": "44679965999339",
+      "title": "Savannah - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "342.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Savannah_20LS.webp?v=1709122711",
+          "altText": "Savannah - Black"
+        }
+      },
+      "content": "Savannah - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Savannah_20LS.webp?v=1709122711",
+        "altText": "Savannah - Black"
+      }
+    },
+    {
+      "id": "44679993032939",
+      "title": "Miley - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "213.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Miley_20LS.webp?v=1709122759",
+          "altText": "Miley - Black"
+        }
+      },
+      "content": "Miley - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Miley_20LS.webp?v=1709122759",
+        "altText": "Miley - Black"
+      }
+    },
+    {
+      "id": "44680001945835",
+      "title": "Carley - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/carley_-silky-beige-4337.jpg?v=1744988783",
+          "altText": "Carley - Black"
+        }
+      },
+      "content": "Carley - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/carley_-silky-beige-4337.jpg?v=1744988783",
+        "altText": "Carley - Black"
+      }
+    },
+    {
+      "id": "44680078754027",
+      "title": "Nadia Petite - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "238.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Nadia_20LS_6f8c5786-2bdd-4ce8-8b7e-2a110a8a91e5.webp?v=1709122903",
+          "altText": "Nadia Petite - Black"
+        }
+      },
+      "content": "Nadia Petite - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Nadia_20LS_6f8c5786-2bdd-4ce8-8b7e-2a110a8a91e5.webp?v=1709122903",
+        "altText": "Nadia Petite - Black"
+      }
+    },
+    {
+      "id": "44680097628395",
+      "title": "Madison - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "256.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2-Envy-Madison-Platinum-Shadow-6483.webp?v=1709122941",
+          "altText": "Madison - Black"
+        }
+      },
+      "content": "Madison - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2-Envy-Madison-Platinum-Shadow-6483.webp?v=1709122941",
+        "altText": "Madison - Black"
+      }
+    },
+    {
+      "id": "44680112373995",
+      "title": "TOP FULL 18 HUMAN HAIR - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "3044.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP FULL 18 HUMAN HAIR - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680136229099",
+      "title": "Christine - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized_Christine_-Sparkling-Champagne-3084.jpg?v=1709122998",
+          "altText": "Christine - Black"
+        }
+      },
+      "content": "Christine - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/Resized_Christine_-Sparkling-Champagne-3084.jpg?v=1709122998",
+        "altText": "Christine - Black"
+      }
+    },
+    {
+      "id": "44680283390187",
+      "title": "easiPart T HH 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "2393.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "easiPart T HH 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680318714091",
+      "title": "McKenzie - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "269.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20McKenzie_20LS.webp?v=1744649212",
+          "altText": "McKenzie - Black"
+        }
+      },
+      "content": "McKenzie - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20McKenzie_20LS.webp?v=1744649212",
+        "altText": "McKenzie - Black"
+      }
+    },
+    {
+      "id": "44680317731051",
+      "title": "EASIPART T HD 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "353.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASIPART T HD 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680325071083",
+      "title": "Jasmine - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "273.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Jasmine_20RS.webp?v=1744638931",
+          "altText": "Jasmine - Black"
+        }
+      },
+      "content": "Jasmine - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Jasmine_20RS.webp?v=1744638931",
+        "altText": "Jasmine - Black"
+      }
+    },
+    {
+      "id": "44680360984811",
+      "title": "TOP STYLE 12 SYNTHETIC - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "280.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP STYLE 12 SYNTHETIC - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680421310699",
+      "title": "Tandi - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "391.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tandi_20LS.webp?v=1709123490",
+          "altText": "Tandi - Black"
+        }
+      },
+      "content": "Tandi - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Tandi_20LS.webp?v=1709123490",
+        "altText": "Tandi - Black"
+      }
+    },
+    {
+      "id": "44680514109675",
+      "title": "Lea - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "3202.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5983a_02_lg.jpg?v=1709123669",
+          "altText": "Lea - 1b hot fudge"
+        }
+      },
+      "content": "Lea - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/jr5983a_02_lg.jpg?v=1709123669",
+        "altText": "Lea - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680525676779",
+      "title": "Gigi - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "243.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Gigi_20LS.webp?v=1744643477",
+          "altText": "Gigi - Black"
+        }
+      },
+      "content": "Gigi - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/2_20Gigi_20LS.webp?v=1744643477",
+        "altText": "Gigi - Black"
+      }
+    },
+    {
+      "id": "44680548909291",
+      "title": "sandra - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "501.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/sandra-6f27-main__24598.1670355508.jpg?v=1745233526",
+          "altText": "sandra - 1b hot fudge"
+        }
+      },
+      "content": "sandra - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/sandra-6f27-main__24598.1670355508.jpg?v=1745233526",
+        "altText": "sandra - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680618148075",
+      "title": "easiPart T HH 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1740.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "easiPart T HH 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680623849707",
+      "title": "TOP NOTCH - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "265.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP NOTCH - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680661958891",
+      "title": "TOP FORM 8 HUMAN HAIR - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1004.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP FORM 8 HUMAN HAIR - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680728477931",
+      "title": "TOP FORM 18 HUMAN HAIR - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "2048.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "TOP FORM 18 HUMAN HAIR - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44680755151083",
+      "title": "EASIPART MEDIUM HD 18 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "280.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JonRenauToppers__easiPartMedum.png?v=1709124066",
+          "altText": "EASIPART MEDIUM HD 18 - 1b hot fudge"
+        }
+      },
+      "content": "EASIPART MEDIUM HD 18 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/JonRenauToppers__easiPartMedum.png?v=1709124066",
+        "altText": "EASIPART MEDIUM HD 18 - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680764915947",
+      "title": "easipart french XL 18 HH - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1994.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ep_c9e323ff-7e8b-493c-94f9-da5e16a92d41.jpg?v=1709124080",
+          "altText": "easipart french XL 18 HH - 1b hot fudge"
+        }
+      },
+      "content": "easipart french XL 18 HH - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/ep_c9e323ff-7e8b-493c-94f9-da5e16a92d41.jpg?v=1709124080",
+        "altText": "easipart french XL 18 HH - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680780382443",
+      "title": "TOP FORM 12 HUMAN HAIR - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1375.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top_form_12inch_12fs8_alt2__93767.1722388470.jpg?v=1744916845",
+          "altText": "TOP FORM 12 HUMAN HAIR - 1b hot fudge"
+        }
+      },
+      "content": "TOP FORM 12 HUMAN HAIR - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/top_form_12inch_12fs8_alt2__93767.1722388470.jpg?v=1744916845",
+        "altText": "TOP FORM 12 HUMAN HAIR - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680833302763",
+      "title": "Marita - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "271.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Marita_20RS.webp?v=1709124188",
+          "altText": "Marita - Black"
+        }
+      },
+      "content": "Marita - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/products/1_20Marita_20RS.webp?v=1709124188",
+        "altText": "Marita - Black"
+      }
+    },
+    {
+      "id": "44680830910699",
+      "title": "TOP STYLE 18 SYNTHETIC - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "321.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/topsecret18_6f27_mainalt2__77472.1704328739.jpg?v=1745235744",
+          "altText": "TOP STYLE 18 SYNTHETIC - 1b hot fudge"
+        }
+      },
+      "content": "TOP STYLE 18 SYNTHETIC - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/topsecret18_6f27_mainalt2__77472.1704328739.jpg?v=1745235744",
+        "altText": "TOP STYLE 18 SYNTHETIC - 1b hot fudge"
+      }
+    },
+    {
+      "id": "44680836088043",
+      "title": "EASIPART HD 12 - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "229.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ]
+      },
+      "content": "EASIPART HD 12 - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon Renau\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44703849644267",
+      "title": "JoAnne - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "251.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      "content": "JoAnne - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}"
+    },
+    {
+      "id": "44705687961835",
+      "title": "Macey - Black",
+      "descriptor": "medium, classic, black, monofilament, Black",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "964.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Macey_R.jpg?v=1756105366",
+          "altText": "Macey - Black"
+        }
+      },
+      "content": "Macey - Black\n\nDescription: medium, classic, blonde, monofilament, Black\n\nBrand: Envy\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Macey_R.jpg?v=1756105366",
+        "altText": "Macey - Black"
+      }
+    },
+    {
+      "id": "45090820620523",
+      "title": "TOP THIS 8 (Facebook) - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "649.99",
+        "availableForSale": false,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-This-8in-12FS8_side_208ad66e-0f21-4b3d-87c7-b127a46dce91.jpg?v=1713294579",
+          "altText": "TOP THIS 8 (Facebook) - 1b hot fudge"
+        }
+      },
+      "content": "TOP THIS 8 (Facebook) - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/Top-This-8in-12FS8_side_208ad66e-0f21-4b3d-87c7-b127a46dce91.jpg?v=1713294579",
+        "altText": "TOP THIS 8 (Facebook) - 1b hot fudge"
+      }
+    },
+    {
+      "id": "45118433394923",
+      "title": "Top This 16 (Facebook) - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "1317.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/before-brunette__45188.1578371721.jpg?v=1756181553",
+          "altText": "Top This 16 (Facebook) - 1b hot fudge"
+        }
+      },
+      "content": "Top This 16 (Facebook) - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/before-brunette__45188.1578371721.jpg?v=1756181553",
+        "altText": "Top This 16 (Facebook) - 1b hot fudge"
+      }
+    },
+    {
+      "id": "46051137421547",
+      "title": "Lex (Facebook) - 1b hot fudge",
+      "descriptor": "medium, classic, black, monofilament, 1b hot fudge",
+      "attrs": {
+        "length": "medium",
+        "texture": "straight",
+        "color": "black",
+        "capSize": "average",
+        "capConstruction": "monofilament",
+        "density": "medium",
+        "hairType": "synthetic",
+        "style": "classic",
+        "price": "410.99",
+        "availableForSale": true,
+        "selectedOptions": [
+          {
+            "name": "Color",
+            "value": "1b hot fudge"
+          }
+        ],
+        "image": {
+          "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/362_2_-500x666.jpg?v=1757149326",
+          "altText": "Lex (Facebook) - 1b hot fudge"
+        }
+      },
+      "content": "Lex (Facebook) - 1b hot fudge\n\nDescription: medium, classic, blonde, monofilament, 1b hot fudge\n\nBrand: Jon RenauFB\n\nAttributes: {\n  \"length\": \"medium\",\n  \"texture\": \"straight\",\n  \"color\": \"black\",\n  \"capSize\": \"average\",\n  \"capConstruction\": \"monofilament\",\n  \"density\": \"medium\",\n  \"hairType\": \"synthetic\",\n  \"style\": \"classic\"\n}",
+      "image": {
+        "url": "https://cdn.shopify.com/s/files/1/0506/4710/5726/files/362_2_-500x666.jpg?v=1757149326",
+        "altText": "Lex (Facebook) - 1b hot fudge"
+      }
+    }
+  ]
+}
