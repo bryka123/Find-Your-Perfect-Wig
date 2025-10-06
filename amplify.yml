@@ -6,6 +6,7 @@ frontend:
         - npm ci --legacy-peer-deps
     build:
       commands:
+        - env | grep -i openai || echo "OPENAI_API_KEY not found in environment"
         - npm run build
   artifacts:
     baseDirectory: .next
