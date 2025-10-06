@@ -289,7 +289,21 @@ export default function WigMatchBlock({
                 score: match.matchScore,
                 reasons: match.reasons
               };
-            }).filter((match: any) => !match.variant.title.includes('(') && !match.variant.title.includes(')')); // Filter out products with brackets
+            }).filter((match: any) => {
+              // Filter out products with brackets in title
+              if (match.variant.title.includes('(') || match.variant.title.includes(')')) {
+                return false;
+              }
+              // Filter out products with no vendor (likely accessories/extensions)
+              if (!match.variant.vendor) {
+                return false;
+              }
+              // Filter out products with Chiquel vendor
+              if (match.variant.vendor.toLowerCase().includes('chiquel')) {
+                return false;
+              }
+              return true;
+            });
             
             setMatches(convertedMatches);
             
