@@ -869,16 +869,18 @@ export default function WigMatchBlock({
         }
 
         .reset-button {
-          background: #666;
+          background: #4caf50;
           color: white;
           border: none;
           padding: 8px 16px;
           border-radius: 6px;
           cursor: pointer;
+          font-weight: 500;
+          transition: background 0.3s ease;
         }
 
         .reset-button:hover {
-          background: #555;
+          background: #45a049;
         }
 
         /* User photo display on results */
@@ -1258,12 +1260,9 @@ export default function WigMatchBlock({
         <div className="results-section">
           <div className="results-header">
             <h3>Your Wig Matches ({matches.length})</h3>
-            <button className="reset-button" onClick={resetSearch}>
-              New Search
-            </button>
           </div>
 
-          {/* Display uploaded selfie with enhanced styling */}
+          {/* Display uploaded selfie with enhanced styling - MOVED ABOVE PRODUCTS */}
           {selfiePreview && (
             <div className="user-photo-section">
               <div className="user-photo-container">
@@ -1330,7 +1329,8 @@ export default function WigMatchBlock({
                   <div style={{
                     display: 'flex',
                     gap: '0.5rem',
-                    flexWrap: 'wrap'
+                    flexWrap: 'wrap',
+                    marginBottom: '1rem'
                   }}>
                     <span style={{
                       background: 'rgba(233, 30, 99, 0.1)',
@@ -1355,6 +1355,9 @@ export default function WigMatchBlock({
                     )}
                   </div>
                 )}
+                <button className="reset-button" onClick={resetSearch}>
+                  New Search
+                </button>
               </div>
             </div>
           )}
