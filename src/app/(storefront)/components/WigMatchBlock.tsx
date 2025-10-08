@@ -83,6 +83,37 @@ export default function WigMatchBlock({
     }
   }, [fileRejections]);
 
+  // Send height updates to parent iframe when content changes
+  useEffect(() => {
+    const sendHeight = () => {
+      if (window.parent !== window) {
+        const height = document.documentElement.scrollHeight;
+        window.parent.postMessage({
+          type: 'resize',
+          height: height
+        }, '*');
+      }
+    };
+
+    // Send height immediately
+    sendHeight();
+
+    // Send height after a short delay to account for images loading
+    const timer = setTimeout(sendHeight, 500);
+
+    // Use ResizeObserver to detect content size changes
+    const resizeObserver = new ResizeObserver(() => {
+      sendHeight();
+    });
+
+    resizeObserver.observe(document.body);
+
+    return () => {
+      clearTimeout(timer);
+      resizeObserver.disconnect();
+    };
+  }, [matches, showResults, loading, selfiePreview]);
+
   const simulateProgress = useCallback((stages: string[]) => {
     setProgress(0);
     setProcessingStage(stages[0] || 'Processing...');
