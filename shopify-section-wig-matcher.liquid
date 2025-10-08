@@ -1,0 +1,223 @@
+{% comment %}
+  Wig Matcher Widget Section
+  Add this file to your Shopify theme under: sections/wig-matcher.liquid
+{% endcomment %}
+
+<div class="wig-matcher-section page-width">
+  {% if section.settings.show_heading %}
+    <div class="section-header text-center">
+      <h2 class="section-heading">{{ section.settings.heading }}</h2>
+      {% if section.settings.subheading != blank %}
+        <div class="section-subheading rte">
+          {{ section.settings.subheading }}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="wig-matcher-widget-container">
+    <iframe
+      src="https://main.d3gr4ycam28tui.amplifyapp.com/storefront/wig-matcher"
+      width="100%"
+      height="{{ section.settings.iframe_height }}px"
+      frameborder="0"
+      style="border: none; border-radius: {{ section.settings.border_radius }}px; background: {{ section.settings.background_color }}; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
+      title="Find Your Perfect Wig"
+      allow="camera"
+      loading="lazy"
+    ></iframe>
+  </div>
+</div>
+
+<style>
+  .wig-matcher-section {
+    padding: {{ section.settings.padding_top }}px 0 {{ section.settings.padding_bottom }}px;
+    background: {{ section.settings.section_background }};
+  }
+
+  .wig-matcher-section .section-header {
+    margin-bottom: 2rem;
+  }
+
+  .wig-matcher-section .section-heading {
+    font-size: {{ section.settings.heading_size }}px;
+    margin-bottom: 1rem;
+    color: {{ section.settings.heading_color }};
+  }
+
+  .wig-matcher-section .section-subheading {
+    font-size: 16px;
+    color: #666;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .wig-matcher-widget-container {
+    max-width: {{ section.settings.max_width }}px;
+    margin: 0 auto;
+  }
+
+  .wig-matcher-widget-container iframe {
+    display: block;
+    min-height: 600px;
+  }
+
+  @media (max-width: 768px) {
+    .wig-matcher-widget-container iframe {
+      height: {{ section.settings.mobile_height }}px !important;
+    }
+
+    .wig-matcher-section .section-heading {
+      font-size: {{ section.settings.heading_size | minus: 8 }}px;
+    }
+  }
+</style>
+
+<script>
+  // Auto-resize iframe based on content
+  window.addEventListener('message', function(event) {
+    // Security: verify origin
+    if (event.origin !== 'https://main.d3gr4ycam28tui.amplifyapp.com') return;
+
+    if (event.data && event.data.type === 'resize') {
+      const iframe = document.querySelector('.wig-matcher-widget-container iframe');
+      if (iframe && event.data.height) {
+        iframe.style.height = event.data.height + 'px';
+      }
+    }
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Wig Matcher Widget",
+  "tag": "section",
+  "class": "section-wig-matcher",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Section Settings"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_heading",
+      "label": "Show heading",
+      "default": true
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Find Your Perfect Wig"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "label": "Heading size",
+      "min": 20,
+      "max": 60,
+      "step": 2,
+      "default": 32,
+      "unit": "px"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading color",
+      "default": "#000000"
+    },
+    {
+      "type": "richtext",
+      "id": "subheading",
+      "label": "Subheading",
+      "default": "<p>Discover wigs that match your style and features using AI-powered recommendations</p>"
+    },
+    {
+      "type": "header",
+      "content": "Widget Settings"
+    },
+    {
+      "type": "range",
+      "id": "iframe_height",
+      "label": "Desktop height",
+      "min": 800,
+      "max": 2000,
+      "step": 50,
+      "default": 1200,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "mobile_height",
+      "label": "Mobile height",
+      "min": 800,
+      "max": 2000,
+      "step": 50,
+      "default": 1400,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "max_width",
+      "label": "Maximum width",
+      "min": 800,
+      "max": 1600,
+      "step": 50,
+      "default": 1200,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "label": "Border radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "default": 8,
+      "unit": "px"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Widget background",
+      "default": "#ffffff"
+    },
+    {
+      "type": "header",
+      "content": "Section Spacing"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "label": "Padding top",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "default": 50,
+      "unit": "px"
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "label": "Padding bottom",
+      "min": 0,
+      "max": 100,
+      "step": 5,
+      "default": 50,
+      "unit": "px"
+    },
+    {
+      "type": "color",
+      "id": "section_background",
+      "label": "Section background",
+      "default": "#f9f9f9"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Wig Matcher",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}

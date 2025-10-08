@@ -1,0 +1,26 @@
+{
+  "name": "Wig Matcher",
+  "sections": {
+    "main": {
+      "type": "wig-matcher",
+      "settings": {
+        "show_heading": true,
+        "heading": "Find Your Perfect Wig",
+        "heading_size": 36,
+        "heading_color": "#e91e63",
+        "subheading": "<p>Discover wigs that match your style and features using AI-powered recommendations</p>",
+        "iframe_height": 1200,
+        "mobile_height": 1400,
+        "max_width": 1200,
+        "border_radius": 8,
+        "background_color": "#ffffff",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "section_background": "#f9f9f9"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
