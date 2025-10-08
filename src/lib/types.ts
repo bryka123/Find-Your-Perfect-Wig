@@ -7,6 +7,8 @@ export interface Variant {
   price: string;
   compareAtPrice?: string;
   availableForSale: boolean;
+  productUrl?: string;
+  vendor?: string;
   image?: {
     url: string;
     altText?: string;

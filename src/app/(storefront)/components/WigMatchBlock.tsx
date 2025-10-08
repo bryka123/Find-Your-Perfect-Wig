@@ -1579,27 +1579,44 @@ export default function WigMatchBlock({
                           </div>
                         </div>
                       </div>
-                      
-                      <div className="result-price">
-                        <span className="current-price" aria-label={`Current price: $${match.variant.price}`}>
-                          ${match.variant.price}
-                        </span>
-                        {match.variant.compareAtPrice && (
-                          <span 
-                            className="compare-price"
-                            style={{ 
-                              textDecoration: 'line-through', 
-                              color: '#999', 
-                              marginLeft: '0.5rem',
-                              fontSize: '0.9em'
-                            }}
-                            aria-label={`Original price: $${match.variant.compareAtPrice}`}
-                          >
-                            ${match.variant.compareAtPrice}
-                          </span>
-                        )}
-                      </div>
-                      
+
+                      {/* Shop Now Button */}
+                      <button
+                        className="shop-now-button"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          window.open(productUrl, '_blank');
+                        }}
+                        style={{
+                          marginTop: '1rem',
+                          width: '100%',
+                          padding: '14px 28px',
+                          backgroundColor: '#c2a284',
+                          color: '#ffffff',
+                          border: '1px solid #c2a284',
+                          borderRadius: '0',
+                          textTransform: 'uppercase',
+                          fontSize: '12px',
+                          letterSpacing: '0.2em',
+                          fontWeight: '600',
+                          cursor: 'pointer',
+                          transition: 'all 0.45s cubic-bezier(0.785, 0.135, 0.15, 0.86)',
+                          textAlign: 'center'
+                        }}
+                        onMouseEnter={(e) => {
+                          e.currentTarget.style.backgroundColor = '#b39374';
+                          e.currentTarget.style.borderColor = '#b39374';
+                        }}
+                        onMouseLeave={(e) => {
+                          e.currentTarget.style.backgroundColor = '#c2a284';
+                          e.currentTarget.style.borderColor = '#c2a284';
+                        }}
+                      >
+                        SHOP NOW
+                      </button>
+
+                      {/* Price display removed - users will see price on product page */}
+
                       {match.reasons.length > 0 && (
                         <div className="result-reasons">
                           <h4 style={{ 
