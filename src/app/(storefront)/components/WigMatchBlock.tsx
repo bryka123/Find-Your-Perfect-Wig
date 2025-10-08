@@ -1359,16 +1359,6 @@ export default function WigMatchBlock({
                     flexWrap: 'wrap',
                     marginBottom: '1rem'
                   }}>
-                    <span style={{
-                      background: 'rgba(233, 30, 99, 0.1)',
-                      color: '#e91e63',
-                      padding: '4px 10px',
-                      borderRadius: '16px',
-                      fontSize: '13px',
-                      fontWeight: '500'
-                    }}>
-                      Top Match: {Math.round(matches[0].score * 100)}%
-                    </span>
                     {matches[0].variant.selectedOptions?.find(o => o.name.toLowerCase().includes('color'))?.value && (
                       <span style={{
                         background: 'rgba(76, 175, 80, 0.1)',
@@ -1427,14 +1417,7 @@ export default function WigMatchBlock({
                         {badgeText}
                       </div>
                     )}
-                    
-                    <div 
-                      className="result-score"
-                      aria-label={`Match score: ${Math.round(match.score * 100)}%`}
-                    >
-                      {Math.round(match.score * 100)}%
-                    </div>
-                    
+
                     <div className="result-image">
                       {match.variant.image && match.variant.image.url ? (
                         <img 
