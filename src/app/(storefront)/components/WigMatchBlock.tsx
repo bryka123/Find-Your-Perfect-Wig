@@ -1350,7 +1350,7 @@ export default function WigMatchBlock({
                   marginBottom: '1rem',
                   lineHeight: '1.5'
                 }}>
-                  We've analyzed your photo and found {matches.length} perfect matches based on your unique features and style preferences.
+                  We've analyzed your photo and found {matches.length} perfect matches based on your uploaded photo.
                 </p>
                 {matches.length > 0 && (
                   <div style={{
