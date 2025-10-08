@@ -1258,11 +1258,7 @@ export default function WigMatchBlock({
 
       {showResults && (
         <div className="results-section">
-          <div className="results-header">
-            <h3>Your Wig Matches ({matches.length})</h3>
-          </div>
-
-          {/* Display uploaded selfie with enhanced styling - MOVED ABOVE PRODUCTS */}
+          {/* Display uploaded selfie with enhanced styling - AT TOP */}
           {selfiePreview && (
             <div className="user-photo-section">
               <div className="user-photo-container">
@@ -1362,6 +1358,10 @@ export default function WigMatchBlock({
             </div>
           )}
 
+          {/* Title moved here - above product cards */}
+          <div className="results-header">
+            <h3>Your Wig Matches ({matches.length})</h3>
+          </div>
 
           {loading ? (
             <div className="loading-spinner">
