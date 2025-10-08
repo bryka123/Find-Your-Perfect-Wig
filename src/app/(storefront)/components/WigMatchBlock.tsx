@@ -1653,16 +1653,16 @@ export default function WigMatchBlock({
 
                       {match.reasons.length > 0 && (
                         <div className="result-reasons">
-                          <h4 style={{ 
-                            fontSize: '14px', 
-                            margin: '0.5rem 0 0.25rem 0', 
+                          <h4 style={{
+                            fontSize: '14px',
+                            margin: '0.5rem 0 0.25rem 0',
                             color: '#666',
                             fontWeight: '500'
                           }}>
                             Why this matches:
                           </h4>
                           <ul>
-                            {match.reasons.map((reason, reasonIndex) => (
+                            {match.reasons.slice(1).map((reason, reasonIndex) => (
                               <li key={reasonIndex}>{reason}</li>
                             ))}
                           </ul>
